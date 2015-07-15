@@ -1,0 +1,10 @@
+                <div class="focus">
+                    <a href="" class=""><img  src="http://js.feiliu.com/gameimg/spzr/20141230182353.jpg" alt=""></a>
+                    <a href="" class="disN"><img  src="http://js.feiliu.com/gameimg/spzr/20141230182416.jpg" alt=""></a>
+                    <a href="" class="disN"><img src="http://js.feiliu.com/gameimg/spzr/20141230182451.jpg" alt=""></a>
+                    <div class="focus-tab-bg">
+                        <span class="focus-tab focus-tab-curr"></span>
+                        <span class="focus-tab"></span>
+                        <span class="focus-tab"></span>
+                    </div>
+                </div>

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="《攻城掠地》故事背景大揭密_故事背景大揭密" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>《攻城掠地》故事背景大揭密 攻城掠地_热点</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+															<div class="news_head">
+										
+										<ul class="news_tab">
+											<li><a href="http://gc.feiliu.com/list/list_gcld_gg.shtml">公告</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_news.shtml">新闻</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_rd.shtml"  class="current">热点</a></li>
+											<li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_hd.shtml">活动</a></li>
+										</ul>
+										<p>所在位置： <a href="http://gc.feiliu.com">首页</a> &gt;&gt; 热点 </p>
+									                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">《攻城掠地》故事背景大揭密</a></div>
+                                    <div class="news_date">发布时间：2014-02-21 16:46:19</div>
+                                    <div class="news_main">
+										<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	<div style="text-align:left;"><img src="http://i0.8783.com/image/20140221/20140221164559_80424.jpg" alt=""  />
+	</div>
+<br />
+东汉末年，剑师，神射、猛士、舞姬和铁骑在山上学艺，突然一天天降异象——九龙升天，一时间民间谣言纷纷。未几，巨鹿张角获得《太平要术》，借施送符水为名，招收徒众，召集百姓以黄巾抹额，自称天公将军，率众起义。天下大乱。&nbsp;<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	中原大地烽火四起、生灵涂炭，为了天下的苍生，剑师等五人毅然决定下山。剑师等感到一个人的力量微不足道，只有团结英雄豪杰方能平定天下；于是剑师纷纷从酒肆中招揽赵云、张飞、太史慈等名将为自己效力，并且一举击溃了张角的黄巾军。&nbsp;<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	张角并不甘心失败，他祭祀获得了无上的力量要统治天下，为了天下的苍生，剑师等又一次踏上了征程！<o:p></o:p>
+</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

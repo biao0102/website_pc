@@ -1,0 +1,25 @@
+<div class="top002" id="_show2">
+	<ul class="buttonbg">
+		<li class="li02"><a href="http://ysg.feiliu.com/list/bgzg_list_allcol.shtml" onMouseMove="__show(1);">全部</a></li>
+		<li class="li01"><a href="http://ysg.feiliu.com/list/bgzg_list_ggcol.shtml">公告</a></li>
+		<li class="li02"><a href="http://ysg.feiliu.com/list/bgzg_list_hdcol.shtml"  onmousemove="__show(3);">活动</a></li>
+		<li class="li02"><a href="http://ysg.feiliu.com/list/bgzg_list_mtcol.shtml" onMouseMove="__show(4);">媒体</a></li>
+	</ul>
+	<div class="news01">
+		<ul>
+			  
+			  
+			<li><a href="http://ysg.feiliu.com/20150316/23295.shtml" target="_blank"><span class="date">[03-16]</span>[公告] 《就是要三国》本周封测 任性三国手游强势来袭</a></li>
+			  
+			<li><a href="http://ysg.feiliu.com/20150121/23054.shtml" target="_blank"><span class="date">[01-21]</span>[公告] 《就是要三国》封测结束，期待再次相聚！</a></li>
+			  
+			<li><a href="http://ysg.feiliu.com/20150114/23013.shtml" target="_blank"><span class="date">[01-14]</span>[公告] 《就是要三国》名将录 三公主公孙权最帅</a></li>
+			  
+			<li><a href="http://ysg.feiliu.com/20150114/23012.shtml" target="_blank"><span class="date">[01-14]</span>[公告] 全新三国卡牌手游《就是要三国》越狱封测开启</a></li>
+			  
+			<li><a href="http://ysg.feiliu.com/20150113/22988.shtml" target="_blank"><span class="date">[01-13]</span>[公告] 新概念策略对战手游 《就是要三国》1月13日11点开启</a></li>
+			  
+			<li><a href="http://ysg.feiliu.com/20141020/22249.shtml" target="_blank"><span class="date">[10-20]</span>[公告] 《就是要三国》删档内测10月21日强势开启！</a></li>
+					</ul>
+	</div>
+</div>

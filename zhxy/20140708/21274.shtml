@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>【战魂西游攻略】教你玩战魂西游</h1>
+                        <span>2014-07-08</span>
+                    </div>
+                    <div class="article-content">
+                        <span >&nbsp; 游戏名：诸葛孔明<br />
+<br />
+&nbsp;我是一测二测都参加的玩家，在这里给大家介绍下吧，战魂西游是一款很不错的RPG游戏，其中有大量好玩内容下面和我一起详细了解下吧，希望我能帮助大家在战魂西游世界带去无穷的快乐！好了废话不多说，进入正篇。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >升级篇：</span><br style="word-wrap:break-word;" />
+<span >1（主线和支线是升级必不可少的好伙伴）：从我们进入游戏开始做任务，主线和支线加引导任务，能让你升到25左右。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >2（精英副本让你快人一步）：每天刷新额精英副本可千万不要忘记了，他能带给你很多经验，是你快速升级的法宝，具体经验笔者现在35级主刷21白龙副本，一轮下来5W经验，因为单人刷方便，33猪八戒副本两个人可以刷，一轮下来大概5W8经验，个人选择吧。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >3（日常任务助你快速升级）：日常任务来说是每日必须做的，经验非常可观，有人可能会说了经验那么少还可观，那你要注意了，日常需要刷星级，我现在35级刷到5星一个任务就是3W9，那10个任务就是39W哦，所以这样来算的话是不是很多。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >4（花园种植有经验）：当然花园种植可以种植三种，一个是经验种子，这个如果能刷满一个种子也有4W5千的经验，那么这也是获取经验的一种途径，种子是可以购买的，但是种子购买的数量取决于你VIP的等级。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >5（扫荡副本让你也能升级）：最后就不得不说扫荡副本了，这也是经验主要来源之一，当你没有主线和支线任务，刷完精英副本，做完日常任务，没事干但是有活力怎么办，那就必须扫荡，每轮经验是4千多，要是有20点活力就有8W，一天能刷好几轮。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >6（登天路排名加经验）：登天路胜利可以获得1W5千经验，每天可以完成15次，输了一次3000，经验可不少哦。</span><br style="word-wrap:break-word;" />
+<span >以上就是升级的所有途经了希望对大家有帮助那么下面给大家介绍下战斗力的部分。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >战力篇：</span><br style="word-wrap:break-word;" />
+<span >1等级：等级会增加你的战斗力，等级越高战斗力也会提升。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >2装备：装备有很多了，随着等级提升要跟换对应等级装备，但是要注意了游戏中不同颜色装备战力也是不一样的，当然排序的话由多到少是金色&gt;紫色&gt;蓝色&gt;绿色&gt;白色，当然紫色装备是可以用玄铁换的。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >3强化：当然有好的装备还是需要强化的，装备强化最高时50级，但是每次强化需要消耗大量的金币和灵石，强化越高附加属性越多，战力也越高。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >4技能：技能也是提升战斗力的途径，但是笔者不推荐升太高，技能前期点到10就够用，根据情况在选择性的点吧。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >5宝石：宝石是提升战力的另一途径，宝石等级越高战力加的越多，但是其中前期笔者建议带物理减免和法术减免，这两种加战斗力很多，宝石等级4以后尽量打红宝石，因为红宝石是百分比加攻击力和防御力。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >6时装：时装是需要培养，培养越高战力也越多，时装是战力增加的主要途径，这里记得要把培养可以三倍培养，而且培养是需要星力的，所以千万不要浪费星力，而且每培养10级就要升介，升介后会增加更多战力，时装有钱的话记住要通灵，通灵也会加属性和战力，当然通灵5以后时装会永久哦。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >7培养：培养会增加根骨，武力，灵力，而这些基本属性又会给其他属性加成，当然培养会有铜钱培养，高级培养，和至尊培养。当然不一样的培养方式，增加的基础属性概率也不一样，当然至尊培养一般加的最多，以此类推。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >8星宿：星宿也是提升战力的方法，每升一级星宿都可以提升一级，当然新宿也有很多，比如贪狼星加普通攻击，紫薇星加生命值，这里我就不一一列举了，游戏大家仔细看下，星宿提升也是需要星力，所以星力不要浪费，点到高级的时候，建议使用元宝点亮，100%成功。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >9符箓：这个首先需要撰写符箓，有符箓卷轴的话可以直接撰写，没有的话就需要元宝了，撰写后要装备符箓才会提升战斗力和属性，当然等级越高使用符箓越多，但是也可以用元宝开启，有钱还是要开一下的，这里笔者推荐尽量打五星符箓，如果有加基础属性那是最好不过了，而且符箓可以增强，当你有不用的符箓，就把他炼化成灵气，然后在注入到你插入的灵符，当然灵气也可以在挑战心魔中获得。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >10经书：经书和朱砂笔在三十六重天掉落，经书是可以升级的，等级不一样加的属性也不同，而这里就是把不同的经书放入后，会有套装效，套装效果会额外加属性哦。</span><br style="word-wrap:break-word;" />
+<span >这里基本就把战力篇说额差不多了希望对大家有帮助，最后就是特色篇了，我就简单介绍下吧。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >材料介绍：</span><br style="word-wrap:break-word;" />
+<span >金钱：首先游戏怎么获得钱，就要通过点石成金、商城购买铜钱礼包和种植获得，这是主要获得钱的手段，当然其他也会奖励一些金钱。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >星力：星力召唤，商城买星力礼包和种植是星力主要获得途径，星力是游戏增加战力的基本条件，有了星力可以培养时装，还有升级星宿，所以千万不要乱用哦。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >灵石：灵石可以在三十六重天，普通副本，经验副本，商城灵石礼包登天路获得，主要强化装备会用到。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >玄铁：仙门斗法获得，可以兑换紫色装备，这可是想到重要，仙门斗法胜利会得2个，输了会得1个，，当有足够的玄铁就可以去珍宝商人兑换高级紫装了，当然有金色打造图的话，也是要玄铁和紫装，材料才可以打造哦。</span>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

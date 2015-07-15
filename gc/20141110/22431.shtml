@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="《攻城掠地》2.1.0版本更新公告_2.1.0版本更新," />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>《攻城掠地》2.1.0版本更新公告 攻城掠地_公告</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+															<div class="news_head">
+																			<ul class="news_tab">
+											<li><a href="http://gc.feiliu.com/list/list_gcld_gg.shtml" class="current">公告</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_news.shtml">新闻</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_rd.shtml">热点</a></li>
+											<li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_hd.shtml">活动</a></li>
+										</ul>
+										<p>所在位置： <a href="http://gc.feiliu.com">首页</a> &gt;&gt; 公告 </p>
+									                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">《攻城掠地》2.1.0版本更新公告</a></div>
+                                    <div class="news_date">发布时间：2014-11-10 18:09:37</div>
+                                    <div class="news_main">
+										&nbsp; &nbsp;为了给您更好的游戏体验，我们将于11月11日13：30-14:30进行ios2.1.0版本更新，17:00-18:00进行混服<span >2.1.0版本更新,</span>预计时间60分钟，开放时间将根据实际情况提前或延后，届时会对您登陆造成影响，给您带来的不便我们深表歉意。<br />
+&nbsp; 希望大家多多提出宝贵建议，反馈在论坛或直接联系官方客服QQ800032234。<br />
+&nbsp; 关注攻城掠地官方微信号：gongcld，即可获得大量高级丹书铁券、募兵令、粮食、银币、木材！还有诸多游戏攻略供您随时查阅！<br />
+<br />
+一:新增剧本<br />
+<br />
+潼关之战<br />
+<br />
+二：新增功能<br />
+<br />
+1.兵器改造与重铸<br />
+<br />
+1）兵器改造及重铸分为5个阶段，每个阶段增加一颗星星，共5颗。每10级增加一颗星星。<br />
+2）60级~90级: 每次阶段达成之后可改造兵器，改造兵器过程中不消耗任何资源。<br />
+3）90级~100级：达到该阶段可重铸兵器，重铸兵器过程中不消耗任何资源。<br />
+4）改造及重铸兵器可额外获得XX点相关属性。<br />
+<br />
+2.城池COMBO<br />
+<br />
+1）当Combo次数大于1时，每增加一次Combo次数，玩家可以领取一次奖励。<br />
+2）Combo次数上限20次，当玩家中断Combo时，系统给予世界播报。<br />
+3）城池连破数量在排行选项的攻城分栏中显示<br />
+<br />
+3.特殊城池<br />
+<br />
+1）密林，单挑有10%概率挑中友方武将。<br />
+2）高山，不能使用官员令、集团军、征召令。<br />
+3）峡谷，不能借兵。<br />
+<br />
+4.恭候系统<br />
+<br />
+1）本国（魏，蜀，吴）前三个玩家获得特定新武将及新套装时触发剧情系统以发布请帖的形式显示在界面上方。<br />
+2）玩家看到请帖图标后可点击并显示进入界面，确认完界面内容后点击【进入宴会】。<br />
+3）进入宴会后系统随机显示该国相关玩家及参与玩家，播放完宴会剧情之后玩家点击恭贺按钮获得奖励，奖励获取完成之后界面上方请帖图标消失，如未获得完奖励退出宴会还可通过请帖按钮进入宴会，但不会重新播放剧情。<br />
+<br />
+三：新增龙脉科技<br />
+<br />
+四：细节优化<br />
+<br />
+1.主城场景，资源区有建筑在升级的，播放一个敲锤子的动画。<br />
+2.武将面板，玩家110级以前，不显示副将的小方框，100级后出现，提示“120级后，研究科技“招募副将”后开启”。<br />
+3.前10个仓库位使用银币开启。弹出提示变为“花费xx银币”。<br />
+4.玩家领取建筑功勋时，如果超出上限提示“领取后会超出功勋上限，只领取到达上限所需的xxx功勋，确定要领取吗？”玩家再次点击，弹原先的提示，如果确定则全部领取。<br />
+5.使用“破坏”计策时，如果当敌方箭塔耐久为0，红字提示“耐久不足不可使用”<br />
+6.第一次从酒馆招募武将时，增加动画展示。<br />
+<div>
+	<br />
+</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

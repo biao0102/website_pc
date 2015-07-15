@@ -1,0 +1,147 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head> 
+	<meta charset="UTF-8">
+	<title>龙骑战歌_首页</title> 
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="keywords">
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="description">
+	<meta name="format-detection" content="telephone=no"/>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/lqzg/notice/css/style.css?v=5">
+</head>
+<body>
+<div class="wrap">
+	 	<div class="left">
+		<a class="logo" href="javascript:void(0);" title="龙骑战歌"><img src="http://js.feiliu.com/static/lqzg/notice/images/logo.jpg" alt=""></a>
+		<!-- 	
+			<a href="http://lqzg.feiliu.com" class="shouye " title="龙骑战歌首页">
+					<span class="shouye-btn"></span>
+			</a> 
+		-->
+		<div class="zhiye " title="龙骑战歌人物职业">
+			<a href="http://lqzg.feiliu.com/list/notice.shtml"><span class="zhiye-btn"></span></a>
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/hero01.shtml" class="">圣武士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero02.shtml" class="">狂战士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero03.shtml" class="">刺客</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero04.shtml" class="">法师</a></p>
+			</div>
+		</div>
+
+		<div class="tese " title="龙骑战歌特色">
+			<a href="javascript:alert('敬请期待！');"><span class="tese-btn"></span></a>
+		<!-- 			
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/tese01.shtml">成长</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese02.shtml">空间</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese03.shtml">操控</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese04.shtml">生命</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese05.shtml">战法</a></p>
+			</div> 
+		-->
+		</div> 
+		<div class="gift" id="focus" href="javascript:void(0);">
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185352.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415184358.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185257.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://gwadmin.feiliu.com/static/js/ueditor/themes/default/images/spacer.gif" alt=""></a>
+							<a class="disN" href="http://lqzg.feiliu.com/news/20150416185926.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150416185923.jpg" alt=""></a>
+						<div class="focus-tab-bg">
+				<span class="focus-tab focus-tab-curr"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+			</div>
+		</div>
+		<!-- <a class="download op" href="http://lqzg.feiliu.com" title="龙骑战歌官网"></a> -->
+		<a class="enter op" href="javascript:alert('敬请期待！');" title="龙骑战歌下载"></a>
+		<div class="code" title="扫描二维码下载">
+			<h4>扫描二维码 下载游戏</h4>
+			<span><img src="http://js.feiliu.com/static/lqzg/notice/images/lqzg_qrcode.png?v=1" style="height:152px;width:152px;margin:10px auto 0;"></span>
+		</div>
+<!-- 		
+		<div class="share">
+			<a class="weixin op" href=""></a>
+			<a class="weibo op" href=""></a>
+		</div> 
+-->
+	</div>
+	<div class="right">
+		<div class="news-bg">
+			<div class="news-map">新闻公告<span>news</span></div>
+			<div class="list-wrap">
+				<h2><a href="javascript:void(0);">《龙骑战歌》九大王国曝光 打造史诗世界观</a></h2>
+				<div class="news-info">
+					<span class="news-publish">发布于 2015-04-16</span>
+					<!-- <span class="news-share">分享到：</span> -->
+				</div>
+				<div class="content">
+					<p>这是一个充满魔幻色彩的龙与魔法世界，人类、精灵、兽人、矮人等种族共同生活在这里，数千年一直维系着微妙的平衡，但由于各种族间信仰的不同以及对利益的追求，这个世界被分裂为九大王国，他们一同蚕食着这个世界最后的平衡。这个充满神秘感的世界就是由国内著名研发商墨麟竭力开发，FL Mobile（飞流）代理发行的ARPG骑乘新纪元手游《龙骑战歌》，在这玩家们将化身为梦想中的英勇龙骑士，骑乘着飞龙翱翔于这九大王国之上，展开一场超乎想象的魔幻之旅。今日就让我们来为大家先行揭开这九大王国的神秘面纱，让各位期待已久的玩家先行感受这个神奇的世界。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190705.jpg" title="20150416190705.jpg" alt="图1：ARPG骑乘新纪元史诗级手游《龙骑战歌》九大王国打造史诗世界观！.jpg"/></p><p><br/></p><p>【人类】</p><p><br/></p><p>作为这个大陆上诞生最晚的种族，人类以惊人的学习天赋在最短的时间内成长为这个大陆上数量最多的强大种族。但是人类好斗的天性让他们并不能同种族间和平相处，最终人类分裂成为五大国家，紧张的外交关系使他们之间剑拔弩张。</p><p><br/></p><p>【古老王国的后羿——圣雷因斯教国】</p><p><br/></p><p>拥有数千年历史的雷因斯帝国曾经是统一人类的强大王国，然而随着200多年前的内乱与反叛分裂为三个国家。曾经的皇族后裔建立了这个圣雷因斯教国，希望能以与神律教结合的神教国形势重新夺回昔日祖先的光辉。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190717.jpg" title="20150416190717.jpg" alt="图2：原画鉴赏——圣雷因斯教国关卡设计图。.jpg"/></p><p><br/></p><p>【金钱与自由的象征——南海自由都市联盟】</p><p><br/></p><p>200多年前从雷因斯帝国帝国中分裂出来的南海自由都市联盟，将50多个位于大陆南海沿岸，拥有发达海运线路的商业发达城市集结在一起，组成了独立的政治联盟。采用议会制作为主要政治体系南海联盟，将“自由”与“利益”做到了最完美的结合。</p><p><br/></p><p>【信奉黑暗之神的魔法国度——塔洛斯公国】</p><p><br/></p><p>塔洛斯公国曾经同样是隶属雷因斯帝国的一部分，200多年前在帝国女大公莉薇?塔洛斯的带领下与雷因斯皇家决裂，成立了塔洛斯公国。信奉暗黑神安克苏米尔的塔洛斯公国拥有先进的生物改造技术，傀儡兵和奴隶兵是他们的基础兵力，强大的黑暗魔法师队伍更是令其他国家闻风丧胆。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190725.jpg" title="20150416190725.jpg" alt="图3：黑暗魔法国度塔洛斯公国的探索之旅。.jpg"/></p><p>【沙漠中的神秘王国——埃依曼联合酋长国】</p><p><br/></p><p>坐落在大陆腹地沙漠深处的埃依曼联合酋长国同样是一个历史悠久的人类国度，由于其特殊的地理位置，使得他们拥有自己的宗教信仰，并且甚少与其他国家邦交。作为一个女尊男卑的国家，这个国家的国民信奉的是至高女神，女祭司在部族中乃至整个国家中都享有非常崇高的地位。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190734.jpg" title="20150416190734.jpg" alt="图4：原画鉴赏——沙漠国度埃依曼联合酋长国.jpg"/></p><p><br/></p><p>【大陆东侧的封闭岛国——和国】</p><p><br/></p><p>如果不是航海技术的发展，生活在大陆中人类也许一辈子也不会指导东侧的大海上还有这样一个同样居住着大量人类的岛国。千年来被海水所封闭的过度让他们有着与大陆人类截然不同的习俗与生活，和国人民曾经平淡生活也正在一点点被航运带来的外来文化所蚕食。</p><p><br/></p><p><br/></p><p>【兽人】</p><p><br/></p><p>拥有人类与野兽结合外表的兽人一直被当做这片大路上最低级的种族，由于个体间的差异较大，兽人之间并不能达成良好的沟通同盟关系，因此长期以来他们一直受到其他种族的奴役与欺辱。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190740.jpg" title="20150416190740.jpg" alt="图5：游戏中可收得兽人作为一路同行的伙伴。.jpg"/></p><p><br/></p><p>【让兽人摆脱奴役的国度——佐仑王国】</p><p><br/></p><p>70年前，兽人奴隶盖尔?佐仑带领自己的兽人同胞奴役了他们千年之久的精灵王国中逃出，组建了第一个属于兽人自己的佐仑王国。在这里，兽人们第一次拥有了主权，“让所有的兽人站起来活着”是佐仑王国的主旨，旨在解放全大陆的兽人，让他们真正享有人权。</p><p><br/></p><p><br/></p><p>【精灵】</p><p><br/></p><p>任何文献都无法追溯到精灵的诞生，于是很多人认为他们的历史一定与这个世界的历史一样悠久。精灵族由阳光精灵、黑暗精灵和其他少数精灵组成。作为最早拥有文明的种族，精灵拥有着与生俱来的高贵感，这也使他们看不起大路上的其他种族，认为他们就如同蝼蚁一般不值得来往。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190750.jpg" title="20150416190750.jpg" alt="图6：原画鉴赏——迪兰妮亚王国关卡设计图。.jpg"/></p><p><br/></p><p>【阳光与鲜花绽放的精灵国度——迪兰妮亚王国】</p><p><br/></p><p>由阳光精灵建立的迪兰妮亚王国是精灵历史上最古老的国度，这里北部环山，中部覆盖着面积巨大的森林，南部是一片丰沃的平原。神秘的精灵王都斯芬多尔传承几万年来的古老精灵文化，然而这看似光鲜照人的历史印记却是建立在奴役兽人血腥史上的黑暗历史。</p><p><br/></p><p><br/></p><p>【矮人】</p><p><br/></p><p>拥有着与精灵不相上下悠久历史的矮人族，因为在大陆西北部的山区过着低调的生活而被历史所忽略。个头矮小却壮实的矮人男性个个都是锻造好手，娇小苗条的矮人女性则与人类幼女有着相似的外表让人难以分辨。爱好烈酒的矮人族本是一个充满热情的和平种族，然而近年来两大矮人势力间的争斗却打破了这数万年来的和平。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190758.jpg" title="20150416190758.jpg" alt="图7：各大国度的主城能够为冒险者提供足够的休息与补给。.jpg"/></p><p><br/></p><p>【采矿与锻造工匠集结的联盟——怒锤部族】</p><p><br/></p><p>生活在大陆东侧的卡森雪山地带怒锤部族是一个由十几个矮人家族结成的松散联盟。怒锤不组的矮人们一心热衷于采矿、锻造事业，因此这里拥有全大陆最好的锻造技术，他们出产的武器、防具以及魔法道具广受冒险者和军队追捧。本是爱好和平的一部分矮人联盟部族，不知为何近日与同为兄弟的炽钢王国爆发了战争。</p><p><br/></p><p><br/></p><p>【打造矮人制度与纪律的国家——炽钢王国】</p><p><br/></p><p>经历过复杂内乱的炽钢王国在新一代国王图列杨?崔格的数十年新政推广下，变成了一个更为严密、更为团结新兴国家。自古生性散漫的矮人在他们的新国王带领下重建了矮人的制度与纪律。炽钢矮人使用魔石作为动力源，建造出了令人吃惊的钢铁加工机械，利用这些机器他们制造了大量的武器，并被投入与昔日兄弟国之间的战争之中。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190811.jpg" title="20150416190811.jpg" alt="图8：在这里，探索九大神秘王国，实现期待已久的龙骑梦想。.jpg"/></p><p><br/></p><p>超乎想象的庞大世界构成，现已揭开神秘面纱的九大王国共同构建着一个超出玩家们想象的史诗级世界观，这一切构成了这个神秘的龙与魔法的世界的骨架。在这里，玩家即将实现期待已久的龙骑英雄梦。现在关注《龙骑战歌》官网即可享受注册大礼包，乘骑着飞龙来探寻这个魔幻世界的奥秘吧：http://lqzg.feiliu.com/</p><p><br/></p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190821.jpg" title="20150416190821.jpg" alt="图9：关注《龙骑战歌》官网，享受预注册大礼包！.jpg"/></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	 	<div class="news-wrap">
+		<div class="news-tab">
+			最新
+			<div class="newslist">
+				<div class="news-top">最新<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=1">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150416191132.shtml">是男人就战100回<span>04/16</span></a>
+										<a href="">《龙骑战歌》九大王国曝光<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416190608.shtml">狂战一怒天下无双！《龙骑战歌》四<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416190400.shtml">御龙空战！魔幻新手游《龙骑战歌》<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416161203.shtml">专业决定未来：从飞流与墨麟合作看<span>04/16</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			新闻
+			<div class="newslist">
+				<div class="news-top">新闻<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=2">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150415181503.shtml">《龙骑战歌》探秘系列一：墨麟CE<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415181959.shtml">《龙骑战歌》超炫人物壁纸下载<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415182705.shtml">身临其境<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416154149.shtml">《龙骑战歌》BOSS原画曝光<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416155612.shtml">《龙骑战歌》世界四大种族介绍<span>04/16</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			公告
+			<div class="newslist">
+				<div class="news-top">公告<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=3">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150415175240.shtml">《龙骑战歌》探秘系列三：创亿计划<span>04/15</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			资讯
+			<div class="newslist">
+				<div class="news-top">资讯<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=4">+</a></div>
+				<div class="news-bot">
+										<a href=""><span></span></a>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<p>About.us | Copy right@北京飞流九天科技有限公司</p>
+	<p>爱游戏，爱生活，也爱美女。</p>
+	<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+	<p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+	<p>Love is love!</p>
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/js.js?x=3"></script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

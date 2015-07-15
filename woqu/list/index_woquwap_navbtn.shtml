@@ -1,0 +1,46 @@
+
+<!-- left_float -->
+<div id="left_float" style="display:none;" class="left_left">
+  <div class="return" id="returnId"><img src="http://js.feiliu.com/static/woquwap/images/return.png" ></div>
+  <div class="bwysw_left2"></div>
+  <div class="bwysw_left">
+    <div class="bwysw_left2_title1"><span class="bwysw_left2_title1_cn"><img src="http://js.feiliu.com/static/woquwap/images/more_nav.gif">网站导航</span><span class="bwysw_left2_title1_en">Website Navigation</span></div>
+    <!-- <a href="/Sq/index"><div class="bwysw_left_nv" style="font-size: 1.8em; font-family: 黑体; color: #ffd44a; cursor: pointer;">进入激活码页面>></div></a> -->
+    <div class="bwysw_left_nv">资讯</div>
+   <a href="/list-93-1.html">
+    <div class="bwysw_left_nv2">
+      <p class="bwysw_left_nv2_left"><img src="http://js.feiliu.com/static/woquwap/images/more_01.png">公告</p>
+      <p class="bwysw_left_nv2_right"><img src="http://js.feiliu.com/static/woquwap/images/more_02.png"></p>
+    </div>
+    </a><a href="/list-95-1.html">
+    <div class="bwysw_left_nv2">
+      <p class="bwysw_left_nv2_left"><img src="http://js.feiliu.com/static/woquwap/images/more_01.png">新闻</p>
+      <p class="bwysw_left_nv2_right"><img src="http://js.feiliu.com/static/woquwap/images/more_02.png"></p>
+    </div>
+    </a><a href="/list-97-1.html">
+    <div class="bwysw_left_nv2">
+      <p class="bwysw_left_nv2_left"><img src="http://js.feiliu.com/static/woquwap/images/more_01.png">活动</p>
+      <p class="bwysw_left_nv2_right"><img src="http://js.feiliu.com/static/woquwap/images/more_02.png"></p>
+    </div>
+    </a>
+    <div class="bwysw_left_nv">资料站</div>
+    <a href="/list-6-1.html">
+    <div class="bwysw_left_nv2">
+      <p class="bwysw_left_nv2_left"><img src="http://js.feiliu.com/static/woquwap/images/more_01.png">宠物图鉴</p>
+      <p class="bwysw_left_nv2_right"><img src="http://js.feiliu.com/static/woquwap/images/more_02.png"></p>
+    </div>
+    </a><a href="/list-20-1.html">
+    <div class="bwysw_left_nv2">
+      <p class="bwysw_left_nv2_left"><img src="http://js.feiliu.com/static/woquwap/images//more_01.png">攻略查看</p>
+      <p class="bwysw_left_nv2_right"><img src="http://js.feiliu.com/static/woquwap/images//more_02.png"></p>
+    </div>
+    </a>
+    <div class="bwysw_left_nv">其他</div>
+    <a href="http://bbs.maoren8.com/thread.php?fid-48.html"  target="_blank">
+    <div class="bwysw_left_nv2">
+      <p class="bwysw_left_nv2_left"><img src="http://js.feiliu.com/static/woquwap/images//more_01.png">论坛</p>
+      <p class="bwysw_left_nv2_right"><img src="http://js.feiliu.com/static/woquwap/images//more_02.png"></p>
+    </div>
+    </a>
+    </div>
+</div>

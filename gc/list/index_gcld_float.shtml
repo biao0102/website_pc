@@ -1,0 +1,30 @@
+    <div class="right_erweima" id="right_erweima">
+        <div class="right_erweima_btn" id="right_erweima_btn"></div>
+        <div class="right_erweima_close" id="right_erweima_close"></div>
+        <div class="right_erweima01">
+           <img src="http://js.feiliu.com/static/flgc/images/yy.png"  alt="" />
+        </div>
+        <div class="right_erweima02">
+           <img src="http://js.feiliu.com/static/flgc/images/and.png"  alt="" />
+        </div>
+    </div>
+
+    <script type="text/javascript">
+
+        $(function () {
+            erweima();
+        });
+
+        function erweima() {
+            var box = $("#right_erweima");
+            var btn_show = $("#right_erweima_btn");
+            var btn_hide = $("#right_erweima_close");
+            btn_show.click(function () {
+                box.animate({ "right": "0px" }, 500);
+            });
+            btn_hide.click(function () {
+                box.animate({ "right": "-172px" }, 500);
+            });
+        }
+
+    </script>

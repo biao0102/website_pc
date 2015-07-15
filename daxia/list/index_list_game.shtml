@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>文章列表</title>
+<link href="http://js.feiliu.com/static/daxia/css/main.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+</head>
+
+<body class="inner">
+			<!--乱斗江湖列表页顶部模板start-->
+				<!--#include virtual="/list/index_daxia_header.shtml"-->
+			<!--乱斗江湖列表页顶部模板end-->
+<div class="bg1">
+			<!--乱斗江湖列表页顶部导航模板start-->
+				<!--#include virtual="/list/index_daxia_nav.shtml"-->
+			<!--乱斗江湖列表页顶部导航模板end-->
+</div>
+<div class="bg2">
+	<div class="wrap">
+			<!--乱斗江湖列表页左侧浮动框模板start-->
+				<!--#include virtual="/list/index_daxia_side.shtml"-->
+			<!--乱斗江湖列表页左侧浮动框模板end-->
+        <div class="main">
+        	<div class="tab-header">
+            	<a class="tab-news" href="#"></a>
+                <a class="tab-res tab-res-active" href="#"></a>
+                <a class="tab-more" href="#">更多>></a>
+            </div>
+
+        	<ul class="article-list">
+            	<li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+                <li>
+                	<a href="#">【度走过】十年女主持雅雯转行卖拉面 央视女</a>
+                    <span>12.23</span>
+                </li>
+            </ul>
+            <div class="pager">
+            	<a class="prev" href="#">上一页</a>
+                <a href="#">1</a>
+                <a href="#">2</a>
+                <a href="#">3</a>
+                <a href="#">4</a>
+                <a href="#">5</a>
+                <a href="#">6</a>
+                <span>...</span>
+                <a href="#">60</a>
+                <a class="next"  href="#">下一页</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="bg3">
+
+			<!--乱斗江湖列表页底部媒体合作模板start-->
+				<!--#include virtual="/list/index_daxia_mt.shtml"-->
+			<!--乱斗江湖列表页底部媒体合作模板end-->
+
+			<!--乱斗江湖列表页底部说明模板start-->
+				<!--#include virtual="/list/index_daxia_footer.shtml"-->
+			<!--乱斗江湖列表页底部说明模板end-->
+</div>
+</body>
+</html>

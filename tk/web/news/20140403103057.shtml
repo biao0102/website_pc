@@ -1,0 +1,160 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+<div class="wrap minwidth">
+	<div class="contain minwidth rel">
+		<div class="subcon1120">
+			<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+			<div class="conri fltt">
+				<div class="address">
+					<h2>新闻中心</h2>
+					<p>
+						当前位置：
+						<a href="http://tk.feiliu.com">首页</a>>>
+												<a href="http://tk.feiliu.com/web/list/newslist.shtml?a=2">新闻</a>
+											</p>
+				</div>
+				<div class="subnews">
+					<div class="infotitle">新手必看！《坦克风云》基地建筑升级指南</div>
+					<div class="article"><div style="text-align:left;">
+	<span >《坦克风云》是由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团对战手游，将于4月迎来铁血内测！喜欢军事的朋友一定对《坦克风云》很是期待，因为游戏中不仅有百款二战时代的主战坦克供你驱驰，还有千万玩家与你同场竞技。强有力的后勤保障，是各位指挥官在前线取胜的重要条件之一。《坦克风云》中的建筑多种多样，下面就让我们来简单了解一下吧！</span>
+</div>
+<div style="text-align:left;">
+	<br />
+</div>
+<div style="text-align:left;">
+	<br />
+</div>
+<div style="text-align:left;">
+	<span >欢迎访问游戏官网：http://tk.feiliu.com/</span>
+</div>
+<div style="text-align:left;">
+	<span >点击下载ios版：http://tk.feiliu.com/count/download.php?type=8&amp;ismobile=1&amp;source=news</span>
+</div>
+<div style="text-align:left;">
+	<span >点击下载ios越狱版：http://tk.feiliu.com/count/download.php?type=2&amp;ismobile=1&amp;source=news</span>
+</div>
+<div style="text-align:left;">
+	<span ></span>
+</div>
+<div style="text-align:left;">
+	<span ></span>
+</div>
+<div style="text-align:left;">
+	<span ></span><img src="http://i0.feiliu.com/image/20140403/20140403102638_24835.jpg" alt=""  />
+</div>
+<div style="text-align:left;">
+	<br />
+</div>
+<div style="text-align:left;">
+	<span >【主基地决定升级上限】</span>
+</div>
+<div style="text-align:left;">
+	<span >虽然不能直接提供资源，但主基地的级别决定其他建筑可升级的上限，因此大家在建设好基础设施后下一个重点就是升级主基地。建议各位指挥官尽快将主基地升级至15级，开启军团大厅后加入军团，等待你的就是充满热血的幸福生活了。</span>
+</div>
+<div >
+	<div style="text-align:left;"><img src="http://i0.feiliu.com/image/20140403/20140403102701_28414.jpg" alt=""  />
+	</div>
+	<div style="text-align:left;">
+		<span ></span><img src="http://i0.feiliu.com/image/20140403/20140403102717_10409.jpg" alt=""  />
+	</div>
+	<div style="text-align:left;">
+		<span ></span><span >【升级工厂组建兵团】</span>
+	</div>
+	<div style="text-align:left;">
+		<span >坦克工厂顾名思义就是生产各类战车的重要建筑。正如前面所讲，主基地决定了坦克工厂的等级，因此要想尽早生产作为中坚力量的中型、重型坦克，工厂等级的重要程度仅次于主基地。此外，需要指挥官注意的是，坦克工厂是可以建造两座的，建议大家着重升级一座坦克工厂用于产出主力战车，另一座用来补充打矿、守备兵力。玩家家还可建造改装厂，用于将低等级战车升级为高级战车，因此大家不用担心初期生产会造成兵力、资源的浪费。</span>
+	</div>
+	<div style="text-align:left;"><img src="http://i0.feiliu.com/image/20140403/20140403102812_21611.jpg" alt="" /><br />
+	</div>
+	<div style="text-align:left;">
+		<span ></span><span >【加入军团优势立显】</span>
+	</div>
+	<div style="text-align:left;">
+		<span >当指挥中心升级到15级后就能够建造军团大厅，创建或加入军团。玩家加入军团不仅能交到投缘的朋友、参加专属活动，更重要的是能够通过军团在掠夺上获得绝对优势——加入军团后，你既可以跟着强者身后揩油，也可以带着一群伙伴将敌人的基地拆得七零八落。当你面对几倍于自己兵力的敌人，也能够迅速召唤团友调兵遣将协同布防，将侵略者全歼在埋伏好的包围网里。</span>
+	</div>
+	<div style="text-align:left;"><img src="http://i0.feiliu.com/image/20140403/20140403102916_81611.jpg" alt="" /><br />
+	</div>
+	<div style="text-align:left;">
+		<span ></span><span >指挥各国主战坦克集团撕裂对手防线，体验爽快硬派的机械化战争，坦克大战一触即发，更多详细情报欢迎访问游戏官网：http://tk.feiliu.com/，《坦克风云》邀你与百万玩家展开铁血PK大战，体验激爽硬派机械化战争！</span>
+	</div>
+	<div >
+		<div style="text-align:left;"><img src="http://i0.feiliu.com/image/20140403/20140403102950_33588.jpg" alt=""  />
+		</div>
+		<div style="text-align:left;">
+			<span ></span><img src="http://i0.feiliu.com/image/20140403/20140403103012_18752.jpg" alt=""  />
+		</div>
+	</div>
+	<div style="text-align:left;">
+		<span ></span>
+	</div>
+</div>
+<div style="text-align:left;">
+	<span ></span>
+</div></div>
+				</div>
+			</div>
+		</div>			
+	</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

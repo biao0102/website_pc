@@ -1,0 +1,82 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+<title>龙骑战歌官方网站</title> 
+<meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+<meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="http://js.feiliu.com/static/lqzg/wap0525/css/news.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/wap0525/js/jquery-1.11.2.min.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="content">
+            <div class="nav">
+                <h3>内容</h3>
+                <a href="javascript:history.go(-1);">返回&gt;&gt;</a>
+            </div>
+            <div class="news">
+                    <h1 class="title">轻松90连斩！《龙骑战歌》高清游戏截图抢先看</h1>
+                    <div class="news_con">
+                    <p>随着《龙骑战歌》首次测试时间的临近，代理发行商飞流（FL Mobile）正式公布了数张游戏截图。这款由墨麟倾力研发的ARPG骑战新纪元手游在曝光后便备受瞩目，更是在2014年屡获多项大奖。但究竟这款游戏会有什么样的精彩表现呢？让我们通过《龙骑战歌》游戏截图来亲眼领略吧！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194303.jpg" title="20150416194303.jpg" alt="图1：狂战士.jpg"/></p><p><br/></p><p>&nbsp; 狂战士是《龙骑战歌》中的四大职业之一，在5维属性上看这一职业侧重防御，是肉盾型近战物理职业。在图中最吸引人的是他的装备，酷炫、个性的装备造型、耀眼的光影特效，这种视觉体现足以媲美顶级端游，想必在战斗中的视觉表现会更加惊人。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194310.jpg" title="20150416194310.jpg" alt="图2：宠物冰火奇美拉.jpg"/></p><p>&nbsp; 自此前曝光的资料中可以得知，伙伴、坐骑、宠物是三大玩家战斗助手。此次公开的是一张达到九阶10级的宠物“冰火奇美拉”，狰狞的造型、酷炫的火焰特效，绝对是游戏中拉风和战斗的利器。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194316.jpg" title="20150416194316.jpg" alt="图3：伙伴赫尔曼.jpg"/></p><p><br/></p><p>&nbsp; 在战斗中，玩家可以选择一名小伙伴进行交替战斗。图中的圣武士赫尔曼则是众多小伙伴中的一员，从图中的“青铜”字样，可以了解到伙伴拥有不同等阶划分，还可以进行进阶、技能升级，跟主角的属性极为相似。小伙伴轮番战斗，不同职业的战斗感也会让玩家的游戏体验更加丰富吧！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194322.jpg" title="20150416194322.jpg" alt="图4：骑乘冰龙.jpg"/></p><p><br/></p><p>&nbsp; 骑乘巨龙在空中战斗是《龙骑战歌》在国内手游的首创，图中是刺客骑乘骨龙飞翔在天空。骨龙充斥着冰霜的能量，身后也会挥洒出冰晶，视觉冲击力一流。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194330.jpg" title="20150416194330.jpg" alt="图5：法师91连斩.jpg"/></p><p><br/></p><p>&nbsp; 全屏震撼的冰系技能、91连斩，这张图淋漓尽致地展现出了游戏中卓越的视觉表现，单凭这点便在国内手游中无出其右。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194337.jpg" title="20150416194337.jpg" alt="图6：《龙骑战歌》即将封测 进入官网抢先预约.jpg"/></p><p>&nbsp; 《龙骑战歌》即将正式开启封测，如果被游戏精美的截图震撼到的话，就快去官方网站进行预约，抢先获得封测资格吧！ &nbsp;</p><p><br/></p>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+<script>
+    function getArgs()
+    {
+        var argsArr = new Object();
+        var query = window.location.search;  
+        query = query.substring(1);
+        var pairs = query.split("&");
+        for(var i=0;i<pairs.length;i++)
+        {
+            var sign = pairs[i].indexOf("="); 
+            if(sign == -1)
+            {
+                continue; 
+            }
+            var aKey = pairs[i].substring(0,sign);
+            var aValue = pairs[i].substring(sign+1);         
+            argsArr[aKey] = unescape(aValue);
+
+        }
+        return argsArr;
+    }
+
+    var param = new Object();
+    param = getArgs();
+    var source = param.s;
+
+    if(!source)
+    {
+        source = '300021';
+    }
+    $('a').click(function(e){
+        var url = $(this).attr('href');
+        if(url != 'javascript:void(0);' && url != "javascript:alert('敬请期待！');" && url != 'javascript:history.go(-1);');
+        {
+            e.preventDefault();
+            var url = $(this).attr('href');
+            if(url.indexOf('?') > -1)
+            {
+                var tourl = url + '&s='+source;
+            } else {
+                var tourl = url + '?s='+source;
+            }
+            window.location.href = tourl;   
+        }
+    });   
+
+</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>
+
+

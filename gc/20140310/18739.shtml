@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="《攻城掠地》常见问题FAQ_《攻城掠地》常见问题FAQ" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>《攻城掠地》常见问题FAQ 攻城掠地_公告</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+															<div class="news_head">
+																			<ul class="news_tab">
+											<li><a href="http://gc.feiliu.com/list/list_gcld_gg.shtml" class="current">公告</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_news.shtml">新闻</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_rd.shtml">热点</a></li>
+											<li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_hd.shtml">活动</a></li>
+										</ul>
+										<p>所在位置： <a href="http://gc.feiliu.com">首页</a> &gt;&gt; 公告 </p>
+									                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">《攻城掠地》常见问题FAQ</a></div>
+                                    <div class="news_date">发布时间：2014-03-10 16:50:08</div>
+                                    <div class="news_main">
+										<span>为了更好的方便大家进行游戏，方便新玩家跟快的了解游戏。让我们一起帮助新朋友吧<img src="http://backend.8783.com/static/ueditor/plugins/emoticons/images/63.gif" border="0" alt="" /></span><span>！</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span>注：本文将持续更新内容~！</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span>-----------------------------------------------------------------------------------------------------------</span><br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：官方的其他联系方式是？</span><br style="word-wrap:break-word;" />
+<span>A：官方客服QQ</span><span style="word-wrap:break-word;font-weight:700;"><span style="word-wrap:break-word;">800032234</span></span><span>、官方微信</span><span style="word-wrap:break-word;font-weight:700;"><span style="word-wrap:break-word;">gongcld</span></span><span>。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：《攻城掠地》30级之前新手如何升级？</span><br style="word-wrap:break-word;" />
+<span>A：主要通过升级建筑、完成任务或者征战副本获得的经验值升级。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：游戏中如何获得四大资源？</span><br style="word-wrap:break-word;" />
+<span>A：在《攻城掠地》中的基本资源分为银币、木材、粮食、镔铁，可通过自身的资源区建筑（民居、木场、农田、矿场）产出，亦可通过游戏内其他相关资源功能和活动获得。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：武将如何招募？</span><br style="word-wrap:break-word;" />
+<span>A：击败特定武将后可以从酒馆中进行招募，点击酒馆界面右上角的问号按钮查看哪些武将可以招募。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：如何出战更多武将？</span><br style="word-wrap:break-word;" />
+<span>A：研制科技，获得统率力科技之后就可以出战更多的武将。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：如何领取礼包？</span><br style="word-wrap:break-word;" />
+<span>A：点击左上角头像，选择设置中的礼包项，输入礼品码换取奖励。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：如何显示消费提示框？</span><br style="word-wrap:break-word;" />
+<span>A：点击左上角头像，选择设置中的消费项，即可自行勾选。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：游戏中的装备有等级之分吗？如何获得好的装备？</span><br style="word-wrap:break-word;" />
+<span>A：装备可随着主将等级的提升而提升品级，装备品阶分为白、蓝、绿、黄、红、紫6个品级。商店刷新次数越多亲密度越高，亲密度高出现高品级装备的概率高。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：官职如何获得,有什么作用？</span><br style="word-wrap:break-word;" />
+<span>A：26级后可进入皇城击败皇城建筑中的NPC或玩家来获得对应官职，官职对玩家自身的资源产量有增益效果，官职越高对自身资源的产出帮助越大，另外越高的官职每天可以领取的银币俸禄也相应增多。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：文官有那些计策？</span><br style="word-wrap:break-word;" />
+<span>A：</span><br style="word-wrap:break-word;" />
+<span>● 火攻平原地形中的敌方部队兵力微量减少</span><br style="word-wrap:break-word;" />
+<span>● 水攻水域地形城池中的敌方部队兵力减少</span><br style="word-wrap:break-word;" />
+<span>● 落石山地地形城池中的敌方部队兵力减少</span><br style="word-wrap:break-word;" />
+<span>● 陷阱在地格中放置陷阱，敌方移动到该地格后兵力减少,陷阱持续300秒</span><br style="word-wrap:break-word;" />
+<span>● 空城保护一座我方城池，使其3分钟内不可被攻打</span><br style="word-wrap:break-word;" />
+<span>● 谎报阻止地格内敌方部队移动，持续2分钟</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：如何解雇文官？</span><br style="word-wrap:break-word;" />
+<span>A：世界界面直接点击文官头像右上角的关闭就可以解雇。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：文官如何使用？</span><br style="word-wrap:break-word;" />
+<span>A：首先招募文官，点击城池，点击翻页，进行使用。</span><br style="word-wrap:break-word;" />
+<span>每个文官的作用不一样，有些用在城市，有些用在平原什么的。具体酒馆里看文官说明。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：游戏中各大资源都有什么用处？</span><br style="word-wrap:break-word;" />
+<span>A：</span><br style="word-wrap:break-word;" />
+<span>银币：购买装备、招募武将、升级建筑、收买蛮族、投资任务等</span><br style="word-wrap:break-word;" />
+<span>木材：升级建筑、升级科技</span><br style="word-wrap:break-word;" />
+<span>粮食：募兵、副本推图、世界移动、战斗消耗</span><br style="word-wrap:break-word;" />
+<span>镔铁：升级兵器</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：游戏中如何免费获得金币？</span><br style="word-wrap:break-word;" />
+<span>A：玩家击败吕布后，开启每日登录奖励，可以获得金币和免费祭祀机会。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：为什么我募兵消耗的粮草不一样？</span><br style="word-wrap:break-word;" />
+<span>A：兵种等级越高，募兵需要的粮草就越多。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：副本推图升级太慢怎么办？</span><br style="word-wrap:break-word;" />
+<span>A：副本中有一些隐藏的NPC或副本，攻击他们可以掠夺大量资源或经验。击败之后消耗一定数量的金币还可以重新开启。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：铁矿在哪里？</span><br style="word-wrap:break-word;" />
+<span>A：相关资源开启后，在世界地图上的主城附近会出现矿区。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：为什么战斗中不能选择战法了？</span><br style="word-wrap:break-word;" />
+<span>A：请查看武将兵力是否补满了，不是满兵状态的武将无法施放战法；另外一种情况就是被对方技能混乱了。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：选择国家以后还能更改吗？</span><br style="word-wrap:break-word;" />
+<span>A：不能。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：国战中占领其他国家的城池有什么好处？</span><br style="word-wrap:break-word;" />
+<span>A：提升每小时领取的军资奖励。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：募兵太慢了怎么办？</span><br style="word-wrap:break-word;" />
+<span>A：升级兵营区建筑，加快基础募兵速度。使用募兵令或者金币瞬间减少5分钟募兵时间同时获得兵力。宴会也能快速补充兵力。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：如何获得募兵令？</span><br style="word-wrap:break-word;" />
+<span>A：游戏每天赠送一定数量的募兵令，集市中也能买到募兵令，杀敌宝箱中也能随机获得。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：如何获得宝物？</span><br style="word-wrap:break-word;" />
+<span>A：杀敌宝箱中随机获得。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：怎么获得有技能的装备？</span><br style="word-wrap:break-word;" />
+<span>A：商店刷新，品级黄色以上的装备可能附带技能。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：为什么我注资了科技但是没有效果？</span><br style="word-wrap:break-word;" />
+<span>A：科技要在注资全部完成并且研究结束以后才会生效。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：为什么我的水攻放不了？</span><br style="word-wrap:break-word;" />
+<span>A：有的计策只能对特定地形施放，请查看你的武将四周有没有水域地形。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：世界地图的剧本多久刷新？</span><br style="word-wrap:break-word;" />
+<span>A：每天三个，3-4分钟一刷。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：怎么得到红色三星装备？神秘技能怎么打开？</span><br style="word-wrap:break-word;" />
+<span>A：</span><br style="word-wrap:break-word;" />
+<span>1. 先购买两星的红装</span><br style="word-wrap:break-word;" />
+<span>2. 52级打败夏侯渊，完成秘技科技。</span><br style="word-wrap:break-word;" />
+<span>3. 将红色两星装备洗炼至2个同样的3级技能，会出第颗星（紫装是洗炼成3个同样的5级技能，会出第4颗星）</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：紫装技能怎么弄的？</span><br style="word-wrap:break-word;" />
+<span>A：紫装最高技能是5级，3个同样技能的5级技能就会出第四颗星星，然后第四颗星星就是5级技能的。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">Q：75级是不是开套装了，在哪里看？</span><br style="word-wrap:break-word;" />
+<span>A：商店里有个问号按钮，点击可以看到所有品级装备的开启等级条件。套装是75级开的，在点券商城里买图纸。有些套装是可以在单人剧本里获得的。</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

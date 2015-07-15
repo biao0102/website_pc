@@ -1,0 +1,403 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>新手40问</h1>
+                        <span>2014-07-09</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<span>问：铜钱怎么获得？</span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：铜钱是游戏内主要消耗的货币，可以通过通关副本、参与各种活动、日常任务、使用炼金、灵药园种植、卖给商店的各类装备材料等方式获得。<span lang="EN-US"><br />
+<!--[if !supportLineBreakNewLine]--><br />
+<!--[endif]--><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：玄铁怎么获得？用做什么？<span lang="EN-US"><br />
+</span>答：玄铁可以通过日常活动中的仙门斗法获得，用于和珍宝商人换取金色装备，金色装备能大幅提升玩家实力。<span lang="EN-US"><br />
+<!--[if !supportLineBreakNewLine]--><br />
+<!--[endif]--><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：宝石如何获得，有什么作用？<span lang="EN-US"><br />
+</span>答：宝石是装备额外获得大幅属性提升的最好方式，通过精英副本通关后的打开箱子可以获得，某些活动中也能获得宝石箱子开出宝石。将宝石镶嵌到装备上可提升人物属性。<span lang="EN-US"><br />
+<!--[if !supportLineBreakNewLine]--><br />
+<!--[endif]--><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：装备怎么强化，有什么用？<span lang="EN-US"><br />
+</span>答：装备可通过强化按钮进行强化升级，强化等级越高，增加的属性越大，品质从低到高分别为白——绿<span lang="EN-US">——</span>蓝<span lang="EN-US">——</span>紫<span lang="EN-US">——</span>金。装备强化将获得各项基础属性的提升！<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：星力有什么用？星力怎么得？<span lang="EN-US"><br />
+</span>答：星力可以提升玩家技能，也可以点亮星宿获取额外属性加成。星力可以通过每日福利中的星力召唤以及副本通关后翻箱子可以获得。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：精英副本怎么打？精英副本可以获得什么？<span lang="EN-US"><br />
+</span>答：挑战精英副本需要消耗体力，消耗精英副本进入，次数消耗完毕后可以进行购买，每日单个精英副本购买次数上限为<span lang="EN-US">3</span>次，可采用单人或者组队方式进行挑战。精英副本中可获得符箓卷轴、星力、紫色装备图纸、蓝色装备等物品。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：门派是什么，门派有什么用处？<span lang="EN-US"><br />
+</span>答：门派是玩家达到<span lang="EN-US">13</span>级才可以创建的游戏内组织，可以招收其他玩家加入门派共同游戏。门派初始可以招收<span lang="EN-US">30</span>人，等级每提升<span lang="EN-US">1</span>级增加相应上限。门派内可通过门派贡献学习门派技能提升战力，后期还会开放较多大型的门派活动供玩家参与。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：游戏中哪些玩法可以组队玩？<span lang="EN-US"><br />
+</span>答：游戏中目前有三个可以多人参与的活动玩法，日常活动中的仙门斗法、精英副本以及后期门派中会开启的门派活动。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：怎么加别人好友？<span lang="EN-US"><br />
+</span>答：点击右下角收缩功能，点击好友，再选择附近或门派，即可添加你当前地图内附近或一个门派的玩家进行添加。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：如何挂机托管？怎么才能开启托管功能？<span lang="EN-US"><br />
+</span>答：玩家在副本中点击左上角的托管按钮，系统会对玩家当前角色进行自动操作，在单人副本、精英副本、挑战心魔、三十六重天中可开启托管功能。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：如何屏蔽掉其他玩家？<span lang="EN-US"><br />
+</span>答：右下角收缩功能键、设置、将显示同屏人数选择为<span lang="EN-US">0</span>人即可。　<span lang="EN-US"><br />
+<!--[if !supportLineBreakNewLine]--><br />
+<!--[endif]--><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：如何关闭游戏声音？<span lang="EN-US"><br />
+</span>答：右下角收缩功能键、设置、音乐设置，点击关闭音乐或拉动音乐大小即可。<span lang="EN-US"><br />
+<!--[if !supportLineBreakNewLine]--><br />
+<!--[endif]--><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：为什么别人有一些功能而我没有？<span lang="EN-US"><br />
+</span>答：游戏内所有功能和活动都是随着游戏的主线任务进度而逐步开启的，暂时没有某些功能是因为还没有完成对应的任务。　　<span lang="EN-US"><br />
+<!--[if !supportLineBreakNewLine]--><br />
+<!--[endif]--><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：怎么才能快速获得铜钱？<span lang="EN-US"><br />
+</span>答：炼金和灵药园是快速获得铜钱的主要途径，其他获得铜钱的途径包括日常任务、副本翻箱子、挑战心魔、登天路等。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：各个等级排行榜是多久刷新一次<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：排行榜上的各个排行都是<span lang="EN-US">1</span>小时刷新一次<span lang="EN-US">.</span>　<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：为什么我老是闪退<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：建议预留足够的的运行内存<span lang="EN-US">,</span>开启战魂西游的时间关闭多余的运行程序<span lang="EN-US">.<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：什么样的装备才能分解<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：<span lang="EN-US">30</span>以上的紫装和橙装都能进行分解<span lang="EN-US">.<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：装备强化什么阶段开放哪<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：强化功能在<span lang="EN-US">5</span>级开启<span lang="EN-US">,</span>在功能界面的锻造中。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：为什么我的时装没了<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：时装只有通灵到<span lang="EN-US">5</span>才能是永久使用的<span lang="EN-US">,</span>未通灵到<span lang="EN-US">5</span>的时装是有时间限制<span lang="EN-US">,</span>如果你的时装消失时是通灵等级不足<span lang="EN-US">,</span>在你再次购买的时候会是消失时候的通灵等级<span lang="EN-US">.<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：请问我退出门派后我已经加过的门派技能会不会消失<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：不会消失。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：战魂西游一键注册的账号密码不记得密码怎么办<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：你可以联系你所在平台的客服进行密码申述。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：怎么不能交易和邮件添加附件<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：战魂西游目前的版本并未开启交易功能和邮件添加附件功能<span lang="EN-US"> ,</span>还请关注后续版本<span lang="EN-US">.<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：在登陆游戏的时候弹出文件缺失怎么办啊<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：建议重新下载安装完整战魂西游包<span lang="EN-US">,</span>如果是安卓系统<span lang="EN-US">,</span>建议删除手机桌面战魂西游的时候同时找到战魂西游所在文件夹<span lang="EN-US">,</span>一并删除<span lang="EN-US">,</span>后再重新下载安装<span lang="EN-US">.</span>如果是<span lang="EN-US">IOS</span>系统直接删除后重新下载安装即可<span lang="EN-US">.<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：战魂西游<span lang="EN-US">1</span>小时大概使用多少流量<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：<span lang="EN-US">1</span>小时所需的流量大概是<span lang="EN-US">700-800KB.<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：我从朋友那听说了战魂西游<span lang="EN-US">,</span>请问对手机有什么要求吗<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：安卓手机需要<span lang="EN-US"> Android v2.3</span>以上版本都是可以的，<span lang="EN-US">IOS</span>手机需要<span lang="EN-US"> ios5.0</span>以上的系统都可以正常进行游戏<span lang="EN-US">.<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：我的背包空间不足怎么办？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：可以把暂时不用的物品材料放入到仓库，也可点击需要开启的最后一个格子使用元宝开启。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：称号怎么获得，有什么用？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：当你在游戏中达成某些条件时可以获得称号，有的称号可以给玩家带来额外的属性收益，但首先得在称号栏总把它找出来并穿戴使用。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：在副本中掉落物品，但自己的背包满了怎么办啊？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：只要玩家通关副本，副本中掉落的物品会通过邮件的形式发送给玩家。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：为什么我拾取了物品，从副本中退出以后就不见了？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：在精英副本和三十六重天挑战中，如果玩家中途退出了挑战，拾取到的所有物品便不会出现在玩家身上。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：如何变成<span lang="EN-US">VIP</span>用户？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：只要玩家在游戏中充值元宝就能获得<span lang="EN-US">VIP</span>经验，经验达到<span lang="EN-US">VIP</span>等级升级条件以后，<span lang="EN-US">VIP</span>就会自动升级。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：《战魂西游》怎么充值？<span lang="EN-US">VIP</span>有什么作用？<span lang="EN-US"><br />
+</span>答：点击左上角角色头像右上方的充值或者<span lang="EN-US">VIP</span>等级按钮，即可查看游戏内的<span lang="EN-US">VIP</span>功能并给角色进行充值。充值即可获得永久的<span lang="EN-US">VIP</span>等级提升，<span lang="EN-US">VIP</span>等级越高将获得永久的对应的<span lang="EN-US">VIP</span>游戏特权。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：哪些副本中可以掉落合成紫色装备的材料？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：单人副本、精英副本、三十六重天。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：灵药园的种子怎么获得？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：系统每天会赠送铜钱、经验、星力的种子各<span lang="EN-US">3</span>个给玩家，玩家可以点击添加按钮用元宝购买种子。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：挑战心魔的累计奖励如何获得？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：点击界面上的结束挑战按钮，就能获得当天挑战心魔的累积奖励，但需要扣除一次挑战次数。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：仙门斗法怎么玩？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：每晚<span lang="EN-US">20</span>：<span lang="EN-US">00~20:30</span>分开启仙门斗法活动，<span lang="EN-US">25</span>级以上的玩家可以组队挑战其他的在线玩家，可以获得玄铁的奖励，以换取金色装备。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：游戏中发现<span lang="EN-US">BUG</span>怎么办？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：点击右下角的收缩按钮，点击设置，切换到功能页，可以将你遇到的游戏问题及时反馈给我们的客服，当然，也欢迎直接<span lang="EN-US">QQ</span>联系客服进行反馈。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：怎样获得新技能？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：当玩家等级达到一定等级后自动开启新技能的学习提示。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：怎样获得符箓？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：玩家挑战<span lang="EN-US">30</span>级以上的精英副本有几率获得符箓卷轴，用符箓卷轴可以撰写出符箓，如果没有符箓卷轴，或者想获取高级的符箓，可以使用元宝购买符箓礼包哦。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：强化会失败么？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：不会哦，亲。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：符箓装备格子怎么才能开启？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：当玩家达到<span lang="EN-US">30</span>级开启符箓功能时自动开启一个，然后达到<span lang="EN-US">40</span>、<span lang="EN-US">50</span>级时可以开启后续的<span lang="EN-US">2</span>个，剩下的三个符箓格子需要用元宝才能开启。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：经文怎么获得<span lang="EN-US">?<o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：经文目前只有通关三十六重天才有几率获得。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：如何获得经文套装效果？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答<span lang="EN-US">:</span>经文的套装效果需要固定的几本经文组合才能产生，高级的经文可以通过经文精炼界面进行精炼获取，加入一些添加剂还可以防止精炼失败后经文消失。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：如何获得朱砂笔？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	答：朱砂笔可以通过三十六重天掉落，也可以在登天路挑战胜利后获得。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	<br />
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

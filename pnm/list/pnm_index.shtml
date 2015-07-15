@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="UTF-8">
+<title>《碰你妹》游戏官网</title> 
+<meta name="keywords" content="碰你妹,碰你妹官网,碰你妹下载,碰你妹礼包,碰你妹激活码,碰你妹安卓版,碰你妹ios版,碰你妹越狱版,碰你妹概念站,碰你妹手游"/ >
+<meta name="description" content=" 《碰你妹》是一款消除类休闲游戏，游戏以炫丽的2D卡通女主角为人物，魔幻风格的画面仿佛带你进入了魔法的世界，每个带有魔力的女孩根据自己的特点有特殊技能，通过与系统对战，修炼魔法升级人物！与充满奇特的魔法女孩们一起展开一场华丽的魔法之战吧。"/>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/pc/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/pc/js/js.js?v=5"></script>
+<link rel="stylesheet" href="http://js.feiliu.com/static/pnm/pc/css/index.css?v=3">
+</head>
+<body>
+<div class="wrap">
+	<div class="nav">
+		<div class="logo"></div>
+		<div class="nav_btn"></div>
+	</div>
+	<div class="focus">
+		<!--首页头部导航模板开始--> 
+		<!--#include virtual="/list/pnm_index_nav.shtml"-->
+		<!--首页头部导航模板结束-->
+		<div class="download">
+			<div class="dl_nav">
+				<!--首页下载模板开始--> 
+				<!--#include virtual="/list/pnm_index_download.shtml"-->
+				<!--首页下载模板结束-->
+			</div>			
+			<!--首页轮播图模板开始--> 
+			<!--#include virtual="/list/pnm_index_lb.shtml"-->
+			<!--首页轮播图模板结束-->
+
+			<!--首页信息栏目模板开始--> 
+			<!--#include virtual="/list/pnm_index_col.shtml"-->
+			<!--首页信息栏目模板结束-->
+		</div>
+	</div>
+
+	<div class="main">
+		<div class="left">
+			<!--首页左侧卡牌模板开始--> 
+			<!--#include virtual="/list/pnm_index_card.shtml"-->
+			<!--首页左侧卡牌模板结束-->	
+			<div id="video">
+			<!--首页视频模板开始--> 
+			<!--#include virtual="/list/pnm_index_video.shtml"-->
+			<!--首页视频模板结束-->		
+			<!--首页微信QQ模板开始--> 
+			<!--#include virtual="/list/pnm_index_weixin.shtml"-->
+			<!--首页微信QQ模板结束-->
+		</div>
+		<div class="right">
+			<!--首页头部链接模板开始--> 
+			<!--#include virtual="/list/pnm_index_link.shtml"-->
+			<!--首页头部链接模板结束-->
+			<div class="strategy">
+			<!--首页新手攻略模板开始--> 
+			<!--#include virtual="/list/pnm_index_xsgl.shtml"-->
+			<!--首页新手攻略模板结束-->
+			<!--首页进阶攻略模板开始--> 
+			<!--#include virtual="/list/pnm_index_jjgl.shtml"-->
+			<!--首页进阶攻略模板结束-->
+			</div>
+
+			<!--首页游戏截图模板开始--> 
+			<!--#include virtual="/list/pnm_index_pic.shtml"-->
+			<!--首页游戏截图模板结束-->
+			<!--首页合作媒体模板开始--> 
+			<!--#include virtual="/list/pnm_index_hzmt.shtml"-->
+			<!--首页合作媒体模板结束-->
+		</div>
+	</div>
+</div>
+<!--首页公共底部版权模板开始--> 
+<!--#include virtual="/list/pnm_index_footer.shtml"-->
+<!--首页公共底部版权模板结束-->
+<script>
+var i = -$('.media_list li').length*46/3;
+		var j = 150;
+		i = parseInt(i);
+                i = i+750;
+		function auto(){
+				$('.media_list').stop().animate({
+				'top':i
+				},16000).delay().css('top',0)
+		}
+		setInterval(auto,16000)
+</script>
+</body>
+</html>

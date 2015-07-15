@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="我去西游,我去西游官网,我去西游兑换码,我去西游礼包,我去西游下载,我去西游攻略,我去西游飞流,3D手游,萌战卡牌,孙悟空,猪八戒,神卡,仙卡,二郎神,西天取经" />
+    <meta name="description" content="我去西游是乐卓网络科技（上海）有限公司开发，北京飞流九天独家代理的一款“萌系”西游卡牌RPG，玩家在游戏中扮演一位充满正义感的的神通人士，陪伴唐僧四人西行取经" />
+    <title>《我去西游》动画专题</title>
+    <link href="http://js.feiliu.com/static/woqu/style/dhzt.css?v=2353" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/woqu/images/index/top.jpg" alt="" />
+        </div>
+        <a name="top" id="top"></a>
+    </div>
+    <div id="wrap" class="wrap">
+        <div class="content">
+            <div class="toppic">
+				<img src="http://js.feiliu.com/static/woqu/images/dhzt/img01.jpg" alt="" />
+			</div>
+			<div class="dh01">
+				<img class="video01" id="video01" src="http://js.feiliu.com/static/woqu/images/dhzt/dh01.jpg" onclick="lightbox.clockScreen('pop')" alt="" />
+			</div>
+			<div class="dh02">
+				<img class="video02" id="video02" src="http://js.feiliu.com/static/woqu/images/dhzt/dh02.jpg" onclick="lightbox.clockScreen('pop')" alt="" />
+			</div>
+			<div class="dh03">
+				<img class="video03" id="video03" src="http://js.feiliu.com/static/woqu/images/dhzt/dh03.jpg" onclick="lightbox.clockScreen('pop')" alt="" />
+			</div>
+			<div class="dh04">
+				<img class="video04" id="video04" src="http://js.feiliu.com/static/woqu/images/dhzt/dh04.jpg" onclick="lightbox.clockScreen('pop')" alt="" />
+			</div>
+			<div class="bottom">
+				<p>About.us | Copy right@北京飞流九天科技有限公司2014  联系电话：010-84229729</p>
+                <p>爱游戏，爱生活，也爱美女。</p>
+                <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+                <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+                <p>Love is love!</p>
+			</div>
+		</div>
+	</div>
+	<div class="down_nav">
+		<div class="down">
+			<img class="code" id="code" src="http://js.feiliu.com/static/woqu/images/index/erweima.png?v=4563" alt="" />
+			<div class="down_bot">
+				<a href="http://woqu.feiliu.com/count/download.php?pid=100126&cid=300021&type=5" target="_blank"></a>
+				<a href="http://woqu.feiliu.com/count/download.php?pid=100112&cid=300021&type=2" target="_blank></a>
+				<a href="#top"></a>
+			</div>
+		</div>
+    </div>
+	
+	<!--弹出视频-->
+	<div id="pop">
+		<div id="video_title"></div>
+		<span class="close" onclick="lightbox.openScreen('pop')">X</span>
+		<div id="video_b"></div>
+		<div class="scroll_box">
+			<span id="s_L">Prew</span>
+			<div id="scroll_cont">
+				<ul id="scroll_ul">
+						 
+				</ul>
+			</div>
+			<span id="s_R">Next</span>
+		</div>
+	</div>
+
+    
+</body>
+<script src="http://js.feiliu.com/static/woqu/js/zt_video.js?v=233" type="text/javascript"></script>
+</body>
+</html>

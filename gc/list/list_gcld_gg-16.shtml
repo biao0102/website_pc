@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地,攻城掠地官网,攻城掠地攻略，三国网页游戏" />
+    <meta name="description" content="《攻城掠地》是飞流旗下一款强调国战的战争策略网页游戏。实景还原三国战图，开创24小时全景即时国战！文臣武将云集，打破“重武轻文”的桎梏。内政、军师、计策等系统演绎文官本色！其次，新颖的掩杀式战斗模式、战术、皇城官职战等特色玩法，足以让你尽享开疆扩土、统一天下的激情！" />
+      <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+      <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>攻城掠地官方网站--公告页</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=26" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+                                <div class="news_head">
+                                    <ul class="news_tab">
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_gg.shtml" class="current">公告</a></li>
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_news.shtml">新闻</a></li>
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_rd.shtml">热点</a></li>
+                                        <li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_hd.shtml">活动</a></li>
+                                    </ul>
+                                    <p>所在位置： <a href="http://gc.feiliu.com/">首页</a> >> 活动</p>
+                                </div>
+                                <div class="news_content">
+                                    <div class="news_redian"><a href="http://gc.feiliu.com/20150608/23671.shtml">6月9日11点攻城掠地449服，战斗吧！</a></div>
+                                    <ul class="news_list">
+										
+										  
+												<li><a href="http://gc.feiliu.com/20141030/22360.shtml" target="_top">【公告】10月31日11点攻城掠地228服开启，战斗吧！</a><span>2014-10-30</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141029/22350.shtml" target="_top">【公告】10月30日11点攻城掠地227服开启，战斗吧！</a><span>2014-10-29</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141028/22332.shtml" target="_top">【公告】10月29日11点混服226服、ios88服双开启，战斗吧！</a><span>2014-10-28</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141027/22304.shtml" target="_top">【公告】10月28日11点攻城掠地225服开启，战斗吧！</a><span>2014-10-27</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141026/22297.shtml" target="_top">【公告】10月27日11点攻城掠地224服开启，战斗吧！</a><span>2014-10-26</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141025/22295.shtml" target="_top">【公告】10月26日11点混服223服、ios87服双开启，战斗吧！</a><span>2014-10-25</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141024/22293.shtml" target="_top">【公告】10月25日11点攻城掠地222服开启，战斗吧！</a><span>2014-10-24</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141023/22280.shtml" target="_top">【公告】10月24日11点攻城掠地221服开启，战斗吧！</a><span>2014-10-23</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141023/22277.shtml" target="_top">【公告】10月23日12点30攻城掠地ios86服开启，战斗吧！</a><span>2014-10-23</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141022/22275.shtml" target="_top">【公告】10月23日11点攻城掠地220服开启，战斗吧！</a><span>2014-10-22</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141021/22263.shtml" target="_top">【公告】10月22日11点攻城掠地219服开启，战斗吧！</a><span>2014-10-21</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141021/22259.shtml" target="_top">【公告】10月21日11点30攻城掠地ios85服开启，战斗吧！</a><span>2014-10-21</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141021/22258.shtml" target="_top">【公告】10月20日20点30攻城掠地ios84服开启，战斗吧！</a><span>2014-10-21</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141020/22255.shtml" target="_top">【公告】10月21日11点攻城掠地218服开启，战斗吧！</a><span>2014-10-20</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141020/22252.shtml" target="_top">【公告】【通知】系统维护通知！</a><span>2014-10-20</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141019/22235.shtml" target="_top">【公告】10月20日11点混服217服、ios83服双开启，战斗吧！</a><span>2014-10-19</span></li>
+										                                    </ul>
+                                    <div class="paging" id="paging"></div>
+                                </div>
+                            </div>
+                            <!--攻城掠地首页底部精美画面模板start-->
+								<!--#include virtual="/list/index_gcld_pic.shtml"-->
+							<!--攻城掠地首页底部精美画面模板end-->
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount = 35 
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

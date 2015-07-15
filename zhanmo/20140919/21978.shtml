@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》职业-御术介绍_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》职业-御术介绍</h2>
+          <p>&nbsp; &nbsp; &nbsp; 御术作为《战魔》中唯一一个远程攻击职业，手持火炮，具有极强的爆发力，使得这垂髫小童可以在远方给予对手致命的打击。其看似远程发波的职业，却极具技巧性，连击效果亦不可小觑。<br /><img src="http://i0.feiliu.com/image/20140919/20140919145556_43061.jpg" alt="" /><br />
+1、职业背景：垂髫小童，却因世事无常，已遍尝人情冷暖。机缘巧合习得墨家火器之术，现已臻化境。尤擅使火炮，其威可令天地震骇，使敌心胆俱裂。<br />
+2、职业特点：拥有最远的攻击距离，极强的爆发力与机动性，控场之王。<br />
+3、武器：火炮<br />
+4、属性：高连击、高控制<br />
+5、操作难度：★★★<br />
+6、职业技能：<br />
+◆蓄能炮 学习等级：3级<br />
+技能描述：蓄积能量，向前方发出一束激光，并对沿途敌人造成百分比的技能<br />
+冷却时间：8秒&nbsp;<br />
+◆火箭<br />
+学习等级：8级&nbsp;<br />
+技能描述：机关变形为火箭发射器，飞在空中对敌人造成百分比的技能伤害<br />
+冷却时间：10秒&nbsp;<br />
+◆乱射<br />
+学习等级：12级&nbsp;<br />
+技能描述：变形为迫击炮，对前方敌人造成百分比的技能伤害&nbsp;<br />
+冷却时间：15秒<br />
+<br />
+<br /></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

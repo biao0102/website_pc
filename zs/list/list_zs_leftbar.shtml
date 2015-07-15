@@ -1,0 +1,31 @@
+        	<sidebar id="sbar">
+            	<div class="arrimg">
+                	<img src="http://i0.feiliu.com/201406/78/78eec346607e0205744cb2b1721aeaba.jpg" usemap="#Map"/>
+                    <map name="Map">
+                      <area shape="rect" coords="20,23,252,91" href="http://zs.feiliu.com/list/down_zs.shtml">
+                      <area shape="rect" coords="18,129,260,198" href="http://act.feiliu.com/zs/lb#userconsent#">
+                      <area shape="rect" coords="62,222,210,257" href="http://bbs.8783.com/member.php?mod=register87">
+                      <area shape="rect" coords="62,268,208,301" href="http://zs.feiliu.com/list/list_zs_zl.shtml">
+                      <area shape="rect" coords="63,310,208,341" href="http://zs.feiliu.com/list/focus_zs_list.shtml">
+                      <area shape="rect" coords="66,348,211,384" href="#">
+                    </map>
+                </div>
+                <div class="xiangguan">
+                	<div class="hotTj">
+                    	<a href="http://zs.feiliu.com/20140522/20786.shtml">技能介绍</a>|<a href="http://zs.feiliu.com/20140521/20780.shtml">装备强化</a>|<a href="http://zs.feiliu.com/20140521/20773.shtml">战魂系统</a><a href="http://zs.feiliu.com/20140521/20765.shtml">VIP介绍 </a>|<a href="http://zs.feiliu.com/20140522/20802.shtml">护送粮草</a>|<a href="http://zs.feiliu.com/20140522/20798.shtml">千里走单骑</a>
+                    </div>
+                    <div class="kefu">
+                    	<p class="kf-info">
+                        	客服 Q Q：800032234<br/>
+                            客服邮箱：800032234@b.qq.com<br/>
+                            官方QQ群：1群：(275507160)<br>　　　　　2群：(361552040)<br>
+							<label class="pl60"></label>
+                        </p>
+                        <p class="erm">
+                        <img src="http://js.feiliu.com/static/zs/images/weixin.jpg">
+                        <em>公共账号：sgzsios</em>
+                        <span>微信搜索sgzsios添加或扫描二维码添加关注</span>
+                        </p>
+                    </div>
+                </div>
+            </sidebar>

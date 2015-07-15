@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>卡牌介绍-角色进阶 完美武侠_新闻</title>
+<link href="http://js.feiliu.com/static/wmwx/css/main.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/wmwx/js/jquery1.6.4.js"></script>
+</head>
+<body class="inner">
+<div class="header">
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img src="http://js.feiliu.com/static/wmwx/images/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>
+<div class="sec1">
+
+	<!--首页头部导航模板开始-->	
+		<!--#include virtual="/list/index_wmwx_nav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+</div>
+<div class="sec2">
+	<div class="wrap-main main">
+	
+		<!--首页左侧边栏模板开始-->	
+			<!--#include virtual="/list/index_wmwx_leftbar.shtml"-->
+		<!--首页左侧边栏模板结束-->
+		
+        <div class="content">
+        	<div class="article-header">
+            	<h1>卡牌介绍-角色进阶</h1>
+                <time>2014-06-11</time>
+            </div>
+            <div class="article-content">
+            	增强卡牌实力的一种方法就是角色进阶。将两名相同卡牌放在一起进行进化，能够增卡牌从的属性和稀有度。进化两次以上的卡牌，将会改变其稀有度，并大幅提升技能效果。<br />
+<br />
+提示说明：<br />
+<br />
+1、当卡牌升级为三星时，将升级为下一品质。<br />
+<br />
+2、极（含）以上的卡牌不可升级品质。<br />
+<br />
+进阶效果<br />
+<br />
+基础角色会继承作为材料角色的5%的能力值（若材料卡片已达最大等级，则能继承10%）。进化后的角色会得到能力值的提升（包括额外的加成）、拥有新的外貌并获得大幅卡牌属性提升。<br />
+			</div>
+        </div>
+	</div>
+</div>
+<div class="sec3">
+
+	<!--首页底部版权模板开始-->	
+        <!--#include virtual="/list/index_wmwx_footer.shtml"-->
+	<!--首页底部版权模板结束-->
+	
+</div>
+
+	<!--首页右侧浮动下载框模板开始-->	
+        <!--#include virtual="/list/index_wmwx_down.shtml"-->
+	<!--首页右侧浮动下载框模板结束-->
+	
+<script type="text/javascript">
+$(function(){
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+});
+</script>
+</body>
+</html>

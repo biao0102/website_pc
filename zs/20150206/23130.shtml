@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">《三国战神》1.7.0版本延迟开放公告</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2015-02-06 11:13:08</span>
+																			</div>
+									<div class="w-d">
+										亲爱的玩家们：<br />
+&nbsp; 大家好！由于更新后出现了一些游戏异常情况，我们这边正在进行紧急处理。给大家带来的不便，我们深表歉意。<br />
+&nbsp; 为了给大家带来最好的游戏体验，服务器维护时间延长至12:00，（开服时间会因工作进度推迟或者提前），还请大家理解。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2015.2.6<br />
+<br />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

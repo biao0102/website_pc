@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>游戏玩法介绍 完美武侠_公告</title>
+<link href="http://js.feiliu.com/static/wmwx/css/main.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/wmwx/js/jquery1.6.4.js"></script>
+</head>
+<body class="inner">
+<div class="header">
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img src="http://js.feiliu.com/static/wmwx/images/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>
+<div class="sec1">
+
+	<!--首页头部导航模板开始-->	
+		<!--#include virtual="/list/index_wmwx_nav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+</div>
+<div class="sec2">
+	<div class="wrap-main main">
+	
+		<!--首页左侧边栏模板开始-->	
+			<!--#include virtual="/list/index_wmwx_leftbar.shtml"-->
+		<!--首页左侧边栏模板结束-->
+		
+        <div class="content">
+        	<div class="article-header">
+            	<h1>游戏玩法介绍</h1>
+                <time>2014-06-10</time>
+            </div>
+            <div class="article-content">
+            	　　完美武侠是新一代武侠卡牌手游，它不同于《我叫MT》、《大掌门》等其他卡牌手游，每一张角色卡牌都必须经过江湖的历练才能真正发挥它的巨大功效。<br />
+<br />
+<br />
+　　还原来真正武林风格，会有机缘结识武林豪杰，也可以打败他招募他为你的手下。<br />
+<br />
+<br />
+　　通过角色进阶，可以让你拥有的角色大幅提升能力，并自有的换装功能彰显豪杰霸气。<br />
+<br />
+<br />
+　　不定期的各种武林盛会，可以获得不同的江湖称号，以提升团队整体能力，还会获得更犀利的武林角色加入你的队伍。<br />
+<br />
+<br />
+　　也会遇到恶霸当道，众豪杰强强联手，将恶霸打的遍体鳞伤。当然你可以招募他，也可以杀之而后快。<br />
+<br />
+<br />
+　　当您有可绝世武功，必定想一显身手，各种“论剑”也是“完美武侠”经典玩法之一，酣畅淋漓的多人混战，棋逢对手的紫禁之巅，必定您绝世无双之武功发挥的淋漓尽致。<br />
+<br />
+　　全球排名机制，让您霸气环宇，只要在此江湖的所有侠士都可以看到您的凛冽的风姿，绚丽的武功。<br />
+<br />
+<br />
+　　独创的玩家参与功能，让玩家参与游戏制作，不一样的江湖，不一样的天下武林，完美武侠将与您一起谱写一篇新的武林史诗。<br />
+			</div>
+        </div>
+	</div>
+</div>
+<div class="sec3">
+
+	<!--首页底部版权模板开始-->	
+        <!--#include virtual="/list/index_wmwx_footer.shtml"-->
+	<!--首页底部版权模板结束-->
+	
+</div>
+
+	<!--首页右侧浮动下载框模板开始-->	
+        <!--#include virtual="/list/index_wmwx_down.shtml"-->
+	<!--首页右侧浮动下载框模板结束-->
+	
+<script type="text/javascript">
+$(function(){
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+});
+</script>
+</body>
+</html>

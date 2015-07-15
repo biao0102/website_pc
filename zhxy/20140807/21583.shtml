@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>8.08上午9点停服维护公告</h1>
+                        <span>2014-08-07</span>
+                    </div>
+                    <div class="article-content">
+                        <div>
+	<div>
+		亲爱的各位玩家：
+	</div>
+</div>
+<div>
+	<span><span data-wiz-span="data-wiz-span">为了给大家带来更好的游戏环境，我们将在2014年8月08日09:00-11:00对服务器进行停服维护，维护时间为</span></span>2小时左右<span><span data-wiz-span="data-wiz-span">，请大家合理安排上线时间。</span></span><br />
+</div>
+<div>
+	<div>
+		<div>
+			<span data-wiz-span="data-wiz-span">如果提前完成更新操作，我们将立即开放服务器，不再另行发布公告，请知悉。感谢大家对游戏的意见和建议，祝大家游戏愉快！</span><br />
+		</div>
+		<div>
+			<span data-wiz-span="data-wiz-span">同时，对于影响大家游戏，我们深感歉意，维护结束后将奉上元宝*50、铜钱*5w、星力*5w、灵石*2、小三光神水*2，补偿将通过邮件发放~&nbsp;</span><br />
+<span><br />
+<br />
+【更新大区】S1-斗战胜佛、S2-天蓬元帅、X1-灵猴问世、X2-大圣出山</span><br />
+			<div>
+				<span data-wiz-span="data-wiz-span">【停服维护时间】2014年8月8日09:00-11:00</span> 
+			</div>
+		</div>
+	</div>
+</div>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

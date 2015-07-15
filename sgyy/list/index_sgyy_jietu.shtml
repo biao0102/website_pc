@@ -1,0 +1,47 @@
+      <div id="stk">
+        <div class="tab-menu"> <a href="javascript:;" class="jt jt_hover">游戏截图</a> <a href="javascript:;" class="sp">精彩视频</a> <a href="javascript:;" class="bz">精美壁纸</a> </div>
+        <div class="tab-ctn">
+          <ul style="display:block;">
+            <li>
+              <div class="oybg"> <img src="http://i0.feiliu.com/201405/49/49baa0a8ff8ecc4289143d02a71c1da7.jpg"> </div>
+            </li>
+            <li>
+              <div class="oybg"> <img src="http://i0.feiliu.com/201405/be/be3614c3b596b13addd482ae26ca755d.jpg"> </div>
+            </li>
+            <li>
+              <div class="oybg"> <img src="http://i0.feiliu.com/201405/9c/9c83d168042b3b1c3c0a2d0142967118.jpg"> </div>
+            </li>
+            <li>
+              <div class="oybg"> <img src="http://i0.feiliu.com/201405/d9/d911aa79a5fae5a334bd07d28afd1b57.jpg"> </div>
+            </li>
+          </ul>
+           <ul>
+            <li>
+              <div class="oybg"> <img src="http://js.feiliu.com/static/sgyy/images/gbg/gbg3.jpg"> </div>
+            </li>
+            <li>
+              <div class="oybg"> <img src="http://js.feiliu.com/static/sgyy/images/gbg/gbg3.jpg"> </div>
+            </li>
+            <li>
+              <div class="oybg"> <img src="http://js.feiliu.com/static/sgyy/images/gbg/gbg3.jpg"> </div>
+            </li>
+            <li>
+              <div class="oybg"> <img src="http://js.feiliu.com/static/sgyy/images/gbg/gbg3.jpg"> </div>
+            </li>
+          </ul>
+           <ul>
+            <li>
+              <div class="oybg"> <img src="http://js.feiliu.com/gameimg/sgyy/20141113142809.jpg"> </div>
+            </li>
+            <li>
+              <div class="oybg"> <img src="http://js.feiliu.com/gameimg/sgyy/20141113142827.jpg"> </div>
+            </li>
+            <li>
+              <div class="oybg"> <img src="http://js.feiliu.com/gameimg/sgyy/20141113142843.jpg"> </div>
+            </li>
+            <li>
+              <div class="oybg"> <img src="http://js.feiliu.com/gameimg/sgyy/20141113142856.jpg"> </div>
+            </li>
+          </ul>
+        </div>
+      </div>

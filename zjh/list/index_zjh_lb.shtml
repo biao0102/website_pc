@@ -1,0 +1,9 @@
+            <div id="imgauto">
+              <div class="img-btn"> <a class="img-btn-checked">1</a> <a>2</a> <a>3</a> <a>4</a> <a>5</a> </div>
+              <div class="img-con"> 
+              <a style="display:block" href="#"><img src="http://js.feiliu.com/gameimg/zjh/20150331162433.jpg" /></a> 
+              <a href="#" ><img src="http://js.feiliu.com/gameimg/zjh/20150205185602.jpg"/></a> 
+              <a href="#"><img src="http://js.feiliu.com/gameimg/zjh/20150205185620.jpg" /></a> 
+              <a href="#"><img src="http://js.feiliu.com/gameimg/zjh/20150205185631.jpg" /></a> 
+              <a href="#"><img src="http://js.feiliu.com/gameimg/zjh/20150205185650.jpg" /></a> </div>
+            </div>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="冠军11人下载,冠军11人下载地址,冠军11人安卓下载,冠军11人ios下载,冠军11人安装包" />
+    <meta name="description" content="冠军11人官方下载频道提供最新的冠军11人下载地址,安卓下载，冠军11人ios下载最新版本冠军11人下载安装包。" />
+    <title>冠军11人下载_冠军11人安卓下载地址_冠军11人iOS版下载地址 </title>
+    <link href="http://js.feiliu.com/static/11/style/master.css?v=701" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<!--公共头部导航开始-->
+		<!--#include virtual="/list/index_11_nav.shtml"-->
+	<!--公共头部导航结束-->
+    <div class="wrap news_wrap">
+        <div class="content">
+            <div class="cover_content_kong news_kong"></div>
+            <ul class="down_box clearfix">
+                <li class="btn01">
+                    <a href="http://11.feiliu.com/count/download.php?cid=300021&type=8">App下载</a>
+                    <p>
+                        ·根据设备系统，选择对应的客户端版本<br />
+                        ·使用IOS系统的用户，请点击IOS版下载 
+                    </p>
+                    <em>
+                        <img src="http://js.feiliu.com/qrcode/11/ios_300021.png" alt="" /></em>
+                    <span>扫描二维码下载IOS正版</span>
+                </li>
+                <li class="btn02">
+                    <a href="#">越狱版下载</a>
+                    <p>
+                        ·根据设备系统，选择对应的客户端版本<br />
+                        ·使用IOS越狱设备的用户，请点击越狱版下载  
+                    </p>
+                    <em>
+                        <img src="http://js.feiliu.com/static/11/images/erweima.jpg?v=2" alt="" /></em>
+                    <span>扫描二维码下载越狱版</span>
+                </li>
+                <li class="btn03">
+                    <a href="#">安卓版下载</a>
+                    <p>
+                        ·根据设备系统，选择对应的客户端版本<br />
+                        ·使用安卓系统的用户，请点击安卓版下载
+                    </p>
+                    <em>
+                        <img src="http://js.feiliu.com/static/11/images/erweima.jpg?v=2" alt="" /></em>
+                    <span>扫描二维码下载安卓版</span>
+                </li>
+            </ul>
+        </div>
+    </div>
+	<!--公共底部开始-->
+        <!--#include virtual="/list/index_11_footer.shtml"-->
+	<!--公共底部结束-->
+</body>
+</html>

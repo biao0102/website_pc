@@ -1,0 +1,82 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content"><p>
+	&nbsp;
+</p>
+<p>
+	&nbsp; 中国首款群战策略卡牌手游《天天逗群英》封测即将在安卓平台开启，三国乱世终于将揭露真容！这款以百人集群对战、百变策略、原貌呈现三国宏大地图，以及诸多创新玩法等
+</p>
+<p>
+	特色备受瞩目的游戏将让玩家亲身体验。而游戏中Q萌的三国名将会是什么模样呢？现在，让我们一起看看《天天逗群英》中周瑜、诸葛亮、司马懿这三大军师的人设吧！
+</p>
+<p>
+	《天天逗群英》官方网站：<a href="http://ttdqy.feiliu.com">http://ttdqy.feiliu.com</a>
+</p>
+<p>
+	（图1：《天天逗群英》三大军师人设曝光）<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223163603.jpg" /><br />
+【冷酷的黑手党——周瑜】
+</p>
+<p>
+	&nbsp; 周瑜在三国历史上是一副羽扇纶巾的儒生形象，最著名的爱好便是弹琴！《天天逗群英》中周瑜一身黑红相间的服饰，更加衬托出他身为军师智慧、冷静的一面。凌厉的眼神、飘
+</p>
+<p>
+	扬的黑色披风、黑色手套、手扶红色镶金古琴，冷酷的气息彰显无遗。封禁天地的技能，能让敌人无法释放技能；天命技英姿勃发，让其受到攻击时可以反弹伤害，以控制为主的周
+</p>
+<p>
+	瑜是战场上最具震慑力的军师。
+</p>
+<p><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223163609.jpg" /><br />
+【可爱的书生——诸葛亮】
+</p>
+<p>
+	&nbsp; 诸葛亮可谓是三国中人气最盛的军师，洞悉天下大事、博学、智谋出众在三国中无出其右。《天天逗群英》将诸葛亮塑造为一身白色道袍的书生形象，右手持笔、左右挥羽毛扇、
+</p>
+<p>
+	道袍上绘制着星座、可爱的笑容，极为惹人喜爱。善于大范围群攻敌军小兵，天命技疲兵，消弱敌军小兵的诸葛亮是游戏中最擅长群战的军师。
+</p>
+<p>
+	<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223163616.jpg" /><br />
+【桀骜不驯的剑客——司马懿】
+</p>
+<p>
+	&nbsp; 司马懿是三国中最擅长政治的智者，诡异多变的军师风格令无数人折戟沉沙。《天天逗群英》中，司马懿一身紫色服饰，高耸的头冠、白色头套、手持长剑，一脸桀骜不驯的表情
+</p>
+<p>
+	让他拥有着正太的称谓。善于用兵偷袭敌军后方，天命技遗咒在手下小兵死亡时有概率自爆伤敌，堪称战场上的恐怖杀手。
+</p>
+<p><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223163622.jpg" /><br />
+&nbsp; 《天天逗群英》即将封测，冷酷的周瑜、可爱的诸葛亮、桀骜不驯的司马懿都将亮相在游戏中，成为各位主公征战天下的得力臂膀。相信在他们的帮助下，成就一番三国霸业也不
+</p>
+<p>
+	在话下！
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

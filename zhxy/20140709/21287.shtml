@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>刀刀入肉！街机手游《战魂西游》超炫技能</h1>
+                        <span>2014-07-09</span>
+                    </div>
+                    <div class="article-content">
+                        <span >&nbsp; 来《战魂西游》，保证让你爽个痛快！由精彩无限倾力打造、飞流FL Mobile全平台独家代理发行的2014最强街机手游《战魂西游》强势来袭！流畅的操作、爽快的技能、时髦的故事，让你在酷暑中体验爽快清凉！今日，《战魂西游》全新官网正式上线，这里有你想要的《战魂西游》资讯和最权威的攻略！玩《战魂西游》看巴西世界杯，真汉子的选择！</span><br />
+<br />
+<br />
+欢迎访问《战魂西游》官网：http://zhxy.feiliu.com/<br />
+《战魂西游》微信号：ZHXYOL<br />
+<br /><img src="http://i0.feiliu.com/image/20140709/20140709123116_71274.jpg" alt="" /><br />
+<br />
+<br />
+<br />
+【三大技能体系 战斗刀刀入肉】<br />
+《战魂西游》拥有独创的三大职业——灵猴、神君、玄女。他们不仅拥有不同的外形与故事背景，其技能更是千变万化、各具特色。灵猴以范围广、威力大为主要特色；神君则更注重速度快而准；玄女更多地使用远程法术，令敌人不得近身。这三种类型的技能无论是群体还是单体攻击，都能让人体验到爽快的打击感以及华丽的视觉效果，可谓“刀刀入肉”！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140709/20140709123149_19347.jpg" alt="" /><br />
+<br />
+<br />
+【灵猴 烈焰般炽热】<br />
+灵猴使重棍，力拔千钧，擅长近身战斗，于险中求胜。其技能如燃烧的烈焰一般耀眼炽热，红色火光冲天，撕裂大地，吞噬周围所有的敌人！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140709/20140709123205_77027.jpg" alt="" /><br />
+<br />
+<br />
+【神君 疾风般迅猛】<br />
+神君手持一柄长枪，枪法灵活多变，拥有“一夫当关，万夫莫敌”之勇。神君的技能如风，以迅雷不及掩耳之势猛刺向敌人，歼敌于无形！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140709/20140709123220_63768.jpg" alt="" /><br />
+<br />
+<br />
+【玄女 冰霜般冷酷】<br />
+玄女以仙扇为武器，操纵五行之力击退敌人，令敌人不能近身。玄女技能变化多端，包罗万象，无论冰霜或是雷电，都能拒敌于千里外！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140709/20140709123232_19566.jpg" alt="" /><br />
+<br />
+【独特符箓系统 全面养成你的角色】<br />
+<br />
+<br />
+《战魂西游》除了华丽炫目的技能，更拥有独特的角色养成方式——符箓系统。玩家可撰写种类繁多的“符箓”，来为角色提升各种各样的属性。你完全可以根据自己的喜好以及职业的需求，利用“符箓”来培养出全方位成长、只属于自己的角色。而符箓本身更可以吞噬多余或无用的，来提升等级，使其属性加成越来越高，你的角色也会跟着越来越强大！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140709/20140709123243_39097.jpg" alt="" /><br />
+<br />
+<br />
+《战魂西游》精彩官网正式上线，为你提供最权威资讯与攻略！火爆、迅猛的技能与无与伦比的打击感，为你带来爽快无比的战斗，2014最强动作手游，已强势来袭！<br />
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

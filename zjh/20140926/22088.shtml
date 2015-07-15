@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>布阵技巧篇_布阵技巧_最江湖官方网站</title>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/stop.jpg"  alt="新闻"/></h2>
+          </div>
+          <div class="clear"></div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle" style="color:#704e33;">布阵技巧篇</div>
+              <div class="textTime"><span style="float:left; color:#393939; width:80px; padding-left:90px;">2014-09-26 10:40:22</span><span style="width:380px; float:right; padding-top:10px">
+                <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span></div>
+                <p></p>
+                <p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	《最江湖》作为一款回合制战斗游戏，想在江湖中笑傲群侠，就要弄懂战斗的规则。玩了一段时间，也了解了一些战斗规则，在这里和大家分享一下，应该对不少新手有点帮助<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;"><img src="http://i0.feiliu.com/image/20140926/20140926103926_32440.png" width="320" height="180" alt="" />&nbsp;
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	首先战斗形式是回合制战斗，玩家率领队伍和敌人的队伍战斗，其中，双方上阵的人数按照阵法排布上看应该是<span >5-7</span><span >人（目前最高是</span><span >5</span><span >人，不知道什么时候可以开到更多）。战斗的过程采用了现在比较流行的自动战斗方式，玩家需要在战斗前，安排好出场的侠客，调整好自己的武功和绝技，一旦进入战斗，就无需也不能再改变什么，只能等待电脑按照规则计算，判断出双方的胜负。</span><o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	&nbsp;
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	其次，战斗的执行方式，仍然按照战斗单位的速度先后决定出手顺序，在战斗的过程中，虽然双方对打的比较激烈，实际上脚下有光圈的单位才是当前的攻击单位，对方只是招架和格挡。而且，如果我方的两三个战斗单位，攻击的目标都是对方一个人，速度也都快过对方的时候，这时我方的战斗单位会一拥而上，群殴对方，当然如果反之也一样，所以速度很重要。<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	&nbsp;
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	第三，战斗的实际效果分普通攻击和武功攻击两个部分。玩家血条的下面蓝色的条为内力条，武功的触发条件为内力条满，内力条在刚进场的时候，是只有一半的，在完成一次普通攻击并且要命中对方的时候，则会加满，等下次再轮到自己攻击的时候，则会释放武功，同时耗光内力。如果还能存活，则还需要两次的普通攻击，才能重新加满内力，释放下一次武功。而如果内力在满的情况下，又被己方武功有加成内力效果的侠客释放了加成，那么内力可以继续增加，超过<span >100</span><span >。而这部分多出的内力将影响最终的伤害效果，多出几成的内力，则增加几成的伤害。所以能加成己方内力的侠客，其实对伤害输出的贡献，也不少的。</span><o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	&nbsp;
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	在内力没满的情况下，普通攻击遵循的战斗规则是，攻击目标要按照前排、中排、后排的先后顺序攻击，如果前排还有侠客，则不能攻击中排，以此类推。而攻击的时候，是以一排为对象攻击，而非只攻击其中的一个侠客，也就是如果前排的侠客被干掉了，中排如果有三个侠客，敌方的任何一名侠客，普通攻击时，每次攻击，中排三个侠客都要分别承受。而武功则无视这个规则，武功是按照武功自己的能力释放，如果武功打后排就无视前排中排，武功打中排，也会直接打中排，除非武功要攻击的对象不存在了，才会重新按照普通攻击的目标进行选择，也就是如果打后排的武功在施展时候，对方后排侠客已经死了，这时候会重新按照前排、中排、后排的顺序，挑选战斗目标。<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	&nbsp;
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;基本规则都说完了，最后针对布阵多说两句，前排可以选择一人也可以选择二人，由于两人是同时受到攻击，所以两人的时候，生命加成，攻击削减都高于一人的时候，因此，如果有个强力的前排侠客，同时也没有很好的中排输出时，可以考虑牺牲一个战斗单位，把前排放两个人，第二个侠客哪怕没装备也没关系，存在的目的就是为了进一步强化强力的前排侠客，这样也是个选择。中排侠客的目的是伤害输出，站位本身就增加百分<span >15</span><span >的伤害，因此想增大伤害的阵型就是</span><span >131</span><span >，而后排的侠客是速度型，大都为控制型和辅助型，因此享受百分</span><span >15</span><span >的速度加成，希望能使用一些冷门招式，抑制或者制约对方的高伤害输出的阵型时候，可以考虑放置两名后排侠客，如果顺利的先手，那么对方一旦被制，无法发挥，就会死的很委屈。</span><o:p></o:p>
+</p> 
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

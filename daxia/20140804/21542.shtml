@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>各个系统介绍_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">游戏资料</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">各个系统介绍</div>
+              <p><br />
+<h3>
+	1.1江湖
+</h3>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家进行<span>PVE</span>副本闯关的主要玩法，点击后进入关卡选择界面，从而进行闯关游戏行为。
+</p>
+<h3>
+	1.2阵容
+</h3>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	玩家查看所拥有的主角的界面，可在此界面对角色进行相关操作。<span></span>
+</p>
+<h3>
+	1.3活动
+</h3>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	游戏内各种活动参与的界面。
+</p>
+<h3>
+	1.4集市
+</h3>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	3个功能，招募伙伴，道具出售，以及各种礼包领取<span></span>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140804/20140804165047_66306.png" alt="" />
+</p>
+<p class="MsoNormal">
+	<br />
+<br /><img src="http://i0.feiliu.com/image/20140804/20140804165054_69657.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140804/20140804165102_16295.png" alt="" />
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

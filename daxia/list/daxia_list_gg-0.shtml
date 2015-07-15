@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="keywords" content="大侠别嚣张，大侠别嚣张官网，游戏官网，游戏下载" />
+<meta  name="description" content="《大侠别嚣张》是由业内资深团队倾力研发的一款回合制武侠RPG手游大作。玩家可化身魔教教主，统领正派大侠，体验一个不一样的叛逆江湖。游戏拥有六大职业，丰富的乐趣玩法，上百种搭配策略。 画面场景炫酷华丽，拥有上百个武侠人物，每个人物都拥有精致的造型和炫酷的技能，让玩家置身媲美端游的视觉体验。"/>
+<title>《大侠别嚣张》游戏官网公告列表页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+  <div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+  </div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="javascript:void(0);">公告</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt">
+              <div class="top001" id="_show1">
+                <ul class="buttonbgsub">
+                  <li class="subli02"><a href="http://daxia.feiliu.com/list/daxia_list_zh.shtml">综合</a></li>
+                  <li class="subli02"><a href="http://daxia.feiliu.com/list/daxia_list_news.shtml">新闻</a></li>
+                  <li class="subli02"><a href="http://daxia.feiliu.com/list/daxia_list_hd.shtml">活动</a></li>
+                  <li class="subli01"><a href="http://daxia.feiliu.com/list/daxia_list_gg.shtml">公告</a></li>
+                </ul>
+                <div class="subnews01">
+                  <ul>
+                      
+                      
+                    <li><a href="http://daxia.feiliu.com/20140925/22076.shtml" target="_blank">《大侠别嚣张》9月活动第三波来袭</a><span class="subdate">2014-09-25</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20140922/22013.shtml" target="_blank">《大侠别嚣张》内测玉女剑法开服活动</a><span class="subdate">2014-09-22</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20140917/21954.shtml" target="_blank">《大侠别嚣张》内测独孤九剑火爆开启</a><span class="subdate">2014-09-17</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20140911/21909.shtml" target="_blank">《大侠别嚣张》一、二服9月活动第二波来袭</a><span class="subdate">2014-09-11</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20140911/21908.shtml" target="_blank">《大侠别嚣张》三、四服9月活动第二波来袭</a><span class="subdate">2014-09-11</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20140901/21813.shtml" target="_blank">9月1日登录异常补偿公告</a><span class="subdate">2014-09-01</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20140728/21459.shtml" target="_blank">【大侠别嚣张】28日关服公告</a><span class="subdate">2014-07-28</span></li>
+                                      </ul>
+                </div>
+                <!--
+                <div class="subpages">
+                  <a href="">首页</a> 
+                  [<a href="">1</a>] 
+                  [<a href="">2</a>] 
+                  [<a href="">3</a>] 
+                  <a href="">末页</a>
+                </div>
+                -->
+              </div>
+             </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+          </div>  
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

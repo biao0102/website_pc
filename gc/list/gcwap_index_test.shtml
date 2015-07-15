@@ -1,0 +1,75 @@
+			<!--攻城略地wap版公共头部start-->
+				<!--#include virtual="/list/gcwap_index_toppic.shtml"-->
+			<!--攻城略地wap版公共头部end-->
+               <div class="down1 clearfix" >
+               <div class="img99" ><img src="http://js.feiliu.com/static/gcwap/images/img099.jpg"></div>
+               
+            <div class="down">
+              <div class="down_item clearfix">
+                 
+                    <div class="down_item_r">
+                        <a href="http://gc.feiliu.com/count/download.php?type=9&source=fl"><img src="http://js.feiliu.com/static/gcwap/images/btn01.jpg" alt="" /></a>
+                </div>
+              </div>
+                <div class="down_item clearfix">
+                  <div class="down_item_r">
+                      <a href="http://gc.feiliu.com/count/download.php?type=3&source=fl"><img src="http://js.feiliu.com/static/gcwap/images/btn02.jpg" alt="" /></a>
+                  </div>
+                </div>
+                <div class="down_item clearfix">
+                  <div class="down_item_r">
+                      <a href="http://gc.feiliu.com/count/download.php?type=6&source=fl"><img src="http://js.feiliu.com/static/gcwap/images/btn03.jpg" alt="" /></a>
+                  </div>
+                </div>
+            </div> 
+            
+            </div>
+			
+            <img src="http://js.feiliu.com/static/gcwap/images/title02.jpg" alt="" />
+            <ul class="news_list">
+                
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=18864" target="_top">【资讯】冲级送等级 轻松成就乱世枭雄！</a><span>2014-04-15</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=18863" target="_top">【资讯】过五关斩六将！手游版副本攻略</a><span>2014-04-15</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=18852" target="_top">【资讯】【兵器速升】镔铁祭祀，暴击连送！</a><span>2014-04-14</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=18837" target="_top">【资讯】4月15日11点混服28服、S16双开启</a><span>2014-04-14</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=18833" target="_top">【资讯】4月13日11点两服开启双箭启发</a><span>2014-04-13</span></li>
+					            </ul>
+            <a href="#" name="tewf"><img src="http://js.feiliu.com/static/gcwap/images/title03.jpg" alt="" /></a>
+            <div class="tese">
+                <div class="imgbox" id="imgbox">
+                    <a href="#" style="display: block;"><img src="http://js.feiliu.com/static/gcwap/images/zh640.jpg" alt="" /></a>
+                    <a href="#"><img src="http://js.feiliu.com/static/gcwap/images/gz640.jpg" alt="" /></a>
+                    <a href="#"><img src="http://js.feiliu.com/static/gcwap/images/wj640.jpg" alt="" /></a>
+                    <a href="#"><img src="http://js.feiliu.com/static/gcwap/images/zb640.jpg" alt="" /></a>
+                </div>
+                <ul class="tese_nav" id="tese_nav">
+                    <li class="btn01"><a href="javascript:;" class="current">语音国战</a></li>
+                    <li class="btn02"><a href="javascript:;">超大战场</a></li>
+                    <li class="btn03"><a href="javascript:;">武将云集</a></li>
+                    <li class="btn04"><a href="javascript:;">极品策略</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="bottom">
+  <div class="bottom_top"><a href="#top"><img src="http://js.feiliu.com/static/gcwap/images/fh_top.jpg" alt=""/></a></div>
+  <p class="bottom_01"></p>
+  <div class="bottom_sm">
+    <p>攻城掠地－触控板</p>
+    <p>Powered by dsg.feiliu.com  Certificate Copyright ©2011-2013 </p>
+  </div>
+</div>
+<div style="display:none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff06b9e919dec36720d34c500e8394364' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5864757'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/stat.php%3Fid%3D5864757' type='text/javascript'%3E%3C/script%3E"));</script>
+ </div>
+</body>
+</html>

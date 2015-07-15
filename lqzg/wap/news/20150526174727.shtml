@@ -1,0 +1,82 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+<title>龙骑战歌</title> 
+<meta content="龙骑战歌" name="keywords">
+<meta content="龙骑战歌" name="description">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="http://js.feiliu.com/static/lqzg/wap0525/css/news.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/wap0525/js/jquery-1.11.2.min.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="content">
+            <div class="nav">
+                <h3>内容</h3>
+                <a href="javascript:history.go(-1);">返回&gt;&gt;</a>
+            </div>
+            <div class="news">
+                    <h1 class="title">激爽空战！《龙骑战歌》开启骑战手游新纪元</h1>
+                    <div class="news_con">
+                    <p>&nbsp;看过《驯龙高手》的朋友一定经常梦想着自己也有一天能骑着勇猛的飞龙，在天空翱翔。骑战新纪元手游《龙骑战歌》帮你实现！《龙骑战歌》是由国内著名研发商墨麟竭力开发，飞流（FLMobile）代理发行的ARPG骑乘新纪元手游。全3D游戏场景，高清电影级别游戏画面，爽快的战斗，宏大的世界观等特色，使得《龙骑战歌》一经曝光就受到了广大游戏媒体和玩家的关注，不愧为2015最炫最酷的动作手游。</p><p><br/></p><p>《龙骑战歌》官方网站：http://lqzg.feiliu.com/</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526174659.jpg" title="20150526174659.jpg" alt="图1：激爽空战！《龙骑战歌》开启骑战手游新纪元.jpg"/></p><p><br/></p><p>【《龙骑战歌》圆你龙骑士之梦】</p><p><br/></p><p>&nbsp; 骑战作为《龙骑战歌》最大的亮点，在玩家对骑战系统的猜想中，小伙伴能否骑乘战斗成为猜测的一大重点。根据现有资料来看，小伙伴无法享受到骑乘战斗这一主角特权。虽然略有遗憾，但游戏中的骑战系统已经为玩家提供了超越时代的精彩体验。在游戏中，玩家可以化身骑士，驾驭威猛的坐骑冲锋杀敌，在体验刀刀入肉的超真实打击感的同时，坐骑的属性加成及其强悍的特技足以令玩家的战斗更加畅快和激情，让玩家亲身享受到前所未有的战斗快感！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526174705.jpg" title="20150526174705.jpg" alt="图2：《龙骑战歌》圆你龙骑士之梦.jpg"/></p><p><br/></p><p>【宏大世界观 打造传奇大陆】</p><p><br/></p><p>&nbsp; 《龙骑战歌》的故事发生在一个充满魔幻色彩的龙与魔法世界，人类、精灵、兽人、矮人等种族共同生活在这里，数千年一直维系着微妙的平衡，但由于各种族间信仰的不同以及对利益的追求，这块名为“迈娅”被分裂为九大王国：圣雷因斯教国、南海自由都市联盟、塔洛斯公国、埃依曼联合酋长国、和国、佐仑王国、迪兰妮亚王国、怒锤部族、炽钢王国，他们一同蚕食着这个世界最后的平衡。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526174712.jpg" title="20150526174712.jpg" alt="图3：宏大世界观 打造传奇大陆.jpg"/></p><p><br/></p><p>【轻松触屏操作 战斗更随心】</p><p><br/></p><p>&nbsp; “如臂使指”的操作体验是《龙骑战歌》的创造“触屏”操作的核心目的之一。对于以层叠构建的3D画面，虚拟摇杆往往无法精确走位，而通过“触屏”操作，玩家可以直接点击屏幕，准确让角色移动到指定地点。精确的走位让玩家的战斗过程更加真实和畅快，能最大化体验到随心所欲的巅峰战斗快感。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526174720.jpg" title="20150526174720.jpg" alt="图4：轻松触屏操作 战斗更随心.jpg"/></p><p><br/></p><p>&nbsp; 《龙骑战歌》全新官网已经正式上线，快来加入到《龙骑战歌》的世界中来吧！为了英雄的荣耀，龙骑出击！全3D游戏场景、高清电影级画面、爽快的战斗感，《龙骑战歌》从视觉、操纵感、代入感、玩法等诸多方面打造代表中国最高手游水平的ARPG手游，开创骑战新纪元！</p><p><br/></p>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+<script>
+    function getArgs()
+    {
+        var argsArr = new Object();
+        var query = window.location.search;  
+        query = query.substring(1);
+        var pairs = query.split("&");
+        for(var i=0;i<pairs.length;i++)
+        {
+            var sign = pairs[i].indexOf("="); 
+            if(sign == -1)
+            {
+                continue; 
+            }
+            var aKey = pairs[i].substring(0,sign);
+            var aValue = pairs[i].substring(sign+1);         
+            argsArr[aKey] = unescape(aValue);
+
+        }
+        return argsArr;
+    }
+
+    var param = new Object();
+    param = getArgs();
+    var source = param.s;
+
+    if(!source)
+    {
+        source = '300021';
+    }
+    $('a').click(function(e){
+        var url = $(this).attr('href');
+        if(url != 'javascript:void(0);' && url != "javascript:alert('敬请期待！');" && url != 'javascript:history.go(-1);');
+        {
+            e.preventDefault();
+            var url = $(this).attr('href');
+            if(url.indexOf('?') > -1)
+            {
+                var tourl = url + '&s='+source;
+            } else {
+                var tourl = url + '?s='+source;
+            }
+            window.location.href = tourl;   
+        }
+    });   
+
+</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>
+
+

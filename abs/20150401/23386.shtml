@@ -1,0 +1,55 @@
+<!--头部公共文件模块开始-->
+	<!--#include virtual="/list/abc_index_topfile.shtml"-->
+<!--头部公共文件模块结束-->
+<body>
+<div class="wrap minwidth rel">
+	<!--公共导航模块开始-->
+		<!--#include virtual="/list/abc_index_nav.shtml"-->
+	<!--公共导航模块结束-->
+	<div class="contain minwidth rel">
+		<div class="con920">
+			<div class="subtop rel">
+				<img src="http://js.feiliu.com/static/abc/web/images/zhu.png" alt="" class="zhu asb">
+			</div>
+			<div class="subline">
+				<div class="newstxt">
+					<div class="infotitle">樱舞纷飞！《愤怒的小鸟嘉年华》安卓版登陆中国</div>
+					<div class="article">据飞流（FL Mobile）官方消息，飞流已于3月19日正式推出由芬兰著名游戏厂商Rovio娱乐研发的《愤怒的小鸟嘉年华》安卓版。据悉，此次《愤怒的小鸟嘉年华》安卓版在360手机助手、豌豆荚、安智、百度多酷、腾讯应用宝、小米手机助手、九游游戏中心、华为、联想、OPPO等游戏下载平台同步首发。<br />
+<br />
+<br />
+《愤怒的小鸟嘉年华》官网：httpabs.feiliu.com<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141500_77936.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 以《愤怒的小鸟嘉年华》为代表的“小鸟”系列游戏是由芬兰Rovio娱乐公司于2009年开始推出的休闲手游。迄今为止，“小鸟”系列全球下载量超过25亿，被《新闻周刊》称为全球首款取得真正主流成功的手机游戏。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141512_79356.jpg" alt="" /><br />
+<br />
+&nbsp; 《愤怒的小鸟嘉年华》作为庆祝世界各地季节性节日的特色游戏版本，包含了“NBA灌篮”、“超时空马戏团”、“玛雅迷阵”、“樱花季”、“北极探险”、“礼物保卫战（圣诞节）”“整蛊万圣节”、“捣蛋学生“、“猪戏嫦娥”“、“复活节彩蛋”和“肥猪之吻（情人节）”等等十几个全球范围的各地代表性节日，300多个独具特色的关卡，让玩家可以尽情领略世界各地的风情。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141523_92115.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 在游戏玩法方面，《愤怒的小鸟嘉年华》基本操作仍然沿用经典的方式，即将弹弓上的小鸟弹出去，将捣蛋猪全部砸到就能过关。同时，《愤怒的小鸟嘉年华》中根据节日的不同，游戏模式有很多创新，比如“NBA灌篮”主题关卡中，玩家可以操纵小鸟撞击悬挂的篮球，通过篮球的弹跳可以轻松消灭周围的捣蛋猪；“超时空马戏团”中，玩家则需要将小鸟准确地穿越“虫洞”，才能打到可恶的捣蛋猪⋯⋯<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141534_39793.jpg" alt="" /><br />
+<br />
+&nbsp; 在三月底这个樱舞纷飞的季节，《愤怒的小鸟嘉年华》特别奉上“樱花季”这一富有浓郁浪漫气息的节日主题。相信在游戏中度过一个樱花烂漫的春季，也会非常欢乐吧！<br /></div>
+				</div>
+			</div>
+			<div class="subbottom"></div>
+		</div>
+		<!--底部公共模块开始-->
+			<!--#include virtual="/list/abc_index_foot.shtml"-->
+		<!--底部公共模块结束-->
+	</div>
+</div>
+<!--右侧漂浮模块开始-->
+	<!--#include virtual="/list/abc_index_float.shtml"-->
+<!--右侧漂浮模块结束-->
+<!--底部公共js文件模块开始-->
+	<!--#include virtual="/list/abc_index_jsfile.shtml"-->
+<!--底部公共js文件模块结束-->
+</body>
+</html>

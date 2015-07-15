@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>1.20日IOS正版APP更新内容_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">公告</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">1.20日IOS正版APP更新内容</div>
+              <p><p>
+	新增内容：<br />
+1.新增帮派密境，秘境的开启和帮派的等级、活跃度相关，帮主开启密境，所有的帮会成员均可一起攻打副本。<br />
+2.帮派密境会掉落大量高级大侠、武功、武器等高级道具，玩家根据自己的需要进行申请。<br />
+3.新增天赋系统，提升大侠升星的能力和技能<br />
+4.降低紫卡及以上品质升星所需的卡牌数量<br />
+5.增加了vip16级<br />
+6.增加了炼化预览，可以在炼化前看到物品预览。
+</p>
+<p>
+	优化内容：<br />
+1.动态调整煞气大侠和沙袋和尚的伤害，增加相应奖励。<br />
+2.增加情花谷和铜人阵的奖励。<br />
+3.帮派图标点击后弹帮主信息，成员列表增加成员详细信息<br />
+4.优化成员列表界面，增加排序及帮贡显示<br />
+5.帮派管理增加一个按钮，可浏览其他帮派<br />
+6.新手攻略加新活动，增加装备武功等产出途径。<br />
+7.累计充值显示优化<br />
+8.优化了运营活动，从福利进入。
+</p>
+<p>
+	<br />
+修改bug：<br />
+1.加帮派的时候会显示0级的成员申请，所有申请人都是绿色<br />
+2.东方不败和任我行、任盈盈的缘分未激活<br />
+3.二级以上帮派人数超限等。
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

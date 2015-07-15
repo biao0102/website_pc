@@ -1,0 +1,19 @@
+        <div class="main">
+        	<div class="tab-header">
+            	<a class="tab-news active tab-item" href="#"></a>
+                <a class="tab-notice tab-item" href="#"></a>
+                <a class="tab-active tab-item" href="#"></a>
+                <a class="tab-more" href="http://daxia.feiliu.com/list/list_daxia_news.shtml">更多>></a>
+            </div>
+			<!--首页中部新闻栏目新闻模板start-->
+				<!--#include virtual="/list/index_daxia_newscol.shtml"-->
+			<!--首页中部新闻栏目新闻模板end-->
+
+			<!--首页中部新闻栏目公告模板start-->
+				<!--#include virtual="/list/index_daxia_gg.shtml"-->
+			<!--首页中部新闻栏目公告模板end-->
+
+			<!--首页中部新闻栏目活动模板start-->
+				<!--#include virtual="/list/index_daxia_hd.shtml"-->
+			<!--首页中部新闻栏目活动模板end-->
+        </div>

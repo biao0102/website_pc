@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》寻宝功能介绍_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》寻宝功能介绍</h2>
+          <p>&nbsp; &nbsp; &nbsp; 东汉末年，峥嵘再起。魔尊蚩尤现世，欲兴复仇大业，其遗留世间的万千宝藏也随之现身我神州大地，众多热血侠士纷纷外出游历，手拿藏宝图探寻宝藏，战洪荒妖兽，集上古神器，以求在这乱世中脱颖而出，尽显英雄本色，笑傲三国！<br /><img src="http://i0.feiliu.com/image/20140919/20140919160345_55211.png" alt="" /><br />
+&nbsp; &nbsp; &nbsp;只要玩家等级达到10级以上就可以初次寻宝了。寻宝探索可以获得一定的元宝、金币、心法残页和宝石奖励，开启高级藏宝图更有可能获得高级物品。藏宝图共有4种（龙腾虎跃金龟蛇影四种图的名称从高到低），分为金紫蓝绿四种品质，品质越高，能够寻到的物品奖励也就越好。<br /><img src="http://i0.feiliu.com/image/20140919/20140919160422_45046.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140919/20140919160431_14078.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140919/20140919160441_80597.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140919/20140919160448_42695.png" alt="" /><br />
+&nbsp; &nbsp; &nbsp; 每天可以免费寻宝四次，并且可以通过消耗元宝进行逆天改命，将低级藏宝图变为高级藏宝图，想要在降魔路上凑足盘缠，提升武力，拿起寻宝图探寻宝藏将是你必不可少经历。<br /></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

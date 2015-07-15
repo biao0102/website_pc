@@ -1,0 +1,14 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>test</title> 
+</head>
+<body>
+<div style="color:blue; font:16px;">test</div>
+<script src="http://gwadmin.feiliu.com/static/js/libs/jquery-1.10.2.min.js"></script>
+<script>$.ajax({ url:"http://gameapi.feiliu.com/game/netlog",type:'GET',dataType:'jsonp',success: function(data){}});</script>
+</body>
+</html>
+
+

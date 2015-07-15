@@ -1,0 +1,27 @@
+					<div class="news" id="tabNews">
+                        <div class="tabNews">
+                            <a class="now" href="http://gc.feiliu.com/list/gcld_rd.shtml" target="_top">热点</a>
+                            <a href="http://gc.feiliu.com/list/gcld_news.shtml" class="" target="_top">新闻</a>
+                            <a href="http://gc.feiliu.com/list/gcld_gg.shtml" class="" target="_top">公告</a>
+                            <a href="http://gc.feiliu.com/list/gcld_hd.shtml" class="" target="_top">活动</a>
+                        </div>
+                        <a href="http://gc.feiliu.com/list/gcld_gg.shtml" class="more" target="_top">更多>></a>
+                        <div class="tabNewsLite">
+                           <!--攻城掠地首页右侧热点模板start-->
+								<!--#include virtual="/list/index_gcld_rd.shtml"-->
+							<!--攻城掠地首页右侧热点模板end-->
+							
+                           <!--攻城掠地首页右侧新闻模板start-->
+								<!--#include virtual="/list/index_gcld_news.shtml"-->
+							<!--攻城掠地首页右侧新闻模板end-->
+							
+							
+                            <!--攻城掠地首页右侧公告模板start-->
+								<!--#include virtual="/list/index_gcld_gg.shtml"-->
+							<!--攻城掠地首页右侧公告模板end-->
+							
+                            <!--攻城掠地首页右侧活动模板start-->
+								<!--#include virtual="/list/index_gcld_hd.shtml"-->
+							<!--攻城掠地首页右侧活动模板end-->
+                        </div>
+                    </div>

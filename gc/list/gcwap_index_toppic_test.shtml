@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="攻城掠地官方网站,攻城掠地,攻城略地,攻城掠地手机版,攻城略地手机版,攻城掠地无限金币,外挂,攻城掠地免费破解版 " />
+    <meta name="description" content="策略国战，谋定天下。《攻城掠地》手游版男人的手机游戏,安卓、苹果平台全线上线。实景还原三国战图，开创24小时全景即时国战！文臣武将云集，打破“重武轻文”的桎梏。攻城掠地内政、军师、计策等系统演绎文官本色！其次，新颖的掩杀式战斗模式、战术、皇城官职战等特色玩法，足以让你尽享开疆扩土、统一天下的激情。
+" />
+    <title>《攻城掠地》手机版_攻城掠地手游男人的游戏 -《攻城掠地》官方网站</title>
+    <link href="http://js.feiliu.com/static/gcwap/style/master.css?v=57" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/gcwap/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript">
+
+        $(function () {
+            var navs = $("#tese_nav a");
+            var imgs = $("#imgbox a");
+            navs.each(function (i) {
+                $(this).click(function () {
+                    navs.removeClass("current").eq(i).addClass("current");
+                    imgs.hide().eq(i).show();
+                });
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="content">
+            <img src="http://js.feiliu.com/static/gcwap/images/img01.jpg" alt="" />
+            <img src="http://js.feiliu.com/static/gcwap/images/img02.jpg" alt="" />
+            <img src="http://js.feiliu.com/static/gcwap/images/img03.jpg" alt="" />
+            <div class="nav">
+                <a href="http://gc.feiliu.com/wap/index.php">官网首页</a>
+                <a href="http://gc.feiliu.com/list/gcwap_list_zxzx.shtml">最新咨询</a>
+                <a href="#tewf">特色玩法</a>
+                <a href="http://gc.feiliu.com/list/gcwap_list_yxzl.shtml">游戏资料</a>
+            </div>

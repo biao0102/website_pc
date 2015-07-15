@@ -1,0 +1,62 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">轻快玉兔，无懈可击#众妖玉兔操作实战攻略#</div>
+			<div class="news-con">
+				轻快玉兔，无懈可击#众妖玉兔操作实战攻略#<br />
+在众妖之怒中，玉兔的轻捷优雅，同时攻击也是最高的。那玉兔的技能要如何搭配呢？在实战操作中应该怎样注意呢？下面就让丸子同学为大家带来玉兔的操作实战攻略。<br />
+&nbsp;<br /><img src="http://i0.feiliu.com/image/20150213/20150213113602_41094.png" alt="" /><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 竞技场战斗<br /><img src="http://i0.feiliu.com/image/20150213/20150213113612_78237.png" alt="" /><br />
+<br />
+<br />
+战斗画面<br />
+　　玉兔的伤害非常高，玉兔灵活的技巧和坚定的攻击能够给予敌人致命一击。<br />
+　　玉兔VS蛮牛<br />
+和蛮牛对A是十分不理智的行为，要和蛮牛拉开距离，灵巧的使用翻滚技能，一边走位一边不断用技能和普通攻击消耗蛮牛，尽量不要被蛮牛控制住，也不要贪刀，躲好蛮牛的斧子技能，蛮牛跳过来后第一时间翻滚逃走。<br />
+&nbsp;<br /><img src="http://i0.feiliu.com/image/20150213/20150213113625_29765.png" alt="" />翻滚：（开启等级10级）向后翻滚并射出一支箭矢，附加37-404点攻击，对敌人造成140%伤害，并击退目标。<br />
+　<br />
+　玉兔VS妖狐<br />
+妖狐十分灵活，尽量躲好对方技能，对方施放技能时候尽量不用攻击，对方技能冷却时候会进行普通攻击，这时候要用技能攻击对方，使用翻滚躲好敌方的高伤害技能。距离拉远之后可以用普通攻击。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150213/20150213113636_84342.png" alt="" />元素箭：（开启等级2级）射出一支带有穿透效果的元素箭，附加36-398点攻击，击退行进路线上的敌人并造成134%伤害。<br />
+　　玉兔VS灵猴<br />
+　　灵猴的技能伤害很高，硬拼是很难打过的，翻滚技能要留好，尽量装备控制技能，和灵猴要拉远距离，不要走直线，绕圈走，一边走位一边施放技能，如果距离很远也可以用普通攻击，对方使用技能时候要用翻滚第一时间逃跑。<br />
+　　<br />
+玉兔VS玉兔<br />
+　　玉兔的伤害很高无论是技能伤害还是普通攻击伤害，但是通常玉兔需要站着输出，最大化的拉开距离，使用翻滚躲好对方技能，如果你距离很远对方会自动追击你，要把握好机会，尽情输出。千万不要用猎杀技能，容易被打断。<br />
+&nbsp;<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150213/20150213113648_66798.png" alt="" /><br />
+战斗胜利<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

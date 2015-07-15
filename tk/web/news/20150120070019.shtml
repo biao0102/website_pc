@@ -1,0 +1,125 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+<div class="wrap minwidth">
+	<div class="contain minwidth rel">
+		<div class="subcon1120">
+			<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+			<div class="conri fltt">
+				<div class="address">
+					<h2>新闻中心</h2>
+					<p>
+						当前位置：
+						<a href="http://tk.feiliu.com">首页</a>>>
+												<a href="http://tk.feiliu.com/web/list/newslist.shtml?a=3">活动</a>
+											</p>
+				</div>
+				<div class="subnews">
+					<div class="infotitle">《战地坦克》活动介绍</div>
+					<div class="article"><span >活动一：配件进化</span><br  />
+<span >介绍：<br />
+1、活动期间，改造配件，无需《复原图纸》强化等级不下降。强化等级失败，水晶减少15%。<br />
+2、《超量水晶》每日限购3次、每日24点重置购买次数。</span><br  />
+<br /><img src="http://i0.feiliu.com/image/20150120/20150120184738_85138.jpg" alt="" /><br />
+活动二：卡夫卡的宝藏<br />
+介绍：<br />
+1、活动期间可进行探索，获得各类碎片及相关道具。<br />
+2、每天0.00会赠送一次神秘探索，但是不会累积，请及时用掉。<br />
+3、探索的次数越多，获得高级奖励的几率越大。<br />
+4、活动最后一天未排行榜领奖时间，此时活动已经结束，无法再进行探索。<br />
+5、探索获得的配件将会放入背包中，使用后即可获得相应的碎片。<br />
+6、探索获得的材料将会计入配件的各类材料中。<br /><img src="http://i0.feiliu.com/image/20150120/20150120185349_95595.jpg" alt="" /><br />
+<span >活动三：水晶丰收周<br />
+介绍：<br />
+1、产量翻倍是指您最终的水晶产量*2。<br />
+2、免费领取的水晶数量为“您当前的水色等级*3000。<br />
+3、折扣礼包：使用后可以获得30M水晶。活动期间限购10次。<br /><img src="http://i0.feiliu.com/image/20150120/20150120185641_37055.jpg" alt="" /><br />
+活动四：轮盘之约<br />
+介绍：<br />
+1、每日登陆免费抽奖1次。VIP可免费抽奖2次<br />
+2、每次抽奖获得物品的同时可获得“物资”。<br />
+3、活动结束时根据物资排行榜领取超值大奖。<br />
+<div style="padding:0px;margin:0px;text-align:center;">
+	《战地坦克》游戏官网：http://tk.feiliu.com
+</div>
+<span >
+<div style="padding:0px;margin:0px;text-align:center;">
+	《战地坦克》iOS正版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8
+</div>
+</span><span >
+<div style="padding:0px;margin:0px;text-align:center;">
+	《战地坦克》iOS越狱版下载：http://js.feiliu.com/ipa/tk/tk_300021.ipa
+</div>
+</span><strong></strong><br />
+<div style="text-align:center;">
+	<span ></span><img src="http://i0.feiliu.com/image/20150120/20150120185944_33341.png" alt=""  /><br />
+<span style="text-align:center;">本活动最终解释权，归战地坦克项目组所有。</span><br />
+</div>
+</span></div>
+				</div>
+			</div>
+		</div>			
+	</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

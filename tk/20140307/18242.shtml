@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《坦克风云》再现二战风云  打造最强军事帝国</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-03-07</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <p class="MsoNormal">
+	<b> </b> 
+</p>
+<p class="MsoNormal">
+	<b>《坦克风云》中您需要率领一支部队在广袤的大陆上建立一座全现代化的作战基地，组建基地自然少不了使用各种资源，下面小编就为大家介绍一下建筑和资源的功能。</b> 
+</p>
+<p class="MsoNormal">
+	<b><span lang="EN-US">&nbsp;<o:p></o:p></span> </b> 
+</p>
+<b><img src="http://i0.8783.com/image/20140307/20140307184126_22706.jpg" alt="" /><br />
+<span></span></b> 
+<p>
+	<br />
+</p>
+<p class="MsoNormal">
+	<b>基地建筑<span></span></b> 
+</p>
+<p class="MsoNormal">
+	指挥中心：可提高所有资源的产量和容量，升级其他所有建筑物，都必须提高指挥中心的等级（指挥中心每<span>2</span>级会开放一个普通资源点，可自行选择建设铁矿场，油井或者铅矿场。最多可开启<span>29</span>个普通资源点；每<span>10</span>级会开启一个钛矿点，目前最多可开启<span>5</span>个钛矿点）<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	科研中心：科研中心：可提升资源科技和战斗科技，使资源产量更高战斗部队更加强大（最大科技等级受限角色的声望等级<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	坦克工厂：可以制造坦克，建筑每提升一级，坦克工厂生产速度提高<span>5%<br />
+</span>提升坦克工厂的等级，可制造更高等级的坦克。<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	改装车间：可将低级坦克改造为更为高级的坦克，建筑每提升一级，改装速度提升<span>5%<br />
+</span>例如：要生产中型坦克，需要消耗轻型坦克和一定数量的资源和时间。<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	装置车间：可以制造部分需要金币购买的道具。<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	水晶工厂：生产水晶资源，提高等级可提高产量和容量。<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	仓库：提高所有资源的仓库容量，并且保护这部分资源不会被其他玩家掠夺。<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	<b>郊外建筑<span></span></b> 
+</p>
+<p class="MsoNormal">
+	铁矿场：生产铁矿，提高等级可提高产量和容量。<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	油井：生产石油，提高等级可提高产量和容量。<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	铅矿场：生产铅矿，提高等级可提高产量和容量。<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	钛矿场：生产钛矿，提高等级可提高产量和容量。<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	<b>世界资源点<span></span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:54.0pt;text-indent:-54.0pt;">
+	世界资源点：世界资源点是玩家获得资源的快速途径；<span><br />
+</span>玩家可以派遣部队去攻占世界资源点来获取额外的资源；<span><br />
+</span>等级越高的资源点采集速度越快；<span><br />
+</span>采集完成后需要玩家主动将部队撤回<span><br />
+</span>每种资源点分为<span>2-50</span>级，等级越高，资源点的防守部队越强，玩家可以通过侦查来判断资源点防守部队的强度。
+</p>
+<p class="MsoNormal" style="margin-left:27.0pt;text-indent:-27.0pt;">
+	类型：世界资源点分为五种，分别为：<span><br />
+</span>铁矿矿产：可在占领后采集铁矿；<span><br />
+</span>石油矿产：可在占领后采集石油；<span><br />
+</span>铅矿矿产：可在占领后采集铅矿；<span><br />
+</span>钛矿矿产：可在占领后采集钛矿；<span><br />
+</span>水晶矿产：可在占领后采集水晶。<b></b> 
+</p>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

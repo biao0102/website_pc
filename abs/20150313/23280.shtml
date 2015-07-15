@@ -1,0 +1,34 @@
+<!--头部公共文件模块开始-->
+	<!--#include virtual="/list/abc_index_topfile.shtml"-->
+<!--头部公共文件模块结束-->
+<body>
+<div class="wrap minwidth rel">
+	<!--公共导航模块开始-->
+		<!--#include virtual="/list/abc_index_nav.shtml"-->
+	<!--公共导航模块结束-->
+	<div class="contain minwidth rel">
+		<div class="con920">
+			<div class="subtop rel">
+				<img src="http://js.feiliu.com/static/abc/web/images/zhu.png" alt="" class="zhu asb">
+			</div>
+			<div class="subline">
+				<div class="newstxt">
+					<div class="infotitle">愤怒的小鸟嘉年华1280*800壁纸</div>
+					<div class="article"><img src="http://i0.feiliu.com/image/20150313/20150313175601_89144.jpg" alt="" /></div>
+				</div>
+			</div>
+			<div class="subbottom"></div>
+		</div>
+		<!--底部公共模块开始-->
+			<!--#include virtual="/list/abc_index_foot.shtml"-->
+		<!--底部公共模块结束-->
+	</div>
+</div>
+<!--右侧漂浮模块开始-->
+	<!--#include virtual="/list/abc_index_float.shtml"-->
+<!--右侧漂浮模块结束-->
+<!--底部公共js文件模块开始-->
+	<!--#include virtual="/list/abc_index_jsfile.shtml"-->
+<!--底部公共js文件模块结束-->
+</body>
+</html>

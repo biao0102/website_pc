@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》新手八问，教你游戏快速入门_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》新手八问，教你游戏快速入门</h2>
+          <p>《战魔》之新手八问<br />
+<br />
+<br />
+1.体力是什么?<br />
+<br />
+答： ①游戏系统赋予每位玩家每天的体力。游戏中每进入1个副本，就会自动扣除相应的体力点。当体力为0时，不能进入副本，但可以在决斗场中进行决斗。<br />
+&nbsp; &nbsp; &nbsp; &nbsp;②体力消耗后，不会自动回复，可以使用体力药剂回复体力，或等待次日游戏系统自动刷新回满。<br />
+<br />
+<br />
+2.如何快速升级?<br />
+<br />
+答：①在NPC处领取任务，跟着任务提示进行挑战，主线、普通、每日任务都是必不可少的获取经验的途径，经验值相当可观。<br />
+&nbsp; &nbsp; &nbsp; &nbsp;②充分使用体力，进行副本刷图。选择的副本难度越高，经验越高。此外，刷图时的关卡评分也会有相应的经验加成。<br />
+&nbsp; &nbsp; &nbsp; &nbsp;③活动副本，也是可以快速积累经验的途径之一经验的快速累积途，不过活动副本难度大，建议多人组队前往。<br />
+<br />
+<br />
+3.好装备从哪来?<br />
+<br />
+答：完成主线任务后会赠送每位玩家初始装备，玩家只需通过副本和通关精英挑战副本即能获得提升装备品质的材料。<br />
+<br />
+<br />
+4.如何强化装备?<br />
+<br />
+答：点击【强化】，进入强化界面，选择背包里面的1件装备，就可以进行强化了。强化可大幅提升装备的能力!<br />
+<br />
+<br />
+5.装备如何区分好坏?<br />
+<br />
+答： 通过装备品质进行区分，每一类装备属性优劣均按照颜色区分，品质由低到高分为：绿（逍遥）、蓝（贪狼）、紫（破军）、橙（神威）。在品质相同的情况下，就要看装备的等级、以及装备属性的好坏与高低了。<br />
+<br />
+<br />
+6.战斗中死亡了怎么办?<br />
+<br />
+答：死亡后可以使用道具七星灯，立即原地满状态复活。<br />
+<br />
+<br />
+7.关卡评分是什么?<br />
+<br />
+答：关卡评分是对关卡挑战过程的评价。在关卡中，进行攻击增加评价分数，评价分数达到一定条件就会提升评价等级，关卡通关时结算最终的通关评价。<br />
+<br />
+<br />
+8.金币的获取来源有哪些？<br />
+<br />
+答：a、通关副本获得金币奖励<br />
+&nbsp; &nbsp; &nbsp; b、招财进宝-金币副本<br />
+&nbsp; &nbsp; &nbsp; c、寻宝系统，通过搜寻宝图获得<br />
+&nbsp; &nbsp; &nbsp; d、在线奖励，定时领取<br />
+&nbsp; &nbsp; &nbsp; e、出售多余的装备材料<br />
+&nbsp; &nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp;<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

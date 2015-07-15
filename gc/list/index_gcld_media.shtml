@@ -1,0 +1,43 @@
+<div class="mtbox">
+	<div class="mtbox_head">
+		<ul class="mtbox_tab" id="mtbox_tab">
+			<li class="btn01"><a href="javascript:;" class="current">8783</a></li>
+			<li class="btn02"><a href="javascript:;" >游久网</a></li>
+                        <li class="btn02"><a href="javascript:;" >18183</a></li>
+                        <li class="btn02"><a href="javascript:;" >魔方网</a></li>
+			<li class="btn03"><a href="javascript:;">97973</a></li>
+			<!--<li class="btn03"><a href="javascript:;">斑马网</a></li>-->
+			<li class="btn04"><a href="javascript:;">766</a></li>
+		</ul>
+		<a href="http://gcld.8783.com/" target="_blank" class="more">more</a>
+	</div>
+	<div class="mtbox_panes" id="mtbox_panes">
+		<div class="mtbox_item" style="display: block;">
+			<iframe border="0" marginwidth="0" marginheight="0" allowtransparency src="http://gc.feiliu.com/list/index_gcld_call.shtml" frameborder="no" height="165" scrolling="no" width="408"></iframe>
+		</div>
+		<div class="mtbox_item" style="display: none;">
+			<iframe border="0" marginwidth="0" marginheight="0" allowtransparency src="http://www.18183.com/gcld/compage.html" frameborder="no" height="165" scrolling="no" width="408"></iframe>
+		</div>
+              <div class="mtbox_item" style="display: none;">
+			<iframe border="0" marginwidth="0" marginheight="0" allowtransparency src="http://gcld.uuu9.com/qiantao.html" frameborder="no" height="165" scrolling="no" width="408"></iframe>
+		</div>
+
+              <div class="mtbox_item" style="display: none;">
+			<iframe border="0" marginwidth="0" marginheight="0" allowtransparency src="http://www.mofang.com/gcld/list_6160_1.html" frameborder="no" height="165" scrolling="no" width="408"></iframe>
+		</div>
+		<div class="mtbox_item" style="display: none;">
+			<iframe border="0" marginwidth="0" marginheight="0" allowtransparency="" src="http://www.97973.com/gongchengluedi.shtml" frameborder="no" height="162" scrolling="no" width="408"></iframe>
+		</div>
+<!--
+		<div class="mtbox_item" style="display: none;">
+			<iframe border="0" marginwidth="0" marginheight="0" allowtransparency="" src="http://gcld.banma.com/company " frameborder="no" height="162" scrolling="no" width="408"></iframe>
+		</div>
+-->
+		<div class="mtbox_item" style="display: none;">
+			<iframe border="0" marginwidth="0" marginheight="0" allowtransparency="" src="http://sy.766.com/block/block_45.html  " frameborder="no" height="162" scrolling="no" width="408"></iframe>
+		</div>
+	</div>
+</div>
+<style>
+table.cmsTable td{text-align:left !important;}
+</style>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content=" 《攻城掠地》2.0版本更新公告_" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title> 《攻城掠地》2.0版本更新公告 攻城掠地_公告</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?v=040444" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+															<div class="news_head">
+																			<ul class="news_tab">
+											<li><a href="http://gc.feiliu.com/list/list_gcld_gg.shtml" class="current">公告</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_news.shtml">新闻</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_rd.shtml">热点</a></li>
+											<li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_hd.shtml">活动</a></li>
+										</ul>
+										<p>所在位置： <a href="http://gc.feiliu.com">首页</a> &gt;&gt; 公告 </p>
+									                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank"> 《攻城掠地》2.0版本更新公告</a></div>
+                                    <div class="news_date">发布时间：2014-09-11 17:25:08</div>
+                                    <div class="news_main">
+										&nbsp; &nbsp; 为了给您更好的游戏体验，我们将于9月15日13：00点进行苹果APP2.0版本更新，17:00混服（安卓+越狱）2.0版本更新，预计时间60分钟，开放时间将根据实际情况提前或延后，届时会对您登陆造成影响，给您带来的不便我们深表歉意。<br />
+希望大家多多提出宝贵建议，反馈在论坛或直接联系官方客服QQ800032234。<br />
+关注攻城掠地官方微信号：gongcld，即可获得大量高级丹书铁券、募兵令、粮食、银币、木材！还有诸多游戏攻略供您随时查阅！<br />
+<br />
+一、等级调整<br />
+开放130级<br />
+<br />
+二、新武将及相应副本<br />
+姜维：123级可招募（完成相应任务）<br />
+司马懿：128级可招募（完成相应任务）<br />
+<br />
+三、副将<br /><img src="http://i0.feiliu.com/image/20140911/20140911172402_88460.jpg" alt="" /><br />
+1)副将由科技开启：120级打败曹真后掉落科技，研究后，副将位开启，可以在酒馆招募副将。<br />
+2)第五个武将位为副将，副将有且只有一个，在酒馆中招募任意武将都可以成为副将。<br />
+3)选择一个武将带副将，副将有自己的装备和宝物（获得途径同武将）。<br />
+4)带有副将的主将战斗时有5排兵，最后一排为副将部队。副将也可以放战法，兵力不满不能放。<br />
+5)副将和其跟随的主将单独募兵，主将募满副将不满时，主将可以释放战法，副将不能放。<br />
+6)副将也有自己的等级和经验条，经验获得方式同武将一样，也计算到角色经验中。<br />
+7)加速募兵是对主将和副将一起进行的操作。金币募兵令数量要将2个将的兵力数量算进去。<br />
+8)武将服用丹书铁券的时候，主将和副将分开服用。不看做一个整体。<br />
+9)带有副将的主将被抓时，鞭笞的经验不变<br />
+<br />
+四、跨服争霸赛（上线时间请随时关注游戏公告）<br /><img src="http://i0.feiliu.com/image/20140911/20140911172422_97244.jpg" alt="" /><br />
+10)争霸赛持续3天<br />
+11)第1天海选赛：N场赛事，每场一局定胜负，决出16位玩家晋级半决赛<br />
+12)第2天半决赛：2场赛事，每场三局两胜，决出4位玩家进入总决赛<br />
+13)第3天总决赛：2场赛事，第1场三局两胜，决出前2名；第2场五局三胜，决出冠军<br />
+14)比赛期间若参赛者离线，系统自动帮选战术继续比赛。<br />
+15)比赛中被淘汰的选手不能继续参加比赛，但可以观看他人比赛。<br />
+16)观战者可以为其中一方击鼓助威。被助威者获胜后，助威者将获得盛宴请柬。<br />
+17)争霸赛结束后开启争霸赛盛宴。<br />
+<br />
+五、跨服盛宴（上线时间请随时关注游戏公告）<br /><img src="http://i0.feiliu.com/image/20140911/20140911172441_26191.jpg" alt="" /><br />
+1)前16名玩家设宴。宴会持续1天。<br />
+2)所有玩家都可以凭请帖参加宴会，参加宴会可以获得点券。1场宴会消耗1张。<br />
+3)进入宴厅后，等待一段时间自动开宴，不足10人，自动解散。<br />
+4)进入有设宴酒的宴厅，开宴后将获得额外点券。<br />
+5)开宴后，根据所有参宴人的国籍，可能会触发额外点券奖励。<br />
+6)前16名玩家可以为自己的宴厅购买设宴酒，1场宴会消耗10壶设宴酒。<br />
+7)参宴者参加有设宴酒的宴会后，将获得额外点券。<br />
+8)宴会结束后，根据每个厅的参宴者人数，在16强中选出盛宴人气王。<br />
+盛宴人气王，所在服所在国家的国民都会获得一定奖励。<br />
+<br />
+六、城防箭塔<br /><img src="http://i0.feiliu.com/image/20140911/20140911172457_33578.jpg" alt="" /><br />
+1)每个国家各有数个城池增加箭塔，不能被他国使用。<br />
+2)新增文官计策，可以增加或破坏箭塔的耐久度。<br /><img src="http://i0.feiliu.com/image/20140911/20140911172505_38074.jpg" alt="" /><br />
+3)本国在箭塔城池为防守方时，敌国部队上阵会受到箭塔伤害。<br />
+4)箭塔每次攻击会减少耐久度，耐久度消耗完后箭塔不再攻击。<br />
+5)箭塔城池被他国占领，箭塔耐久度则变为0，不显示箭塔。<br />
+6)箭塔的使用：箭塔城池拥有【炮击】指令，消耗金币使用。<br />
+a)使用后，箭塔对攻方前4排部队造成伤害，使用者可获得经验。<br />
+b)一回合中使用多次，效果累计。<br />
+c)1品以上，每8小时加一次。<br />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

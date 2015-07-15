@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>测试</title>
+<link href="http://js.feiliu.com/static/zyzn/pc/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/pc/js/public.js"></script>
+</head>
+<body>
+<!-- top fl导航 -->
+<!--众妖之怒首页浮动窗口模板start-->
+<!--#include virtual="/list/zyzn_index_fllink.shtml"-->
+<!--众妖之怒首页浮动窗口模板end--
+<!-- top fl导航 end -->
+<div class="subcontain fltt">
+  <div class="subcon1000">
+    <div class="subbox01 fltt rel"> </div>
+    <div class="subbox02 fltt">
+      <div class="subcon">
+        <div class="suntxt">
+          <div class="infotitle">测试</div>
+          <p>
+              测试<br />
+<br />
+测试测试<br />
+<br />
+测试测试测试
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="subbox03 fltt">
+      <!-- meiticon start-->
+		<!--众妖之怒首页中部模板start-->
+		  <!--#include virtual="/list/zyzn_index_middle.shtml"-->
+		<!--众妖之怒首页中部模板end-->		
+      <!-- meiticon end-->
+    </div>
+    <div class="subbox04 fltt">
+		<!--众妖之怒首页底部模板start-->
+		  <!--#include virtual="/list/zyzn_index_footer.shtml"-->
+		<!--众妖之怒首页底部模板end-->	
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,17 @@
+              <div class="top002" id="_show2">
+                <ul class="buttonbg">
+                  <li class="li0a"><a href="#" onmousemove="__show(1);">综合</a></li>
+                  <li class="li0bb"><a href="#">新闻</a></li>
+                  <li class="li0c"><a href="#"  onmousemove="__show(3);">公告</a></li>
+                  <li class="li0d"><a href="#" onmousemove="__show(4);">活动</a></li>
+                </ul>
+                <div class="news01">
+                  <ul>
+                
+                  
+                  <li><a href="http://zjh.feiliu.com/20150401/23379.shtml" target="_blank">激战愚人节！电影武侠手游《最江湖》今日封测</a><span class="date">04-01</span></li>
+                  
+                  <li><a href="http://zjh.feiliu.com/20150401/23378.shtml" target="_blank">打破头也想不到 《最江湖》武林大侠成长秘籍</a><span class="date">04-01</span></li>
+                                  </ul>
+                </div>
+              </div>

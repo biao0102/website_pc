@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_其他</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">战魂炼阵</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-21 18:50:25</span>
+																			</div>
+									<div class="w-d">
+										　　通过阵法可以将战魂战斗力附加到角色总战斗力中。<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140521/20140521184916_46741.jpg" /><br />
+<br />
+【阵法分为】<br />
+青龙阵（30级开放）<br />
+白虎阵（40级开放）<br />
+朱雀阵（50级开放）<br />
+玄武阵（60级开放）<br />
+<br />
+【炼阵时需要】<br />
+若干数量的铜钱<br />
+<br />
+【说明】<br />
+●每个阵型位置都能上阵一个战魂，主战魂不能进入阵型中。<br />
+●副战魂的属性会按照一定的百分比附加到角色身上，当阵型位的等级越高，那么加成的百分比就越高，炼阵最高为十二重，将100%战斗力附加到角色上<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140521/20140521185021_33903.jpg" />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+              <div class="top001" id="_showa1">
+                <ul class="buttonbg01">
+                  <li class="tk01"><a href="#">坦克展示</a></li>
+                  <li class="tk02"><a href="#" onmousemove="__showa(2);">基地建筑</a></li>
+                  <li class="tk02"><a href="#" onmousemove="__showa(3);">资源设施</a></li>
+                  <li class="tk02"><a href="#" onmousemove="__showa(4);">科研技术</a></li>
+                  <li class="tk02"><a href="#" onmousemove="__showa(5);">增益属性</a></li>
+                </ul>
+                <div class="tankzs">
+                 <span class="zhanshi01 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tanke/ArtilleryLv1.png" /><br />
+                  轻型自行火炮 </span>
+                   <span class="zhanshi01 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tanke/ArtilleryLv2.png" /><br />
+                  中型自行火炮 </span>
+                   <span class="zhanshi01 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tanke/ArtilleryLv3.png" /><br />
+                  重型自行火炮 </span>
+                   <span class="zhanshi01 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tanke/ArtilleryLv4.png" /><br />
+                 野蜂自行火炮 </span>
+                   <span class="zhanshi01 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tanke/ArtilleryLv5.png" /><br />
+                  黑豹自行火炮 </span>
+                   <span class="zhanshi01 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tanke/eluosiLv3.png" /><br />
+                 黑鹰 </span>
+                   <span class="zhanshi01 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tanke/RocketLv1.png" /><br />
+                  轻型火箭车 </span>
+                   <span class="zhanshi01 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tanke/RocketLv2.png" /><br />
+                  中型火箭车 </span>
+                   <span class="zhanshi01 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tanke/RocketLv3.png" /><br />
+                  重型火箭车</span>
+                   <span class="zhanshi01 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tanke/RocketLv4.png" /><br />
+                  冰雹火箭车 </span>
+                   </div>
+              </div>

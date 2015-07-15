@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="玩家推荐：白门楼之战5星通关攻略（困难，地狱，战神）_" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>玩家推荐：白门楼之战5星通关攻略（困难，地狱，战神） 攻城掠地_游戏攻略</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+							                                <div class="news_head news_head_gl">
+                                    <ul class="news_tab">
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_yxgl.shtml" class="current">攻略</a></li>
+                                        <li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_yxzl.shtml">资料</a></li>
+                                    </ul>
+                                    <p>所在位置： <a href="http://gc.feiliu.com/">首页</a> >> 攻略</p>
+                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">玩家推荐：白门楼之战5星通关攻略（困难，地狱，战神）</a></div>
+                                    <div class="news_date">发布时间：2014-05-22 14:51:05</div>
+                                    <div class="news_main">
+										<p class="MsoNormal" align="left" style="margin:6pt 0cm;background-position:initial initial;background-repeat:initial initial;">
+	<b>【单人剧本】白门楼之战</b><b>5</b><b>星通关攻略（困难，地狱，战神）</b><b><o:p></o:p></b>
+</p>
+<p class="MsoNormal">
+	白门楼之战副本已经出来两天了，昨天我试着通关为大家打开胜利之门。<br />
+白门楼之战副本不像以前，所有路线一直打到底，每个级别都会有不同的变化，不过守卫部队都很脆弱，所以过这个副本不需要太多影子，可以说平民副本了。<br />
+白门楼之战我方一共可以走两条路线<br />
+一线：小沛--徐州小径--徐州--邺城--白门楼<br />
+二线：丰县--外郊小径--下邳外郊--古道--下邳东郊--外城山--邺城--白门楼<br />
+简单普通都没关系，怎么打都可以过，两条路线都可以过，建议选一线，距离比较短。<br />
+困难副本必须选二线，因为在徐州会有32只部队在等你，绝对不可以打。<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	我的四个武将是 马超，黄忠（朱雀套），典韦，魏延<br />
+第一步，魏延进小沛（刘备NPC），小沛4支队伍，刷一个影子，典韦，黄忠进单挑<br />
+第二步，马超进丰县，丰县3支队伍，刷一个影子，这时黄忠单挑已经结束结束，迅速撤退满兵进丰县挑一个<br />
+第三步：典韦挑完撤退进丰县，这时的丰县应该只剩下一支队伍，然后典韦突进外郊小径（侯成NPC），小径四支队伍，刷一个影子，黄忠突进单挑一个<br />
+第四步：魏延这时已经打完小沛了，点刘备NPC，选择延缓曹军速度，记住这很重要，必须在第一时候打掉这个NPC，包括地狱跟战神都一样<br />
+第五步：会合马超一起进入外郊小径，马超突进下邳外郊，有4支队伍，刷一个影子，魏延黄忠突进分别单挑一个<br />
+第六步：典韦打完外郊小径点侯成NPC，奖励时间1分钟，跟进下邳外郊，突进古道，古道3支队伍，黄忠跟进单挑一个<br />
+第七步：外郊小径打完以后，下邳外郊会出现宋宪NPC，马超打完以后点NPC，宋宪投降，送外城山，跟进古道，突进下邳东郊，下邳东郊2支队伍<br />
+从第八步开始，困难副本跟地狱、战神就有区别了，先说困难副本<br />
+第八步：马超在下邳东郊不需要刷影子，只是保证第一时间到这里，尽快清完2支队伍，其他武将结束全部这里集合等着<br />
+第九步：下邳东郊打完点魏续NPC，魏续出兵攻打下邳，所有武将跟进，这时下邳守城军4支，魏续部队5支，基本可以全部突进，然后突进白门楼<br />
+第十步：很关键，进去先刷一个影子，基本就够了，然后查看在你前面有几个曹军队伍，守军几个，你单挑要确保守军比曹军多一支，否则他打下来你就输了<br />
+第十一步：等待战斗结束，领取奖励，这里着急没用，等曹军消耗光了你砍最后一刀。<br />
+<br />
+地狱副本<br />
+前面都不变，只是这里路线有变化了，徐州多了一个郭嘉NPC，你不能走下邳了，下邳都是精英守城军，32支<br />
+第八步：马超在下邳东郊刷一个影子，其他武将跟进，撤退到外城山，魏延打徐州，徐州四支队伍1-2个影子，后续部队跟进单挑，然后突进邺城，邺城3支队伍，刷个影子，后面黄忠突进单挑一个<br />
+第九步：徐州打完，郭嘉NPC，挖河改道，这样到广陵北的路就通了，马超突进广陵北刷2影子，广陵北6支队伍，其他武将突进单挑，能突进迅速突进白门楼，刷个影子，后面就一样了，保持守城军比曹军多一个的情况下单挑<br />
+<br />
+战神副本<br />
+这里又增加了两个NPC，分别是广陵北的张飞跟下邳的貂蝉，这个场景白门楼会有很多精英守城军，需要打貂蝉调出吕布，打张飞主要是断曹操的路，还能奖励一分钟时间<br />
+第八步：打徐州只派两个将，要包括黄忠，先刷影子，黄忠进单挑，其他两个将跟着魏续的兵进入下邳一人挑一个，下邳4支守军，挑完撤退进徐州单挑<br />
+第九步：时刻关注下邳的战况，要在第一时间点掉貂蝉的NPC，否则如果邺城打下来了，貂蝉NPC就消失了，任务基本就失败了，后面你是不可能打过去的，点了貂蝉的NPC要坚持1分30秒，而且在这个时间里要拿下白门楼，所以你的速度要快哦<br />
+第十步：这一路老样子继续进军广陵北，拿下点张飞NPC，曹操援军就过不来了，点张飞可以奖励一分钟，进白门楼老样子，挑完就等着看戏<o:p></o:p>
+</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

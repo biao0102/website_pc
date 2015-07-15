@@ -1,0 +1,8 @@
+<div class="nav asb">
+	<div class="navcon">
+		<a href="http://abs.feiliu.com/"><img src="http://js.feiliu.com/static/abc/web/images/nva01.png" alt="官网首页"></a>
+		<a href="http://abs.feiliu.com/list/abc_introduce.shtml"><img src="http://js.feiliu.com/static/abc/web/images/nva02.png" alt="游戏介绍"></a>
+		<a href="http://abs.feiliu.com/list/abc_list_col.shtml"><img src="http://js.feiliu.com/static/abc/web/images/nva03.png" alt="新闻公告"></a>
+		<a href="javascript:void(0);"><img src="http://js.feiliu.com/static/abc/web/images/nva04.png" alt="官方论坛"></a>
+	</div>
+</div>

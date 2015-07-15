@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>《战魂西游》合服公告</h1>
+                        <span>2014-10-09</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal">
+	尊敬的玩家：
+</p>
+<p class="MsoNormal">
+	大家好！《战魂西游》从上线至今，感谢各位和我们一起走过了这段非凡的西游之旅，共同见证《战魂西游》的进步和成长。
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	自开服以来，《战魂西游》受到了广大玩家的热评与追捧。同时我们也坚信《战魂西游》会越来越精彩，呈现给玩家更多新颖刺激的功能玩法，共同谱写玩家的西游炫斗之旅！
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	应广大玩家的强烈要求，为活跃游戏气氛，给玩家提供更好的游戏体验，服务器“<span lang="EN-US">S1</span>斗战胜佛”“<span lang="EN-US">S2</span>天蓬元帅”“<span lang="EN-US">S3</span>九天玄女”以及“<span lang="EN-US">X1</span>灵猴问世”“<span lang="EN-US">X2</span>大圣出山”“<span lang="EN-US">X3</span>威震四海”将于<span lang="EN-US">10</span>月<span lang="EN-US">11</span>日上午<span lang="EN-US">09</span>：<span lang="EN-US">30 </span>—<span lang="EN-US"> 16</span>：<span lang="EN-US">30</span>进行数据互通，如果合服提前完成，将直接对外开放，不再另行通知。
+</p>
+<p class="MsoNormal">
+	数据互通后，精彩纷呈的活动即将奉上，敬请期待！
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	战魂西游合服规则如下：
+</p>
+<p class="MsoNormal">
+	一、数据保留规则：
+</p>
+<p class="MsoNormal">
+	为了优化服务器，给各位玩家营造更好的游戏环境，我们决定在合服之前，对长时间没有登陆的游戏角色进行清理。
+</p>
+<p class="MsoNormal">
+	只要符合以下任何一种情况，都将保留账号：
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">1</span>）合服时，玩家等级<span lang="EN-US">25</span>级以上（<span lang="EN-US">25</span>级和<span lang="EN-US">25</span>级以下将会删除角色）。
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">2</span>）该角色有充值记录。
+</p>
+<p class="MsoNormal">
+	注：只要符合以上任何一种情况，都将保留角色。
+</p>
+<p class="MsoNormal">
+	若以上条件一个都不满足，则会被系统视为死号，将进行删号处理。
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	二、服务器处理规则：
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">1</span>、合服后，玩家的数据、状态、物品、金钱、综合实力等均保留不变；
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">2</span>、排行榜，根据合服后的玩家数据重新进行排名
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">3</span>、合服后竞技场排行榜重新打，雕像形象也回归系统
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	三、特殊情况处理规则：
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">1</span>、 同账号多服务器拥有角色处理规则
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp; </span>合服后登录入口将保持不变，保留原来的各服登录入口，玩家从哪个服登录就读取哪个服的角色。
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">2</span>、 角色名相同处理规则
+</p>
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<span lang="EN-US">&nbsp; &nbsp;&nbsp;</span>服务器合并后，如出现角色名相同的情况，将在名字前加上服务器前缀（如：<span lang="EN-US">1</span>服<span lang="EN-US">XXX</span>）。同时系统会给所有同名角色玩家发放角色更名卡，建议玩家重新更名。
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">3</span>、门派名相同处理规则
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp; &nbsp;</span>服务器合并后，如出现门派名相同的情况，将在门派前加上服务器前缀（如：<span lang="EN-US">1</span>服<span lang="EN-US">XXX</span>），同时系统会给所有重名门派的门派帮主发一张门派改名卡，建议门派重新更名。
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp; </span>
+</p>
+<p class="MsoNormal">
+	四、充值和游戏进入方式
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	合服结束后，玩家充值和进入游戏不受影响。玩家可选择角色后，进入游戏，直接购买元宝或领取月卡的元宝奖励。
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span>
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

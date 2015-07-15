@@ -1,0 +1,57 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			游戏攻略
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			游戏攻略
+	        				        		</div>
+	    			<div class="infotitle">《就是要三国》故事背景</div>
+		        	<div class="textTime">2015-01-09</div>
+		    		<div class="article">
+						<p class="MsoNormal" style="text-indent:21.0pt;">
+	公元<span lang="EN-US">168</span>年，汉灵帝刘宏登基继位，改年号建宁。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	汉灵帝昏庸荒淫，更卖官鬻爵搜刮钱财以供自己享乐。其时已为东汉末期，政局动乱，民间灾祸泛滥，百姓民不聊生，国势更为衰败。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	公元<span lang="EN-US">180</span>年，汉灵帝力排众议，立何氏为皇后。何氏的同父异母大哥何进以外戚身份入仕为官，担任要职，自此何氏家族荣极一时。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	公元<span lang="EN-US">184</span>年，太平道教主张角发动黄巾起义，天下八州太平道教徒揭竿而起，烧毁官府，杀害吏士，州郡纷纷失守，震动京都。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	汉灵帝急忙任何进为大将军，率左右羽林五营士驻扎于都亭，镇守京师，并命各州郡准备作战，并四处招募义军，以镇压黄巾军。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	天下豪杰纷纷聚集，所谓乱世出英雄，英雄造时势。我的故事，就是从何进大将军麾下的义军开始的。自何进大军击溃黄巾主力后命我组织新军收拾黄巾贼残部。不了在我剿灭黄巾贼之后何将军确遭十常侍祸害而死，毫不知情的我只能仓皇逃出皇城。在攻下一座小城之后我开始有了自己的立身之地，我的主公生涯从此开始了。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	是割据一方便心满意足？还是继续南征北战以谋天下！<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="text-indent:18.0pt;">
+	我定不负天下人，但我亦不愿天下人负我！<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" style="text-indent:18.0pt;">
+	逐鹿中原，争霸天下，尽在你手！<span lang="EN-US"><o:p></o:p></span> 
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

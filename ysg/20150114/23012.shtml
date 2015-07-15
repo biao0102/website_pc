@@ -1,0 +1,65 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			新闻中心
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			新闻中心
+	        				        		</div>
+	    			<div class="infotitle">全新三国卡牌手游《就是要三国》越狱封测开启</div>
+		        	<div class="textTime">2015-01-14</div>
+		    		<div class="article">
+						&nbsp;&nbsp;&nbsp;&nbsp;官渡的战场、赤壁的硝烟让我们难忘历史的辉煌，2015年三国题材手游依旧火爆！飞流（FL Mobile）全新手游大作《<span>就是要三国</span>》今日开启越狱封测！《<span>就是要三国</span>》不仅继承了传统三国策略卡牌手游的精髓，又加入了独有的“将、帅、谋”武将切换系统，让你更轻松的融入到运筹帷幄的乐趣之中。<br />
+<br />
+<span>《<span>就是要三国</span>》官方网站：http://ysg.feiliu.com/</span><br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;【将帅谋随心切换 张飞也能当军师】<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;在《<span>就是要三国</span>》中，玩家麾下的每位将领都拥有帅、将、谋三大职业，在安排上阵时，玩家可以自由切换将领的职业。武将担任帅时，可以将行动点分配给将、谋，而将和谋则将使用行动点发出不同的技能。同样的将领，不同的阵容搭配、不同的职业搭配会产生完全不同的效果，玩家也可以在自由的策略选择中感受到更加丰富多彩的游戏体验。<br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;【超可爱Q版造型 三国悍将来卖萌】<br />
+<br />
+<span>&nbsp; &nbsp;&nbsp;</span><span>以三国历史为背景的《<span>就是要三国</span>》力求让人们拥有轻松游戏的乐趣，在对三国时代诸多名望实力俱佳的武将、城池、士兵、装备等等视觉元素进行全新塑造时，采用了Q版这一卡通型的风格。清新的风格不止能大幅减低玩家长时间游戏的视觉疲劳，可爱的外形更会让心情愉悦。</span><br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;【战场厮杀不休 只为乱世称霸天下】<br />
+<br />
+<span>&nbsp; &nbsp;&nbsp;</span><span>三国为主题，那么征战必然不休！《<span>就是要三国</span>》PVE、PVP两大战斗系统纯正还原了硝烟弥漫的古代战场。PVE中，玩家可以穿越三国历史，亲手主导历史战役，挑战一个个对手；PVP系统中的出征、讨伐对方阵营城池来获取声望、功勋、经验和游戏币强大自身，参加官位战争夺官位称号来开启科技，冲刺更高排名。激烈、酷炫的战斗，玩家间智慧的博弈都将在《<span>就是要三国</span>》中一一呈现，让人体验到趣味无穷又激情的游戏快感！</span><br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+<br />
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;《<span>就是要三国</span>》的游戏核心就是策略，无论是领地发展，还是将领培养，都需要玩家们三思而后行！全新三国卡牌手游《<span>就是要三国</span>》越狱封测今日开启，一骑当千，等你来战~<br />
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

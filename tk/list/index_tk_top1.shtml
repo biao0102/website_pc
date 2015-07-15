@@ -1,0 +1,23 @@
+            <img src="http://js.feiliu.com/static/tkdz/images/img01.png" alt="" />
+            <img src="http://js.feiliu.com/static/tkdz/images/img02.png" alt="" />
+            <img src="http://js.feiliu.com/static/tkdz/images/img03.png" alt="" />
+            <img src="http://js.feiliu.com/static/tkdz/images/img04.png" alt="" />
+            <div class="down">
+                <div class="down_box">
+                    <a href="#" class="btn01" id="btn01">IOS版下载</a>
+                    <a href="#" class="btn02" id="btn02">越狱版下载</a>
+                    <a href="#" class="btn03" id="btn03">安卓版下载</a>
+					<div class="erweima" id="erweima01">
+                        <!--<a href="javascript:;" class="close"></a>-->
+                        <img id="ioserweima" src="" alt="" />
+                    </div>
+                    <div class="erweima" id="erweima02">
+                        <!--<a href="javascript:;" class="close"></a>-->
+                        <img id="yyerweima" src="" alt="" />
+                    </div>
+                    <div class="erweima" id="erweima03">
+                        <!-- <a href="javascript:;" class="close"></a>-->
+                        <img  id="androiderweima" src="" alt="" />
+                    </div>
+                </div>
+            </div>	

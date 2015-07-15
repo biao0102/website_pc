@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》魂骨系统介绍_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》魂骨系统介绍</h2>
+          <p>&nbsp; &nbsp; &nbsp; “魂骨”是《战魔》游戏养成系统中相当重要的核心部分，我们知道，目前游戏中除了装备的强化和锻造、人物角色的培养和技能，心法的修炼和选择，还想进一步提升角色战力，那么就需要对“魂骨”进行培养了。魂骨的培养可以说效果是非常明显的。想要顺利通过困难关卡、竞技场打败对方、想要立竿见影的提升角色战力，那么深度培养“魂骨”功能绝对是您的不二选择。<br />
+<br />
+1、魂骨的品质与属性<br />
+&nbsp; &nbsp; &nbsp; 魂骨共有6种品质，分别是灰、绿、蓝、紫、红。魂骨品质越高，同等级下，所加的属性就越多。魂骨的品质不可提升。灰色品质魂骨无属性，无法装备，只能被吞噬。<br />
+<br />
+&nbsp; &nbsp; &nbsp; 魂骨共有9种属性，分别是：物攻、物防、附伤、免伤、血量、命中、闪避、暴击、韧性。<br /><img src="http://i0.feiliu.com/image/20140919/20140919155812_52509.png" alt="" /><br />
+2、魂骨界面<br />
+魂骨界面包括：魂骨搜寻界面与魂骨背包界面。<br />
+<br />
+魂骨搜寻界面<br />
+一键搜魂：系统自动帮你搜魂，直至搜魂界面满<br />
+一键融合：将当前搜魂界面的魂骨按吞噬规则浓缩成一个魂骨<br />
+一键拾取：将搜魂界面的魂骨存放在魂骨背包里<br />
+<br />
+<br />
+魂骨背包界面<br /><img src="http://i0.feiliu.com/image/20140919/20140919155830_13082.png" alt="" /><br />
+魂骨栏：共8个空位，玩家30级时开启第一个空位，41级时开启第2个空位，此后每10级开启一个。每个空位只可放置一个魂骨，每种魂骨在魂骨栏只可以放置一种，魂骨放置在魂骨栏后可取下或更换。<br />
+<br />
+魂骨存放：可将搜寻获得的魂骨或是角色身上取下的魂骨存储至此。<br />
+<br />
+3、魂骨碎片兑换<br />
+在搜魂过程中，有几率获得魂骨碎片。碎片可用于兑换高品质的魂骨。<br />
+<br />
+4、魂骨升级<br />
+魂骨初始等级都为1，并拥自身拥有初始经验。获得相应的经验，即可提升魂骨的等级。魂骨的经验获取只有通过吞噬，高品质的吞噬低品质，高等级吞噬低等级。<br />
+<br />
+<br /></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

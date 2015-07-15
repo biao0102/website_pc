@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_其他</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">战魂培养</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-21 18:46:46</span>
+																			</div>
+									<div class="w-d">
+										【战魂属性分类】武器属性，盔甲属性和令牌属性。<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140521/20140521184246_32568.jpg" /><br />
+<br />
+【培养时需要】<br />
+若干数量的战魂灵石<br />
+●一级战魂灵石（1-30级战魂等级）<br />
+●二级战魂灵石（31-60级战魂等级）<br />
+●三级战魂灵石（61-100级战魂等级）<br />
+<br />
+【战魂灵石获得途径】<br />
+●通过【边境BOSS】【地宫夺宝】【千里走单骑】活动获得<br />
+●通过兑换商人使用其他低级或高级的战魂灵石合成或分解<br />
+●通过封灵获得<br />
+●通过商城购买<br />
+<br />
+说明：<br />
+●封灵不同品质，不同等级的战魂可获得不同数量的战魂灵石<br />
+<br />
+<br />
+<br />
+【武器属性】<br />
+武器等级，攻击，暴击，风系攻击，火系攻击，雷系攻击<br />
+（升级消耗一定数量的魂器灵石，武器等级不能超过战魂等级）<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140521/20140521184521_70425.jpg" /><br />
+<br />
+【盔甲属性】<br />
+盔甲等级，防御，闪避，风系抗性，火系抗性，雷系抗性<br />
+（升级消耗一定数量的魂器灵石，盔甲等级不能超过战魂等级）<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140521/20140521184546_89901.jpg" /><br />
+<br />
+【令牌属性】<br />
+令牌等级，生命，命中，免暴 <br />
+（升级消耗一定数量的魂器灵石，令牌等级不能超过战魂等级）<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140521/20140521184616_81205.jpg" /><br />
+<br />
+魂器灵石获得途径：<br />
+●通过【边境BOSS】【地宫夺宝】【蛮族入侵】活动获得<br />
+●通过兑换商人使用其他低级或高级的战魂灵石合成或分解<br />
+●通过商城购买
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

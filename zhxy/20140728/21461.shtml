@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>1服获奖名单</h1>
+                        <span>2014-07-28</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal">
+	亲爱的玩家<span>:</span> 
+</p>
+<p class="MsoNormal">
+	【战魂西游】最激动人心的两大活动登天竞技<span>&amp;</span>冲级王者活动现已截止，获奖名单更是新鲜出炉！小伙伴们快来围观吧！大神就在我们身边哦！<span></span> 
+</p>
+<p class="MsoNormal" align="left">
+	------------------------------------------------------------
+</p>
+<p class="MsoNormal">
+	<b>活动：登天竞技<span></span></b> 
+</p>
+<p class="MsoNormal">
+	<b>S1-</b><b>斗战圣佛</b> 
+</p>
+<p class="MsoNormal" align="left">
+	<b><img src="http://i0.feiliu.com/image/20140728/20140728113742_64366.jpg" alt="" /><br />
+<br />
+X1-</b><b>灵猴问世<br />
+</b> 
+</p>
+<p class="MsoNormal" align="left">
+	<b><img src="http://i0.feiliu.com/image/20140728/20140728113823_56992.jpg" alt="" /><br />
+活动：冲级王者</b>------------------------------------------------------------
+</p>
+<p class="MsoNormal">
+	<b>S1-</b><b>斗战圣佛<span></span></b> 
+</p>
+<p class="MsoNormal" align="left">
+	<b><img src="http://i0.feiliu.com/image/20140728/20140728113912_14111.jpg" alt="" /><br />
+X1-</b><b>灵猴问世</b> 
+</p>
+<p class="MsoNormal" align="left">
+	<span><img src="http://i0.feiliu.com/image/20140728/20140728113945_38064.jpg" alt="" /><br />
+------------------------------------------------------------</span> 
+</p>
+<p class="MsoNormal">
+	<b>【温馨提示】：<span></span></b> 
+</p>
+<p class="MsoNormal">
+	<b>1.</b><b>活动奖励已发放，如有未收到奖励的情况，请与官方<span>Q</span>群管理员联系。官方<span>Q</span>群号：<span>234643062</span>。战魂西游官方<span>Q</span>群管理员：<span>2759776198</span>。<span></span></b> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

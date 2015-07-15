@@ -1,0 +1,46 @@
+<!--头部公共文件模块开始-->
+	<!--#include virtual="/list/abc_index_topfile.shtml"-->
+<!--头部公共文件模块结束-->
+<body>
+<div class="wrap minwidth rel">
+	<!--公共导航模块开始-->
+		<!--#include virtual="/list/abc_index_nav.shtml"-->
+	<!--公共导航模块结束-->
+	<div class="contain minwidth rel">
+		<div class="con920">
+			<div class="subtop rel">
+				<img src="http://js.feiliu.com/static/abc/web/images/zhu.png" alt="" class="zhu asb">
+			</div>
+			<div class="subline">
+				<div class="newstxt">
+					<div class="infotitle">《愤怒的小鸟嘉年华》登陆中国，NBA篇章独家巨献</div>
+					<div class="article"><p class="MsoNormal" align="center" style="text-align:left;">
+	<span>&nbsp; &nbsp; &nbsp; &nbsp;</span><span >边度新春边玩怒鸟，边看</span><span >NBA</span><span >边打萌猪！久负盛名的“愤怒的小鸟”又给中国玩家带来一份大礼——《愤怒的小鸟嘉年华》，</span><span >3</span><span >月</span><span >12</span><span >日在各大安卓商店同时首发，安卓手机用户均可下载。游戏特别为中国用户设计了“唐装春节”篇章共</span><span >15</span><span >大关，以及与</span><span >NBA 2014-2015</span><span >赛季同步推出的“</span><span >NBA</span><span >灌篮番外篇”共</span><span >45</span><span >大关，特别奉献给玩家！</span>
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	《愤怒的小鸟嘉年华》下载地址：<span>http://abc.feiliu.com/download?cid=300021&amp;type=5&nbsp;<br />
+<br /><img src="http://i0.feiliu.com/image/20150316/20150316121532_30879.jpg" alt="" /></span>
+</p></div>
+				</div>
+			</div>
+			<div class="subbottom"></div>
+		</div>
+		<!--底部公共模块开始-->
+			<!--#include virtual="/list/abc_index_foot.shtml"-->
+		<!--底部公共模块结束-->
+	</div>
+</div>
+<!--右侧漂浮模块开始-->
+	<!--#include virtual="/list/abc_index_float.shtml"-->
+<!--右侧漂浮模块结束-->
+<!--底部公共js文件模块开始-->
+	<!--#include virtual="/list/abc_index_jsfile.shtml"-->
+<!--底部公共js文件模块结束-->
+</body>
+</html>

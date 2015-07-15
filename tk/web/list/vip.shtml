@@ -1,0 +1,120 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+	<div class="subwrap minwidth">
+		<div class="subcontain minwidth rel">
+			<div class="vipcon1120">
+				<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+				<div class="conri fltt">
+					<div class="vipcon">
+						<ul>
+							<li class="v01">
+								<div class="bt01"><img src="http://js.feiliu.com/static/tk/web0506/images/VIP_01.jpg" alt=""></div>
+								<p class="vt01 vmt01">
+									《战地坦克》运营团队特别推出战地坦克贵宾俱乐部，以回报广大玩家对我们游戏的支持和厚爱，我们将有最优质的服务，最真诚的态度来为广大的指挥官大人进行极致的服务体验。
+								</p>
+							</li>
+							<li class="v01">
+								<div class="bt01 vp01"><img src="http://js.feiliu.com/static/tk/web0506/images/VIP_02.jpg" alt="" class="cpmt"></div>
+								<p class="vt01 vmt02 rel">
+									自开服之日起在游戏内达到VIP7的指挥官大人，联系官方客服：800032234.告知我们您的：账号，角色名，渠道，区服，ID，以及您的VIP等级。我们将帮您审核，审核通过，工作人员会在5个工作日之内和您取得联系，并邀请您加入《战地坦克》VIP俱乐部。未审核通过的玩家，我们将通过官方客服和您取得联系，告知您未审核通过的情况。
+									<span class="asb">官方客服：800032234</span>
+								</p>
+							</li>
+							<li class="v02">
+								<div class="bt02"><img src="http://js.feiliu.com/static/tk/web0506/images/VIP_03.jpg" alt=""></div>
+								<div class="tqcon tql">
+									<h2>专项1对1服务</h2>
+									<span>不限建议，<br>咨询、<br>牢骚抱怨，<br>游戏内外话题均可畅聊。</span>
+								</div>
+								<div class="tqcon">
+									<h2>快捷处理问题</h2>
+									<span>第一时间完<br>成VIP成员的<br>游戏问题，<br>实时跟进，<br>高效便捷。</span>
+								</div>
+								<div class="tqcon">
+									<h2>咨询优先知悉</h2>
+									<span>新活动信息<br>第一时间<br>传达贵宾，<br>新版本<br>更新的时间<br>和更新内容<br>第一时间知晓</span>
+								</div>
+								<div class="tqcon">
+									<h2>意见建议直通</h2>
+									<span>不限建议，<br>咨询、<br>牢骚抱怨，<br>游戏内外话题均可畅聊。</span>
+								</div>
+								<div class="tqcon">
+									<h2>活动优先邀请</h2>
+									<span>有相关活动，<br>赛事，<br>聚会等VIP贵宾<br>优先被邀请。</span>
+								</div>
+							</li>
+							<li class="v03">
+								<div class="bt03"><img src="http://js.feiliu.com/static/tk/web0506/images/VIP_04.jpg" alt=""></div>
+								<p class="vt03 vmt03">
+									每位VIP贵宾，需要自行联系官方客服加入后即可得到一份战地坦克高V福利礼包。
+								</p>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>			
+		</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

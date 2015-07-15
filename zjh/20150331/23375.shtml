@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>侠客系统_游戏攻略_最江湖官方网站</title>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/stop.jpg"  alt="新闻"/></h2>
+          </div>
+          <div class="clear"></div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle" style="color:#704e33;">侠客系统</div>
+              <div class="textTime"><span style="float:left; color:#393939; width:80px; padding-left:90px;">2015-03-31 23:10:44</span><span style="width:380px; float:right; padding-top:10px">
+                <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span></div>
+                <p></p>
+                <p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	侠客介绍<br />
+<span style="text-indent:0cm;">侠客能够跟随主角进行战斗，在</span><span style="text-indent:0cm;">PVP</span><span style="text-indent:0cm;">和</span><span style="text-indent:0cm;">PVE</span><span style="text-indent:0cm;">战斗中都能贡献出超强的战斗能力。<br />
+</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	侠客类型<br />
+<span style="text-indent:-21pt;">按照品质，侠客分为：绿、蓝、紫、金、橙五种，绿色侠客最差，目前橙色侠客最强。通过侠客洗髓可以提升侠客品质，品质影响侠客的属性成长率<br />
+</span>
+</p>
+<div style="text-align:center;">
+	<span style="text-indent:-21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331230406_21832.jpg" width="400" height="267" alt="" style="text-indent:-21pt;" /><br />
+<span style="text-align:left;text-indent:-21pt;">&nbsp;</span><span style="text-align:left;text-indent:-21pt;">按照布阵站位，侠客分为：前、中、后三种。不同位置放置不同人数会有属性加成哦：前排降低被攻击伤害，增加生命，增加被治疗效果；中排增加攻击；后排增加速度。一般而言，建议大家前排放置肉盾、中排为输出</span><span style="text-align:left;text-indent:-21pt;">/</span><span style="text-align:left;text-indent:-21pt;">控制、后排则为治疗</span><span style="text-align:left;text-indent:-21pt;">/</span><span style="text-align:left;text-indent:-21pt;">控制。<br /><img src="http://i0.feiliu.com/image/20150331/20150331230441_37684.jpg" width="400" height="267" alt="" /><br />
+	<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+		侠客等级<br />
+<span style="text-indent:-21pt;">侠客可以与主角一起战斗获取经验进行升级，侠客等级无法超越主角等级。<br />
+</span><span style="text-indent:-21pt;">&nbsp;</span><span style="text-indent:-21pt;">侠客还可以使用经验球快速获取经验，经验球可以在天狼谷等副本中获取。在英雄谱中点击红框处即可进入经验球使用界面。<br />
+</span>
+	</p>
+	<div style="text-align:center;">
+		<span style="text-indent:-21pt;"><br />
+</span><img src="http://i0.feiliu.com/image/20150331/20150331230535_55478.jpg" width="400" height="267" alt="" style="text-indent:-21pt;" /><br />
+		<div style="text-align:left;">
+			<span style="text-indent:-21pt;"></span><span style="text-indent:-18pt;">&nbsp; &nbsp; &nbsp; &nbsp;侠客的获得<br />
+</span><span style="text-indent:-21pt;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="text-indent:-21pt;">雷破天、夺命书生、唐小玲</span><span style="text-indent:-21pt;">3</span><span style="text-indent:-21pt;">个主线剧情侠客，在主线剧情达到相应等级时可以自动获得。</span><span style="text-indent:-21pt;">&nbsp;</span><span style="text-indent:-21pt;">聚贤庄中，可以使用令牌兑换相 &nbsp; &nbsp; 应级别的蓝</span><span style="text-indent:-21pt;">(</span><span style="text-indent:-21pt;">江湖令</span><span style="text-indent:-21pt;">)</span><span style="text-indent:-21pt;">、紫</span><span style="text-indent:-21pt;">(</span><span style="text-indent:-21pt;">侠义令</span><span style="text-indent:-21pt;">)</span><span style="text-indent:-21pt;">、金</span><span style="text-indent:-21pt;">(</span><span style="text-indent:-21pt;">火云令</span><span style="text-indent:-21pt;">)</span><span style="text-indent:-21pt;">、橙</span><span style="text-indent:-21pt;">(</span><span style="text-indent:-21pt;">至尊令</span><span style="text-indent:-21pt;">)</span><span style="text-indent:-21pt;">色侠客。<br />
+			<div style="text-align:center;">
+				<span style="text-indent:-21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331230642_27225.jpg" width="400" height="267" alt="" style="text-indent:-21pt;" />
+				<p class="MsoNormal" align="center" style="text-align:left;">
+					同一<span >品质侠客招募次数会影响下一次招募所需令牌数的哦，在招募时一定要慎重选择。<br />
+</span>
+				</p>
+				<p class="MsoListParagraph" style="margin-left:42.0pt;text-indent:-21.0pt;">
+					<span >令牌的获得：天狼谷、血战江湖等活动副本每天都会产出大量的侠客令牌，也可以通过博戏坊消耗银两押注抽取令牌，</span><span >70</span><span >级之后还可以直接给侠客敬酒获得至尊令牌。<br />
+</span>
+				</p>
+				<div style="text-align:center;">
+					<span style="text-indent:-21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331230734_33672.jpg" width="400" height="267" alt="" style="text-indent:-21pt;" />&nbsp;
+					<p class="MsoNormal" align="center" style="text-align:center;">
+						<br />
+					</p>
+					<div style="text-align:left;">
+						<span style="text-indent:-21pt;">&nbsp; &nbsp; &nbsp; &nbsp;天狼谷击杀</span><span lang="EN-US" style="text-indent:-21pt;">BOSS</span><span style="text-indent:-21pt;">、开令牌宝箱均可获得令牌！使用天皇令</span><span lang="EN-US" style="text-indent:-21pt;">/</span><span style="text-indent:-21pt;">财神令可获多倍效果&nbsp;</span>
+					</div>
+					<div style="text-align:left;">
+						<span style="text-indent:-21pt;">&nbsp; &nbsp; &nbsp; &nbsp;特殊侠客：首次充值可以获得紫色侠客飞天蝙蝠；次日登陆即可领取紫色侠客小师妹；<br />
+						<div style="text-align:left;">
+							<span style="text-indent:-21pt;"></span><span style="text-indent:-18pt;">&nbsp; &nbsp; &nbsp; &nbsp;侠客洗髓 &nbsp;<br />
+</span><span style="text-indent:-21pt;">&nbsp;</span><span style="text-indent:-21pt;">80</span><span style="text-indent:-21pt;">级开启天机塔之后，挑战第</span><span style="text-indent:-21pt;">16</span><span style="text-indent:-21pt;">、</span><span style="text-indent:-21pt;">21</span><span style="text-indent:-21pt;">、</span><span style="text-indent:-21pt;">26</span><span style="text-indent:-21pt;">、</span><span style="text-indent:-21pt;">31</span><span style="text-indent:-21pt;">、</span><span style="text-indent:-21pt;">36</span><span style="text-indent:-21pt;">、</span><span style="text-indent:-21pt;">41</span><span style="text-indent:-21pt;">、</span><span style="text-indent:-21pt;">46</span><span style="text-indent:-21pt;">层天机塔将有机会进入密室</span><span style="text-indent:-21pt;">—</span><span style="text-indent:-21pt;">洗髓殿。<br />
+</span><span style="text-indent:-21pt;">洗髓殿乃是侠客伐筋洗髓之地，可对玩家的侠客进行洗髓提升侠客品质。每位侠客每天只能进行</span><span style="text-indent:-21pt;">1</span><span style="text-indent:-21pt;">次洗髓，洗髓成功则可以直接提升侠客品质，比如把紫色提升为金色。<br />
+							<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+								侠客传功
+							</p>
+							<p class="MsoListParagraph" style="margin-left:42.0pt;text-indent:-21.0pt;">
+								可以将已经上阵侠客的根骨、心法、粹体属性传给其他侠客，但等级不会穿
+							</p>
+							<p class="MsoListParagraph" style="margin-left:42.0pt;text-indent:-21.0pt;">
+								<span>&nbsp;</span>每个侠客每天只能参与一次传功
+							</p>
+							<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+								根骨、心法和天魔粹体<br />
+<span style="text-indent:-21pt;">具体养成方式与主角一样，具体请见主角相关介绍</span>
+							</p>
+							<p class="MsoListParagraph" style="margin-left:42.0pt;text-indent:-21.0pt;">
+								在替换侠客时，还可以将侠客的根骨、心法和天魔粹体次数通过侠客传功传承给新侠客，所以您可以放心的养成哦！
+							</p>
+							<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+								<span>&nbsp;</span>基础属性与成长率
+							</p>
+							<p class="MsoListParagraph" style="margin-left:42.0pt;text-indent:-21.0pt;">
+								基础属性越高，表示侠客<span>1</span>级时的属性越强；成长属性越强，表示侠客成长的潜力越高
+							</p>
+							<p class="MsoListParagraph" style="margin-left:42.0pt;text-indent:-21.0pt;">
+								侠客属性表
+							</p>
+							<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+								侠客武功<span>/</span>绝技<br />
+<span style="text-indent:-21pt;">&nbsp;</span><span style="text-indent:-21pt;">武功是主动技能，在内力满额时可以出发武功；绝技是被动技能</span>
+							</p>
+							<p class="MsoListParagraph" style="margin-left:42.0pt;text-indent:-21.0pt;">
+								&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+							</p>
+</span><span style="text-indent:-21pt;"><br />
+</span>
+						</div>
+</span>
+					</div>
+				</div>
+			</div>
+</span><span style="text-indent:-18pt;"><br />
+</span><span style="text-indent:-21pt;"><br />
+</span>
+		</div>
+	</div>
+</span><span style="text-indent:-21pt;"><br />
+</span><br />
+<span style="text-indent:-21pt;"></span>
+	<p>
+		<br />
+	</p>
+</div>
+<p>
+	<br />
+</p>
+<p>
+	<br />
+</p> 
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

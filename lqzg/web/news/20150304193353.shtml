@@ -1,0 +1,168 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>龙骑战歌官方网站</title> 
+    <meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+    <meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<link href="http://js.feiliu.com/static/lqzg/web0525/css/index.css?v=4" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/slides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/index.js?v=1"></script>
+<script>
+        function getArgs()
+        {
+            var argsArr = new Object();
+            var query = window.location.search;  
+            query = query.substring(1);
+            var pairs = query.split("&");
+            for(var i=0;i<pairs.length;i++)
+            {
+                var sign = pairs[i].indexOf("="); 
+                if(sign == -1)
+                {
+                    continue; 
+                }
+                var aKey = pairs[i].substring(0,sign);
+                var aValue = pairs[i].substring(sign+1);         
+                argsArr[aKey] = unescape(aValue);
+
+            }
+            return argsArr;
+        }
+
+        var param = new Object();
+        param = getArgs();
+        var source = param.s;
+
+        if(!source)
+        {
+            source = '300021';
+        }
+
+
+		function isMobile(args) {
+			var sUserAgent= navigator.userAgent.toLowerCase();
+			var bIsIpad= sUserAgent.match(/ipad/i) == "ipad";
+			var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsMidp= sUserAgent.match(/midp/i) == "midp";
+			var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+			var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb";
+			var bIsAndroid= sUserAgent.match(/android/i) == "android";
+			var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce";
+			var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile";
+			if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) 
+			{
+				window.location.href= 'http://lqzg.feiliu.com/wap/list/index.shtml?s='+source;
+			}
+		}
+		isMobile();
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
+<body>
+<div class="page">
+    <div class="nav">
+    <div class="nav-con">
+        <a href="http://lqzg.feiliu.com/index.shtml"><img src="http://js.feiliu.com/static/lqzg/web0525/images/logo.png" alt="logo" class="logo" /></a>
+        <ul>
+            <li><a href="http://lqzg.feiliu.com/web/list/home.shtml">首页</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml">新闻公告</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/index.shtml">玩法特色</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/notice.shtml">职业介绍</a></li>
+            <li><a href="javascript:alert('敬请期待');">游戏活动</a></li>
+            <li><a href="http://bbs.8783.com/forum-178-1.html">论坛</a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="public-top"></div>
+    <div class="public-con">
+        <div class="public-box">
+            <div class="public-left">
+    <div class="public-code">
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="ios-link"></a>
+        <a href="http://lqzg.feiliu.com/download?cid=300021&type=5" class="android-link"></a>
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="raiders-link"></a>
+        <div>
+            <p>扫一扫关注龙骑战歌</p>
+            <img src="http://js.feiliu.com/static/lqzg/web0525/images/public-code.jpg" />
+        </div>
+    </div>
+    <ul class="public-adv">
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114758.jpg" alt="" /></a></li>
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114939.jpg" alt="" /></a></li>
+        <li><a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150526115157.jpg" alt="" /></a></li>
+    </ul>
+</div>
+            <div class="public-right">
+                <div class="public-title">
+                    <h5>新闻公告</h5>
+                    <a href="http://lqzg.feiliu.com/web/list/newslist.shtml"><<返回</a>
+                </div>
+                <div class="newsDetail">
+                    <h5>霸气侧漏！《龙骑战歌》最新人物原画公布</h5>
+                    <dl>
+                        <dt>发布于<span>2015-03-04 19:33:53</span></dt>
+                        <dd><span>分享到</span><div><a href="javascript:void(0);" class="weixin"></a><a href="javascript:void(0);" class="qzone"></a><a href="javascript:void(0);" class="tsina"></a><a href="javascript:void(0);" class="tqq"></a><a href="javascript:void(0);" class="renren"></a></div></dd>
+                    </dl>
+                    <div class="newsDetail-con">
+                        <p>由墨麟倾力研发、飞流全平台独家代理发行的《龙骑战歌》即将在2015年初震撼亮相！作为一款ARPG骑战新纪元手游，《龙骑战歌》独创了陆空双骑乘战斗的全新战斗模式，让玩家可以操纵圣骑士、狂战士、魔法师、刺客四大职业体验立体化战斗的惊心体验。作为游戏主角的四大职业已经广为人知，但他们的原画却从未公开。现在，让我们一起欣赏圣骑士“埃文尼·普利司通”原画，深入探访他的世界吧！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193325.jpg" title="20150416193325.jpg" alt="图1：《龙骑战歌》圣骑士原画曝光.jpg"/></p><p><br/></p><p>【年轻的圣独角兽骑士团成员】</p><p><br/></p><p>&nbsp; 埃文尼·普利司通出生于圣雷因斯教国一个虔诚的小商人家庭，虽然家境并不富裕，埃文尼的父亲仍然每周坚持为教会提供数额可观的布施。父亲的虔诚对小埃文尼起到了很大的影响，当年满十六岁时，埃文尼靠着自己的虔诚和努力通过了标准严格的考核，顺利成为一名见习圣骑士。在经过了三年的磨练后，成为正式圣骑士的埃文尼接受特别推荐，加入了法王厅直属武装，圣独角兽骑士团。年轻的埃文尼上任后第一个任务，便是前往南海都市联盟调查有关灰烬神教的阴谋。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193331.jpg" title="20150416193331.jpg" alt="图2：年轻的圣独角兽骑士团成员.jpg"/></p><p><br/></p><p>【手持圣剑的正义使者】</p><p><br/></p><p>&nbsp; 圣骑士秉持谦恭、正直、怜悯、英勇、公正、牺牲、荣誉、灵魂八大美德，为了亿万生灵的未来，世间的正义敢于面对一切的危险和邪恶。在《龙骑战歌》中，圣骑士是恪守正义的战士，他们通常信仰雷霆和公正之神多恩。通过坚定的信仰，他们可以借用多恩的力量使用神圣雷霆，对邪恶和不净的生物进行致命的打击，维护大陆的秩序与和平。除了雷电系的神术，圣武士也必须精通剑术，因为破坏秩序与正义的并不只有恶魔和亡灵，也包括被邪恶占据心灵的人类，矮人，兽人甚至精灵。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193341.jpg" title="20150416193341.jpg" alt="图3：手持圣剑的正义使者.jpg"/></p><p><br/></p><p>【神圣雷霆的执行者】</p><p><br/></p><p>&nbsp; 圣骑士所使用的武技已经过数百年的完善和实战锤炼，形成了独特的风格。在剑上附带神圣力量的“破邪斩”和可以远程打击的雷电系神术是圣骑士必须修习的基础技能，召唤神圣雷霆打击大范围敌人的“雷电”的技能则是圣骑士的高阶技能，只有技艺娴熟的圣骑士才能随意施展这类招式。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193350.jpg" title="20150416193350.jpg" alt="图4：进入官网 享受预约大礼包.jpg"/></p><p><br/></p><p>&nbsp; 秉持世间的公正，惩罚一切的邪恶，如果你想在《龙骑战歌》中化身圣骑士，手持圣剑骑乘巨龙驰骋天下，那就快来官网预约，抢先获得大礼包，为了战斗做好准备吧！</p><p><br/></p>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-con">
+            <p>About.us | Copy right@北京飞流九天科技有限公司</p>
+            <p>爱游戏，爱生活，也爱美女。</p>
+            <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+            <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+            <p>Love is love!</p>
+        </div>
+    </div>
+</div>
+    <script>
+        var link = $('.android-link').attr('href');
+        if(!link)
+        {
+        	$('.android-link a').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }else{
+        	$('.android-link').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }
+        
+        $('a').click(function(e){
+            var url = $(this).attr('href');
+            if(url != 'javascript:void(0);' && url != "javascript:;");
+            {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                if(url.indexOf('?') > -1)
+                {
+                    var tourl = url + '&s='+source;
+                } else {
+                    var tourl = url + '?s='+source;
+                }
+                window.location.href = tourl;   
+            }
+        });
+
+
+    </script>
+    <script>$.ajax({ url:"http://gameapi.feiliu.com/game/netlog",type:'GET',dataType:'jsonp',success: function(data){}});</script>
+    <div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

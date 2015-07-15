@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">【金戈铁马】紧急停机维护及“凌云殿”处理公告</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-07-18 11:32:54</span>
+																			</div>
+									<div class="w-d">
+										<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">亲爱的玩家:</span><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">&nbsp; &nbsp; &nbsp; <br />
+　　三国战神IOS越狱4区【金戈铁马】将于2014年7月18日11:45进行全区紧急停机维护，预计维护时间15分钟（开机时间会因工作进度推迟或者提前），期间您将无法登录游戏。</span><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">&nbsp; &nbsp; &nbsp; 维护区服：金戈铁马（ios）　　维护原因：数据异常帮派处理</span><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">以下是本次停机维护的具体内容：</span><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;"><br />
+　　●处理利用第三方工具刷帮派等级的帮会。</span><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">以下帮派利用第三方工具致使游戏数据异常，严重影响游戏平衡性，故以下帮派做出解散处理：<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140718/20140718113517_68964.jpg" /><br />
+<br />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">请大家注意维护时间，提早下线，以免因停机维护造成不必要的损失，祝您游戏愉快。</span><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div style="text-align:right;padding-bottom:0px;text-transform:none;text-indent:0px;margin:0px;padding-left:0px;padding-right:0px;letter-spacing:normal;word-spacing:0px;padding-top:0px;-webkit-text-stroke-width:0px;">
+	三国战神ios运营组<br />
+2014.07.18
+</div>
+</span>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

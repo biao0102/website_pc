@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+  <meta name="viewport" content="width=650;target-densitydpi=device-dpi; minimum-scale=0.5; maximum-scale=2,user-scalable=yes">
+	<title>我去西游</title>
+    <meta name="keywords" content="我去西游,我去西游官网,我去西游兑换码,我去西游礼包,我去西游下载,我去西游攻略,我去西游飞流,3D手游,萌战卡牌,孙悟空,猪八戒,神卡,仙卡,二郎神,西天取经" />
+    <meta name="description" content="我去西游是乐卓网络科技（上海）有限公司开发，北京飞流九天独家代理的一款“萌系”西游卡牌RPG，玩家在游戏中扮演一位充满正义感的的神通人士，陪伴唐僧四人西行取经" />
+	<link href="http://js.feiliu.com/static/woquwap/style/style.css?v=4" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/woquwap/js/jquery.min.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/woquwap/js/main.js?v=3"></script>
+<style type="text/css">
+body {
+	background-color: #eedbbe;
+}
+</style>
+</head>
+<body>
+
+<!--我去西游wap版公共头部start-->
+		<!--#include virtual="/list/index_woquwap_nav.shtml"-->
+<!--我去西游wap版公共头部end-->
+
+<!-- 特色 -->
+<div id="feature">
+  <ul>
+    <li>
+      <img src="http://js.feiliu.com/static/woquwap/images/zwf2.jpg" />
+      <h1><em></em>游戏特色</h1>
+      《斗三国》是由腾讯“光速工作室”研发，飞流发行的精品三国群英争战手机游戏，以百人军团实时冲锋对阵的战场玩法，融合三国名将培养、挑战演义关卡和和好友互动等玩法，精致画风，便捷操作，流畅、激烈、爽快的触摸战斗游戏体验，给大家更多的游戏乐趣！
+    </li>
+    <li class="L">
+      <img src="http://js.feiliu.com/static/woquwap/images/zwf2.jpg" />
+      <h1><em></em>游戏特色</h1>
+      《斗三国》是由腾讯“光速工作室”研发，飞流发行的精品三国群英争战手机游戏，以百人军团实时冲锋对阵的战场玩法，融合三国名将培养、挑战演义关卡和和好友互动等玩法，精致画风，便捷操作，流畅、激烈、爽快的触摸战斗游戏体验，给大家更多的游戏乐趣！
+    </li>
+    <li>
+      <img src="http://js.feiliu.com/static/woquwap/images/zwf2.jpg" />
+      <h1><em></em>游戏特色</h1>
+      《斗三国》是由腾讯“光速工作室”研发，飞流发行的精品三国群英争战手机游戏，以百人军团实时冲锋对阵的战场玩法，融合三国名将培养、挑战演义关卡和和好友互动等玩法，精致画风，便捷操作，流畅、激烈、爽快的触摸战斗游戏体验，给大家更多的游戏乐趣！
+    </li>
+    <li class="L">
+      <img src="http://js.feiliu.com/static/woquwap/images/zwf2.jpg" />
+      <h1><em></em>游戏特色</h1>
+      《斗三国》是由腾讯“光速工作室”研发，飞流发行的精品三国群英争战手机游戏，以百人军团实时冲锋对阵的战场玩法，融合三国名将培养、挑战演义关卡和和好友互动等玩法，精致画风，便捷操作，流畅、激烈、爽快的触摸战斗游戏体验，给大家更多的游戏乐趣！
+    </li>
+  </ul>
+</div>
+
+
+	<!--我去西游wap版公共底部start-->
+		<!--#include virtual="/list/index_woquwap_bottom.shtml"-->
+	<!--我去西游wap版公共底部end-->
+
+</body>
+</html>

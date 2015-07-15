@@ -1,0 +1,82 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>战地坦克</title>
+	<meta name="keywords" content="战地坦克" />
+	<meta name="description" content="战地坦克" />
+	<meta name="format-detection" content="telephone=no"/>
+	<meta name="format-detection" content="address=no"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/tk/wap0506/css/style.css">
+</head>
+<body>
+	<div class="wrap">
+		<section class="newscon" id="top">
+			<h2 class="subh2">
+				新闻			
+				<a href="javascript:history.go(-1);" class="backto">返回</a>
+			</h2>
+			<div id="thegame">
+				<h2>坦克嘉年华</h2>
+				<p class="MsoNormal">
+	<span >亲爱的指挥官：<br />
+坦克嘉年华火爆开启：</span>
+</p>
+<p class="MsoNormal">
+	活动名称：坦克嘉年华<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	参与方式：玩家使用金币进行抽奖，获得坦克大奖，<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	活动分为【单排模式】和【火力全开】两种抽奖形式<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	单排模式：<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	玩家点击后界面内仅显示中心一行，上下两行全部使用半透面板遮盖<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	点击后会提示：“恭喜您，获得了【奖品名称】<span lang="EN-US">X</span>数量、【奖品名称】<span lang="EN-US">X</span>数量！”<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	火力全开：<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	在火力全开中，数字球全部会变亮，并解锁所有的格子。
+</p>
+<p class="MsoNormal">
+	玩家点击拉霸，并且抽奖动画播放完成后，则弹出获奖界面。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	当玩家抽到大奖时，则会播放礼花动画。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	活动规则：<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	1、活动中抽奖即可获得奖励<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	2、活动中有几率抽到金币的哦<span lang="EN-US">~<br /><img src="http://i0.feiliu.com/image/20150109/20150109155026_55685.jpg" alt="" /><br />
+</span><span lang="EN-US"><br />
+<span >《战地坦克》游戏官网：http://tk.feiliu.com</span><br  />
+<span >《战地坦克》iOS正版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8</span><br  />
+<span >《战地坦克》iOS越狱版下载：http://js.feiliu.com/ipa/tk/tk_300021.ipa<br />
+	<div style="text-align:center;">
+		活动最终解释权，归战地坦克项目组所有
+	</div>
+</span></span>
+</p>
+			</div>
+		</section>	
+		<section class="bottom">
+			<div class="bottom_sm">
+				<p>版权所有©北京飞流九天科技有限公司 2009-2013 </p>
+			</div>
+		</section>
+	</div>
+</body>
+</html>

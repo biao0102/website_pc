@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="庆App正式版上线 下载送超值礼包。庆App正式版上线 下载送超值礼包" />
+    <title>庆App正式版上线 下载送超值礼包 攻城掠地_活动</title>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/index.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/thickbox.css?v=2" />
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/skin.css?v=1" />
+</head>
+<body>
+    <div class="wrap">
+	
+         <!--攻城掠地头部模板start-->
+			<!--#include virtual="/list/index_gcldtop.shtml"-->
+		<!--攻城掠地头部模板end-->
+		
+        <div class="content">
+            <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.lixtabs.js"></script>
+            <script type="text/javascript">
+                jQuery(document).ready(function ($) {
+                    $('#tabServer').Xtabs({ hdcn: 'tabServer', hdtagcur: 'now', bdcn: 'tabServerLite' });//服务器Tab
+                });
+			</script>
+           
+		   
+		   <!--攻城掠地首页左侧模板start-->
+				<!--#include virtual="/list/index_gcld_left.shtml"-->
+			<!--攻城掠地首页左侧模板end-->
+		   
+		   
+		   
+            <div class="right">
+                <div class="right_c">
+                    <div class="title">
+                        <h1 class="fl">活动</h1>
+                        <p class="fr">所在位置：&nbsp;<a href="http://gc.feiliu.com" title="">首页</a>&nbsp;&gt;&gt;&nbsp;<a href="http://gc.feiliu.com/list/gcld_hd.shtml" title="活动">活动</a> </p>
+                    </div>
+                    <ul class="sortTitle">
+													<li><a href="http://gc.feiliu.com/list/gcld_gg.shtml" title="">公告</a>|</li>							<li><a href="http://gc.feiliu.com/list/gcld_news.shtml" title="">新闻</a>|</li>							<li><a href="http://gc.feiliu.com/list/gcld_rd.shtml" title="">热点</a>|</li>							<li><a href="http://gc.feiliu.com/list/gcld_hd.shtml" title="" class="sortCur">活动</a>|</li>											</ul>
+					
+					
+                    <div class="sortContent">
+                        <h2>庆App正式版上线 下载送超值礼包</h2>
+                        <h3>发布时间：2014-03-21 18:11:01</h3>
+						<p>
+	<br />
+</p>
+&nbsp;&nbsp;&nbsp;&nbsp;2014年超人气SLG大作，由傲世堂《攻城掠地》原版人马亲情打造，飞独家代理的《攻城掠地》iOS版本，目前已经通过苹果应用商店App Store的审核，将与3月21日正式上架。为了让更多三国迷们能畅快，《攻城掠地》将开启下载游戏送豪礼活动，只要下载就有丰厚好礼赠送，活动限时开启，不容错过哦!<br />
+&nbsp;&nbsp;&nbsp;&nbsp;三国迷们在活动期间，搜索“攻城掠地”通过App Store付费下载(6元)《攻城掠地》进入游戏创建角色并进入游戏后，即可获内含丰厚超值奖励的礼包，让你的冒险更具激情!<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;活动时间：3月21日12：00 – 4月2日23：59<br />
+&nbsp;&nbsp;&nbsp;&nbsp;活动流程：<br />
+&nbsp;&nbsp;&nbsp;&nbsp;1、在App Store中找到《攻城掠地》应用。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;2、在活动期间内下载游戏<br />
+<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20140321/20140321181032_70500.jpg" alt="" height="232" width="241" /> 
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;3、安装完成后进行设备绑定(点击开始游戏进行创建角色)
+<p>
+	<br />
+</p>
+<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20140321/20140321181049_96999.jpg" alt="" /><br />
+</div>
+                    </div>
+					
+					
+					
+                </div>
+            </div>
+        </div>
+		
+		
+       <!-- footer -->
+       <!--攻城掠地底部模板start-->
+			<!--#include virtual="/list/index_gcldfoot.shtml"-->
+		<!--攻城掠地底部模板end-->
+		
+		
+		
+        <!-- 公司 -->
+        <!--[if IE 6]>
+		<script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/DD_belatedPNG_0.0.8a-min.js"></script>
+		<script type="text/javascript">
+	        DD_belatedPNG.fix('.company div.footCenter a.logo,.company div.public a.shgs img,.company div.public a.jingwu img,.company div.public a.policeicon img,.company div.public a.zx110 img');
+		</script>
+		<![endif]-->
+    </div>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.smallslider.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/thickbox.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/index.js"></script>
+</body>
+</html>

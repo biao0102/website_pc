@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">11月21日凌晨8点停机更新公告</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-11-21</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <p style="margin-top:0px;margin-bottom:0px;padding:0px;">
+	亲爱的指挥官：
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;">
+	　　为了给各位指挥官带来更优质的游戏体验，进一步加强游戏的安全性，我们将在<strong>11月21日（周五）08:00-11:00</strong>对所有大区进行停机维护，整个维护过程预计需要约<strong>3个小时</strong>，因停机给大家带来的不便，我们深表歉意。
+</p>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

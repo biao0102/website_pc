@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">新兵调教！《坦克风云》玩家必看入门指南出炉</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-04-02</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <div >
+	<div >
+		由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团对战手游《坦克风云》在App Store上线后，就一直名列前茅，首日在线人数更是突破了30万,不愧为2014年期待度最高的军事题材手游。为了让各位指挥官迅速熟悉《坦克风云》的基础玩法，早日踏上称霸世界之旅，今天就为大家带来最详尽的新手入门指南，想要高效扩张势力、飞速积累资源？一起往下看吧！<br />
+<br />
+<br />
+欢迎访问游戏官网：http://tk.feiliu.com/<br />
+点击下载ios版：https://itunes.apple.com/cn/app/tan-ke-feng-yun-zhan-huo/id829509176?mt=8<br />
+点击下载ios越狱版：http://tk.feiliu.com/count/download.php?type=2&amp;ismobile=1&amp;source=tk<br />
+		<div ><img src="http://i0.feiliu.com/image/20140402/20140402135110_55350.jpg" alt="" /><br />
+		</div>
+<br />
+【第一步 建设基地搞后勤】<br />
+正所谓兵马未动粮草先行，《坦克风云》中对资源的需求同样至关重要。游戏中可以建造铁矿、石油、铅矿、钛矿以及水晶矿五大资源矿，这些资源是玩家建造坦克、升级基地、研究科技所必须的，就像血液一样，必须源源不断。新兵玩家一定要先着重基础建设，等资源充沛了再大规模建造坦克战车，效率会非常高。<br />
+		<div ><img src="http://i0.feiliu.com/image/20140402/20140402135137_48099.jpg" alt="" /><br />
+		</div>
+【第二步 科技升级好处多】<br />
+除了种类丰富的战车，《坦克风云》更提供详尽的科技升级方案供各位指挥官选择。游戏中指挥中心的等级决定了其他建筑的等级上限，因此指挥中心无疑是最优先升级单位。其次，在初期阶段建议新兵们主要升级五大资源矿，保证不会因为资源短缺而造成发展停滞。此外，还需要提醒大家一点，仓库的等级也要适时提升，才能够有效防止周围玩家掠夺你辛辛苦苦收集来的资源。<br />
+		<div >
+			<br />
+		</div><img src="http://i0.feiliu.com/image/20140402/20140402135227_11261.jpg" alt="" /><br />
+<br />
+【第三步 机械化混编战力高】<br />
+《坦克风云》并不意味着坦克主宰一切，游戏中各种装甲战车都存在相生相克的适应性（具体见下表）。所以当大家资源充足，该开始大规模建造战车的时候，不要一味的只建造某一种战车，而是近战、远程、单体、群体类战车多样搭配，组建一支毫无死角的机械化混编军团，才能真正在战场上叱咤风云。<br />
+		<div >
+			<br />
+		</div>
+<strong>战车适应性一览：<br />
+坦克：对火箭车造成125%的伤害;<br />
+歼击车：对坦克造成125%的伤害，对自行火炮造成80%的伤害;<br />
+自行火炮：对歼击车造成125%的伤害，对坦克炮造成80%的伤害;<br />
+火箭车：对自行火炮造成125%的伤害，对歼击车炮造成80%的伤害;<br />
+<br /><img src="http://i0.feiliu.com/image/20140402/20140402135358_72930.jpg" alt="" /><br />
+【第四步 加入军团优势立显】<br />
+当指挥中心升级到15级后就能够创建或加入军团。玩家加入军团不仅能交到投缘的朋友，参加专属活动，更重要的是能够通过军团在掠夺上获得绝对优势——加入军团后，你既可以跟着强者身后在肥羊身上揩油，也可以带着一群伙伴将敌人的基地拆得七零八落。甚至当你面对几倍于自己兵力的敌人，也能够迅速召唤团友调兵遣将协同布防，将侵略者全歼在埋伏好的包围网里。<br />
+		<div ><img src="http://i0.feiliu.com/image/20140402/20140402135421_65262.jpg" alt="" /><br />
+		</div>
+【第五步 掠夺资源快速发展】<br />
+《坦克风云》不仅能够让你爽快的抢夺其他玩家的宝贵资源，更能在世界地图上随意抢占各种资源点，获取丰厚资源奖励。不过需要新兵们注意的是，打下资源点还需要你的部队花时间采集资源，并安全运回基地才算大功告成。这期间如果遭到了其他玩家的袭击的话，资源很可能就被人抢走打了水漂。<br />
+		<div >
+			<br />
+		</div><img src="http://i0.feiliu.com/image/20140402/20140402135456_71585.jpg" alt="" /></strong><br />
+指挥各国主战坦克军团撕裂对手防线，体验爽快硬派的机械化战争，坦克大战，一触即发！更多详细情报欢迎访问游戏官网：http://tk.feiliu.com/<br />
+		<div >
+			<br />
+		</div><img src="http://i0.feiliu.com/image/20140402/20140402135511_67124.jpg" alt="" /><br />
+	</div>
+</div>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

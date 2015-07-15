@@ -1,0 +1,167 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>龙骑战歌</title> 
+    <meta content="龙骑战歌" name="keywords">
+    <meta content="龙骑战歌" name="description">
+<link href="http://js.feiliu.com/static/lqzg/web0525/css/index.css?v=4" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/slides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/index.js?v=1"></script>
+<script>
+        function getArgs()
+        {
+            var argsArr = new Object();
+            var query = window.location.search;  
+            query = query.substring(1);
+            var pairs = query.split("&");
+            for(var i=0;i<pairs.length;i++)
+            {
+                var sign = pairs[i].indexOf("="); 
+                if(sign == -1)
+                {
+                    continue; 
+                }
+                var aKey = pairs[i].substring(0,sign);
+                var aValue = pairs[i].substring(sign+1);         
+                argsArr[aKey] = unescape(aValue);
+
+            }
+            return argsArr;
+        }
+
+        var param = new Object();
+        param = getArgs();
+        var source = param.s;
+
+        if(!source)
+        {
+            source = '300021';
+        }
+
+
+		function isMobile(args) {
+			var sUserAgent= navigator.userAgent.toLowerCase();
+			var bIsIpad= sUserAgent.match(/ipad/i) == "ipad";
+			var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsMidp= sUserAgent.match(/midp/i) == "midp";
+			var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+			var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb";
+			var bIsAndroid= sUserAgent.match(/android/i) == "android";
+			var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce";
+			var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile";
+			if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) 
+			{
+				window.location.href= 'http://lqzg.feiliu.com/wap/list/index.shtml?s='+source;
+			}
+		}
+		isMobile();
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
+<body>
+<div class="page">
+    <div class="nav">
+    <div class="nav-con">
+        <a href="http://lqzg.feiliu.com/index.shtml"><img src="http://js.feiliu.com/static/lqzg/web0525/images/logo.png" alt="logo" class="logo" /></a>
+        <ul>
+            <li><a href="http://lqzg.feiliu.com/web/list/home.shtml">首页</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml">新闻公告</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/index.shtml">玩法特色</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/notice.shtml">职业介绍</a></li>
+            <li><a href="javascript:alert('敬请期待');">游戏活动</a></li>
+            <li><a href="http://bbs.8783.com/forum-178-1.html">论坛</a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="public-top"></div>
+    <div class="public-con">
+        <div class="public-box">
+            <div class="public-left">
+    <div class="public-code">
+        <a href="javascript:alert('敬请期待！');" class="ios-link"></a>
+        <a href="http://lqzg.feiliu.com/download?cid=300021&type=5" class="android-link"></a>
+        <a href="javascript:alert('敬请期待！');" class="raiders-link"></a>
+        <div>
+            <p>扫一扫关注龙骑战歌</p>
+            <img src="http://js.feiliu.com/static/lqzg/web0525/images/public-code.jpg" />
+        </div>
+    </div>
+    <ul class="public-adv">
+        <li><a href="javascript:alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114758.jpg" alt="" /></a></li>
+        <li><a href="javascript:alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114939.jpg" alt="" /></a></li>
+        <li><a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150526115157.jpg" alt="" /></a></li>
+    </ul>
+</div>
+            <div class="public-right">
+                <div class="public-title">
+                    <h5>新闻公告</h5>
+                    <a href="http://lqzg.feiliu.com/index.shtml"><<返回</a>
+                </div>
+                <div class="newsDetail">
+                    <h5>复仇者手游联盟：它们是重度手游的风向标！</h5>
+                    <dl>
+                        <dt>发布于<span>2015-05-26 17:58:58</span></dt>
+                        <dd><span>分享到</span><div><a href="javascript:void(0);" class="weixin"></a><a href="javascript:void(0);" class="qzone"></a><a href="javascript:void(0);" class="tsina"></a><a href="javascript:void(0);" class="tqq"></a><a href="javascript:void(0);" class="renren"></a></div></dd>
+                    </dl>
+                    <div class="newsDetail-con">
+                        <p>导语：2015年，手游从轻度休闲向中重度手游的转变是大势所趋，各大手游厂商都在布局自己的中重度拳头产品。玩家对手游大作的需求，从2D画面向3D画面转移的趋势非常明显;游戏类型上，基于端游成熟玩法的大作越来越受到玩家欢迎；在游戏数据交互方式上，从异步通信到同步数据的趋势越来越明显。最后是社交，越来越多的玩家抛弃弱联网的单机游戏，走向真正强社交的手机网游产品。而作为重度游戏中最具爆发潜力的ARPG游戏自然而然成为各大主流厂商攻坚的对象。如果说手游是一个大的社群的话，那集合3D高画质、成熟玩法与强社交于一体的ARPG手游无疑是手游里的超级英雄。今天，笔者就毛遂自荐，当一把神盾局，为大家攒一攒国内的手游复仇者们！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526175759.jpg" title="20150526175759.jpg" alt="图1：重度手游TOP10占比.jpg"/></p><p><br/></p><p>未来重度手游将成主流，而ARPG是重度手游的主力</p><p><br/></p><p><br/></p><p>雷神——热血传奇手机版：一个来自神域的英雄，有些东西“动”不得</p><p><br/></p><p>&nbsp; 《热血传奇手机版》手游的推出，本身并不十分吸引人，对于游戏行业来说，打着传奇名分的手游不胜凡举，正如现实世界中不同信仰对于类似性质的“神”的解读一样，“传奇”早已经被过度地消费了。然而这一次毕竟还是让很多人关注了，并非因为它是“传奇”，更多的是因为它有了更加“神圣”的血统，无论是已经渐渐老去的盛大还是“真神”腾讯，两者一起为《热血传奇手机版》站台足以证明其轻重。</p><p>&nbsp;</p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526175805.jpg" title="20150526175805.jpg" alt="图2：《热血传奇》.jpg"/></p><p><br/></p><p>&nbsp; 腾讯的移动游戏获得了巨大的成功，据腾讯公布的2015年第一季度财报，其营收净利润70.53亿元，同比增36%，手游贡献达到44.0亿元。但是，腾讯的游戏盈利主要依赖于休闲类网游，在重磅MMO手游上，腾讯的成绩一直平淡无奇，虽推出的几款游戏获得一定曝光，但短时间内又折戟沉沙。此次和盛大抱团合作，无疑是 对腾讯游戏产品线的一个重要补充。而且，重度手游已然成为趋势，重度手游以其具有深度的内容和强大的游戏体验，对玩家的粘性强，促使玩家花费更多的精力和时间，消费能力强。相比转瞬即逝的轻度手游，重度手游生命周期更长，能够吸引更多的用户。</p><p><br/></p><p>超级英雄匹配度：☆☆☆☆</p><p><br/></p><p>绿巨人——太极熊猫：一个令人惊讶的成功 愤怒即变身</p><p><br/></p><p>&nbsp; 《太极熊猫》推出之初，看好这款游戏的人并不多，知道其与暴雪因人设产生版权风波，大家才将目光转向这款由蜗牛游戏一手打造的重度手游上。这款手游与绿巨人最大的相似之处就在于，熊猫形象如果借由暴雪的设定的话，那就是追求心平气和，但愤怒后可以同时击败兽人和人类（请自行脑补WOW CG画面）。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526175811.jpg" title="20150526175811.jpg" alt="图3：《太极熊猫》.jpg"/></p><p><br/></p><p>&nbsp; 从产业层面来说，这款游戏自上架App Store以来长期名列iPhone &amp; iPad畅销榜单前茅也让很多人始料不及，在2015年中重度的大环境下，还能长期保持这种成绩殊为不易。谈到蜗牛，我们不得不说说其手游发行端游化的战略。纵观端游玩家测试活动中，声势最浩大的莫过于《九阴真经》童子军模式，这也是蜗牛核心端游产品惯用的一种测试方法，主要通过邀请精英玩家亲临公司参与封闭型地面测试。而《太极熊猫此前也举办过这类封闭型地面测试。由于此类测试对场地、资金、人员等各方面的投入要求相当高，所以一般厂商对手游或是非核心端游产品，很少会选择这种测试方式。端游化推广所需的高额营销成本和用户获取成本，确实扼杀了不少中小手游厂商的机会，不过，这也催生了大量月营收过千万的手游产品，进而促成手游市场新格局的产生，以及手游产业的持续爆发式发展。</p><p><br/></p><p>&nbsp; 然而随着手游实力大厂们开始发力，端游化发行将不在是传统端游厂商的玩法。</p><p><br/></p><p>超级英雄匹配度：☆☆☆</p><p><br/></p><p>钢铁侠——龙骑战歌：不仅仅是高富帅，更是实力的组合</p><p><br/></p><p>&nbsp; 当笔者在制作这个选题的时候，被《龙骑战歌》与钢铁侠的诸多共通点震撼了，在这个无意中的搭配中，你会很容易发现，与钢铁侠多个机器人小伙伴一样，《龙骑战歌》的小伙伴切换战斗（也就是“两条命”）系统某种意义上打破了传统手游培养宠物当辅助的模式，转而将自动能够堪比主角人物的强悍战力的小伙伴投入实战，他们拥有自己的属性、技能、职业特性等等几乎主角所能拥有的一切，这一创新也是该游戏的一大吸引力；另外与钢铁侠翱翔天际的能力一样，《龙骑战歌》的另一重创新意义在于，其将传统手游无论2D、3D画面都普遍使用的二维战斗体系扩展到了立体战斗，通过骑乘飞行坐骑在空战战斗的方式，让手游实现了端游都很少实现的理念。这些相似之处是笔者将其余钢铁对应的直观原因，但不仅如此……</p><p>&nbsp;</p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526175818.jpg" title="20150526175818.jpg" alt="图4：《龙骑战歌》.jpg"/></p><p>&nbsp; 作为一款3D ARPG手游，除了画面的高要求之外，对于动作感的要求其实更加重要，而恰恰是这一点成为很多ARPG手游的软肋，《龙骑战歌》要解决操作、打击感等动作游戏的标志性问题，就需要面临手机屏幕及表现力的双重挑战。在现有产品无法提供可靠地解决方案的情况下，《龙骑战歌》对此做出了一些大胆的创新——“触屏”操作。“如臂使指”的操作体验是《龙骑战歌》的创造“触屏”操作的核心目的之一。对于以层叠构建的3D画面，虚拟摇杆往往无法精确走位，而通过“触屏”操作，玩家可以直接点击屏幕，准确让角色移动到指定地点。精确的走位可以让玩家的战斗过程更加真实和畅快，搭配一些画面上的真实打击感，能让《龙骑战歌》的动作性更加凸显。</p><p><br/></p><p>&nbsp; 在对重度手游的要求和标准越来越高的今天，研发一款大作级别的重度手游有极高的要求，曾有研发人士指出，高标准下的重度手游研发难度不亚于端游。除了需要强大实力的研发团队，更需要庞大的资金和时间才能打造一款真正意义上的重度手游。以往只见诸于端游描述中的“亿元开发、历时一年”如今渐渐成为手游的标签。而墨麟作为页游时代就拥有很强研发实力的公司，在《龙骑战歌》的“斥资1亿，耗时1年半以上”背景下，游戏无论是画面还是核心玩法都得到了充分的保障，纵观2015年以来，我们暂且不论《龙骑战歌》的开发规模，单就出现这种程度的重度手游的时间本身而言，对于手游行业来说，也有着风水岭的意义，也许不久之后，手游将不再是“低门槛、低成本、低画质”的三低代名词了。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526175833.jpg" title="20150526175833.jpg" alt="图5：《龙骑战歌》创新玩法骑乘作战.jpg"/></p><p><br/></p><p>&nbsp; 《龙骑战歌》作为飞流在重度手游领域的重要产品，从行业层面来看也有着非同一般的意义，此前，飞流CEO倪县乐在GMIC大会演讲中曾将代入感、视觉感、目标感、流畅感这四点元素作为中重度手游的四大主要方面。无疑也为接下来的整个行业的中重度化提供了许多借鉴，作为已经成功发行过诸多中重度手游的发行商，飞流在这个重要节点上推出《龙骑战歌》，无论从游戏品质上还是布局上，都表明，在重度化过程中，飞流都有了进一步自我提升的准备。正如钢铁侠在本次《复仇者联盟2》中出现的超级铠甲一样，2015年的重度化战略，相信飞流也借着包括《龙骑战歌》在内的诸多中重度产品有了新的升级。</p><p><br/></p><p>超级英雄匹配度：☆☆☆☆</p><p><br/></p><p>美国队长——全民奇迹：用画面和情怀创造的“奇迹”</p><p><br/></p><p>&nbsp; 事实上，《全民奇迹》在推出之初，受到的质疑并不少，然而在各家渠道的大力支持，让这款从游戏本身看并无半分特色的“画质”派游戏取得了成功。回过头去看《全民奇迹》其实也并非仅有“颜值”这样一个特点，在营销方式上，也有许多可圈可点之处。概括起来有以下三点：</p><p><br/></p><p>&nbsp; 首先，通过游戏本身不错的表现赢得渠道认可，进而让渠道对该产品进行推广。从百度、小米等渠道抢着发营收数据的时候，就让不少人惊掉了下巴，而从渠道的利益上来说，《全民奇迹》推出的时间点非常关键，正好是各大渠道布局重度手游的起步阶段，大家都需要树立标杆重度手游来标明渠道用户的转变，类似于千金市骨的效果，从而吸引更多重度手游大规模地投放渠道。从而避免端游大厂的过度冲击。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526175839.jpg" title="20150526175839.jpg" alt="图6：《全民奇迹》.jpg"/></p><p><br/></p><p>&nbsp; 其次，《全民奇迹》不仅邀请了魔术师刘谦作为代言，并且还有雷军前来站台，为该游戏获得用户和渠道认可也起到了非常。大的作用。</p><p><br/></p><p>&nbsp; 最后，不得不说，《全民奇迹》用现在的标准来看，也就是一款准A级的产品，取得的是A+游戏的成绩，天时地利人和功不可没。当然奇迹IP本身强大的号召力也非同凡响，放到现在端游IP大举入局的情况下，也许《全民奇迹》的玩法还有更多变数。</p><p><br/></p><p>&nbsp; 怎么样，作为重度手游被渠道树立起来的典型到成为一个真正的英雄，这一系列经历跟美国队长何其相似？</p><p><br/></p><p>超级英雄匹配度：☆☆☆☆</p><p><br/></p><p>&nbsp; 鹰眼——大唐双龙传：最传统的IP搭配最先进的科技</p><p><br/></p><p>&nbsp; 作为手游超级英雄阵营中唯一的传统手游IP（小说）产品，《大唐双龙传》手游继承了很多其端游产品的特点，甚至在手游推出的同时，端游版《大唐双龙传》还做了“同步更新”，可见这是一款一脉相承下来的手游产品，不仅如此《大唐双龙传》手游还推出了电脑版……。</p><p><br/></p><p>&nbsp; 游戏本身品质无需多说，基本上是现在3D手游的基本式样，很多东西都可以在端游上找到影子。唯一值得一提的是，作为《天龙八部》手游之后畅游的又一款移植手游，《大唐双龙传》在运营模式上完全参考了《天龙八部》，而《天龙八部》手游推出之时，畅游正是比较早下手地适应手游运营模式，与各大渠道密切配合，从而取得的巨大成功。</p><p><br/></p><p>&nbsp; 这一次畅游的玩法明显也将结合端游用户感召力和手游渠道强大推广力来运作《大唐双龙传》，为此畅游王一如此形容畅游的运营方式：“畅游在武侠游戏研发和运营方面有长期的技术积累和丰富的成功经验，游戏将先考虑叫好，再考虑叫座。”</p><p><br/></p><p>&nbsp; 正如《复仇者联盟2》中鹰眼的自我吐槽一样：拿着弓箭打机器人军队……这正是畅游的《大唐双龙传》手游。</p><p><br/></p><p>超级英雄匹配度：☆☆☆☆</p><p><br/></p><p>&nbsp; 黑寡妇——白猫计划：异域血统，来自日本的ARPG颠覆计划</p><p><br/></p><p>&nbsp; 一直以来，我们对于日本手游更多地的感官是《智龙迷城》式卡牌亦或是《怪物弹珠》式休闲，而像《白猫计划》这样的ARPG确了解不多。作为很少透露运营成绩的日本手游，笔者千方百计找到该游戏的一些成绩，你们可以感受一下日本手游市场的“变态之处”。</p><p>&nbsp;</p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526175848.jpg" title="20150526175848.jpg" alt="图7：日本手游数据.jpg"/></p><p><br/></p><p>&nbsp; 9月份App Annie指数中成为全球收入第10高的《白猫计划》10月29日下载量达到1900万，2000万大关指日可待。不过和《怪物弹珠》一比较，虽然《白猫计划》赢了下载量，却输了用户活跃度，而且输得不少。不过好在《白猫计划》这款作品仍然非常年轻，MAU尚处在增长阶段，而且今后游戏中社交系统的进一步完善对于用户活跃度的提升也会起到明显的带动作用。有意思的是和《白猫计划》下载量最为接近的《迪士尼 TSUMUTSUMU》的DAU几乎是《白猫计划》的10倍，而且用户男女比例上也和《白猫计划》截然相反。</p><p>&nbsp;</p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526175856.jpg" title="20150526175856.jpg" alt="图8：《白猫计划》.jpg"/></p><p><br/></p><p>如今这款游戏进入中国市场，能取得什么样的成绩还有待观察，如何解决外来游戏本地化，以及中国手游玩家在重度方面的痛点是什么都是《白猫计划》需要解决的问题。外来游戏（黑寡妇俄罗斯血统）以及中国玩家对《白猫计划》的暧昧态度，这个典型的白（黑？）寡妇的中国之路值得我们拭目以待。</p><p><br/></p><p>超级英雄匹配度：☆☆☆☆</p><p><br/></p><p>总结：2015年是轻重度手游的分水岭年，未来的手游一定是重度的。这个论断已经成为不少行业人士的共识。手游玩家不断成熟、端游玩家不断加入的情况下，真实把握这些玩家的痛点，而非一味的借鉴端游经验，也许才是重度手游的生存之道。而且我们应该看到，这是一个发挥大家创新的能力的阶段，我们也期待能在国内的ARPG以及其他类型的重度手游上，看到更多的闪光点。</p><p><br/></p>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-con">
+            <p>About.us | Copy right@北京飞流九天科技有限公司</p>
+            <p>爱游戏，爱生活，也爱美女。</p>
+            <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+            <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+            <p>Love is love!</p>
+        </div>
+    </div>
+</div>
+    <script>
+        var link = $('.android-link').attr('href');
+        if(!link)
+        {
+        	$('.android-link a').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }else{
+        	$('.android-link').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }
+        
+        $('a').click(function(e){
+            var url = $(this).attr('href');
+            if(url != 'javascript:void(0);' && url != "javascript:alert('敬请期待');");
+            {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                if(url.indexOf('?') > -1)
+                {
+                    var tourl = url + '&s='+source;
+                } else {
+                    var tourl = url + '?s='+source;
+                }
+                window.location.href = tourl;   
+            }
+        });
+
+
+    </script>
+    <div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

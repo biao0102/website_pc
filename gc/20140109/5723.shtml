@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="四大资源_" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>四大资源 攻城掠地_游戏资料</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+								
+								<div class="news_head news_head_zl">
+                                    <ul class="news_tab">
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_yxgl.shtml">攻略</a></li>
+                                        <li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_yxzl.shtml" class="current">资料</a></li>
+                                    </ul>
+                                    <p>所在位置： <a href="http://gc.feiliu.com">首页</a> >> 资料</p>
+                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">四大资源</a></div>
+                                    <div class="news_date">发布时间：2014-01-09 16:48:24</div>
+                                    <div class="news_main">
+										在《攻城掠地》中的基本资源分为银币、木材、粮食、镔铁四种。<br />
+<br /><img src="http://i0.8783.com/image/20140109/20140109164623_14429.jpg" alt="" /><br />
+<br />
+【资源获得大全】<br />
+<br />
+　　四大资源可通过自身的资源区建筑（民居、木场、农田、矿场）产出，亦可通过游戏内其他相关资源功能和活动获得，如：政务事件、祭祀、集市等，四大资源各有其特殊功用，在整个实力发展过程中起着极其重要的作用，缺一不可。玩家需要根据不同时期的需求合理分配资源，以备不时之需。<br />
+<br /><img src="http://i0.8783.com/image/20140109/20140109164718_42459.jpg" alt="" /><br />
+<br />
+【四大资源用途】<br />
+银币：购买装备、招募武将、升级建筑、黑市交换其他资源<br />
+木材：升级建筑<br />
+粮食：募兵、副本推图、世界移动<br />
+镔铁：升级兵器<br />
+<br /><img src="http://i0.8783.com/image/20140109/20140109164802_45590.jpg" alt="" /><br />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

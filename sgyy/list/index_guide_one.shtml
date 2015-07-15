@@ -1,0 +1,15 @@
+      <div class="sxarea" id="part01">
+        <div id="sx-dwd"> <img src="http://js.feiliu.com/static/sgyy/images/sx_dwd.png" usemap="#Map">
+          <map name="Map">
+            <area shape="rect" coords="13,17,224,84" href="https://itunes.apple.com/cn/app/san-guo-yan-yi-hao-hua-dong/id738316568?mt=8">
+            <area shape="rect" coords="270,21,480,81" href="http://sgyy.feiliu.com/count/download.php?pid=100133&cid=300021&type=2">
+            <area shape="rect" coords="534,20,743,77" href="http://sgyy.feiliu.com/count/download.php?pid=100145&cid=300021&type=5">
+          </map>
+        </div>
+        <div class="sx-zyrw"> <img src="http://js.feiliu.com/static/sgyy/images/rw-xiaobing.png"> </div>
+        <p>       IOS正版系统用户请点击“APP Store下载”<br>
+             IOS越狱系统用户请点击“越狱版下载”<br>
+          安卓系统用户请点击“安卓版下载”<br>
+            根据设备系统，选择对应的客户端版本，下载安装<br>
+        </p>
+        <img class="jsimg" src=""> </div>

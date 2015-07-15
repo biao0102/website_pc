@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《战地坦克》活动介绍</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2015-03-24</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              活动一：技术革新<br />
+介绍：<br />
+经过长时间的研究，我们的科学家已经掌握了更先进的道具制作技术，可通过旧式道具兑换新式强力道具。<br /><img src="http://i0.feiliu.com/image/20150324/20150324184816_68497.jpg" alt="" /><br />
+活动二：<span ></span><span >在线送好礼</span><br />
+介绍：<br />
+1.每日礼包有领取前一个礼包后，后一个礼包开始计时。2、您当日的在线时长于当日0时开始记录，次日0时刷新，请及时领取。<br /><img src="http://i0.feiliu.com/image/20150324/20150324184824_49224.jpg" alt="" /><br />
+活动三：有福同享<br />
+介绍：1、使用不同档次进行充值，获得奖励内容不同，个人奖励直接发放到背包中，充值额度不可累计。2、礼包发送至各自的领奖礼箱中，请抓紧在24小时之内进行领取。3.不在军团中，将无法分享给他人，也无法获得他人的礼包。抓紧时间加入军团一起和战友们分享吧！小型资源箱：充值50金币档次即可获得。容量很小的箱子，打开可获得少量资源或坦克。木质军需箱：充值160金币档次即可获得。木质的巷子，打开可获得资源或道具。铁质军需箱，充值460金档次即可获得，铁质的巷子，打开可获得大量资源或道具。白银军需箱，充值960金币即可获得。银质的箱子，打开可获得大量资源或高级道具。黄金军需箱：充值3420金币档次即可获得。金质的箱子，打开可获得珍贵道具。神秘军需箱：充值840金币档次即可获得。科技感十足的箱子，打开可获得稀有道具。<br /><img src="http://i0.feiliu.com/image/20150324/20150324184836_69519.jpg" alt="" /><br />
+活动四：坚守阵地<br />
+介绍：1、活动奖励每人每天仅可获得一次。2、奖励的领取内容取决于天数。3、未登录或未领取的将使您错过对应的奖励内容。<br /><img src="http://i0.feiliu.com/image/20150324/20150324184844_98910.jpg" alt="" /><br />
+<br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

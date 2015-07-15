@@ -1,0 +1,131 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+	<div class="subwrap02 minwidth">
+		<div class="subcontain minwidth rel">
+			<div class="vipcon1120">
+				<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+				<!-- conri -->
+				<div class="conri fltt">
+					<div class="tankcon">
+						<ul>
+							<li class="tkp01">
+								<div class="tbn tm01">坦克展示</div>
+								<div class="tkzs">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/tk01.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/tk02.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/tk03.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/tk04.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/tk05.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/tk06.jpg" alt="">
+								</div>
+							</li>
+							<li class="tkp01">
+								<div class="tbn tm01">建筑基地</div>
+								<div class="tkzs">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/jz01.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/jz02.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/jz03.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/jz04.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/jz05.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/jz06.jpg" alt="">
+								</div>
+							</li>
+							<li class="tkp01">
+								<div class="tbn tm01">增益效果</div>
+								<div class="tkzs02">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/js01.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/js02.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/js03.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/js04.jpg" alt="">
+								</div>
+							</li>
+							<li class="tkp01">
+								<div class="tbn tm01">科研技术</div>
+								<div class="tkzs02">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/js05.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/js06.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/js07.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/js08.jpg" alt="">
+								</div>
+							</li>
+							<li class="tkp02">
+								<div class="tbn tm01">将领展示</div>
+								<div class="tkzs03">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/rw01.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/rw02.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/rw03.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/rw04.jpg" alt="">
+									<img src="http://js.feiliu.com/static/tk/web0506/images/tank/rw05.jpg" alt="">
+								</div>
+							</li>
+						</ul>
+					</div>
+
+				</div>
+				<!-- conri -->
+			</div>			
+		</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

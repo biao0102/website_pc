@@ -1,0 +1,62 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">#1月9日充值送周边活动获奖名单#</div>
+			<div class="news-con">
+				<div align="left" >
+	<span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;font-weight:700;">亲爱的小伙伴，感谢您对玩家的支持！</span></span></span></span>
+</div>
+<div align="left" >
+	<span style="word-wrap:break-word;font-weight:700;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><br style="word-wrap:break-word;" />
+</span></span></span>
+</div>
+<div align="left" >
+	<span style="word-wrap:break-word;font-weight:700;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;">我们在充值玩家中随机抽取了5名幸运玩家：<br style="word-wrap:break-word;" />
+</span></span><span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><br style="word-wrap:break-word;" />
+</span></span></span>
+</div>
+<div align="left" >
+	<span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;font-weight:700;"><span style="word-wrap:break-word;">轩辕苍狼、深巷藏佳人、飘雪的海鹰、单调淳风、狂霸彭彭</span><br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">WOW~将获得限量周边~</span></span></span></span><br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><img id="aimg_O2863" class="zoom" width="490" src="http://bbsimage.8783.com/data/attachment/forum/201501/07/185631h5jgl9m8bw51blpb.png" border="0" alt="" style="word-wrap:break-word;cursor:pointer;" /><img id="aimg_R8Qxq" class="zoom" width="540" src="http://bbsimage.8783.com/data/attachment/forum/201501/07/185638rg1jff8nqk1u6366.png" border="0" alt="" style="word-wrap:break-word;cursor:pointer;" />&nbsp;（任意一个）<br style="word-wrap:break-word;" />
+</span></span></span></span><br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;font-weight:700;"><span style="word-wrap:break-word;">#奖励发放#</span><br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">获奖的小伙伴在</span><span style="word-wrap:break-word;">扣群里</span><span style="word-wrap:break-word;">263683777&nbsp;</span><span style="word-wrap:break-word;">单密喝多了的小丸子</span><span style="word-wrap:break-word;">：</span><span style="word-wrap:break-word;">姓名、手机号，地址，邮编以及角色名截图</span><span style="word-wrap:break-word;">，我们将会在测试结束后三个工作日内为大家邮寄派奖~</span></span></span></span>
+</div>
+<div align="left" >
+	<span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;font-weight:700;">在测试期间（16号截止）每天都有机会获得，详细活动内容见：<a href="http://bbs.8783.com/thread-81933-1-1.html" target="_blank" style="word-wrap:break-word;">http://bbs.8783.com/thread-81933-1-1.html</a><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;">祝大家玩得开心愉快！</span></span></span></span>
+</div>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

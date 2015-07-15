@@ -1,0 +1,62 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">《众妖之怒》4大特色领衔2014动作手游</div>
+			<div class="news-con">
+				3D萌系畅爽动作手游《众妖之怒》颠覆传统挂念的“暗黑”西游剧情、畅爽的战斗、华丽的场景、无处不在的跨服争霸，《众妖之怒》四大特色全面领衔2014动作手游，为你揭幕前所未有的动作精彩！<br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204175952_15807.jpg" /><br />
+<p>
+	【暗黑西游 打破你的世界观】
+</p>
+<p>
+	&nbsp; 西天诸佛如能拯救苍生，为何世间仍战乱不断，是他们无能，还是他们不想？西天取经归来之后，悟空师徒四人看见的人界却是满目疮痍、轮回失常。天族神将侵入地界为非作歹，玉帝诸神更是性情大变，渐有落入魔道之势。天庭阴谋设计将妖界一网打尽，收回了众妖武魂企图统管妖族， 但众妖魂却不知何故， 尽数逃离天界。就此，天界妖界，势如水火。而妖界中，也逐渐形成以灵猴、妖狐、玉兔、蛮牛为首的四大妖系，誓与天庭对抗到底！而玩家就将化身四大妖族，拯救天下苍生！<br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204180014_93188.jpg" />
+</p>
+<p>
+	【玩家自己掌控节奏的畅爽战斗】
+</p>
+<p>
+	&nbsp; 《众妖之怒》中每个人物都有自己的专属技能，而玩家则可以按照自己意愿自由搭配技能释放选后顺序，打造属于自己风格的连续技，让战斗更加随心所欲。而符文作为技能的强化系统，在游戏中，玩家可以自由选择让符文强化特定的技能，让自己青睐的技能发挥出更加强悍的威力。自由的技能和符文搭配，让玩家可以创造独特的战斗风格，拥有最为酣畅淋漓的站哦度快感！<br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204180034_99918.jpg" />
+</p>
+<p>
+	【唯美场景 昼夜交替的震撼视觉】
+</p>
+<p>
+	&nbsp; 《众妖之怒》采用Unity3D引擎研发，在视觉表现方面拥有媲美端游的完美品质。在游戏中，玩家可以行走在惬意的村庄，可以融入热闹的山寨，可以在飘渺唯美的仙宫创造自己的传奇……诸多风格完全不同的精美场景让人无时无刻不拥有着视觉享受；同时，借助于光影效果的完美应用，游戏中诸多场景都会与现实一样，拥有昼夜交替的震撼变化，昼夜交替的场景足以让人融入游戏世界，拥有无比强烈的真实感和代入感。<br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204180055_42260.jpg" />
+</p>
+<p>
+	【跨服争霸 PVE&amp;PVP随时开启】
+</p>
+<p>
+	&nbsp;&nbsp;&nbsp; 无处不在的跨服系统是《众妖之怒》最大的亮点，在游戏中，玩家可以进行跨服组队，挑战团队副本，协力击杀强悍的世界BOSS，分享丰厚的收获；也可以加入跨服单人、团队PVP竞技联赛，与其他服务器玩家一较高下。最重要的是，《众妖之怒》的跨服系统摒弃了传统手游中系统代管离线人物的设定，而是与真人玩家实时战斗，让战斗更富激情，让游戏体验更加精彩。<br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204180115_32631.jpg" />
+</p>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>新闻公告 - 碰你妹 官方网站</title>
+<meta name="keywords" content="碰你妹,碰你妹官网,碰你妹下载,碰你妹礼包,碰你妹激活码,碰你妹安卓版,碰你妹ios版,碰你妹越狱版,碰你妹概念站,碰你妹手游"/ >
+<meta name="description" content=" 《碰你妹》是一款消除类休闲游戏，游戏以炫丽的2D卡通女主角为人物，魔幻风格的画面仿佛带你进入了魔法的世界，每个带有魔力的女孩根据自己的特点有特殊技能，通过与系统对战，修炼魔法升级人物！与充满奇特的魔法女孩们一起展开一场华丽的魔法之战吧。"/>
+<link href="http://js.feiliu.com/static/pnm/web/css/index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/public.js"></script>
+</head>
+<body>
+<div class="contain fltt">
+  <div id="ripiao"> <img src="http://js.feiliu.com/qrcode/pnm/300021_yy_144.png" /> </div>
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+    <!--碰你妹头部导航模板start-->
+      <!--#include virtual="/list/index_pnm_nav.shtml"-->
+    <!--碰你妹头部导航模板end-->
+      <div></div>
+    <!--碰你妹轮播图模板start-->
+      <!--#include virtual="/list/index_pnm_lb.shtml"-->
+    <!--碰你妹轮播图模板end-->
+    </div>
+  </div>
+  <div class="con1000">
+    <!--box01 -->
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span>
+        <!--span class="txt02"><a href="">More</a></span-->
+        </h2>
+        <div class="subnewsccon">
+          <ul>
+              
+              
+            <li><a href="http://pnm.feiliu.com/20141029/22352.shtml" target="_blank">5万女玩家在线！《碰你妹》成女性最爱三国手游</a><span class="date">2014-10-29</span></li>
+              
+            <li><a href="http://pnm.feiliu.com/20141027/22315.shtml" target="_blank">弹三国！《碰你妹》安卓、越狱测试今日火爆开启</a><span class="date">2014-10-27</span></li>
+              
+            <li><a href="http://pnm.feiliu.com/20140925/22084.shtml" target="_blank">引领弹珠时尚 新型休闲手游《碰你妹》封测结束 </a><span class="date">2014-09-25</span></li>
+              
+            <li><a href="http://pnm.feiliu.com/20140905/21851.shtml" target="_blank">你妹再创煌！《碰你妹》封测日在线人数超5万</a><span class="date">2014-09-05</span></li>
+              
+            <li><a href="http://pnm.feiliu.com/20140902/21825.shtml" target="_blank">《碰你妹》测试礼包发放！</a><span class="date">2014-09-02</span></li>
+              
+            <li><a href="http://pnm.feiliu.com/20140902/21819.shtml" target="_blank">三国杀弱爆了！《碰你妹》首创联机即时战斗系统</a><span class="date">2014-09-02</span></li>
+              
+            <li><a href="http://pnm.feiliu.com/20140902/21818.shtml" target="_blank">弹珠也能玩到High！全新手游《碰你妹》曝光</a><span class="date">2014-09-02</span></li>
+                      </ul>
+        </div>
+      </div>
+      <div class="subpages fltt ">
+        <a href="">上一页</a>
+        <a href="">1</a>
+        <a href="">2</a>
+        <a href="">3</a>
+        <a href="">下一页</a>
+      </div>
+      <img src="images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+    <!--碰你妹公共客服模板start-->
+      <!--#include virtual="/list/index_pnm_kf.shtml"-->
+    <!--碰你妹公共客服模板end-->
+    <!--碰你妹公共合作媒体模板start-->
+      <!--#include virtual="/list/index_pnm_hzmt.shtml"-->
+    <!--碰你妹公共合作媒体模板end-->
+    </div>
+  <!--碰你妹公共底部模板start-->
+    <!--#include virtual="/list/index_pnm_foot.shtml"-->
+  <!--碰你妹公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

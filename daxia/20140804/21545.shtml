@@ -1,0 +1,975 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>功能等级开放介绍_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">游戏资料</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">功能等级开放介绍</div>
+              <p><br />
+<p class="MsoNormal" align="left" >
+	建筑开放等级<span></span>
+</p>
+<table class="MsoNormalTable ke-zeroborder" border="0" cellspacing="0" cellpadding="0" width="409" style="width:307.1pt;">
+	<tbody>
+		<tr>
+			<td width="76" style="background:#002060;">
+				<p class="MsoNormal" align="left">
+					<b><span >建筑物<span></span></span></b>
+				</p>
+			</td>
+			<td width="69" style="background:#002060;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >建筑物级别<span></span></span></b>
+				</p>
+			</td>
+			<td width="73" style="background:#002060;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >开放等级<span></span></span></b>
+				</p>
+			</td>
+			<td width="191" style="background:#002060;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >功能<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >天魔殿<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >1</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >0</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >大侠可升至<span>1</span>星<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >天魔殿<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >2</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >6</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >大侠可升至<span>2</span>星<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >天魔殿<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >3</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >15</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >大侠可升至<span>3</span>星<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >天魔殿<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >4</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >35</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >大侠可升至<span>4</span>星<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >天魔殿<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >5</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >60</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >大侠可升至<span>1</span>星<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >万剑冢<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >1</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >3</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >可装备武器，宝石可升到<span>1</span>级<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >万剑冢<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >2</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >11</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >宝石可升到<span>3</span>级<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >万剑冢<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >3</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >25</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >宝石可升到<span>5</span>级<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >万剑冢<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >4</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >40</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >宝石可升到<span>7</span>级<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >万剑冢<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >5</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >55</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >宝石可升到<span>9</span>级<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >藏金阁<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >1</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >20</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >武功可升至<span>1</span>星<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >藏金阁<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >2</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >35</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >武功可升至<span>2</span>星<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >藏金阁<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >3</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >50</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >武功可升至<span>3</span>星<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >藏金阁<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >4</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >65</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >武功可升至<span>4</span>星<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >藏金阁<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >5</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >80</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >武功可升至<span>5</span>星<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >赌坊<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >1</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >10</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >征收一次<span>1000</span>银子<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >赌坊<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >2</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >18</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >征收一次<span>1500</span>银子<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >赌坊<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >3</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >28</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >征收一次<span>2000</span>银子<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >赌坊<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >4</span><span >级<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >38</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >征收一次<span>2500</span>银子<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >地牢<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >　<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >8</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >可以闯关地牢获得大侠<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >论剑峰<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >　<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >13</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >与其他玩家华山论剑<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >江湖<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >　<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >0</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >江湖闯关<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="76" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >家园<span></span></span>
+				</p>
+			</td>
+			<td width="69" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >　<span></span></span>
+				</p>
+			</td>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >17</span>
+				</p>
+			</td>
+			<td width="191" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >家园系统开放<span></span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal" align="left" >
+	&nbsp;
+</p>
+<p class="MsoNormal" align="left" >
+	功能开放等级：<span></span>
+</p>
+<table class="MsoNormalTable ke-zeroborder" border="0" cellspacing="0" cellpadding="0" width="264" style="width:198.1pt;">
+	<tbody>
+		<tr>
+			<td width="73" style="background:#002060;">
+				<p class="MsoNormal" align="left">
+					<b><span >功能<span></span></span></b>
+				</p>
+			</td>
+			<td width="78" style="background:#002060;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >开放等级<span></span></span></b>
+				</p>
+			</td>
+			<td width="113" style="background:#002060;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >介绍<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >1</span><span >号阵位<span></span></span>
+				</p>
+			</td>
+			<td width="78" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >0</span>
+				</p>
+			</td>
+			<td width="113" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >解锁第一个阵位<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >2</span><span >号阵位<span></span></span>
+				</p>
+			</td>
+			<td width="78" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >5</span>
+				</p>
+			</td>
+			<td width="113" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >解锁第二个阵位<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >3</span><span >号阵位<span></span></span>
+				</p>
+			</td>
+			<td width="78" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >10</span>
+				</p>
+			</td>
+			<td width="113" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >解锁第三个阵位<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >4</span><span >号阵位<span></span></span>
+				</p>
+			</td>
+			<td width="78" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >15</span>
+				</p>
+			</td>
+			<td width="113" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >解锁第四个阵位<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >1</span><span >号助阵位<span></span></span>
+				</p>
+			</td>
+			<td width="78" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >25</span>
+				</p>
+			</td>
+			<td width="113" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >解锁第一个助战位<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >2</span><span >号助阵位<span></span></span>
+				</p>
+			</td>
+			<td width="78" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >35</span>
+				</p>
+			</td>
+			<td width="113" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >解锁第二个助战位<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >3</span><span >号助阵位<span></span></span>
+				</p>
+			</td>
+			<td width="78" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >45</span>
+				</p>
+			</td>
+			<td width="113" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >解锁第三个助战位<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >4</span><span >号助阵位<span></span></span>
+				</p>
+			</td>
+			<td width="78" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >55</span>
+				</p>
+			</td>
+			<td width="113" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >解锁第四个助战位<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >5</span><span >号助阵位<span></span></span>
+				</p>
+			</td>
+			<td width="78" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >65</span>
+				</p>
+			</td>
+			<td width="113" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >解锁第五个助战位<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="73" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >6</span><span >号助阵位<span></span></span>
+				</p>
+			</td>
+			<td width="78" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >75</span>
+				</p>
+			</td>
+			<td width="113" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >解锁第六个助战位<span></span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal" align="left" >
+	&nbsp;
+</p>
+<p class="MsoNormal" align="left" >
+	每日任务<span></span>
+</p>
+<table class="MsoNormalTable ke-zeroborder" border="0" cellspacing="0" cellpadding="0" width="350" style="width:262.5pt;">
+	<tbody>
+		<tr>
+			<td width="85" style="border:solid windowtext 1.0pt;background:#002060;">
+			</td>
+			<td width="157" style="border:solid windowtext 1.0pt;background:#002060;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >任务目标<span></span></span></b>
+				</p>
+			</td>
+			<td width="107" style="border:solid windowtext 1.0pt;background:#002060;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >级别<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="85" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >1</span>
+				</p>
+			</td>
+			<td width="157" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >挑战江湖<span>10</span>次<span></span></span>
+				</p>
+			</td>
+			<td width="107" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >0</span><span >级开放<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="85" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >2</span>
+				</p>
+			</td>
+			<td width="157" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >参加论剑<span>5</span>次<span></span></span>
+				</p>
+			</td>
+			<td width="107" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >13</span><span >级开放<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="85" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >3</span>
+				</p>
+			</td>
+			<td width="157" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >地牢挑战<span>3</span>次<span></span></span>
+				</p>
+			</td>
+			<td width="107" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >8</span><span >级开放<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="85" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >4</span>
+				</p>
+			</td>
+			<td width="157" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >成功掠夺<span>5</span>个玩家<span></span></span>
+				</p>
+			</td>
+			<td width="107" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >20</span><span >级开放<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="85" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >5</span>
+				</p>
+			</td>
+			<td width="157" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >升级<span>1</span>次大侠<span></span></span>
+				</p>
+			</td>
+			<td width="107" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >0</span><span >级开放<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="85" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >6</span>
+				</p>
+			</td>
+			<td width="157" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >强化<span>1</span>次装备<span></span></span>
+				</p>
+			</td>
+			<td width="107" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >3</span><span >级开放<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="85" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >7</span>
+				</p>
+			</td>
+			<td width="157" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >赌坊征收<span>1</span>次<span></span></span>
+				</p>
+			</td>
+			<td width="107" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >10</span><span >级开放<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="85" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >8</span>
+				</p>
+			</td>
+			<td width="157" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >帮助好友浇水<span>2</span>次<span></span></span>
+				</p>
+			</td>
+			<td width="107" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >17</span><span >级开放<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="85" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >9</span>
+				</p>
+			</td>
+			<td width="157" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >招募<span>1</span>次大侠<span></span></span>
+				</p>
+			</td>
+			<td width="107" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >0</span><span >级开放<span></span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal" align="left" >
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

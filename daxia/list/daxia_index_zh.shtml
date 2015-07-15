@@ -1,0 +1,32 @@
+             <div class="top001" id="_show1">
+              <ul class="buttonbg">
+                <li class="li01"><a href="http://daxia.feiliu.com/list/daxia_list_zh.shtml">综合</a></li>
+                <li class="li02"><a href="http://daxia.feiliu.com/list/daxia_list_news.shtml" onMouseMove="__show(2);">新闻</a></li>
+                <li class="li02"><a href="http://daxia.feiliu.com/list/daxia_list_hd.shtml" onMouseMove="__show(3);">活动</a></li>
+                <li class="li02"><a href="http://daxia.feiliu.com/list/daxia_list_gg.shtml" onMouseMove="__show(4);">公告</a></li>
+                <li><a href="http://daxia.feiliu.com/list/daxia_list_zh.shtml" class="more">MORE</a></li>
+              </ul>
+              <div class="news01">
+                <ul>
+                    
+                      
+                    <li><a href="http://daxia.feiliu.com/20150511/23569.shtml" target="_blank">5.12日安卓-无相神功新服开</a><span class="date">2015-05-11</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20150325/23344.shtml" target="_blank">3月26日越狱合服公告</a><span class="date">2015-03-25</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20150324/23334.shtml" target="_blank">3月25日更新公告</a><span class="date">2015-03-24</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20150324/23333.shtml" target="_blank">IOS-剑破红尘 新服公告</a><span class="date">2015-03-24</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20150323/23331.shtml" target="_blank">3月24日更新公告</a><span class="date">2015-03-23</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20150318/23306.shtml" target="_blank">3月19日合服公告</a><span class="date">2015-03-18</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20150317/23301.shtml" target="_blank">3月18日合服公告</a><span class="date">2015-03-17</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20150311/23257.shtml" target="_blank">3月12日更新公告</a><span class="date">2015-03-11</span></li>
+                      
+                    <li><a href="http://daxia.feiliu.com/20150309/23246.shtml" target="_blank">3月11日更新公告</a><span class="date">2015-03-09</span></li>
+                                    </ul>
+              </div>
+            </div>

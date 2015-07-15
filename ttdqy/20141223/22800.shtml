@@ -1,0 +1,89 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content"><p>
+	&nbsp; 指尖上的三国沙场，百人同屏的激情角逐！国内首款三国群战策略手游《天天逗群英》，凭借策略、卡牌、RPG三大元素的完美融合，让玩家可以操纵无数三国名将率领军队进行场
+</p>
+<p>
+	面宏大的征战，将领的勇武、策略的诡异、指挥的万千变化，游戏中呈现出的前所未有的三国战争精彩让玩家痴迷其中。在诸多精彩系统中，最令人热血沸腾的莫过于群雄竞技的PVP
+</p>
+<p>
+	系统，演武场、藏书阁、封地，这三大PVP玩法究竟为什么受到百万玩家热捧，现在就让我们解读它们的精彩吧！
+</p>
+<p>
+	《天天逗群英》官方网站：<a href="http://ttdqy.feiliu.com">http://ttdqy.feiliu.com</a>
+</p>
+<p>
+	<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223164721.jpg" /><a href="http://js.feiliu.com/gameimg/ttdqy/20141223164721.jpg"></a><br />
+【演武场战群雄 天下第一谁人可匹】
+</p>
+<p>
+	&nbsp; 演武场是《天天逗群英》所有玩家角逐排名的唯一场所，也是百万玩家比拼战力的最佳体现。在演武场中，玩家需要不断挑战排名在前的其他玩家，战胜之后便可以取而代之，当
+</p>
+<p>
+	一步步荣登演武场第一的时候，便会受到万千玩家的热捧。但是，在群英汇聚的演武场中独占鳌头可不是件容易的事，调整出战武将次序、选择针对性的兵种、在战斗中指挥军队攻
+</p>
+<p>
+	防变化、适时释放武将技，可以说游戏中战斗的精华和激情都在演武场中凝聚。而那些令人眼花缭乱的丰厚奖励，也将作为胜者的表彰，这也许亦是玩家疯狂角逐高排名的目的吧！
+</p>
+<p>
+	<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223164729.jpg" />【藏书阁夺兵书 损人利己方显本色】
+</p>
+<p>
+	&nbsp; 三国征战，能让敌人受损却有益自己岂不是大快人心！藏书阁便是《天天逗群英》中将损人利已这一成语体现到极致的场所，在藏书阁中，玩家可以抢夺他人的兵书碎片来合成兵
+</p>
+<p>
+	书，为自己所用。兵书作为游戏中三大装备之一，将大幅增加技力、生命或攻击，而随着兵书品质的提升，所需的碎片也会越来越多，所以在藏书阁中劫掠其他玩家绝对是每日必备
+</p>
+<p>
+	的一大乐趣。
+</p>
+<p>
+	<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223164737.jpg" /><a href="http://js.feiliu.com/gameimg/ttdqy/20141223164737.jpg"></a><br />
+【封地养成 海量金币滚滚而来】
+</p>
+<p>
+	&nbsp; 封地作为玩家的后勤基地，将会为玩家产出大量的金币。但是封地在游戏中数量有限，也并不是封闭的场所，其他玩家可以随意抢夺封地。所以在PVP系统中，封地的争夺在天天上
+</p>
+<p>
+	演一幕幕激烈的战争。但随着自己战力的提升，所抢夺到的封地越来越多的时候，那滚滚而来的金币绝对会令自己的强大而提供充沛的资金，让自己在纷争不断的三国乱世拥有强悍
+</p>
+<p>
+	的支持。
+</p>
+<p>
+	（图4：封地抢夺 金币滚滚而来）<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223164743.jpg" /><a href="http://js.feiliu.com/gameimg/ttdqy/20141223164743.jpg"></a><br />
+&nbsp; 演武场、藏书阁、封地，在《天天逗群英》中，玩家在三大PVP系统中的争夺不断上演，指挥千军万马只为拥有至高荣誉和丰厚的资源！身处征战不休的三国时代，与百万玩家同场
+</p>
+<p>
+	竞技，这样的盛况你能错过吗？
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

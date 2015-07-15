@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地,攻城掠地官网,攻城掠地攻略，三国网页游戏" />
+    <meta name="description" content="《攻城掠地》是飞流旗下一款强调国战的战争策略网页游戏。实景还原三国战图，开创24小时全景即时国战！文臣武将云集，打破“重武轻文”的桎梏。内政、军师、计策等系统演绎文官本色！其次，新颖的掩杀式战斗模式、战术、皇城官职战等特色玩法，足以让你尽享开疆扩土、统一天下的激情！" />
+      <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+      <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>攻城掠地官方网站--活动页</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=26" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+                                <div class="news_head">
+                                    <ul class="news_tab">
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_gg.shtml">公告</a></li>
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_news.shtml">新闻</a></li>
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_rd.shtml">热点</a></li>
+                                        <li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_hd.shtml"  class="current">活动</a></li>
+                                    </ul>
+                                    <p>所在位置： <a href="http://gc.feiliu.com/">首页</a> >> 活动</p>
+                                </div>
+                                <div class="news_content">
+                                    <div class="news_redian"><a href="http://gc.feiliu.com/20150608/23672.shtml">【活动】勇闯古城探宝，争夺好礼秘宝！</a></div>
+                                    <ul class="news_list">
+										
+										  
+												<li><a href="http://gc.feiliu.com/20150506/23551.shtml" target="_top">【活动】【活动】宝石、镔铁一起\"赚\",转不停！</a><span>2015-05-06</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150504/23542.shtml" target="_top">【活动】【活动】勇闯古城探宝，争夺好礼秘宝！</a><span>2015-05-04</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150503/23537.shtml" target="_top">【活动】【活动】名士、镔铁活动双开</a><span>2015-05-03</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150502/23535.shtml" target="_top">【活动】【仅1天】打副本，送丹书铁券！</a><span>2015-05-02</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150501/23533.shtml" target="_top">【活动】\"充值送点券＆消费送豪礼＆神锤砸宝石\"三大豪礼嗨爆五一</a><span>2015-05-01</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150430/23529.shtml" target="_top">【活动】【五一小长假】精彩转盘第二波</a><span>2015-04-30</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150430/23528.shtml" target="_top">【活动】5月1日-5月3日\"天降神刀&攻城送宝箱”</a><span>2015-04-30</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150429/23520.shtml" target="_top">【活动】【活动】宝石大转盘</a><span>2015-04-29</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150429/23517.shtml" target="_top">【活动】【小雨众筹】《攻城掠地》游戏周边认筹项目</a><span>2015-04-29</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150429/23516.shtml" target="_top">【活动】五 • 一  豪礼欢乐送</a><span>2015-04-29</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150428/23514.shtml" target="_top">【活动】【活动】镔铁大转盘</a><span>2015-04-28</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150427/23509.shtml" target="_top">【活动】【活动】勇闯古城探宝，争夺好礼秘宝！</a><span>2015-04-27</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150426/23503.shtml" target="_top">【活动】【活动】洗练、攻城送宝箱活动双开</a><span>2015-04-26</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150425/23500.shtml" target="_top">【活动】【活动】消费送豪礼！</a><span>2015-04-25</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150424/23499.shtml" target="_top">【活动】【活动】丹书、充值返金活动双开</a><span>2015-04-24</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20150423/23493.shtml" target="_top">【活动】【宝石特惠】神锤砸宝石！</a><span>2015-04-23</span></li>
+										                                    </ul>
+                                    <div class="paging" id="paging"></div>
+                                </div>
+                            </div>
+                            <!--攻城掠地首页底部精美画面模板start-->
+								<!--#include virtual="/list/index_gcld_pic.shtml"-->
+							<!--攻城掠地首页底部精美画面模板end-->
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount = 26 
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

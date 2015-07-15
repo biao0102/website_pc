@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">天天送好礼！《战地坦克》世界杯活动曝光</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-06-16</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              &nbsp; 世界杯火热开赛，《战地坦克》为球迷玩家送大礼！《战地坦克》是由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团策略手游，将于今日开启世界杯天天送大礼活动，啤酒炸鸡外加《战地坦克》的王道组合，让你体验更欢乐更过瘾的足球盛宴！《战地坦克》绝对是你在等待观看巴西世界杯足球比赛时最好的消遣游戏！<br />
+<br />
+欢迎访问游戏官网：tk.feiliu.com<br />
+点击下载ios版：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8<br /><img src="http://i0.feiliu.com/image/20140616/20140616103318_67078.jpg" alt="" /><br />
+&nbsp;【精彩世界杯 欢乐天天送】<br />
+活动时间：即日起-7月14日<br />
+&nbsp;四年一度世界杯开始了，《战地坦克》深知各位球迷指挥官最需要什么！今日起至7月14日，《战地坦克》隆重推出“世界杯欢乐送”全民福利活动，活动期间每逢世界杯重大赛事，玩家登录游戏都将获得包括幸运币、荣誉勋章、统率书、设计蓝图、配件等与比赛重量级相对应的丰富好礼，让你的世界杯观战之旅更加尽兴，《战地坦克》中的发展与侵略也丝毫不会滞后，欢乐啤酒炸鸡世界杯！<br /><img src="http://i0.feiliu.com/image/20140616/20140616103416_19714.jpg" alt="" /><br />
+&nbsp; 具体赛程对应奖励：<br />
+* 6月13日-6月27日（小组赛）：	少量水晶*1，幸运币*1。<br />
+* 6月29日-7月2日（1/8决赛）：	电钻*5，荣誉勋章*5。<br />
+* 7月5日-7月6日（1/4决赛）：		神秘矿物*3，统率书*1。<br />
+* 7月9日-7月10日（1/2决赛）：	设计蓝图*2，大量水晶*1。<br />
+* 7月14日（冠亚军总决赛）：		精良配件箱*1，加速生成*1。<br />
+&nbsp;【团队配合协同作战】<br />
+&nbsp; 足球的魅力就在于整个团队之间相互配合，最终赢得比赛胜利，而在《战地坦克》中，要想击败对手，统御战场，同样需要各兵种之间的相互配合，取长补短才能发挥最大的战力。在《战地坦克》中坦克担任军团前锋角色，能够有效防御自行火炮的伤害，更能对大规模杀伤性武器火箭车造成致命打击，但同时也会被歼击车重创，因此合理搭配军团兵力部署，将是决定胜负的关键。<br /><img src="http://i0.feiliu.com/image/20140616/20140616103457_66107.jpg" alt="" /><br />
+<br />
+&nbsp;【掠夺到底 战地之王】<br />
+&nbsp; 不同于市面上传统COC类游戏单一化的掠夺，《战地坦克》不仅能够让你爽快的抢夺其他玩家的宝贵资源，更能在世界地图上随意抢占各种资源点，获取丰厚资源奖励——抢占地图资源并不是简单的先到先得，玩家需要派出部队攻占等级不同的资源点（资源点等级越高收益越高，但相应守军实力也更高），在掠夺过程中其他玩家是可以趁机偷袭并抢走胜利果实的——选择何种实力的资源点、在什么时候选择撤退成了掠夺方需要随时考虑的问题，而选择什么时机偷袭什么对手，则是那些想成为“黄雀”的玩家所要准确判断的。<br /><img src="http://i0.feiliu.com/image/20140616/20140616103533_45193.jpg" alt="" /><br />
+&nbsp;真实再现世界经典坦克，策略战术演绎装甲军团战争艺术，攻城略地抢夺资源称霸战场，首款坦克军团策略手游《战地坦克》今日隆重推出“世界杯欢乐送”全民福利活动，一触即发，钢铁雄狮引擎已经发动，只等各位指挥官下达出击指令！<br />
+<div >
+	<br />
+</div>
+<br />
+<br />
+<br />
+<div >
+	<br />
+</div>
+<br />
+<br />
+<div >
+	<br />
+</div>
+<br />
+&nbsp;<br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

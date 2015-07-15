@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>职业介绍_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">游戏攻略</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">职业介绍</div>
+              <p><p class="MsoNormal" align="center" style="text-align:center;">
+	<b>职业介绍</b><b></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;background:white;">
+	目前共设有隐士、天师、剑客、豪侠、武尊、药师六大职业体系，不同人物职业特性鲜明，技能差异突出，在战斗中的作用各不相同。玩家可以通过不同人物的特点制定战略，进而影响到对战的结果。另外，不同的战斗，所需的装备、武功、队友也各有不同。团队配合、选人布阵的策略性和游戏性都很高，绝不是枯燥的数值比拼！
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;background:white;">
+	<br />
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;background:white;">
+	<b></b> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;background:white;">
+	<b><b>&nbsp;<b style="text-indent:28px;">
+	<p class="MsoNormal" align="left" style="margin:3.75pt 0cm;text-indent:21pt;background:white;">
+		<b>天师</b><b>&nbsp;&nbsp;&nbsp;</b>内力攻击，攻击力强，输出必备，攻击型职业（半防职业）防御较低，适合放在后排全力输出
+	</p>
+</b> &nbsp; &nbsp; &nbsp;&nbsp;</b><b>剑客</b><b>&nbsp;&nbsp;&nbsp;</b>外力攻击，攻击力强，血少防低，攻击型职业（半防职业）防御较低，适合放在后排全力输出</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;background:white;">
+	<b><b>豪侠</b><b>&nbsp;&nbsp;&nbsp;</b>外力攻击，攻防兼备，均衡发展,（全防职业），放在阵型的前后排均可</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;background:white;">
+	<b><b>武尊</b><b>&nbsp;&nbsp;&nbsp;</b>血厚防高，冲在最前面的肉盾,可以放在阵型前排吸收伤害&nbsp;</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:13.3pt;">
+	<b><b>&nbsp; 药师</b><b>&nbsp;&nbsp; &nbsp;</b>治疗回血，提升团队生存能力&nbsp;&nbsp;随机加队伍中两人的血</b> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:13.5pt;">
+	<b>&nbsp; <b>隐士</b>&nbsp; 内力攻击，攻防兼备，均衡发展，全防职业，放在阵型的前后排均可<br />
+</b>
+</p>
+<b style="text-indent:13.5pt;"><b></b></b></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

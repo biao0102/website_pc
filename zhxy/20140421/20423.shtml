@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>经书系统</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <h1>
+	经书系统介绍<span></span> 
+</h1>
+<p class="1" style="margin-left:7.05pt;text-indent:21.2pt;">
+	经卷是一个在游戏中后期开放的一个提升玩家实力的系统玩法，通过在经卷页面装填经文，玩家可以为自己增加额外的属性。<span></span> 
+</p>
+<p class="1" style="margin-left:7.05pt;text-indent:21.2pt;">
+	经文有等级的概念，暂定经文共有<span>15</span>个等级。非满级经文可消耗“朱砂笔”来提升等级，提升有机率失败，失败时，经文会被损坏直接消失。可使用游戏中获得的道具“太一元符”来使经文升级失败时不直接消失，而是下降<span>1</span>级。而在商城内有道具“混沌元符”可防止经文的消失和掉级。<span></span> 
+</p>
+<p class="1" style="margin-left:7.05pt;text-indent:21.2pt;">
+	每个等级的经文都有自身独有的属性，在将经文附加至装备格上时，经文的属性会被增加至角色身上。<span></span> 
+</p>
+<p class="1" style="margin-left:7.05pt;text-indent:21.2pt;">
+	经文在放入装备格上时，会产生相当于传统概念中“套装属性”的效果。即当除经文上的属性会被附加在装备格上外，在符合成套装的条件时（一个装备格中放入了<span>3</span>个经文时），还会增加额外<span>3</span>个属性。<span></span> 
+</p>
+<p class="1" style="margin-left:7.05pt;text-indent:21.2pt;">
+	目前经文是在三十六重天中掉落。<span></span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp; </span>经卷展示<span></span> 
+</h2>
+<p class="MsoNormal">
+	<span>&nbsp;&nbsp;&nbsp; </span>经卷展示界面如图，如果经卷装填的经文带有套装效果，则会变成金色，点击方形区域可以对经文进行装备。<br /><img src="http://i0.feiliu.com/image/20140421/20140421161834_77883.jpg" width="500" height="333" alt="" /><span></span> 
+</p>
+<p class="MsoNormal">
+	<span></span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp; </span>经文装备<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	点击左边滑块中的经文可以装备到右边的装备栏里，同样的，点击右边装备栏里的经文可以将经文再放回背包。经文都有其对应可以放置的经卷，其不能放置的经卷无法放入。<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421161942_49967.jpg" width="500" height="337" alt="" /><br />
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>3.&nbsp;&nbsp;&nbsp;&nbsp; </span>经文精炼<span></span> 
+</h2>
+<p class="MsoNormal">
+	<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>进行经文精炼可以获得下一级的经文<span>,</span>精炼消耗朱砂笔和金钱，朱砂笔也在三十六重天掉落。玩家在经验时还可以添加特殊的添加剂，太一元符可以防止经文失败后消失，但经文会下降一级，混沌元符可以防止经文精炼失败后消失和降级。<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421162023_33454.jpg" width="500" height="332" alt="" /><br />
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>4.&nbsp;&nbsp;&nbsp;&nbsp; </span>套装效果<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:26.25pt;">
+	当玩家装备的经文满足固定的搭配时，经卷上会出现特殊的效果，为玩家附加巨大的属性加成。一种经卷效果只会出现在固定的某几个经卷上。<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

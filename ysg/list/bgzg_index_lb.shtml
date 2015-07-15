@@ -1,0 +1,22 @@
+<div class="focus asb">
+	<div id="bn" class="rel"> 
+		<div class="tu"> 
+			<a href="javascript:void(0);" class="lianjie"><img src="http://js.feiliu.com/static/bgzg/pc/images/caocao.png" alt="曹操"/></a> 
+			<a href="javascript:void(0);" class="lianjie" style="display:none"><img src="http://js.feiliu.com/static/bgzg/pc/images/liubei.png" alt="刘备" /></a>
+			<a href="javascript:void(0);" class="lianjie" style="display:none"><img src="http://js.feiliu.com/static/bgzg/pc/images/sunquan.png" alt="孙权" /></a> 
+			<a href="javascript:void(0);" class="lianjie" style="display:none"><img src="http://js.feiliu.com/static/bgzg/pc/images/lvbu.png" alt="吕布" /></a>
+		</div>
+		<div class="txt">
+			<span class="zi1  asb"><img src="http://js.feiliu.com/static/bgzg/pc/images/cc.png" alt="曹操"></span>
+			<span class="zi2  asb"  style="display:none"><img src="http://js.feiliu.com/static/bgzg/pc/images/lb.png" alt="刘备"></span>
+			<span class="zi3  asb"  style="display:none"><img src="http://js.feiliu.com/static/bgzg/pc/images/sq.png" alt="孙权"></span>
+			<span class="zi4  asb"  style="display:none"><img src="http://js.feiliu.com/static/bgzg/pc/images/lvb.png" alt="吕布"></span>
+		</div>
+		<div id="hao" class="asb">
+			<a class="xu">1</a> 
+			<a class="xu">2</a>
+			<a class="xu">3</a> 
+			<a class="xu">4</a>  
+		</div>
+	</div>
+</div>

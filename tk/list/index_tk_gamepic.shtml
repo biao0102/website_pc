@@ -1,0 +1,40 @@
+            <div class="gamepiccon">
+              <div class="top001" id="_showc1">
+                <ul class="buttonbg03">
+                  <li class="in01"><a href="#">游戏截图</a></li>
+                  <li class="in02"><a href="#" onmousemove="__showc(2);">精彩视频</a></li>
+                  <li class="in02"><a href="#" onmousemove="__showc(3);">精美壁纸</a></li>
+                  <li><a href="#" class="more">more>></a></li>
+                </ul>
+                <div class="infonr02">
+ <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/jietu/jt6.png" /></a></span> 
+ <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/jietu/jt7.png" /></a></span> 
+ <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/jietu/jt8.png" /></a></span> 
+ <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/jietu/jt9.png" /></a></span> 
+<!--
+ <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic1.jpg" /></a></span> 
+<span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic2.jpg" /></a></span> 
+<span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic3.jpg" /></a></span>
+ <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic4.jpg" /></a></span> 
+-->
+</div>
+              </div>
+              <div class="top002" id="_showc2">
+                <ul class="buttonbg03">
+                  <li class="in02"><a href="#" onmousemove="__showc(1);">游戏截图</a></li>
+                  <li class="in01"><a href="#">精彩视频</a></li>
+                  <li class="in02"><a href="#" onmousemove="__showc(3);">精美壁纸</a></li>
+                  <li><a href="#" class="more">more>></a></li>
+                </ul>
+                <div class="infonr02"> <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic00.jpg" /></a></span> <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic00.jpg" /></a></span> <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic00.jpg" /></a></span> <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic00.jpg" /></a></span> </div>
+              </div>
+              <div class="top003" id="_showc3">
+                <ul class="buttonbg03">
+                  <li class="in02"><a href="#" onmousemove="__showc(1);">游戏截图</a></li>
+                  <li class="in02"><a href="#" onmousemove="__showc(2);">精彩视频</a></li>
+                  <li class="in01"><a href="#">精美壁纸</a></li>
+                  <li><a href="#" class="more">more>></a></li>
+                </ul>
+                <div class="infonr02"> <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic00.jpg" /></a></span> <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic00.jpg" /></a></span> <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic00.jpg" /></a></span> <span class="jietu"><a href="#"><img src="http://js.feiliu.com/static/tk/web/images/gamepic00.jpg" /></a></span> </div>
+              </div>
+            </div>

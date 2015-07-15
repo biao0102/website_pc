@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>3月25日更新公告_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">公告</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">3月25日更新公告</div>
+              <p><p class="MsoNormal">
+	尊敬的各位玩家：
+</p>
+<p class="MsoNormal" style="text-indent:21.0000pt;">
+	我们将于<span>3</span><span>月</span><span>25</span><span>日进行服务器更新，届时您将无法登陆游戏，请您合理安排游戏时间，避免不必要的损失。请与我们共同期待新内容的到来：）</span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0000pt;">
+	具体更新时间：
+</p>
+<p class="MsoNormal" style="text-indent:21.0000pt;">
+	IOS<span>正版服务器从</span><span>9:30</span><span>至</span><span>10:00</span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0000pt;">
+	安卓服务器从<span>10:00</span><span>至</span><span>10:30</span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0000pt;">
+	IOS<span>越狱服务器从</span><span>10:30</span><span>至</span><span>11:00</span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0000pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	1.5.040<span>更新</span>内容：
+</p>
+<p class="MsoNormal">
+	————————————————————————
+</p>
+<p class="MsoNormal">
+	优化内容：
+</p>
+<p class="MsoNormal">
+	1.<span>在活动阵容中的更换大侠界面，大侠添加详情预览功能</span>
+</p>
+<p class="MsoNormal">
+	2.<span>合成套装界面中，将套装名称显示优化</span>
+</p>
+<p class="MsoNormal">
+	3.<span>修复满级以后是</span><span>max</span><span>最右边被切。</span>
+</p>
+<p class="MsoNormal">
+	修正<span>bug</span><span>：</span>
+</p>
+<p class="MsoNormal">
+	1.<span>修正战力显示不一致问题</span>
+</p>
+<p class="MsoNormal">
+	2.<span>修正论剑当中对手带有套装会报</span><span>1012</span><span>的问题</span>
+</p>
+<p class="MsoNormal">
+	3.<span>修正</span><span>3</span><span>级新手引导如果先获取到紫色装备导致按钮不重叠</span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

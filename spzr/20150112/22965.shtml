@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">
+        <title>功能篇：竞技场怎么看是否打的过？奖励怎么领取？ _ 《神谱》飞流官网</title> 
+        <meta content="神谱之刃,神谱之刃官网,神谱之刃飞流九天," name="keywords">
+        <meta content="" name="description">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="format-detection" content="telephone=no"/>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/js.js"></script>
+        <link rel="stylesheet" href="http://js.feiliu.com/static/shenpu/webnew/css/style.css?v=768">
+        <!--[if IE 6]>
+        <script src="js/png.js"></script>
+        <script>
+                PNG.fix('*');
+        </script>
+        <![endif]--> 
+    </head>
+    <body>
+        <!-- 首页导航模板start-->
+        <!--#include virtual="/list/shenpu_index_nav.shtml"-->
+        <!-- 首页导航模板end--> 
+        <style>
+
+            
+        </style>
+        <section class="section4">
+            <div class="hot-main">
+                <a href="http://spzr.feiliu.com" class="logo"></a>
+                <div class="hotnews newspage">
+                    <div class="article-inner">
+                        <div class="art">
+                        <h2 class="article-title">功能篇：竞技场怎么看是否打的过？奖励怎么领取？</h2>
+                        <p class="article-pubtime">2015-01-12</p>
+                        <div class="article-content">进入竞技场后，可以在每个人物下面看到他们的名次和战斗力。记得选择好欺负的挑战哦！竞技场奖励是每小时可以领取一次，进入竞技场会自动弹出。<br />
+<div style="text-align:center;">
+	<span ></span><img src="http://i0.feiliu.com/image/20150112/20150112101109_85735.png" alt=""  />
+</div></div>
+                        </div>
+                     </div>
+                     <div class="article-btm"></div>
+                </div>
+            </div>
+        </section>
+        <!--公共底部模板start-->
+        <!--#include virtual="/list/shenpu_index_foot.shtml"-->
+        <!--公共底部模板end-->
+    </body>
+</html>	 

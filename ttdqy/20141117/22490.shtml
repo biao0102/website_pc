@@ -1,0 +1,46 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content">&nbsp;
+<p class="MsoNormal" style="background:white;text-align:left;" align="left">
+	<span >三国群英<span>Q</span>萌曝光，集体混战策略为王！中国首款群战策略卡牌</span><span><a href="http://shouyou.178.com/" target="_blank"><span style="text-decoration:none;"><span>手游</span></span></a></span><span >《天天逗群英》（原名：《马上有三国》）经过火爆的封测，游戏中<span>100VS100</span>的群战场面、斗智斗勇的多样化策略、庞大的无数<span>PVE</span>副本、激情的<span>PVP</span>等独创的系统，令众多玩家拥有了前所未有的精彩体验。在游戏诸多精彩内容中，<span>Q</span>萌武将的收集、培养、战斗最令玩家记忆犹新，但也有很多<span>Q</span>萌的武将是封测玩家尚未收集到的，现在就让我们一起领略重新塑造的三国群英的<span>Q</span>萌造型吧！<img alt="" src="http://i0.feiliu.com/image/20141117/20141117181105_37603.jpg" /><br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117181116_86609.jpg" /><br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117182942_53463.jpg" /><br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117182951_16764.jpg" /><br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117182958_49796.jpg" /><br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117183007_52491.jpg" /><br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117183015_91959.jpg" /><br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117183023_75885.jpg" /><br />
+&nbsp;
+</p>
+<p class="MsoNormal" style="background:white;text-align:left;" align="left">
+	<span >这些<span>Q</span>萌的三国武将是不是让你眼前一亮呢？《天天逗群英》中还有上百个造型<span>Q</span>萌无比的武将让你组建自己的势力，率领他们冒险在三国世界，踏上自己充满惊喜和乐趣的称霸之旅！<span></span></span>
+</p>
+<p class="MsoNormal" style="background:white;text-align:left;" align="left">
+	<span></span></span>
+</p>
+<p class="MsoNormal" style="background:white;text-align:left;" align="left">
+	<span style="微软雅黑&quot;,&quot;sans-serif&quot;;"><span></span></span>&nbsp;
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

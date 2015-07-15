@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>星宿系统</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal" align="center" style="text-align:center;">
+	<b>游戏介绍——星宿</b><b></b>
+</p>
+<h1>
+	星宿介绍<span></span>
+</h1>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>星宿模块中共有<span>10</span>种不同的星系，不同的星系对应不同的属星。<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>星宿模块功能则在玩家等级到达<span>23</span>级开启；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>随之玩家等级的不断提升，星宿的中的个个星系逐步开启；<span></span>
+</p>
+<p class="MsoNormal">
+	星系属性及开启等级如下：<span></span>
+</p>
+<p class="MsoNormal">
+	<b><span>&nbsp;</span></b>
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	n&nbsp; 紫薇星：气血值等级，<span>26</span>级开启；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	n&nbsp; 太阴星：暴击等级，<span>30</span>级开启；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	n&nbsp; 贪狼星：普通攻击，<span>23</span>级开启；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	n&nbsp; 破军星：法术攻击，<span>23</span>级开启；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	n&nbsp; 七杀星：命中，<span>30</span>级开启；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	n&nbsp; 武曲星：普通防御，<span>26</span>级开启；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	n&nbsp; 天机星：法术防御，<span>26</span>级开启；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	n&nbsp; 太阳星：闪避，<span>30</span>级开启；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	n&nbsp; 天府星：韧性，<span>30</span>级开启；<span></span>
+</p>
+<h2>
+	点亮星宿<span></span>
+</h2>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>玩家可以通过界面中选择自己中意的星系提升等级；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>每个星系中包含多个子星，通过点亮子星来实现星系升级；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>在一个星系中，每次点亮<span>10</span>个子星，会额外获得大量属性加成；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>选中星系后子星上会有关于这个子星的点亮条件；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>每个星系都有着自己独特的行星轨迹。<span></span>
+</p>
+<h2>
+	星宿升级<span></span>
+</h2>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>玩家等级达到点亮条件，等级高于当前选中的子星才可点亮；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>点亮子星消耗对应的星力点数，获得足够多的星力才可不断点亮子星，升级星系等级；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>升级星系的过程中可能会出现点亮失败，需要玩家一些运气成份。<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p>
+<h2>
+	星力的获取<span></span>
+</h2>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>副本通关奖励，任务奖励，星力召唤等；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>其中星力召唤可获得大量星力，每日可召唤<span>5</span>次的机会。<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoNormal" align="left" >
+	&nbsp;
+</p>
+<p class="MsoNormal" align="left" >
+	&nbsp;
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>文章列表</title>
+<meta name="keywords" content="大侠别嚣张，大侠别嚣张官网，游戏官网，游戏下载" />
+<meta  name="description" content="《大侠别嚣张》是由业内资深团队倾力研发的一款回合制武侠RPG手游大作。玩家可化身魔教教主，统领正派大侠，体验一个不一样的叛逆江湖。游戏拥有六大职业，丰富的乐趣玩法，上百种搭配策略。 画面场景炫酷华丽，拥有上百个武侠人物，每个人物都拥有精致的造型和炫酷的技能，让玩家置身媲美端游的视觉体验。"/>
+<link href="http://js.feiliu.com/static/daxia/css/main.css?v=07281123" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+</head>
+
+<body class="inner">
+			<!--乱斗江湖列表页顶部模板start-->
+				<!--#include virtual="/list/index_daxia_header.shtml"-->
+			<!--乱斗江湖列表页顶部模板end-->
+<div class="bg1">
+			<!--乱斗江湖列表页顶部导航模板start-->
+				<!--#include virtual="/list/index_daxia_nav.shtml"-->
+			<!--乱斗江湖列表页顶部导航模板end-->
+</div>
+<div class="bg2">
+	<div class="wrap">
+			<!--乱斗江湖列表页左侧浮动框模板start-->
+				<!--#include virtual="/list/index_daxia_side.shtml"-->
+			<!--乱斗江湖列表页左侧浮动框模板end-->
+        <div class="main">
+        	<div class="tab-header">
+            	<a class="tab-news" href="http://daxia.feiliu.com/list/list_daxia_news.shtml"></a>
+                <a class="tab-res tab-res-active" href="http://daxia.feiliu.com/list/list_daxia_yxzl.shtml"></a>
+            </div>
+
+        	<ul class="article-list">
+                
+                  
+                         <li><a href="http://daxia.feiliu.com/20141031/22374.shtml" target="_blank">【资料】游戏特色</a><span><time>10.31</time></span></li>
+                  
+                         <li><a href="http://daxia.feiliu.com/20140804/21553.shtml" target="_blank">【资料】装备介绍</a><span><time>08.04</time></span></li>
+                  
+                         <li><a href="http://daxia.feiliu.com/20140804/21552.shtml" target="_blank">【资料】主界面功能介绍</a><span><time>08.04</time></span></li>
+                  
+                         <li><a href="http://daxia.feiliu.com/20140804/21551.shtml" target="_blank">【资料】职业介绍</a><span><time>08.04</time></span></li>
+                  
+                         <li><a href="http://daxia.feiliu.com/20140804/21549.shtml" target="_blank">【资料】武功介绍</a><span><time>08.04</time></span></li>
+                  
+                         <li><a href="http://daxia.feiliu.com/20140804/21548.shtml" target="_blank">【资料】论剑</a><span><time>08.04</time></span></li>
+                  
+                         <li><a href="http://daxia.feiliu.com/20140804/21546.shtml" target="_blank">【资料】掠夺玩法</a><span><time>08.04</time></span></li>
+                  
+                         <li><a href="http://daxia.feiliu.com/20140804/21545.shtml" target="_blank">【资料】功能等级开放介绍</a><span><time>08.04</time></span></li>
+                  
+                         <li><a href="http://daxia.feiliu.com/20140804/21544.shtml" target="_blank">【资料】伙伴介绍</a><span><time>08.04</time></span></li>
+                  
+                         <li><a href="http://daxia.feiliu.com/20140804/21543.shtml" target="_blank">【资料】故事背景</a><span><time>08.04</time></span></li>
+                  
+                         <li><a href="http://daxia.feiliu.com/20140804/21542.shtml" target="_blank">【资料】各个系统介绍</a><span><time>08.04</time></span></li>
+                  
+                         <li><a href="http://daxia.feiliu.com/20140804/21540.shtml" target="_blank">【资料】按钮介绍</a><span><time>08.04</time></span></li>
+                            </ul>
+<!--
+            <div class="pager">
+            	<a class="prev" href="#">上一页</a>
+                <a href="#">1</a>
+                <a href="#">2</a>
+                <a href="#">3</a>
+                <a href="#">4</a>
+                <a href="#">5</a>
+                <a href="#">6</a>
+                <span>...</span>
+                <a href="#">60</a>
+                <a class="next"  href="#">下一页</a>
+            </div>
+-->
+        </div>
+    </div>
+</div>
+<div class="bg3">
+
+			<!--乱斗江湖列表页底部媒体合作模板start-->
+				<!--#include virtual="/list/index_daxia_mt.shtml"-->
+			<!--乱斗江湖列表页底部媒体合作模板end-->
+
+			<!--乱斗江湖列表页底部说明模板start-->
+				<!--#include virtual="/list/index_daxia_footer.shtml"-->
+			<!--乱斗江湖列表页底部说明模板end-->
+</div>
+</body>
+</html>

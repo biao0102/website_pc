@@ -1,0 +1,38 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">猛男也“腰”娆！《众妖之怒》参赛男选手亮相</div>
+			<div class="news-con">
+				<p>《众妖之怒》玩家“腰”精大评选，猛男人气不输性感美女。 &nbsp;人鱼线、六块腹肌、挺拔的身材、硬朗的脸庞，著名COSER地震、硬派男模张宪君，两大猛男在评选中赢得了上万票的支持，他们选择的灵猴与狂牛也是各自服务器的顶尖战力。现在，让我们一起欣赏《众妖之怒》最“腰”猛男的性感写真吧！</p><p><br/></p><p>《众妖之怒》玩家腰精评选官方网站：http://zyzn.feiliu.com</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/zyzn/20150527142837.jpg" title="20150527142837.jpg" alt="图1：《众妖之怒》玩家腰精评选.jpg"/></p><p><br/></p><p>【狂牛张宪君 硬朗的猛男】</p><p><br/></p><p>&nbsp; 张宪君，身高188cm，三围105、79、98。作为一名专业模特，他凭借硬朗的外表和傲人的肌肉著称。在游戏中，猛男的形象化身狂牛，“半夏星儿”的角色也在越狱1服中一时无两。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/zyzn/20150527142847.jpg" title="20150527142847.jpg" alt="图2：狂牛张宪君1.jpg"/><img src="http://js.feiliu.com/gameimg/zyzn/20150527142853.jpg" title="20150527142853.jpg" alt="图3：狂牛张宪君2.jpg"/><img src="http://js.feiliu.com/gameimg/zyzn/20150527142858.jpg" title="20150527142858.jpg" alt="图4：狂牛张宪君3.jpg"/><img src="http://js.feiliu.com/gameimg/zyzn/20150527142904.jpg" title="20150527142904.jpg" alt="图5：狂牛张宪君4.jpg"/></p><p><br/></p><p>【灵猴地震 硬派鲜肉】</p><p><br/></p><p>&nbsp; 地震，身高189，三围105、79、98。在COSER圈赫赫有名的地震可是游戏的骨灰级玩家，这样一个集硬派的身材、英俊的面容一身的他在游戏中选择了以战力超强著称的灵猴角色。“紫色雅婷”这样一个明显系统自动选择的名字却让他玩得无比硬派。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/zyzn/20150527142918.jpg" title="20150527142918.jpg" alt="图7：灵猴地震1.jpg"/><img src="http://js.feiliu.com/gameimg/zyzn/20150527142922.jpg" title="20150527142922.jpg" alt="图8：灵猴地震2.jpg"/><img src="http://js.feiliu.com/gameimg/zyzn/20150527142926.jpg" title="20150527142926.jpg" alt="图9：灵猴地震3.jpg"/><img src="http://js.feiliu.com/gameimg/zyzn/20150527142930.jpg" title="20150527142930.jpg" alt="图10：灵猴地震4.jpg"/></p><p>&nbsp; 《众妖之怒》玩家“腰”精评选现正在火爆进行，性感的美女模特、可爱的COSER、妩媚的邻家妹妹还有硬派的猛男，点击“约见”为你所支持的玩家投票。当你所投票的玩家成为票数最多的前三名（包括第三名）， 你即有机会获得iPhone6、 iwatch、京东卡或该美女的签名照片哦！</p><p><br/></p>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,65 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">甄嬛传宁贵人加盟！《众妖之怒》发布会1月6日在京举行</div>
+			<div class="news-con">
+				&nbsp; &nbsp; 据悉，飞流（FL Mobile）定于2015年1月6日，在北京召开其独家代理发行的手游《众妖之怒》产品发布会。届时，飞流与研发商曜石互动的高层领导以及超过70家媒体将参加发布会，共同见证飞流2015年开年之作《众妖之怒》的游戏内容。同时，《众妖之怒》产品代言人，北影校花、《甄嬛传》宁贵人“热依扎”也将亮相，演绎“最美妖狐”。<br />
+<br />
+<br />
+《众妖之怒》预约活动页面：http://zyzn.feiliu.com/list/zyzn_activity.shtml<br />
+《众妖之怒》官方网站：http://zyzn.feiliu.com<br />
+《众妖之怒》官方QQ群：263683777　　<br />
+《众妖之怒》客服 QQ：800032234<br />
+<br /><img src="http://i0.feiliu.com/image/20141226/20141226115642_98898.jpg" alt="" /><br />
+<br />
+【多重震撼的东方奇幻动作手游】<br />
+<br />
+<br />
+&nbsp; 《众妖之怒》是国内知名研发商曜石互动倾力研发的一款 3D动作RPG手游。游戏以颠覆传统的“暗黑”西游为背景，让玩家可以体验操纵蛮牛、灵猴、妖狐、玉兔等中国神话传说中的著名妖怪，展开一番怒战九天的激情之旅。游戏流畅的3D 画质、Q萌的人设、自由的战斗系统、随时可开启的跨服多人战斗等诸多玩法是其核心亮点，也是其与市场上同类手游差异化最明显的体现。<br /><img src="http://i0.feiliu.com/image/20141226/20141226115656_53031.jpg" alt="" /><br />
+<br />
+<br />
+【热依扎代言 手游代言处女秀】<br />
+<br />
+<br />
+&nbsp; 热依扎是北影校花，也是国内当红新一代短发女神。15岁时便以《瑞丽》最年轻的封面女郎一举成名。此后，热依扎先后出演包括《后宫甄嬛传》、《爱情自有天意》、《平安岛》、《有一个地方只有我们知道》等影视剧，参加《天天向上》、《奔跑吧兄弟2》等热播娱乐节目，成为当下迅速崛起的新时代时尚女星。此次代言《众妖之怒》，也是代言手游产品的“处女秀”。<br /><img src="http://i0.feiliu.com/image/20141226/20141226115709_32098.jpg" alt="" /><br />
+<br />
+<br />
+【独特气质 演绎妖狐之魅】<br />
+<br />
+<br />
+&nbsp; 飞流作为全球移动游戏发行与运营服务商，邀请名人代言极为鲜有。此次邀请热依扎代言《众妖之怒》，正是看重其新疆女孩特有的深眼窝、高鼻梁、大眼睛、长睫毛以及她绝佳的身材和清纯、活跃的气质，这些特点与游戏中四大职业之一的“妖狐”重合度极高，能淋漓尽致地艳义妖狐的特性，让玩家直观感受《众妖之怒》的特点。<br /><img src="http://i0.feiliu.com/image/20141226/20141226115723_27296.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 《众妖之怒》产品发布会召开的同时，游戏也将正式开启越狱内测。届时，所有人都可以进入游戏与热依扎进行互动，亲身体会妖狐的魅力与游戏的精彩！<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

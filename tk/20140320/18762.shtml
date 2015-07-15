@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《坦克风云》游戏介绍</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-03-20</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <span >《坦克风云》是国内老牌策略战争游戏公司——雷尚科技的全新大作，这是一款在传统策略思路上不断拓展创新制作出的优良佳作，简单有趣交互性强，陆战之王家族四大分支系列的装甲坦克均涵盖其中。</span><br  />
+<span >&nbsp; &nbsp; &nbsp; &nbsp;本作中您需要率领一支部队在广袤的大陆上建立一座全现代化的作战基地，组建作战部队并提升其实力，并控制足够多的资源点，压制所有敌人的发展空间。</span><br  /><img src="http://i0.8783.com/image/20140307/20140307184318_26782.jpg" alt=""  /><br  />
+<span >特点：</span><br  />
+<br  />
+<span >&nbsp; &nbsp; 精雕细琢极其逼真的画面与细节，带给您真实的战场体验；</span><br  />
+<br  />
+<br  />
+<span >&nbsp; &nbsp; 轻松上手的操作，清晰易懂的游戏流程，一根手指打天下；</span><br  />
+<br  />
+<br  />
+<span >&nbsp; &nbsp; 广袤的世界地图，遍布着产量丰富的资源点，并可支持十数万玩家在同一张地图内厮杀；</span><br  />
+<br  />
+<br  />
+<span >&nbsp; &nbsp; 收集资源、组建军队、升级军事和经济科技，布设牢不可破的防线和令人仰止的全现代化基地；</span><br  />
+<br  />
+<br  />
+<span >&nbsp; &nbsp; 每天一次免费的抽奖机会，让您在初期便可轻松组建出一支由高级兵种为核心的军队，扫平所有敌人；</span><br  />
+<br  />
+<br  />
+<span >&nbsp; &nbsp; 自己打造出战部队的构成，在以后还会与亲朋好友组成一支庞大规模的军队征伐四方。</span><br  />
+<br  />
+<br  />
+<br  />
+<br  />
+<br  />
+<br  />
+<span >【重甲突击 风云再现】</span><br  />
+<span >手机大作《坦克风云》，让玩家能重温经典策略游戏的乐趣，无论是生产、研究、单打独斗、集群作战，包含了一切传统策略游戏应具备的元素，趣味性和代入感十足。</span><br  />
+<br  />
+<br  />
+<span >【陆战之王 全面冲突】</span><br  />
+<span >集群冲锋、大纵深、闪电战、斜线突击、游击战…… 多种知名的装甲战术在游戏中均有所体现，满足诸多对读书阅文深感不足的坦克战爱好者。</span><br  />
+<br  />
+<br  />
+<span >【掠夺到底 战地之王】</span><br  />
+<span >通过对其他的玩家进行掠夺，你可以获得他的资源，还在等什么，指挥你的大军踏平敌人的阵地，燃烧激情的战火！彰显你的指挥艺术、掠夺他人的资源。当然你也会成为被掠夺的目标，发挥你的智慧，利用你的绝对实力，组建强大的防御阵地，诱导敌军进入你的埋伏圈。让他们知道什么才是撞到牢不可破的坚墙。</span><br  />
+<br  />
+<br  />
+<span >【指挥艺术 策略为王】</span><br  />
+<span >《坦克风云》中的战斗，讲究的是强悍的部队能力和缜密的战斗策略以及多兵种的搭配，而操作过程则做了大幅度的调整简化。不用再纠结于战斗中的微操作，你只需点击一下，系统就会自动根据各个兵种的特色和数量来组建好出战阵型，让你可以将全部精力投入到策略当中，通过出奇制胜的战略来一步步赢得胜利。</span><br  />
+<br  />
+<br  />
+<br  />
+<br  />
+<span >彰显战争艺术 打造战地之王</span><br  />
+<br  />
+<br  />
+<span >【如何不被掠夺】无敌的防护盾可让你的基地全方位无死角的抵御住任何攻击；实力强大的坦克军团可以组成基地牢不可破的防线；迁徙令可以令你一击得手立即转移，空留愤怒的敌人在原地咆哮。</span><br  />
+<br  />
+<br  />
+<span >【资源不够怎么办】掠夺其他人的基地；抢占遍布地图上的各类资源矿点；使用加速生产道具或是资源包均可满足你的各种需求。</span><br  />
+<br  />
+<br  />
+<br  />
+<br  />
+<br  />
+<br  />
+<span >【怎么保护自己的资源】很简单！当你准备下线，或者准备睡觉的时候，资源都花掉！首先把你的兵造满，然后兵营里点最贵的兵种，点满了你的资源大部分都在这里了，但是因为你的兵已经造满了，它不会走进度。到你上线的时候，全部取消，资源100%返还。PS：除了兵营造兵，其他的取消都是50%返还。&nbsp;</span><br  />
+<br  />
+<br  />
+<br  />
+<br  />
+<span >【强悍的VIP身份】VIP身份可以带来更多的加速服务和同时进行更多的行动。</span><br  />
+<br  />
+<br  />
+<span >【金币的用途】金币的用途很多：1.购买资源/道具/队列/抽奖/装备/能量。2.加速各类时间，直接完成。&nbsp;</span><br  />
+<br  />
+<br  />
+<span >【君子好財 取之有道】每天0时刷新后，可领取每日军需，可获得5金币和大量声望。</span>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Design:Lu; Web Layout:Minghua.Shi" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="魔戒,魔戒官网," />
+    <meta name="description" content="《魔戒》卡牌介绍。卡牌" />   
+    <title>《魔戒》卡牌介绍 魔戒_新闻</title>
+    <link href="http://js.feiliu.com/static/mojie/style/news.css?v=1" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/mojie/js/jquery1.6.4.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            fnhzmt();
+        });
+
+        function fnhzmt() {
+            var mtbox = $("#hzmt_list");
+            var liwidth = 113;
+            var linum = mtbox.children().length;
+            var i = 0;
+            var timer = null;
+            var time = 20;
+            if (linum >= 8) {
+                mtbox.append(mtbox.html());
+                timer = setInterval(hzmtAnimate, time);
+                mtbox.hover(function () {
+                    clearInterval(timer);
+                    timer = null;
+                }, function () {
+                    timer = setInterval(hzmtAnimate, time);
+                });
+            }
+            function hzmtAnimate() {
+                i = i >= liwidth * linum ? 0 : i + 1;
+                mtbox.css("left", -i + "px");
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <div class="wrap03">
+        <div id="wrap" class="wrap">
+            <div class="wrap02">
+                <div class="content">
+                    <div class="nav">
+                        <ul class="nav_list">
+                            <li class="btn01"><a href="http://mojie.feiliu.com">官网首页</a></li>
+                            <li class="btn02"><a href="#">游戏资讯</a></li>
+                            <li class="btn03"><a href="#">资料站</a></li>
+                            <li class="btn04"><a href="#">VIP专属</a></li>
+                            <li class="btn05"><a href="#">视听盛宴</a></li>
+                            <li class="btn06"><a href="#">官方论坛</a></li>
+                        </ul>
+                        <h1 class="logo"><a href="#">《魔戒》官方网站</a></h1>
+                    </div>
+                    <img src="http://js.feiliu.com/static/mojie/images/news/img02.jpg" alt="" border="0" />
+                    <img src="http://js.feiliu.com/static/mojie/images/news/img03.jpg" alt="" border="0" />
+                    <div class="main clearfix">
+					
+                        <!--魔戒列表页左侧模板start-->
+							<!--#include virtual="/list/mojie_list_left.shtml"-->
+						<!--魔戒列表页左侧模板end-->
+						
+                        <div class="main_r">
+                            <div class="news_bg01">
+                                <div class="news_bg02">
+                                    <div class="news_title">《魔戒》卡牌介绍</div>
+                                    <div class="news_content">
+                                        <p class="MsoNormal">
+	<strong><span >&nbsp;卡牌介绍</span></strong><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<strong><span >《魔戒》游戏中有很多卡牌，如：虫豸系、蛮族系、元素系、不死系、野兽系等等，也正是由于这些经典卡牌的结合得到了广大玩家的认可和支持。那么魔戒玩友们想不想更多的了解魔戒中的卡牌属性呢？那么就和小编一起往下看吧。</span></strong>
+</p>
+<p class="MsoListParagraph" align="left" style="margin-left:21pt;text-indent:-21pt;">
+	<span style="text-indent:-28px;"><span style="text-indent:-28px;"><strong>l&nbsp;</strong></span></span><strong><span >&nbsp;客服QQ：800032234</span></strong>
+</p>
+<p class="MsoListParagraph" align="left" style="margin-left:21pt;text-indent:-21pt;">
+	<strong><span >l&nbsp; 客服邮箱：800032234@b.qq.com</span></strong>
+</p>
+<p class="MsoListParagraph" align="left" style="margin-left:21pt;text-indent:-21pt;">
+	<strong><span >l&nbsp; PP助手下载地址：</span></strong><a href="http://www.25pp.com/ipad/game/info_1174851.html"><strong><span >http://www.25pp.com/ipad/game/info_1174851.html</span></strong></a> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal" align="left">
+	<strong><span >卡牌作用</span></strong>
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;">
+	<strong><span >《魔戒》中的卡牌可以镶嵌到装备上，每件装备仅能镶嵌一张卡牌。使用各种卡牌搭配到装备上，可大幅度提高英雄的战斗力。</span></strong>
+</p>
+<span></span> 
+<p>
+	<br />
+</p>
+<p class="MsoNormal">
+	<span ><strong>&nbsp;</strong></span> 
+</p>
+<p class="MsoListParagraph" align="left" style="margin-left:21pt;text-indent:-21pt;"><img src="http://i0.8783.com/image/20140221/20140221140359_26999.jpg" alt="" /> 
+</p>
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >卡牌种类</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >卡牌总共有</span></strong><span lang="EN-US" ><strong>5</strong></span><strong><span >个系别，分别是虫豸系、蛮族系、元素系、不死系、野兽系</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p><img src="http://i0.8783.com/image/20140221/20140221140359_50709.jpg" alt="" /><br />
+<br />
+<br />
+<br />
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >卡牌品质</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >　 卡牌品质是按颜色划分的，依次为绿色、蓝色、紫色、 橙色、橙色为现阶段最高品质的装备。</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p><img src="http://i0.8783.com/image/20140221/20140221140400_94500.jpg" alt="" /><br />
+<br />
+<br />
+<br />
+<p class="MsoNormal" align="left" style="text-indent:21pt;background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >下面为大家介绍一些战场上常用的卡牌与效果</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;background-position:initial initial;background-repeat:initial initial;">
+	<span lang="EN-US" ><strong>&nbsp;</strong></span> 
+</p>
+<p class="MsoNormal">
+	<strong><span >野兽系</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p><img src="http://i0.8783.com/image/20140221/20140221140400_48047.jpg" alt="" /><br />
+<strong><span > 小格挡</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：提高73点韧性值</span></strong><br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140400_28078.jpg" alt="" /><br />
+<br />
+<p class="MsoNormal">
+	<strong><span >乘虚而入</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：对受到虚弱传染的敌对目标额外造成679点伤害</span></strong><br />
+<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140400_46625.jpg" alt="" /><br />
+<br />
+<p class="MsoNormal" style="margin-left:199.5pt;text-indent:-199.5pt;">
+	<br />
+</p>
+<strong><span >焰火</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：在目标位置留下一团焰火，每2秒对周围敌对目标造成35点伤害，持续10秒</span></strong><br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140400_53908.jpg" alt="" /><br />
+<br />
+<p class="MsoNormal" style="margin-left:204.75pt;text-indent:-204.75pt;">
+	<strong><span >攻·淘汰</span></strong>
+</p>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"></span><span style="text-indent:-204.75pt;"><strong><span >适合职业：祭司</span></strong><br />
+	<div style="text-align:left;">
+		<span style="text-indent:-204.75pt;"></span><span style="text-indent:-204.75pt;"><strong>卡片效果：根据当前血量百分比提高法伤（剩余血量越高效果越好），持续5秒</strong></span><span style="text-indent:-204.75pt;"></span>
+	</div>
+</span>
+</div>
+<p>
+	<br />
+</p>
+<br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140401_27818.jpg" alt="" /><br />
+<br />
+<strong><span > 攻·致命</span></strong><br />
+<strong><span >适合职业：法师</span></strong><br />
+<strong><span >卡片效果：5秒内提高15%暴击率</span></strong><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<p class="MsoNormal" style="margin-left:204.75pt;text-indent:-204.75pt;">
+	<strong><span >不死系</span></strong><span></span> 
+</p>
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140401_67845.jpg" alt="" /><br />
+<br />
+<strong><span > 小暴击</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：提高145点暴击值</span></strong><br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140401_24395.jpg" alt="" /><br />
+<br />
+<strong><span > 冻伤</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：对受到霜冻影响的目标额外造成679点伤害</span></strong><br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140402_27097.jpg" alt="" /><br />
+<br />
+<p class="MsoNormal" style="margin-left:204.75pt;text-indent:-204.75pt;">
+	<br />
+</p>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>冰甲守护</strong></span>
+</div>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>适合职业：大剑、法师、祭司、精灵、熊猫</strong></span>
+</div>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>卡片效果：获得冰甲守护，使自己7秒内每次受到攻击，冰甲固定抵御142点伤害</strong></span>
+</div>
+<span></span> 
+<p>
+	<br />
+</p>
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140402_82774.jpg" alt="" /><br />
+<br />
+<strong><span > 攻·怒火</span></strong><br />
+<strong><span >适合职业：大剑</span></strong><br />
+<strong><span >卡片效果：根据当前血量提高百分比攻击力，持续5秒</span></strong><br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140402_10611.jpg" alt="" /><br />
+<br />
+<strong><span > 大暴击</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：增加3327点暴击值</span></strong><br />
+<br />
+<br />
+<br />
+<p class="MsoNormal" style="margin-left:204.75pt;text-indent:-204.75pt;">
+	<strong><span >元素系</span></strong><span></span> 
+</p>
+<br /><img src="http://i0.8783.com/image/20140221/20140221140402_58251.jpg" alt="" /><br />
+<br />
+<strong><span > 远攻</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：目标距离越远受到伤害越高（距离*17）</span></strong><br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140402_97080.jpg" alt="" /><br />
+<br />
+<br />
+<strong><span > 中精准</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：提高566点精准值</span></strong><br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140402_60375.jpg" alt="" /><br />
+<br />
+<strong><span > 沉默</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：使目标3秒内无法释放技能</span></strong><br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140403_56754.jpg" alt="" /><br />
+<br />
+<strong><span > 辅·进攻</span></strong><br />
+<strong><span >适合职业：法师</span></strong><br />
+<strong><span >卡片效果：提高自己10%伤害，持续5秒</span></strong><br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140403_75871.jpg" alt="" /><br />
+<br />
+<br />
+<br />
+<strong><span > 辅·刺盾</span></strong><br />
+<strong><span >适合职业：祭司</span></strong><br />
+<strong><span >卡片效果：使自己受到攻击时吸收并反弹10%点伤害，持续5秒</span></strong><br />
+<br />
+<br />
+<br />
+<p class="MsoNormal" style="margin-left:204.75pt;text-indent:-204.75pt;">
+	<strong><span >蛮族系</span></strong><span></span> 
+</p>
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140403_76393.jpg" alt="" /><br />
+<br />
+<strong><span > 假死</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：可使自己5秒内抵挡一次死亡</span></strong><br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140403_76070.jpg" alt="" /><br />
+<br />
+<br />
+<strong><span > 致命恢复</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：若此技能暴击，则恢复679点生命</span></strong><br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140510_84025.jpg" alt="" /><br />
+<br />
+<br />
+<p class="MsoNormal" style="margin-left:204.75pt;text-indent:-204.75pt;">
+	<br />
+</p>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>嘲讽图腾</strong></span>
+</div>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>适合职业：大剑、法师、祭司、精灵、熊猫</strong></span>
+</div>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>卡片效果：在自己身边放置1个嘲讽图腾，存在10秒。图腾对随机1个目标嘲讽并攻击</strong></span>
+</div>
+<span></span> 
+<p>
+	<br />
+</p>
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140510_13581.jpg" alt="" /><br />
+<br />
+<br />
+<p class="MsoNormal" style="margin-left:204.75pt;text-indent:-204.75pt;">
+	<br />
+</p>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>防·恢复</strong></span>
+</div>
+<span>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>适合职业：祭司</strong></span>
+</div>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>卡片效果：5秒内受到伤害恢复自身2%生命</strong></span>
+</div>
+</span>
+<p>
+	<br />
+</p>
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140510_37195.jpg" alt="" /><br />
+<br />
+<p class="MsoNormal" style="margin-left:204.75pt;text-indent:-204.75pt;">
+	<br />
+</p>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>蛮族王国</strong></span>
+</div>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>适合职业：大剑、法师、祭司、精灵、熊猫</strong></span>
+</div>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"><strong>卡片效果：有蛮族类卡片效果的技能伤害增加15%</strong></span>
+</div>
+<span></span> 
+<p>
+	<br />
+</p>
+<p class="MsoNormal" style="margin-left:204.75pt;text-indent:-204.75pt;">
+	<span ><strong>&nbsp;</strong></span> 
+</p>
+<br />
+<br />
+<br />
+<span style="text-indent:-273px;"><strong>虫豸系</strong></span><br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140510_20357.jpg" alt="" /><br />
+<br />
+<br />
+<strong><span > 兵虫甲</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >提高232点护甲</span></strong><br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140510_35510.jpg" alt="" /><br />
+<br />
+<br />
+<br />
+<strong><span > 疯狂</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：若当前自己处于狂热，则额外造成435点伤害</span></strong><br />
+<br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140510_20554.jpg" alt="" /><br />
+<br />
+<br />
+<strong><span > 碎盾</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：驱散目标护盾类增益，并恢复自己435点生命</span></strong><br />
+<br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140510_46624.jpg" alt="" /><br />
+<br />
+<br />
+<br />
+<br />
+<strong><span >强杀</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：对目标造成（10%+2281）点伤害</span></strong><br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221140510_95566.jpg" alt="" /><br />
+<br />
+<br />
+<br />
+<strong><span >王虫甲</span></strong><br />
+<strong><span >适合职业：大剑、法师、祭司、精灵、熊猫</span></strong><br />
+<strong><span >卡片效果：提高5323点护甲</span></strong><br />
+<p class="MsoNormal" style="margin-left:204.75pt;text-indent:-204.75pt;">
+	<strong><span ></span></strong>
+</p>
+<div style="text-align:left;">
+	<span style="text-indent:-204.75pt;"> 
+	<p class="MsoNormal" style="text-align:center;margin-left:204.75pt;text-indent:-204.75pt;">
+		<strong><span >更多的卡牌与组合研究，请大家来游戏中探索吧，还等什么，快来游戏吧！！</span></strong><span></span> 
+	</p>
+	<div style="text-align:left;">
+		<span style="text-indent:-204.75pt;"></span><span style="text-indent:-204.75pt;"></span> 
+	</div>
+</span> 
+</div>
+<p class="MsoNormal" style="margin-left:204.75pt;text-indent:-204.75pt;">
+	<br />
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<br />
+</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hzmt">
+                        <div class="hzmtbox">
+                            <!--魔戒首页底部媒体模板start-->
+								<!--#include virtual="/list/index_mojie_mthz.shtml"-->
+							<!--魔戒首页底部媒体模板end--> 
+                        </div>
+                    </div>
+                    <div class="bottom">
+                        <p>About.us | Copy right@飞流iPhone 2013</p>
+                        <p>爱游戏，爱生活，也爱美女。</p>
+                        <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+                        <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+                        <p>Love is love!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

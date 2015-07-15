@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8"/>
+<title>碰你妹 官方网站</title>
+<meta name="keywords" content="碰你妹,碰你妹官网,碰你妹下载,碰你妹礼包,碰你妹激活码,碰你妹安卓版,碰你妹ios版,碰你妹越狱版,碰你妹概念站,碰你妹手游"/ >
+<meta name="description" content=" 《碰你妹》是一款消除类休闲游戏，游戏以炫丽的2D卡通女主角为人物，魔幻风格的画面仿佛带你进入了魔法的世界，每个带有魔力的女孩根据自己的特点有特殊技能，通过与系统对战，修炼魔法升级人物！与充满奇特的魔法女孩们一起展开一场华丽的魔法之战吧。"/>
+<link href="http://js.feiliu.com/static/pnm/web/css/index.css?v=3" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/public.js"></script>
+</head>
+<body>
+<div class="contain fltt">
+  <div id="ripiao"> <img src="http://js.feiliu.com/qrcode/pnm/300021_yy_144.png" /> </div>
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+		<!--碰你妹头部导航模板start-->
+			<!--#include virtual="/list/index_pnm_nav.shtml"-->
+		<!--碰你妹头部导航模板end-->
+      <div></div>
+		<!--碰你妹轮播图模板start-->
+			<!--#include virtual="/list/index_pnm_lb.shtml"-->
+		<!--碰你妹轮播图模板end-->
+    </div>
+  </div>
+  <div class="con1000">
+    <!--box01 -->
+    <div class="box01 fltt rel">
+		<!--碰你妹游戏截图模板start-->
+			<!--#include virtual="/list/index_pnm_jt.shtml"-->
+		<!--碰你妹游戏截图模板end-->
+		<!--碰你妹视频专区模板start-->
+			<!--#include virtual="/list/index_pnm_video.shtml"-->
+		<!--碰你妹视频专区模板end-->
+		<!--碰你妹新闻栏目模板start-->
+			<!--#include virtual="/list/index_pnm_col.shtml"-->
+		<!--碰你妹新闻栏目模板end-->
+      <img src="http://js.feiliu.com/static/pnm/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <!--box01 -->
+    <div class="box02 fltt">
+		<!--碰你妹公共客服模板start-->
+			<!--#include virtual="/list/index_pnm_kf.shtml"-->
+		<!--碰你妹公共客服模板end-->
+		<!--碰你妹公共合作媒体模板start-->
+			<!--#include virtual="/list/index_pnm_hzmt.shtml"-->
+		<!--碰你妹公共合作媒体模板end-->
+    </div>
+	<!--碰你妹公共底部模板start-->
+		<!--#include virtual="/list/index_pnm_foot.shtml"-->
+	<!--碰你妹公共底部模板end-->
+  </div>
+</div>
+
+</body>
+</html>

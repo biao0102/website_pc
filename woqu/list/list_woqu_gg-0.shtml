@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="我去西游,我去西游官网,我去西游兑换码,我去西游礼包,我去西游下载,我去西游攻略,我去西游飞流,3D手游,萌战卡牌,孙悟空,猪八戒,神卡,仙卡,二郎神,西天取经" />
+    <meta name="description" content="我去西游是乐卓网络科技（上海）有限公司开发，北京飞流九天独家代理的一款“萌系”西游卡牌RPG，玩家在游戏中扮演一位充满正义感的的神通人士，陪伴唐僧四人西行取经" />
+    <title>《我去西游》官方网站_公告中心</title>
+    <link href="http://js.feiliu.com/static/woqu/style/news.css?v=541" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/woqu/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="wrap03">
+        <div id="wrap" class="wrap">
+            <div class="wrap02">
+                <div class="content">
+                     <!--头部公共导航模板start-->
+						<!--#include virtual="/list/index_woqu_nav.shtml"-->
+					<!--头部公共导航模板end-->
+                    <img src="http://js.feiliu.com/static/woqu/images/news/img02.jpg" alt="" border="0" />
+                    <img src="http://js.feiliu.com/static/woqu/images/news/img03.jpg" alt="" border="0" />
+                    <div class="news_bg01">
+                        <div class="news_bg02">
+                            <div class="news">
+                                <ul class="news_list">
+									
+									  
+										<li><a href="http://woqu.feiliu.com/20140127/20069.shtml" title="《我去西游》S7新服开服公告">《我去西游》S7新服开服公告</a><span>2014-01-27</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20140122/20068.shtml" title="《我去西游》S6新服开服公告">《我去西游》S6新服开服公告</a><span>2014-01-22</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20140121/20067.shtml" title="《我去西游》登陆异常公告">《我去西游》登陆异常公告</a><span>2014-01-21</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20140121/20066.shtml" title="《我去西游》1月22日维护公告">《我去西游》1月22日维护公告</a><span>2014-01-21</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20140114/20065.shtml" title="《我去西游》S5新服-水帘洞震撼来袭">《我去西游》S5新服-水帘洞震撼来袭</a><span>2014-01-14</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20140108/20064.shtml" title="《我去西游》新服S4—马年大吉开服公告">《我去西游》新服S4—马年大吉开服公告</a><span>2014-01-08</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20140106/20063.shtml" title="《我去西游》1月7日维护公告">《我去西游》1月7日维护公告</a><span>2014-01-06</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20131218/20062.shtml" title="《我去西游》s3服务器—龙宫探宝震撼开启。">《我去西游》s3服务器—龙宫探宝震撼开启。</a><span>2013-12-18</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20131217/20061.shtml" title="12月18日维护公告（s2定海神针）">12月18日维护公告（s2定海神针）</a><span>2013-12-17</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20131217/20060.shtml" title="12月18日维护公告(s1石猴出世)">12月18日维护公告(s1石猴出世)</a><span>2013-12-17</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20131208/20059.shtml" title="《我去西游》不删档封测，成长礼包不限时一路相随 ">《我去西游》不删档封测，成长礼包不限时一路相随 </a><span>2013-12-08</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20131203/20058.shtml" title="《我去西游》定海神针新服震撼开启">《我去西游》定海神针新服震撼开启</a><span>2013-12-03</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20131129/20057.shtml" title="《我去西游》不删档封测公告">《我去西游》不删档封测公告</a><span>2013-11-29</span></li>
+									  
+										<li><a href="http://woqu.feiliu.com/20131127/20056.shtml" title="我去西游封测啦">我去西游封测啦</a><span>2013-11-27</span></li>
+									                                </ul>
+								<div class="paging" id="paging"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--我去西游底部版权公共模板start-->
+						<!--#include virtual="/list/index_woqu_foot.shtml"-->
+					<!--我去西游底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<!--list分页-底部start--> 
+	<script language="javascript"> 
+	var f_pagecount = 9 
+	<!--#include virtual="/pub/page_ctrl.shtml"--> 
+	</script> 
+<!--list分页-底部end--> 
+</html>

@@ -1,0 +1,112 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="UTF-8">
+<title>众妖之怒</title> 
+<meta content="众妖之怒,众妖之怒官网, 众妖之怒下载,众妖之怒礼包,众妖之怒攻略,众妖之怒安卓版, 众妖之怒ios版,东方奇幻动作手游." name="keywords">
+<meta content="《众妖之怒》是一款Q版东方魔幻的3D大型动作RPG手机网游，拥有高品质的美术水准、创新的符文技能系统、炫爆眼球的跨服竞技，通过装备强化、技能升级、宠物养成以及参星悟道等创新玩法，提升自身的实力，体验到丰富多样的单人、多人副本挑战，更有单人轮回之塔等玩法，挑战你的自身极限，傲视群雄。" name="description">
+<meta name="format-detection" content="telephone=no"/>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web0430/js/is_mobile.js"></script>
+<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/web0430/css/style.css?v=11">
+<!--[if IE 6]>
+<script src="http://js.feiliu.com/static/zyzn/web0430/js/png.js"></script>
+<script>
+	PNG.fix('http://js.feiliu.com/static/zyzn/web0430/images/sprite.png');
+</script>
+<![endif]--> 
+</head>
+<body>
+<div id="tese-wrap">
+		<div id="index-menu">
+		<div class="index-menu-wrap">
+			<a class="" href="http://zyzn.feiliu.com/web/list/index.shtml">官网首页</a>
+			<a class="menu-curr" href="http://zyzn.feiliu.com/web/list/tese.shtml">游戏特色</a>
+			<a class="" href="http://zyzn.feiliu.com/web/list/introduce.shtml">职业介绍</a>
+			<a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">内测活动</a>
+			<a href="http://bbs.8783.com/forum-159-1.html">内测论坛</a>
+			<a href="javascript:alert('敬请期待！');"><span>&nbsp;</span>飞流社区</a>
+		</div>
+	</div>
+	<div id="tese-main">
+		<a class="logo" href="http://zyzn.feiliu.com/"></a>
+		<div class="tese-menu">
+			<a class="cur" href="javascript:void(0);">01<span>概念视频</span></a>
+			<a href="javascript:void(0);">02<span>绚丽特效</span></a>
+			<a href="javascript:void(0);">03<span>超萌宠物</span></a>
+			<a href="javascript:void(0);">04<span>特色时装</span></a>
+			<a href="javascript:void(0);">05<span>多样副本</span></a>
+			<a href="javascript:void(0);">06<span>多人对战</span></a>
+			<a class="last" href="javascript:void(0);">07<span>跨服组队</span></a>
+		</div>
+		<div class="tese-video">
+			<div class="tese-video-main">
+				<div class="tese-item cur">
+					<div class="tese-video-wrap">
+						<iframe class='tesevideo' frameborder='0' allowfullscreen='' data-src='http://v.qq.com/iframe/player.html?vid=o0142c77i70&tiny=0?autoPlay=false' src='http://v.qq.com/iframe/player.html?vid=o0142c77i70&tiny=0?autoPlay=false'></iframe><div class='tese-videoback'>X</div>
+					</div>
+				</div>
+				<div class="tese-item next">
+					<div class="tese-video-wrap">
+						<iframe class='tesevideo' frameborder='0' allowfullscreen='' data-src='http://v.qq.com/iframe/player.html?vid=e0142bkg1j0&tiny=0?autoPlay=false' src=''></iframe><div class='tese-videoback'>X</div>
+					</div>
+				</div>
+				<div class="tese-item">
+					<div class="tese-video-wrap">
+						<iframe class='tesevideo' frameborder='0' allowfullscreen='' data-src='http://v.qq.com/iframe/player.html?vid=o01423adr1b&tiny=0?autoPlay=false' src=''></iframe><div class='tese-videoback'>X</div>
+					</div>
+				</div>
+				<div class="tese-item">
+					<div class="tese-video-wrap">
+						<iframe class='tesevideo' frameborder='0' allowfullscreen='' data-src='http://v.qq.com/iframe/player.html?vid=h0142i1zafo&tiny=0?autoPlay=false' src=''></iframe><div class='tese-videoback'>X</div>
+					</div>
+				</div>
+				<div class="tese-item">
+					<div class="tese-video-wrap">
+						<iframe class='tesevideo' frameborder='0' allowfullscreen='' data-src='http://v.qq.com/iframe/player.html?vid=n0142z3gnww&tiny=0?autoPlay=false' src=''></iframe><div class='tese-videoback'>X</div>
+					</div>
+				</div>
+				<div class="tese-item">
+					<div class="tese-video-wrap">
+						<iframe class='tesevideo' frameborder='0' allowfullscreen='' data-src='http://v.qq.com/iframe/player.html?vid=j0142nuog5r&tiny=0?autoPlay=false' src=''></iframe><div class='tese-videoback'>X</div>
+					</div>
+				</div>
+				<div class="tese-item prev">
+					<div class="tese-video-wrap">
+						<iframe class='tesevideo' frameborder='0' allowfullscreen='' data-src='http://v.qq.com/iframe/player.html?vid=x01421crata&tiny=0?autoPlay=false' src=''></iframe><div class='tese-videoback'>X</div>
+					</div>
+				</div>
+			</div>
+			<span class="tese-left"></span>
+			<span class="tese-right"></span>
+		</div>
+	</div>
+</div>
+<!--video-->
+<div class="video-sourse disN">
+	<div class="video-sourse-wrap">		
+		<div class="videoback">X</div>
+	</div>	
+</div>
+
+<div id="footer">
+	<div class="footer-main">
+	<p class="aboutus">About.us | Copy right@北京飞流九天科技有限公司<br>
+			地址：北京市东城区和平里东街11号雍和航星科技园2号楼北侧3层   联系电话：010-84229729<br>
+			爱游戏，爱生活，也爱美女。<br>
+			飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！<br>
+			我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！<br>
+			Love is love!
+	</p>
+	</div>
+</div>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web0430/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web0430/js/js.js?v=4"></script>
+<script>$.ajax({ url:"http://gameapi.feiliu.com/game/netlog",type:'GET',dataType:'jsonp',success: function(data){}});</script>
+
+
+
+</body>
+</html>

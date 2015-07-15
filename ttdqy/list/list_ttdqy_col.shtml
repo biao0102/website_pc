@@ -1,0 +1,37 @@
+		<div id="news-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻中心</div>
+				<ul class="news-title-right">
+					<li class="title-item br1 title-item-curr"><span>最新</span></li>
+					<li class="title-item br1"><span>新闻</span></li>
+					<li class="title-item br1"><span>活动</span></li>
+					<li class="title-item"><span>公告</span></li>
+				</ul>
+			</div>
+			<div class="centerwrap">
+			<!--列表页最新模板start-->
+				<!--#include virtual="/list/list_ttdqy_colzx.shtml"-->
+			<!--列表页最新模板end-->
+			<!--列表页新闻模板start-->
+				<!--#include virtual="/list/list_ttdqy_colnews.shtml"-->
+			<!--列表页新闻模板end-->
+			<!--列表页活动模板start-->
+				<!--#include virtual="/list/list_ttdqy_colhd.shtml"-->
+			<!--列表页活动模板end-->
+			<!--列表页公告模板start-->
+				<!--#include virtual="/list/list_ttdqy_colgg.shtml"-->
+			<!--列表页公告模板end-->
+			<!--	
+				<div id="pagewrap">
+					<a class="page" href="">首页</a>
+					<a class="page" href="">上一页</a>
+					<a class="page" href="">1</a>
+					<a class="page" href="">2</a>
+					<a class="page" href="">3</a>
+					<a class="page" >...</a>
+					<a class="page" href="">下一页</a>
+					<a class="page" href="">末页</a>
+				</div>
+			-->
+			</div>
+		</div>

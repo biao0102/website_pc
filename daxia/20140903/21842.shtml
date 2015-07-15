@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>大侠别嚣张9月4日更新补充公告_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">新闻</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">大侠别嚣张9月4日更新补充公告</div>
+              <p><p class="p0" style="text-indent:15.7500pt;margin-bottom:0pt;margin-top:0pt;">
+	亲爱的玩家爱朋友，《大侠别嚣张》预计于9月4日上午10点进行在线更新。本次更新不需要停服和更换客户端，玩家可以快速体验到精彩新内容哦！<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	&nbsp;
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	特别注意：.新增日常活动：“铜人阵”和“情花谷”，玩家可以在新日常活动中获得经验和银钱。<span >原有‘斩草除根’活动下线。</span><o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	感谢您对本游戏的支持，祝您游戏愉快<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	<o:p>&nbsp;</o:p>
+</p>
+<p class="p0" style="text-indent:27.0000pt;margin-bottom:0pt;margin-top:0pt;text-align:right;">
+	大侠运营小组<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:27.0000pt;margin-bottom:0pt;margin-top:0pt;text-align:right;">
+	&nbsp;&nbsp;&nbsp;9月3日<o:p></o:p>
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

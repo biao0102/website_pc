@@ -1,0 +1,72 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">热依扎最爱手游《众妖之怒》今日越狱不删档   </div>
+			<div class="news-con">
+				<br />
+&nbsp; 自从《众妖之怒》于1月13日在安卓平台首次测试以来，许多ios系统手机的玩家大叫不平，有的甚至还特意购入了一台安卓设备。今天，使用ios越狱系统的玩家有福了，《众妖之怒》将联合百度、同步推、PP助手、快用、XY助手、爱思、itools、i苹果、友游、叉叉助手、当乐越狱、乐8、狐狸助手等15多家渠道开启越狱不删档内测，你准备好了么？<br />
+<br />
+<br />
+《众妖之怒》官方网站：http://zyzn.feiliu.com<br />
+《众妖之怒》官方QQ群：263683777　　<br />
+《众妖之怒》客服 QQ：800032234<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150429/20150429144943_93455.jpg" alt="" /><br />
+<br />
+<br />
+【3D高清画面 挑战手游极限】<br />
+<br />
+<br />
+&nbsp; 《众妖之怒》凭借Unity 3D游戏引擎在画面方面的表现，在游戏中实现了全3D场景的塑造，为玩家揭开了一个立体化的东方世界。同时，通过画师精心的描绘，游戏中的每个场景都表现得无比唯美。游戏其中，玩家可以游走在草原，感受茵茵绿草包围的惬意；可以冒险怪石林立的山巅，穿梭在不时冒出的怪群；可以亲身融入白云飘渺的天宫，可以亲自探究大海的广阔……而且，游戏中的场景都有昼夜交替的真实设定，根据时间而变化的光线绝对会让人时时刻刻都拥有无比强烈的视觉冲击。<br />
+<br /><img src="http://i0.feiliu.com/image/20150429/20150429145010_93140.jpg" alt="" /><br />
+<br />
+【说战就战 即时跨服团战】<br />
+<br />
+<br />
+&nbsp; 作为一款以顶尖技术创造多项手游奇迹的高品质手游，《众妖之怒》以突破现今手游水平的先驱理念，推出了即时跨服多人战斗的PVE&amp;PVP机制。玩家在游戏中可以随时进入跨服PVE系统，与来自不同服务器的小伙伴一起战斗，挑战世界BOSS，享受集群战斗的快感；还可以进行组队PK，感受不同职业真人决战的激情，体验胜败掌握在团队配合的精彩。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150429/20150429145026_19724.jpg" alt="" /><br />
+<br />
+<br />
+【新一代宅男女神热依扎代言】<br />
+<br />
+<br />
+&nbsp; 热依扎出身北影表演系，是现今国内当红的新一代短发女神。她15岁时便以《瑞丽》最年轻的封面女郎一举成名。此后，先后出演包括《后宫甄嬛传》、《爱情自有天意》、《平安岛》等影视剧，参加《天天向上》、《奔跑吧兄弟2》等热播娱乐节目，此次代言《众妖之怒》，也是代言手游产品的“处女秀”。热依扎坦言，平时自己也玩过不少游戏，之所以爱上《众妖之怒》，首先是因为西游的题材，能让她轻松的进入剧情，了解角色。其次就是《众妖之怒》可爱的3D人物造型和绚丽的动作打击特效，玩起来非常爽快、刺激。在热依扎的发动下，片场休息时，经常能看到许多明星在联机打《众妖之怒》。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150429/20150429145049_68185.jpg" alt="" /><br />
+<br />
+&nbsp; 20多家渠道联手相助，2015年首款东方奇幻3D动作手游《众妖之怒》登陆越狱平台！妖行三界，怒战九天！这么好玩的西游，快来下载一个体验一下吧！<br />
+<br />
+<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

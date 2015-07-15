@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_热点推荐</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">纵横捭阖 飞流联合西山居铸造极致《三国战神》</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-27 12:32:19</span>
+																			</div>
+									<div class="w-d">
+										　　据悉，由掌沃无限研发、飞流和西山居联合发行的真3D国战手游《三国战神》将于5月底正式开启游戏“不删档测试”。届时，国内20余家一线移动游戏发行平台将对三国战神进行全方位的推广。作为《三国战神》iOS发行商的飞流，将在PP、快用、同步推、91四大国内顶级移动游戏平台进行《三国战神》iOS版的首发测试；负责安卓版发行的西山居也正在紧锣密鼓筹备产品的正式发布工作，双方这一纵横捭阖之举，开创了国内强势发行商联合代理的先河。<br />
+<br /><img style="width:634px;height:272px;" alt="" src="http://i0.feiliu.com/image/20140527/20140527122914_32913.jpg" width="677" height="302" /><br />
+　　<br />
+　　据了解，《三国战神》的研发团队有近50人，其在iOS平台的发行服务商飞流是国内最早涉足iOS移动游戏发行的知名公司，旗下发行的产品数量较多，曾携手完美世界联合发行《神雕侠侣》，与腾讯合作力推《全民斗三国》等，在移动游戏行业强强联手方面有丰富的合作经验。在手游产品的运营推广方面，飞流更是借助娱乐营销成功发行了多款优秀的手机游戏。比如联合优酷自造IP推出《我去西游》动画片，邀请著名导演高希希拍摄《啪啪三国》微电影，邀请新生代演员张馨予亲自担任《啪啪三国》广告创意总监，携手女星周韦彤一起打造《全民斗三国》贺岁档游戏概念，吸引著名音乐组合羽泉以投资身份参加《龙之召唤》发布会等。此次代理发行《三国战神》，飞流擅长的娱乐营销会推出怎样的打法，让我们拭目以待。<br />
+　　<br />
+　　作为一款全平台发行的手游大作，《三国战神》在安卓平台的发行均由西山居负责。《三国战神》是西山居首款代理的移动游戏产品，西山居势必拿出大量资源来进行推广。在获得小米2000万美元的战略投资后，西山居在移动游戏发行上也会引入小米的营销模式，推广上也会大胆创新。<br />
+<br /><img style="width:634px;height:332px;" alt="" src="http://i0.feiliu.com/image/20140527/20140527123003_89192.jpg" width="981" height="519" /><br />
+　　<br />
+　　《三国战神》官方微博同时透露，二测中《三国战神》将会加强帮战的强度，这也将在原有基础上再度将PK热情推向高潮！《三国战神》以其易于上手的操作、精美绝伦的画面、气势磅礴的国战、自由的战魂变身、霸气十足的乘骑对战等特色，自问世以来便获得了众多玩家的认可。除了拥有多种战场模式的帮战、国战PK玩法外，《三国战神》还打破了手游同屏人数的限制，从单对单到多对多，最多可支持50 VS 50的百人同屏战斗，对手机游戏来说，这种百人规模的群P战斗，也是一个超乎玩家想象的极致场面。<br />
+　　<br />
+　　此次飞流九天联合西山居共同发行《三国战神》，除了在iOS和安卓全平台的强势联合推广，双方还会在品牌上展开深度营销的合作，共同发力打造最强3D手游！
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

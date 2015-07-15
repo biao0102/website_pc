@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>其余玩法介绍</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <h1>
+	日常任务<span></span> 
+</h1>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	日常任务是每日均可循环完成的任务，可给玩家提供大量的金钱与经验。任务类型多样不乏味，界面显示是个任务，每日固定时间刷新，或者成为<span>VIP</span>也可以手动刷新。任务品质从低到高分为：绿色、蓝色、紫色、金色四种品质，越高品质任务难度越大，但完成任务的奖励也越高。任务同时分为一到五星级，高星级任务难度不变奖励更丰厚，玩家可通过升星的方式取得更多的奖励。日常任务每日可完成<span>20</span>次，是稳定的每日经验金钱来源。<span></span> 
+</p>
+<h1>
+	挑战心魔<span></span> 
+</h1>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	挑战心魔是日常活动中的一部分，共设有三十个关卡，每关一个心魔，唯有心定之人才能顺利闯破。每日皆可进行一次免费挑战，在结束之前可无限次尝试闯关。闯关越多，奖励越丰富，战胜心魔，站上武学巅峰！<span></span> 
+</p>
+<h1>
+	称号<span></span> 
+</h1>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	称号是区别玩家的个性标志之一，达成条件即可获得，有各种各样的称号供玩家选择，部分称号还有属性加成的效果。称号根据获取难度分为白绿蓝紫橙五级，每种等级的称号都有不同的显示效果，称号等级越高，效果越华丽。向高级个性称号进军吧！<span></span> 
+</p>
+<h1>
+	成就<span></span> 
+</h1>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	成就是一开始就陪伴着玩家的系统。系统中提出了大量各式各样目标，玩家在完成后可获得成就点数的奖励。个别成就完成后还能获得高级称号，各种神秘奖励尽在其中。<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<h1>
+	点石成金<span></span> 
+</h1>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	点石成金是每日固定的铜钱收入来源，玩家通过点击“点石成金”按钮后兑换铜钱，每日有<span>3</span>次免费兑换的机会，<span>3</span>次兑换以后再兑换则需要消耗元宝来换取铜钱，每日可以兑换<span>10</span>次，成为<span>VIP</span>可以获得更多兑换次数。<span></span> 
+</p>
+<p class="MsoNormal">
+	<span></span> 
+</p>
+<p class="MsoNormal">
+	<span><img src="http://i0.feiliu.com/image/20140421/20140421164306_32862.jpg" width="500" height="328" alt="" /></span> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

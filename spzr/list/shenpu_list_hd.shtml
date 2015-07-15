@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">
+        <title>神谱之刃--热点活动</title> 
+<meta name="keywords" content="神谱之刃官网,神谱之刃攻略,神谱之刃下载,2015年第一魔幻连击手游,史上最强魔幻连击手游,神谱之刃,神谱,飞流,飞流九天,游戏,手机游戏,网络游戏,动作游戏,游龙英雄,王者之剑,英雄之剑" />
+<meta name="description" content="2015年第一魔幻连击手游《神谱之刃》，是一款具备独特北欧魔幻风格的传统ARPG手游，有着超强的打击感、无限连击的超爽体验、独一无二的血脉系统、一环扣一环的冒险闯关及多元化的刻印系统、宝石系统、战魂系统、竞技系统、多人副本系统等等。更多有关神谱之刃官网,神谱之刃攻略,神谱之刃下载等资讯尽在神谱之刃官网。" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="format-detection" content="telephone=no"/>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/js.js"></script>
+        <link rel="stylesheet" href="http://js.feiliu.com/static/shenpu/webnew/css/style.css?v=768">
+        <!--[if IE 6]>
+        <script src="js/png.js"></script>
+        <script>
+                PNG.fix('*');
+        </script>
+        <![endif]--> 
+    </head>
+    <body>
+        <!-- 首页导航模板start-->
+        <!--#include virtual="/list/shenpu_index_nav.shtml"-->
+        <!-- 首页导航模板end-->    
+        <section class="section4">
+            <div class="hot-main">
+                <a href="http://spzr.feiliu.com" class="logo"></a>
+                <div class="hotnews">
+                    <h2 class="hot-title">热点活动</h2>
+                    <ul class="hotnews-list">
+              
+                          <li class="hotnews-item"><a href="http://spzr.feiliu.com/20150413/23434.shtml" target="_blank">《神谱之刃》4月15日越狱内测震撼开启 9大活动duang duang给力</a><span class="hot-date">  2015-04-13</span></li>
+                          <li class="hotnews-item"><a href="http://spzr.feiliu.com/20150331/23365.shtml" target="_blank">《神谱之刃》内测即将开启 揭秘9大内测活动</a><span class="hot-date">  2015-03-31</span></li>
+             
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!--公共底部模板start-->
+        <!--#include virtual="/list/shenpu_index_foot.shtml"-->
+        <!--公共底部模板end-->
+    </body>
+</html>	

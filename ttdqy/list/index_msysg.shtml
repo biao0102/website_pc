@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="keywords" content="天天逗群英官网,天天逗群英攻略,天天逗群英下载，飞流,飞流九天,游戏,手机游戏,网络游戏,动作游戏,游龙英雄,王者之剑,英雄之剑" />
+<meta name="description" content="天天逗群英是目前非常热门的手机网游，手机小游戏网为您提供天天逗群英官网专区，天天逗群英攻略，天天逗群英安卓和IOS版下载，还有最新的天天逗群英技巧和各种礼包哦，这都是免费的" />
+<title>《天天逗群英》官网</title>
+<link href="http://js.feiliu.com/static/msysg/web/css/index.css?v=2" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<link href=" http://js.feiliu.com/static/msysg/web/css/lightbox.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src=" http://js.feiliu.com/static/msysg/web/scripts/is_mobile.js"></script>
+<script type="text/javascript" src=" http://js.feiliu.com/static/msysg/web/scripts/jquery.min.js"></script>
+<script type="text/javascript" src=" http://js.feiliu.com/static/msysg/web/scripts/imgAuto.js"></script>
+<script language="javascript"> 
+function __show(val1){
+	$("#_show1").hide();
+	$("#_show2").hide();
+	$("#_show3").hide();
+	$("#_show4").hide();
+	$("#_show" + val1).show();
+}
+ 
+function __showa(val1){
+	$("#_showa1").hide();
+	$("#_showa2").hide();
+	$("#_showa3").hide();
+	$("#_showa4").hide();
+	$("#_showa5").hide();
+	$("#_showa" + val1).show();
+}
+ 
+</script>
+<script>
+$(function () {
+	gundong();
+    function gundong() {
+        var box = $("#hz_list");
+        var owidth = box.children("li").eq(0).outerWidth();
+        var num = box.children("li").length;
+        var i = 0;
+        var timer = null;
+        var time = 20;
+
+        if (num > 7) {
+            box.append(box.html());
+            box.css("width", 2 * owidth * num + "px");
+            timer = setInterval(gdAnimate, time);
+            box.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(gdAnimate, time);
+            });
+        }
+        function gdAnimate() {
+            i = i > owidth * num ? 0 : i + 1;
+            box.css("left", -i + "px");
+        }
+    }
+})
+  
+</script>
+</head>
+<body>
+<div id="ripiao">
+<span><img src="http://js.feiliu.com/images/fl_community.jpg?v=1" /></span></div>
+<!--首页头部飞流导航模板开始--> 
+<!--#include virtual="/list/index_msysg_flnav.shtml"-->
+<!--首页头部飞流导航模板结束-->
+<!--首页下载模板开始--> 
+<!--#include virtual="/list/index_msysg_down.shtml"-->
+<!--首页下载模板结束-->
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="box">
+        <!-- topcon start -->
+        <div class="topcon">
+          <!--首页左侧轮播图模板开始--> 
+            <!--#include virtual="/list/index_msysg_lb.shtml"-->
+          <!--首页左侧轮播图模板结束-->
+          <!--首页右侧视频模板开始--> 
+            <!--#include virtual="/list/index_msysg_video.shtml"-->
+          <!--首页右侧视频模板结束-->
+        </div>
+        <!-- topcon end -->
+        <!-- middlecon start -->
+        <div class="middlecon">
+          <!--首页资讯栏目模板开始--> 
+            <!--#include virtual="/list/index_msysg_col.shtml"-->
+          <!--首页资讯栏目模板结束-->
+
+          <!--首页卡牌模板开始--> 
+            <!--#include virtual="/list/index_msysg_kp.shtml"-->
+          <!--首页卡牌模板结束-->
+
+          <!--首页客服微信模板开始--> 
+            <!--#include virtual="/list/index_msysg_weixin.shtml"-->
+          <!--首页客服微信模板结束-->
+
+          <!--首页媒体合作模板开始--> 
+            <!--#include virtual="/list/index_msysg_mthz.shtml"-->
+          <!--首页媒体合作模板结束-->
+        </div>
+      </div>
+      <div class="clear"></div>
+      <!--首页底部版权模板开始--> 
+        <!--#include virtual="/list/index_msysg_footer.shtml"-->
+      <!--首页底部版权模板结束-->
+      
+  </div>
+</div>
+<script type="text/javascript">
+
+        $(function () {
+            lunbo();
+            tabs("news_tab > span", "news_panes > ul");
+            kapai();
+        });
+		
+        function kapai() {
+            var prev = $("#prev");
+            var next = $("#next");
+            var box = $("#kp_img");
+            var imgs = box.children();
+            var iWidth = imgs.eq(0).width();
+            var iLength = imgs.length;
+            var i = 0;
+            box.css("width", iWidth * +iLength + "px");
+
+            next.click(function () {
+                i = i >= iLength - 1 ? 0 : i + 1;
+                kpAnimate();
+            });
+            prev.click(function () {
+                i = i <= 0 ? iLength - 1 : i - 1;
+                kpAnimate();
+            });
+            function kpAnimate() {
+                box.animate({ "left": -i * iWidth + "px" }, 500);
+            }
+        }
+
+        function lunbo() {
+            var box = $("#lunbo");
+            var imgs = $("#lunbo_img").children();
+            var tabs = $("#lunbo_tab > span");
+            var timer = null;
+            var time = 3000;
+            var i = 0;
+
+            function fnLunbo() {
+                imgs.hide().eq(i).show();
+                tabs.removeClass("current").eq(i).addClass("current");
+                i = i >= imgs.length - 1 ? 0 : i + 1;
+            }
+
+            fnLunbo();
+
+            tabs.each(function (x) {
+                $(this).click(function () {
+                    i = x;
+                    fnLunbo();
+                });
+            });
+
+            timer = setInterval(fnLunbo, time);
+            box.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(fnLunbo, time);
+            });
+
+        }
+
+        function tabs(tab, panes) {
+            var otab = $("#" + tab);
+            var opane = $("#" + panes);
+            otab.each(function (i) {
+                $(this).click(function () {
+                    otab.removeClass("current").eq(i).addClass("current");
+                    opane.hide().eq(i).show();
+					var url = "/newsc/newslist/";
+					if (i==0) {
+						url+='2';
+					}else if (i==1) {
+						url+='4';
+					}else if (i==2) {
+						url+='3';
+					}
+					$('#newsmore').attr('href',url);
+                });
+            });
+        }
+		
+	
+    </script>  
+</body>
+</html>

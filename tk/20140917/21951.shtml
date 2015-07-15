@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">钢铁陆战霸王！《战地坦克》全新两款坦克曝光</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-09-17</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              德国VS苏联，谁的坦克更为强力？中国首款坦克军团策略手游《战地坦克》即将亮相猛犸自行火炮、怒狮火箭车这两款全新坦克。猛犸自行火炮原型为苏联最强坦克IS-8/T-10，怒狮火箭车原型为希特勒动物园系列的狮式坦克，猛犸拥有强悍的攻防，怒狮偏重持续伤害，各有千秋的两款6级坦克在《战地坦克》中究竟谁会更为强力？<br />
+<br />
+<br />
+《战地坦克》游戏官网：http://tk.feiliu.com<br />
+《战地坦克》iOS正版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8<br />
+《战地坦克》iOS越狱版下载：http://js.feiliu.com/ipa/tk/tk_300021.ipa<br />
+<div ><img src="http://i0.feiliu.com/image/20140917/20140917115935_13644.jpg" alt=""  /><br />
+</div>
+<br />
+【避无可避-猛犸自行火炮】<br />
+<br />
+<br />
+&nbsp; 猛犸自行火炮原型IS-8/T-10拥有强悍的火力以及厚重的装甲，在战场驰骋数十年令其成为苏军最强大的存在。在《战地坦克》中，猛犸自行火炮拥有体型巨大的火炮，对防御力较为薄弱的歼击车有伤害加成，可以轻易轰碎歼击车，玩家可以通过对黑豹自行火炮进行改装获得。在命中目标后，猛犸自行火炮可令目标闪避减少10%，连击可额外造成10%伤害。在队列中还可减少敌方所有部队的伤害25%。<br />
+<div ><img src="http://i0.feiliu.com/image/20140917/20140917115954_78111.jpg" alt=""  /><br />
+</div>
+<br />
+【烈焰无敌-怒狮火箭车】<br />
+<br />
+<br />
+&nbsp; 狮式坦克虽然只存在于德军的构想当中，但其设计中展现的强悍动力和杀伤力仍令人震撼。在《战地坦克》中即将亮相的怒狮火箭车拥有强悍的持续火焰伤害能力。玩家可以通过对尖啸者火箭车改装获得。怒狮火箭车天生对自行火炮有伤害加成，在命中目标后还会令其在5回合内持续起火，每回合损失之前伤害总值的3%。同时，在上阵中还会减少敌方的火箭车伤害25%。<br />
+<div >
+	<br />
+</div><img src="http://i0.feiliu.com/image/20140917/20140917120034_53326.jpg" alt="" /><br />
+背景以及数据都如此强悍的两款6级坦克在《战地坦克》中却并不难获得，游戏中的活动、任务、PVP战斗、PVE关卡等都会产出6级坦克的升级材料，让玩家可以快速指挥最强坦克驰骋战场。如果想要了解更多坦克信息，现在关注官方微信（FL-ZDTK），即享游戏攻略、福利活动、新手礼包！<img src="http://i0.feiliu.com/image/20140917/20140917120212_19227.jpg" alt="" /><br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

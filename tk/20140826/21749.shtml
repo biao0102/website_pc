@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">新坦克、新任务！《战地坦克》全新版本曝光</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-08-26</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              由雷尚科技研发、FL?Mobile（飞流）代理发行的首款坦克军团策略手游《战地坦克》即将推出全新版本，各位指挥官不仅将迎来更高的等级，更有多种新世代战车、充满挑战的全新关卡以及好玩福利多的精英任务，为你带来更过瘾更爽快的战斗体验！<br />
+<br />
+<br />
+《战地坦克》游戏官网：tk.feiliu.com<br />
+《战地坦克》ios版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8<br /><img src="http://i0.feiliu.com/image/20140826/20140826155649_68442.jpg" alt="" /><br />
+【全新版本三大看点】<br />
+与其他手游更新些数据、推出个礼包就叫“新版本”截然不同，《战地坦克》历时2个月、收集分析了海量玩家反馈、意见后，针对玩家的呼声专门制作了本次新版本。新版本最吸引人、同时也是玩家呼声最高的，是推出高等级全新战车以及全新关卡任务。<br /><img src="http://i0.feiliu.com/image/20140826/20140826155712_64549.jpg" alt="" /><br />
+新等级不仅让你带兵更多，战术安排、兵种搭配也更为丰富，战略性得到全面提升。全新战车更是让你的军队注入新鲜血液，常规战术将能够得到强化甚至是全面革新，将有新的机会拿下以往久攻不下的对手。<br /><img src="http://i0.feiliu.com/image/20140826/20140826155738_12302.jpg" alt="" /><br />
+PVP打得有些累了？不要担心，新版本《战地坦克》全新的关卡任务同样让你体验休闲玩法的乐趣。更高的等级配合全新的战车，切瓜砍菜的乐趣是以往关卡战斗体会不到的；丰富的任务条件更是考验你统筹安排以及基地建设效率，如此一石二鸟的好事你怎可错过！<br /><img src="http://i0.feiliu.com/image/20140826/20140826155839_92592.jpg" alt="" /><br />
+科技战略并行 软硬实力压倒对手】<br />
+<br />
+<br />
+率领装甲师团压倒性蹂躏对手固然成就感满载，但实力相当凭借科技力量巧胜敌人更有别样的爽快。《战地坦克》除了种类丰富的战车外，更提供详尽的科技升级方案供各位指挥官选择。玩家不经能够提升整体穿甲能力、防御能力、命中辅助，爆击属性强化军团整体实力，更能够分别强化坦克、自行火炮、火箭炮等不同类别战车的生存、杀伤力，让你完全按照自己的战术强化部队，将资源全部用在刀刃上，不花冤枉钱最有效提升军团实力压制对手<br /><img src="http://i0.feiliu.com/image/20140826/20140826155827_17663.jpg" alt="" /><br />
+【拿下前方的石油矿！】<br />
+率领钢铁雄狮碾压对手确实是一种快感，而疯狂掠夺宝贵的资源更是带来无与伦比的成就感！《战地坦克》不仅拥有堪比COC一样的玩家掠夺系统，更在广阔的世界地图上准备了丰富的矿藏，等待强者的出现——不同于COC式的一次性抢夺，《战地坦克》中占领者还需要在一定时间内守卫自己的战利品，否则不仅收益会受到损害，自己的部队更有可能遭到全歼。是继续坚守还是见好就收，这是作为指挥官的你需要考虑的问题。<br /><img src="http://i0.feiliu.com/image/20140826/20140826155907_49555.jpg" alt="" /><br />
+真实再现世界经典坦克，策略战术演绎装甲军团战争艺术，攻城略地抢夺资源称霸战场，首款坦克军团策略手游《战地坦克》火爆测试中，坦克大战，一触即发，钢铁雄狮引擎已经发动，只等各位指挥官下达出击指令！<br />
+<div>
+	<br />
+</div>
+<br />
+<br />
+<br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

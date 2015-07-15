@@ -1,0 +1,44 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			新闻中心
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			新闻中心
+	        				        		</div>
+	    			<div class="infotitle">《就是要三国》删档内测10月21日强势开启！</div>
+		        	<div class="textTime">2014-10-20</div>
+		    		<div class="article">
+						<p style="text-indent:2em;">
+	心急如焚有木有！ 隔日如年有木有！恍如隔世有！木！有！为了给玩家提供更丰富的游戏内容，优化和完善《<span>就是要三国</span>》，我们将于10月21日11:00 iOS越狱版开启为期9天的删档不计费测试，91、PP、itools、同步推、快用、飞流游戏中心六大渠道均可下载！<br />
+<strong>注：</strong>本次封测结束后，所有服务器数据将被删除，您的帐号、金币，任务等所有游戏信息都将清除，不带入下一测试阶段。<br />
+<br />
+此外：<br />
+1、在本次《<span>就是要三国</span>》测试中，玩家每日登陆都能获得元宝、银两、武将等成吨的道具！<br />
+<br />
+2、在游戏过程中，玩家完成各个目标均能获得海量元宝，助各位主公成就霸业！<br />
+<br />
+更多关注：<br />
+《<span>就是要三国</span>》官方Q群：317065896<br />
+<br />
+《<span>就是要三国</span>》官方论坛：http://bbs.8783.com/forum-193-1.html
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

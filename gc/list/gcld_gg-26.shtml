@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="keywords" content="攻城掠地,攻城掠地官网,攻城掠地攻略，三国网页游戏,攻城略地,攻城略地官网" />
+    <meta name="description" content="《攻城掠地》是飞流旗下一款强调国战的战争策略网页游戏。实景还原三国战图，开创24小时全景即时国战！文臣武将云集，打破“重武轻文”的桎梏。内政、军师、计策等系统演绎文官本色！其次，新颖的掩杀式战斗模式、战术、皇城官职战等特色玩法，足以让你尽享开疆扩土、统一天下的激情！" />
+    <title>攻城掠地公告</title>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/index.css" />
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/thickbox.css" />
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/skin.css" />
+</head>
+<body>
+    <div class="wrap">
+	
+	
+         <!--攻城掠地头部模板start-->
+			<!--#include virtual="/list/index_gcldtop.shtml"-->
+		<!--攻城掠地头部模板end-->
+		
+		
+        <div class="content">
+            <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.lixtabs.js"></script>
+            <script type="text/javascript">
+                jQuery(document).ready(function ($) {
+                    $('#tabServer').Xtabs({ hdcn: 'tabServer', hdtagcur: 'now', bdcn: 'tabServerLite' });//服务器Tab
+                });
+            </script>
+			
+			
+			<!--攻城掠地首页左侧模板start-->
+				<!--#include virtual="/list/index_gcld_left.shtml"-->
+			<!--攻城掠地首页左侧模板end-->
+		   
+		   
+            <div class="right">
+                <div class="right_c">
+                    <div class="title">
+                        <h1 class="fl">公告</h1>
+                        <p class="fr">所在位置： <a href="http://gc.feiliu.com" title="">首页</a> >> <a href="http://gc.feiliu.com/list/gcld_gg.shtml">公告</a> </p>
+                    </div>
+                    <ul class="sortTitle">
+                        <li><a href="http://gc.feiliu.com/list/gcld_gg.shtml" title="" class="sortCur">公告</a>|</li>
+                        <li><a href="http://gc.feiliu.com/list/gcld_news.shtml" title="">新闻</a>|</li>
+                        <li><a href="http://gc.feiliu.com/list/gcld_rd.shtml" title="">热点</a>|</li>
+                        <li><a href="http://gc.feiliu.com/list/gcld_hd.shtml" title="">活动</a></li>
+                    </ul>
+                    <div class="sortList">
+					
+					
+                       <ul class="icon">
+					
+						  
+							<li><a href="http://gc.feiliu.com/20150307/23239.shtml" title="3月8日11点攻城掠地356服开启，战斗吧！" class="fl">3月8日11点攻城掠地356服开启，战斗吧！</a> <span class="fr">2015-03-07 07:30:33</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150306/23235.shtml" title="3月7日11点混服355服、ios131服双开启，战斗吧！" class="fl">3月7日11点混服355服、ios131服双开启，战斗吧！</a> <span class="fr">2015-03-06 06:32:59</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150305/23226.shtml" title="3月6日11点攻城掠地354服双开启，战斗吧！" class="fl">3月6日11点攻城掠地354服双开启，战斗吧！</a> <span class="fr">2015-03-05 05:56:16</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150304/23221.shtml" title="3月5日11点攻城掠地353服双开启，战斗吧！" class="fl">3月5日11点攻城掠地353服双开启，战斗吧！</a> <span class="fr">2015-03-04 07:15:48</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150304/23219.shtml" title="【通知】临时维护公告" class="fl">【通知】临时维护公告</a> <span class="fr">2015-03-04 03:58:25</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150303/23216.shtml" title="3月4日11点混服352服、ios130服双开启，战斗吧！" class="fl">3月4日11点混服352服、ios130服双开启，战斗吧！</a> <span class="fr">2015-03-03 06:43:44</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150302/23211.shtml" title="3月3日11点攻城掠地351服开启，战斗吧！" class="fl">3月3日11点攻城掠地351服开启，战斗吧！</a> <span class="fr">2015-03-02 06:45:53</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150301/23203.shtml" title="3月2日11点攻城掠地350服开启，战斗吧！" class="fl">3月2日11点攻城掠地350服开启，战斗吧！</a> <span class="fr">2015-03-01 06:57:02</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150228/23201.shtml" title="3月1日11点混服349服、ios129服双开启，战斗吧！" class="fl">3月1日11点混服349服、ios129服双开启，战斗吧！</a> <span class="fr">2015-02-28 06:48:25</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150228/23200.shtml" title="《攻城掠地》3月2日合服公告！" class="fl">《攻城掠地》3月2日合服公告！</a> <span class="fr">2015-02-28 11:11:31</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150227/23199.shtml" title="2月28日11点攻城掠地348服开启，战斗吧！" class="fl">2月28日11点攻城掠地348服开启，战斗吧！</a> <span class="fr">2015-02-27 06:17:07</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150226/23194.shtml" title="2月27日11点攻城掠地347服开启，战斗吧！" class="fl">2月27日11点攻城掠地347服开启，战斗吧！</a> <span class="fr">2015-02-26 07:16:42</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150225/23189.shtml" title="2月26日11点混服346服、ios128服双开启，战斗吧！" class="fl">2月26日11点混服346服、ios128服双开启，战斗吧！</a> <span class="fr">2015-02-25 06:47:21</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150224/23185.shtml" title="2月25日11点攻城掠地345服开启，战斗吧！" class="fl">2月25日11点攻城掠地345服开启，战斗吧！</a> <span class="fr">2015-02-24 08:45:08</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150223/23183.shtml" title="2月24日11点攻城掠地344服开启，战斗吧！" class="fl">2月24日11点攻城掠地344服开启，战斗吧！</a> <span class="fr">2015-02-23 12:29:37</span></li>
+						  
+							<li><a href="http://gc.feiliu.com/20150223/23182.shtml" title="2月23日11点混服343服、ios127服双开启，战斗吧！" class="fl">2月23日11点混服343服、ios127服双开启，战斗吧！</a> <span class="fr">2015-02-23 12:27:12</span></li>
+									</ul>
+						
+						
+                         <div id="pagination" class="pagination"> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+		
+		
+        <!-- footer -->
+       <!--攻城掠地底部模板start-->
+			<!--#include virtual="/list/index_gcldfoot.shtml"-->
+		<!--攻城掠地底部模板end-->
+		
+		
+		
+        <!-- 公司 -->
+        <!--[if IE 6]>
+		<script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/DD_belatedPNG_0.0.8a-min.js"></script>
+		<script type="text/javascript">
+	        DD_belatedPNG.fix('.company div.footCenter a.logo,.company div.public a.shgs img,.company div.public a.jingwu img,.company div.public a.policeicon img,.company div.public a.zx110 img');
+		</script>
+	<![endif]-->
+    </div>
+	
+	<!--list分页-底部start--> 
+	<script language="javascript"> 
+	var f_pagecount = 35 
+	<!--#include virtual="/pub/page_ctrl.shtml"--> 
+	</script> 
+	<!--list分页-底部end-->
+	
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.smallslider.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/thickbox.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/index.js"></script>
+</body>
+</html>

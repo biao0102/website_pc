@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>属性培养</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <h1>
+	属性培养：<o:p></o:p>
+</h1>
+<p class="MsoNormal" align="left" style="text-indent:1cm;background-position:initial initial;background-repeat:initial initial;">
+	玩家在14级时属性培养系统系统开启。<o:p></o:p>
+</p>
+<p class="MsoNormal" align="left" style="text-indent:1cm;background-position:initial initial;background-repeat:initial initial;">
+	&nbsp;
+</p>
+<p class="MsoNormal" align="left" style="text-indent:1cm;background-position:initial initial;background-repeat:initial initial;">
+	属性培养系统主要是用于玩家提升自己的属性，即武力、灵力、根骨。<o:p></o:p>
+</p>
+<p class="MsoNormal" align="left" style="text-indent:1cm;background-position:initial initial;background-repeat:initial initial;">
+	&nbsp;
+</p>
+<p class="MsoNormal" align="left" style="text-indent:1cm;background-position:initial initial;background-repeat:initial initial;">
+	属性培养是玩家提升基础属性的渠道之一，属性培养的玩法主要是消耗玩家的铜钱，以概率性的方式随机出正负属性值，正则增加，负则减少。<o:p></o:p>
+</p>
+<p class="MsoNormal" align="left" style="text-indent:1cm;background-position:initial initial;background-repeat:initial initial;">
+	&nbsp;
+</p>
+<p class="MsoNormal" align="left" style="text-indent:1cm;background-position:initial initial;background-repeat:initial initial;">
+	属性培养包括了金币培养、天赋石培养、高级培养以及至尊培养四种。<o:p></o:p>
+</p>
+<p class="MsoNormal" align="left" style="text-indent:1cm;background-position:initial initial;background-repeat:initial initial;">
+	&nbsp;
+</p>
+<p class="MsoNormal" align="left" style="text-indent:1cm;background-position:initial initial;background-repeat:initial initial;">
+	每次培养出的属性值可由玩家自行操作保留或取消；当玩家选择取消时，则以经验的形式保存；培养经验条长满后，清除经验获得一次属性全面成长<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	<b><span lang="EN-US">&nbsp;</span></b>
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

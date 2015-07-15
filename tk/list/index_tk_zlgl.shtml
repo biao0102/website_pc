@@ -1,0 +1,11 @@
+            <div class="inforcon">
+
+            <!--战地坦克首页游戏攻略模板start-->
+              <!--#include virtual="/list/index_tk_yxgl.shtml"-->
+            <!--战地坦克首页游戏攻略模板end-->
+
+            <!--战地坦克首页新手指南模板start-->
+              <!--#include virtual="/list/index_tk_xszn.shtml"-->
+            <!--战地坦克首页新手指南模板end-->
+
+            </div>

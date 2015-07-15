@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>职业介绍--玉兔_《众妖之怒》游戏官网</title>
+<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/web/css/public.css?v=6"  type="text/css" />
+<link href="http://js.feiliu.com/static/zyzn/web/css/profession.css?v=9" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="wrap rel th">
+		<!--众妖之怒头部导航模板start-->
+			<!--#include virtual="/list/zyzn_profession_nav.shtml"-->
+		<!--众妖之怒头部导航模板end-->
+	<div class="ttt">
+		<!--众妖之怒左侧logo模板start-->
+			<!--#include virtual="/list/zyzn_profession_logo.shtml"-->
+		<!--众妖之怒左侧logo模板end-->
+		<!--众妖之怒左侧悬浮模板start-->
+			<!--#include virtual="/list/zyzn_profession_float.shtml"-->
+		<!--众妖之怒左侧悬浮模板end-->
+	</div>
+	<div class="TabContent">
+		<div id="myTab01_Content0" class="contain02 th">
+
+			<div class="con1000 rel"> <img src="http://js.feiliu.com/static/zyzn/web/images/renwu02.png" class="renwu" /> <span class="rwname tc wihte f18">玉兔</span>
+        <p class="rwintro">瑶光玉衡两星精华而生的灵兽修炼而来，只为飞升广寒常伴嫦娥左右，却不料被天庭阴谋波及，千年修炼化作一场空。灵兔轻捷优雅，是战场上追击突袭的能手。</p>
+      </div>
+      <div class="technical">
+       <div class="technicalcon rel">
+          <!--技能01开始 -->
+          <a href="#" class="tc fltt wihte"><img src="http://js.feiliu.com/static/zyzn/web/images/tech02_1.png" /><br />
+          技能名称：技能名称</a> <span class="qrc02 tech01"> 技能名称：xxxxxxxxxxx<br />
+          开启等级：23<br />
+          技能介绍：<br />
+          灵猴挥起金箍棒，重击前方地面。攻击附加[93DB70]#
+          [-]点物理攻击，造成[93DB70]#%[-]物理伤害。 </span>
+          <!--技能01结束  -->
+          <!--技能02开始 -->
+          <a href="#" class="tc fltt wihte"><img src="http://js.feiliu.com/static/zyzn/web/images/tech02_2.png" /><br />
+          技能名称：技能名称</a> <span class="qrc02 tech02"> 技能名称：xxxxxxxxxxx<br />
+          开启等级：23<br />
+          技能介绍：<br />
+          灵猴挥起金箍棒，重击前方地面。攻击附加[93DB70]#
+          [-]点物理攻击，造成[93DB70]#%[-]物理伤害。 </span>
+          <!--技能02结束  -->
+          <!--技能03开始 -->
+          <a href="#" class="tc fltt wihte"><img src="http://js.feiliu.com/static/zyzn/web/images/tech02_3.png" /><br />
+          技能名称：技能名称</a> <span class="qrc02 tech03" > 技能名称：xxxxxxxxxxx<br />
+          开启等级：23<br />
+          技能介绍：<br />
+          灵猴挥起金箍棒，重击前方地面。攻击附加[93DB70]#
+          [-]点物理攻击，造成[93DB70]#%[-]物理伤害。 </span>
+          <!--技能03结束  -->
+          <!--技能04开始 -->
+          <a href="#" class="tc fltt wihte"><img src="http://js.feiliu.com/static/zyzn/web/images/tech02_4.png" /><br />
+          技能名称：技能名称</a> <span class="qrc02 tech04"> 技能名称：xxxxxxxxxxx<br />
+          开启等级：23<br />
+          技能介绍：<br />
+          灵猴挥起金箍棒，重击前方地面。攻击附加[93DB70]#
+          [-]点物理攻击，造成[93DB70]#%[-]物理伤害。 </span>
+          <!--技能04结束  -->
+          <!--技能05开始 -->
+          <a href="#" class="tc fltt wihte"><img src="http://js.feiliu.com/static/zyzn/web/images/tech02_5.png" /><br />
+          技能名称：技能名称</a> <span class="qrc02 tech05"> 技能名称：xxxxxxxxxxx<br />
+          开启等级：23<br />
+          技能介绍：<br />
+          灵猴挥起金箍棒，重击前方地面。攻击附加[93DB70]#
+          [-]点物理攻击，造成[93DB70]#%[-]物理伤害。 </span>
+          <!--技能05结束  -->
+          <!--技能06开始 -->
+          <a href="#" class="tc fltt wihte"><img src="http://js.feiliu.com/static/zyzn/web/images/tech02_6.png" /><br />
+          技能名称：技能名称</a> <span class="qrc02 tech06"> 技能名称：xxxxxxxxxxx<br />
+          开启等级：23<br />
+          技能介绍：<br />
+          灵猴挥起金箍棒，重击前方地面。攻击附加[93DB70]#
+          [-]点物理攻击，造成[93DB70]#%[-]物理伤害。 </span>
+          <!--技能06结束  -->
+          <!--技能07开始 -->
+          <a href="#" class="tc fltt wihte"><img src="http://js.feiliu.com/static/zyzn/web/images/tech02_7.png" /><br />
+          技能名称：技能名称</a> <span class="qrc02 tech07"> 技能名称：xxxxxxxxxxx<br />
+          开启等级：23<br />
+          技能介绍：<br />
+          灵猴挥起金箍棒，重击前方地面。攻击附加[93DB70]#
+          [-]点物理攻击，造成[93DB70]#%[-]物理伤害。 </span>
+          <!--技能07结束  -->
+          <!--技能08开始 -->
+          <a href="#" class="tc fltt wihte"><img src="http://js.feiliu.com/static/zyzn/web/images/tech02_8.png" /><br />
+          技能名称：技能名称</a> <span class="qrc02 tech08"> 技能名称：xxxxxxxxxxx<br />
+          开启等级：23<br />
+          技能介绍：<br />
+          灵猴挥起金箍棒，重击前方地面。攻击附加[93DB70]#
+          [-]点物理攻击，造成[93DB70]#%[-]物理伤害。 </span>
+          <!--技能08结束  -->
+        </div>
+      </div>
+			
+		</div>
+	</div>
+	<div class="bottom"></div>
+</div>
+<!--众妖之怒首页底部模板start-->
+	<!--#include virtual="/list/zyzn_index_foot.shtml"-->
+<!--众妖之怒首页底部模板end-->
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web/js/public.js"></script>
+<script type="text/javascript">
+	$(".technicalcon a").hover(function(){
+		$(this).next().show();
+	},function(){
+		$(this).next().hide();
+	});
+		</script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+            <div class="newscon">
+              <!--战地坦克首页活动栏目模板start-->
+                <!--#include virtual="/list/index_tk_hdcol.shtml"-->
+              <!--战地坦克首页活动栏目模板end-->
+
+              <!--战地坦克首页新闻栏目模板start-->
+                <!--#include virtual="/list/index_tk_newscol.shtml"-->
+              <!--战地坦克首页新闻栏目模板end-->
+
+              <!--战地坦克首页公告栏目模板start-->
+                <!--#include virtual="/list/index_tk_ggcol.shtml"-->
+              <!--战地坦克首页公告栏目模板end-->
+            </div>

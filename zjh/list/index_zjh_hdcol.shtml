@@ -1,0 +1,13 @@
+              <div class="top004" id="_show4">
+                <ul class="buttonbg">
+                  <li class="li0a"><a href="#" onmousemove="__show(1);">综合</a></li>
+                  <li class="li0b"><a href="#" onmousemove="__show(2);">新闻</a></li>
+                  <li class="li0c"><a href="#" onmousemove="__show(3);">公告</a></li>
+                  <li class="li0dd"><a href="#" >活动</a></li>
+                </ul>
+                <div class="news01">
+                  <ul>
+                
+                                  </ul>
+                </div>
+              </div>

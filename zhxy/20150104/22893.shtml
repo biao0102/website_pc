@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>【战魂西游】苹果正版合服公告（1、2服）</h1>
+                        <span>2015-01-04</span>
+                    </div>
+                    <div class="article-content">
+                        亲爱的玩家：<br />
+战魂西游自从开服以来，凭借出色的游戏品质，多样性的玩法受到了广大玩家的热评与追捧。顺应广大玩家的需求，为了活跃游戏气氛，给您提供更好的游戏体验，更多的伙伴，更多的挑战。我们将在2015年1月05日10：00-13：00对苹果1服、苹果2服进行合服，届时服务器将关闭，停止进入游戏，具体开放时间会根据具体情况提前或延后，请各位玩家相互告知。数据联通后玩家可以通过原来账号所在的区服登录合并后的新区。<br />
+<br />
+<br />
+合服时间：1月05日10：00-13：00<br />
+合服服务器：<br />
+苹果1服、苹果2服<br />
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

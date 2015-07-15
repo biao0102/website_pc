@@ -1,0 +1,32 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>战地坦克</title>
+	<meta name="keywords" content="战地坦克" />
+	<meta name="description" content="战地坦克" />
+	<meta name="format-detection" content="telephone=no"/>
+	<meta name="format-detection" content="address=no"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/tk/wap0506/css/style.css">
+</head>
+<body>
+	<div class="wrap">
+		<section class="newscon" id="top">
+			<h2 class="subh2">
+				新闻			
+				<a href="javascript:history.go(-1);" class="backto">返回</a>
+			</h2>
+			<div id="thegame">
+				<h2>坦克风云iOS游戏榜评测</h2>
+				
+			</div>
+		</section>	
+		<section class="bottom">
+			<div class="bottom_sm">
+				<p>版权所有©北京飞流九天科技有限公司 2009-2013 </p>
+			</div>
+		</section>
+	</div>
+</body>
+</html>

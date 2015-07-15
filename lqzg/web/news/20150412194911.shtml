@@ -1,0 +1,168 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>龙骑战歌官方网站</title> 
+    <meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+    <meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<link href="http://js.feiliu.com/static/lqzg/web0525/css/index.css?v=4" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/slides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/index.js?v=1"></script>
+<script>
+        function getArgs()
+        {
+            var argsArr = new Object();
+            var query = window.location.search;  
+            query = query.substring(1);
+            var pairs = query.split("&");
+            for(var i=0;i<pairs.length;i++)
+            {
+                var sign = pairs[i].indexOf("="); 
+                if(sign == -1)
+                {
+                    continue; 
+                }
+                var aKey = pairs[i].substring(0,sign);
+                var aValue = pairs[i].substring(sign+1);         
+                argsArr[aKey] = unescape(aValue);
+
+            }
+            return argsArr;
+        }
+
+        var param = new Object();
+        param = getArgs();
+        var source = param.s;
+
+        if(!source)
+        {
+            source = '300021';
+        }
+
+
+		function isMobile(args) {
+			var sUserAgent= navigator.userAgent.toLowerCase();
+			var bIsIpad= sUserAgent.match(/ipad/i) == "ipad";
+			var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsMidp= sUserAgent.match(/midp/i) == "midp";
+			var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+			var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb";
+			var bIsAndroid= sUserAgent.match(/android/i) == "android";
+			var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce";
+			var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile";
+			if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) 
+			{
+				window.location.href= 'http://lqzg.feiliu.com/wap/list/index.shtml?s='+source;
+			}
+		}
+		isMobile();
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
+<body>
+<div class="page">
+    <div class="nav">
+    <div class="nav-con">
+        <a href="http://lqzg.feiliu.com/index.shtml"><img src="http://js.feiliu.com/static/lqzg/web0525/images/logo.png" alt="logo" class="logo" /></a>
+        <ul>
+            <li><a href="http://lqzg.feiliu.com/web/list/home.shtml">首页</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml">新闻公告</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/index.shtml">玩法特色</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/notice.shtml">职业介绍</a></li>
+            <li><a href="javascript:alert('敬请期待');">游戏活动</a></li>
+            <li><a href="http://bbs.8783.com/forum-178-1.html">论坛</a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="public-top"></div>
+    <div class="public-con">
+        <div class="public-box">
+            <div class="public-left">
+    <div class="public-code">
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="ios-link"></a>
+        <a href="http://lqzg.feiliu.com/download?cid=300021&type=5" class="android-link"></a>
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="raiders-link"></a>
+        <div>
+            <p>扫一扫关注龙骑战歌</p>
+            <img src="http://js.feiliu.com/static/lqzg/web0525/images/public-code.jpg" />
+        </div>
+    </div>
+    <ul class="public-adv">
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114758.jpg" alt="" /></a></li>
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114939.jpg" alt="" /></a></li>
+        <li><a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150526115157.jpg" alt="" /></a></li>
+    </ul>
+</div>
+            <div class="public-right">
+                <div class="public-title">
+                    <h5>新闻公告</h5>
+                    <a href="http://lqzg.feiliu.com/web/list/newslist.shtml"><<返回</a>
+                </div>
+                <div class="newsDetail">
+                    <h5>《龙骑战歌》先锋体验深圳站 玩家疯狂摩擦手机</h5>
+                    <dl>
+                        <dt>发布于<span>2015-04-12 19:49:11</span></dt>
+                        <dd><span>分享到</span><div><a href="javascript:void(0);" class="weixin"></a><a href="javascript:void(0);" class="qzone"></a><a href="javascript:void(0);" class="tsina"></a><a href="javascript:void(0);" class="tqq"></a><a href="javascript:void(0);" class="renren"></a></div></dd>
+                    </dl>
+                    <div class="newsDetail-con">
+                        <p>3D魔幻骑战手游《龙骑战歌》先锋体验深圳站已经于3月15日正式结束，自官网预约报名玩家中选出的20名幸运玩家抢先体验到了游戏的精彩，与美艳COSER天诛焱的互动、价值888元珍藏礼包的争抢更是让活动现场气氛异常热烈。而在先锋体验北京站、深圳站活动结束后，《龙骑战歌》也将正式开启首次封测。现在，让我们一起通过官方宣传视频，抢先了解这款未来动作手游的魅力吧！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194840.jpg" title="20150416194840.jpg" alt="图1：《龙骑战歌》先锋体验深圳站正式结束.JPG"/></p><p><br/></p><p>【天诛焱亲密互动 宅男大感拘束】</p><p><br/></p><p>&nbsp; 《龙骑战歌》深圳站特邀了国内著名COSER天诛焱作为活动主持到现场与玩家进行互动。作为以美艳的外表、甜美声音而俘获众多宅男内心的百变COSER，此次深圳站活动玩家中也有不少她的粉丝。天诛焱在现场介绍并亲手指导玩家游戏，如此近距离的亲密互动，让参加活动的宅男们顿时无比“拘束”。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194850.jpg" title="20150416194850.jpg" alt="图2：美艳COSER现场与玩家亲密互动.JPG"/></p><p><br/></p><p>【争相体验 疯狂摩擦气氛火爆】</p><p><br/></p><p>&nbsp; 在玩家争相体验游戏后，天诛焱还在现场为玩家COS了游戏中的魔法师角色，性感的装扮与冷艳的造型让现场气氛异常火爆。在随后举办的PK赛中，游戏中走位、释放技能、切换小伙伴、骑战……《龙骑战歌》超爽打击感与多元化的战斗方式更是让人大呼过瘾，疯狂摩擦手机地操作方式更是让人酣畅淋漓。而飞流为获胜玩家颁发的价值888元的珍藏礼包，让活动玩家大感惊喜。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194857.jpg" title="20150416194857.jpg" alt="图3：火爆活动现场 疯狂摩擦手机的天诛焱.JPG"/></p><p>【预约先锋体验 赢取数码豪礼】</p><p><br/></p><p>&nbsp; 继先锋体验深圳站活动结束后，《龙骑战歌》还将在国内多个城市陆续举办先锋体验活动。现在，所有玩家都可以在官方网站（http://lqzg.feiliu.com/next）进行预约，成功预约后更有机会获得小米NOTE、竖握立式鼠标等数码豪礼。在此，官方提醒预约玩家，请保持联系方式畅通，以便客服人员及时与您沟通活动内容。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194908.jpg" title="20150416194908.jpg" alt="图4：预约先锋体验 赢取数码大礼.jpg"/></p><p><br/></p><p>&nbsp; 领先全球玩家率先体验未来动作手游，与美女互动赢取奢侈周边，《龙骑战歌》先锋体验预约活动火爆进行，快来官网预约吧！</p><p><br/></p>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-con">
+            <p>About.us | Copy right@北京飞流九天科技有限公司</p>
+            <p>爱游戏，爱生活，也爱美女。</p>
+            <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+            <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+            <p>Love is love!</p>
+        </div>
+    </div>
+</div>
+    <script>
+        var link = $('.android-link').attr('href');
+        if(!link)
+        {
+        	$('.android-link a').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }else{
+        	$('.android-link').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }
+        
+        $('a').click(function(e){
+            var url = $(this).attr('href');
+            if(url != 'javascript:void(0);' && url != "javascript:;");
+            {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                if(url.indexOf('?') > -1)
+                {
+                    var tourl = url + '&s='+source;
+                } else {
+                    var tourl = url + '?s='+source;
+                }
+                window.location.href = tourl;   
+            }
+        });
+
+
+    </script>
+    <script>$.ajax({ url:"http://gameapi.feiliu.com/game/netlog",type:'GET',dataType:'jsonp',success: function(data){}});</script>
+    <div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

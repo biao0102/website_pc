@@ -1,0 +1,61 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta  name="keywords" content="飞流游戏,飞流手机游戏,iOS 游戏,Android 游戏">
+<meta name="description" content="飞流游戏,飞流手机游戏,iOS 游戏,Android 游戏">
+<title>我爱皮卡丘</title>
+<link rel="stylesheet" type="text/css" href="/web/css/css.css">
+</head>
+<body>
+<div class="nav">
+    <div class="wrap pos_r">
+        <div class="logo"><a href="index.html"></a></div>
+        <div class="nav_top">
+            <span><img src="/web/images/icon_1.jpg" alt="" /></span>
+            <a href="/web/list/index.shtml" target="_blank" class="line">首页</a>
+            <span><img src="/web/images/icon_2.jpg" alt="" /></span>
+            <a href="/web/list/lists.shtml" target="_blank" class="line">游戏攻略</a>
+            <span><img src="/web/images/icon_3.jpg" alt="" /></span>
+            <a href="/web/list/petlists.shtml" target="_blank" class="line">宠物图鉴</a>
+            <span><img src="/web/images/icon_4.jpg" alt="" /></span>
+            <a href="javascript:;" target="_blank">论坛</a>
+        </div>
+    </div>
+</div>
+<div class="bg">
+<div class="wrap">
+    <div class="top1"></div>
+    <div class="top2">
+	<div class="top_d">
+	<a href="" target="_blank"><img src="/web/images/btn1.jpg" alt="" /></a><a href="" target="_blank"><img src="/web/images/btn2.jpg" alt="" /></a>
+	</div>
+	<div class="top_d"><img src="/web/images/code.jpg" alt="" /></div>
+</div>
+    <div class="mainbg">
+        <div class="cscenter_l">
+            <div class="cs_title"><span></span>客服信息</div>
+            <p>客服QQ：46552323</p>
+            <p>客服邮箱：46544654@163.com</p>
+            <p>客服电话：400-562-7891</p>
+        </div>
+        <div class="content">
+            <div class="subtitle">我爱皮卡丘 ＞ 新闻中心</div>
+                <div class="article">
+                    <h1>告别乏味《我爱皮卡丘》皮卡丘全天候陪伴</h1>
+                    <div class="art">
+                        <p style="text-align: justify; -ms-text-justify: inter-ideograph;"><span style="font-family: 宋体; font-size: 14px;">在童年的幻想中，你是否也曾幻想着有一只神奇宝贝能够陪伴你到世界各地冒险？现在幻想不再只是幻想！《我爱皮卡丘》中大胆创新的宠物培养系统，完美还原了小智与皮卡丘的冒险之旅，让你无论走到何地都有宠物的陪伴。</span></p><p style="text-align: justify; -ms-text-justify: inter-ideograph;"><span style="font-family: 宋体; font-size: 14px;">&nbsp;<img title="20150531180831.jpg" alt="图片12.jpg" src="/web/images/20150531180831.jpg"/></span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">《我爱皮卡丘》不止只是宠物的培养让玩家爱不释手，轻松休闲的修行系统，让玩家在冒险之余多了更多的休闲玩法，比如：钓鱼、抚摸、问答等休闲玩法，让玩家轻松获得材料培养宠物。游戏中，皮卡丘、小智等角色和宠物的形象，还是真新镇、宠物球元素都一一再现，有了这些元素的加入，《我爱皮卡丘》能马上让你产生共鸣！</span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">&nbsp;<img title="20150531181054.png" alt="QQ图片20150528023243.png" src="/web/images/20150531181054.png"/></span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">《我爱皮卡丘》有别于市面上其他同题材手游，不仅原汁原味的还原了动画片中的情节和城镇名称，让玩家完整的体验了小智与皮卡丘的冒险之旅。无论你身在何处，都能跟着《我爱皮卡丘》一起回忆童年的感动！</span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">&nbsp;<img width="768" height="1023" title="20150531181124.png" style="width: 331px; height: 471px;" alt="IMG_0005.PNG" src="/web/images/20150531181124.png"/></span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">《我爱皮卡丘》中创新加入道馆玩法，更能让玩家体验到动画中的情节和玩法，让玩法不再单一，更多新玩法请持续关注《我爱皮卡丘》，一起感受皮卡丘全天候陪伴的快乐！</span></p><p></p>                   
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+    <div style="clear:both"></div>
+</div>
+<div class="bot_bg">
+    <div class="bottom">
+    </div>
+</div>
+
+</body>
+</html>

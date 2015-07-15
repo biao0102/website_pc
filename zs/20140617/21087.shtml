@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">6月17日全区停机维护更新内容</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-06-17 10:54:08</span>
+																			</div>
+									<div class="w-d">
+										<span>亲爱的玩家:</span><br />
+<span>　　</span><br />
+<span>　　我们将于2014年6月17日10:30-11:00（开机时间会因工作进度推迟或者提前）进行全区停机版本更新，期间您将无法登录游戏。请大家注意维护时间，提早下线，以免因停机维护造成不必要的损失，祝您游戏愉快。</span><br />
+<br />
+<span>维护区服：全区全服（ios）　　维护</span><span>原因：版本更新<br />
+<br />
+【因游戏改动较大更新后版本号为"V1.1.0" 请您重新下载游戏登录】<br />
+<br />
+<br />
+更新内容：<br />
+<br />
+【Bug修复】<br />
+<br />
+<br />
+●帮会神树成熟度消失的BUG<br />
+●群雄逐鹿连斩BUFF死亡后回城后不消失的问题<br />
+●战魂殿培养失败时祝福值不增加<br />
+<br />
+<br />
+【功能新增】<br />
+<br />
+<br />
+商城出售新的PK道具（命中之魂、闪避之魂、暴击之符、免暴之符）<br />
+<br />
+<br />
+【功能修改】<br />
+<br />
+<br />
+●聊天系统<br />
+　　①聊天频道标签显示频道当前收到消息数量<br />
+　　②主界面聊天区域显示聊天频道提示<br />
+　　③世界频道发送消息CD调整为15秒<br />
+　　④队聊频道消息文字改为淡蓝色<br />
+●群英会、守卫汉帝发送邀请客户端CD调整为15秒<br />
+●帮会领地战增加规则说明（活动结束时不在活动地图的玩家将无法领取领地战奖励）<br />
+●群雄逐鹿<br />
+　　①群雄逐鹿连斩记录达到指定次数全服滚屏公告<br />
+<br />
+<br />
+【活动调整】<br />
+<br />
+<br />
+●边境BOSS存在时间调整为半个小时<br />
+●血瓶增加数值调整为100万<br />
+<br />
+<br />
+【其他调整】<br />
+<br />
+<br />
+●VIP开放VIP13等级<br />
+●扩展对VIP成长值的记录<br />
+●战魂殿调整<br />
+　　①战魂殿3种抽取范围扩大（初级3~8星、中级4~8星、高级5~8星）<br />
+　　②降低免费抽取次数到3/2/0<br />
+　　③价格调整<br />
+<br />
+<br />
+<div style="text-align:right;padding:0px;margin:0px;">
+	三国战神运营组
+</div>
+<div style="text-align:right;padding:0px;margin:0px;">
+	2014.06.17
+</div>
+</span><br />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+<div id="fix">
+    <img src="http://js.feiliu.com/static/zhxy/web/images/bgfixed.png" alt="" >
+    <img class="ercode_android" src="http://js.feiliu.com/qrcode/zhxy/300021_android_140.png" alt="" >
+    <img class="ercode_yy" src="http://js.feiliu.com/qrcode/zhxy/300021_yy_140.png" alt="" >
+    <a href="#top" title="回到顶部"></a>
+</div>

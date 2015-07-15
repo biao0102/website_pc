@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《战地坦克》圣诞节狂欢活动</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-12-24</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <h1 style="margin-top:0pt;margin-bottom:0pt;text-align:center;">
+	圣诞狂欢<o:p></o:p>
+</h1>
+<p class="p15" style="margin-left:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;活动一&nbsp;：&nbsp;&nbsp;【“圣蛋”返利】<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;活动时间为：2014年12月24日-2014年12月29日<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;text-indent:24.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	参与方式：<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;text-indent:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	1、充值到指定金额即可领取相应的奖励。<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;2、奖励是可以多次里千年古，玩家领取奖励后，界面下方文字将会变为领奖要求。<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;text-indent:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	3、玩家如果多次领取同一档位，点击【圣蛋】即可全部领取<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	4、全服玩家充值或采集到指定数量的资源就增加“圣诞树”养分值<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	5、当养分值达到指定数量后，全服玩家都可领取对应档次的奖励<o:p></o:p>
+</p>
+<p class="p15" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;<o:p></o:p>
+</p>
+<h1 style="margin-top:0pt;margin-bottom:0pt;text-align:center;">
+	圣诞宝藏<o:p></o:p>
+</h1>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;活动一：圣诞夺宝<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:6.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;活动时间为：2014年12月24日-2014年12月29日&nbsp;<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:6.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参与方式：<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:5.2500pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、玩家每日有一次免费次数，点击“本次免费”后进入“挖掘”<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、玩家点击“挖掘宝藏”按钮，消耗金币后直接进入进入“挖掘”界面<o:p></o:p>
+</p>
+<p class="p15" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、奖池内的挖掘次数是有上限，具体请您以游戏内为准。<o:p></o:p>
+</p>
+<p class="p15" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、当次数达到上限后，奖池刷新，界面刷新<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;5、界面中有6个格子，每个格子对应一个宝藏<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;6、挖掘过后，宝藏将随机更换位置，界面变更<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最后战地坦克项目组预祝您圣诞节快乐。<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本活动最终解释权，归战地坦克项目组所有<br /><img src="http://i0.feiliu.com/image/20141224/20141224174144_37822.jpg" alt="" /><o:p></o:p>
+</p>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

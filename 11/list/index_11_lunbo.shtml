@@ -1,0 +1,21 @@
+					<div class="lunbo" id="lunbo">
+                        <div class="lunbo_img" id="lunbo_img">
+                            <a href="http://11.feiliu.com/20140519/20723.shtml" target="_blank">
+                                <img src="http://i0.feiliu.com/201405/55/55b3268670f8e940cb33d0273d49f11b.jpg" alt="" /></a>
+                            <a href="http://11.feiliu.com/20140514/20670.shtml">
+                                <img src="http://js.feiliu.com/static/11/images/zqhm.jpg" alt="" /></a>
+
+<!--                            <a href="http://11.feiliu.com/20140513/20660.shtml" target="_blank">
+                                <img src="http://i0.feiliu.com/201405/55/55b3268670f8e940cb33d0273d49f11b.jpg" alt="" /></a>
+                            <a href="http://11.feiliu.com/20140514/20670.shtml">
+                                <img src="http://i0.feiliu.com/201405/99/996bfd059c315dfbe4f53b133f304927.jpg" alt="" /></a>
+-->
+                        </div>
+                        <ul class="lunbo_nav" id="lunbo_btn">
+                            <li class="current"></li>
+                            <li></li>
+                            <!--<li></li>
+                            <li></li>
+                            <li></li>-->
+                        </ul>
+                    </div>

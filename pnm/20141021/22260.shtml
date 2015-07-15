@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="UTF-8">
+<title>《碰你妹》游戏官网 -- 测试_详情页</title> 
+<meta content="碰你妹,碰你妹官网,碰你妹下载" name="keywords">
+<meta content="" name="description">
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/pc/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/pc/js/js.js"></script>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/pnm/pc/css/news.css?v=10271653">
+</head>
+<body>
+<div class="wrap">
+	<div class="nav">
+		<div class="logo"></div>
+		<div class="nav_btn"></div>
+	</div>
+	<div class="focus">
+		<!--首页头部导航模板开始--> 
+		<!--#include virtual="/list/pnm_index_nav.shtml"-->
+		<!--首页头部导航模板结束-->
+	</div>
+	<div class="main">
+		<div class="left">
+			<div class="download">
+				<!--首页下载模板开始--> 
+				<!--#include virtual="/list/pnm_index_download.shtml"-->
+				<!--首页下载模板结束-->
+			</div>
+			<div class="forlum"><a href=""></a></div>
+			<!--列表页热门推荐模板开始--> 
+			<!--#include virtual="/list/pnm_list_hot.shtml"-->
+			<!--列表页热门推荐模板结束-->
+			<!--首页微信QQ模板开始--> 
+			<!--#include virtual="/list/pnm_index_weixin.shtml"-->
+			<!--首页微信QQ模板结束-->
+		</div>
+		<div class="right">
+			<div class="article">
+				<div class="art_top">
+					<div class="title"></div>
+				</div>
+				<div class="art_center">
+					<h2>测试</h2>
+					<div class="share">
+						<span class="time">2014-10-21</span>
+						<span class="shareto">分享到：</span>
+						<div class="shr">
+							<div class="bdsharebuttonbox" data-bd-bind="1411120986130" style="dispaly: block; float:right; margin:-2px 210px 0 0;">
+								<a href="#" class="bds_more" data-cmd="more"></a>
+								<a title="分享到QQ空间" href="#" class="bds_qzone" data-cmd="qzone"></a>
+								<a title="分享到新浪微博" href="#" class="bds_tsina" data-cmd="tsina"></a>
+								<a title="分享到腾讯微博" href="#" class="bds_tqq" data-cmd="tqq"></a>
+								<a title="分享到人人网" href="#" class="bds_renren" data-cmd="renren"></a>
+								<a title="分享到微信" href="#" class="bds_weixin" data-cmd="weixin"></a>
+							</div>
+						</div>
+					</div>
+					测试测试测试
+				</div>
+				<div class="art_bottom"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--首页公共底部版权模板开始--> 
+<!--#include virtual="/list/pnm_index_footer.shtml"-->
+<!--首页公共底部版权模板结束-->
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</body>
+</html>

@@ -1,0 +1,108 @@
+<!--头部公共文件模块开始-->
+	<!--#include virtual="/list/abc_index_topfile.shtml"-->
+<!--头部公共文件模块结束-->
+<body>
+<div class="wrap minwidth rel">
+	<!--公共导航模块开始-->
+		<!--#include virtual="/list/abc_index_nav.shtml"-->
+	<!--公共导航模块结束-->
+	<div class="contain minwidth rel">
+		<div class="con920">
+			<div class="subtop rel">
+				<img src="http://js.feiliu.com/static/abc/web/images/zhu.png" alt="" class="zhu asb">
+			</div>
+			<div class="subline">
+				<div class="newstxt">
+					<div class="infotitle">上17173头条 赢《愤怒的小鸟嘉年华》正版周边</div>
+					<div class="article"><p class="MsoNormal">
+	<b>活动介绍：<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>&nbsp;</b>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	久负盛名的“愤怒的小鸟”又给中国玩家带来一份大礼——《愤怒的小鸟嘉年华》已于国内各大安卓商店同步首发，安卓手机用户均可免费下载玩到。即日起，登陆<span>17173</span>头条，参与《愤怒的小鸟嘉年华》活动，即有机会赢取愤怒的小鸟正版周边哟！<span></span>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	<b>&nbsp;</b>
+</p>
+<p class="MsoNormal">
+	<b>活动地址：<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>&nbsp;</b>
+</p>
+<p class="MsoNormal">
+	<a href="http://a.17173.com/tg/huodong/hd15040701.html">http://a.17173.com/tg/huodong/hd15040701.html</a>
+</p>
+<p class="MsoNormal">
+	<a href="http://a.17173.com/tg/channel/index.html?id=A0011501670">http://a.17173.com/tg/channel/index.html?id=A0011501670</a>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	<b>&nbsp;</b>
+</p>
+<p class="MsoNormal">
+	<b>活动奖品：<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>&nbsp;</b>
+</p>
+<p class="MsoNormal">
+	特等奖：<span>24</span>寸拉杆箱，<span>3</span>个<span></span>
+</p>
+<p class="MsoNormal">
+	一等奖：愤怒的小鸟大抱枕，<span>5</span>个<span></span>
+</p>
+<p class="MsoNormal">
+	二等奖：愤怒的小鸟<span>U</span>盘（<span>4G</span>），<span>10 </span>个<span></span>
+</p>
+<p class="MsoNormal">
+	三等奖：愤怒的小鸟玩偶，<span>30</span>个<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<b>活动参与形式：<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>&nbsp;</b>
+</p>
+<p class="MsoNormal">
+	玩家只要下载《愤怒小鸟嘉年华》（安卓版），在游戏中截取你最满意的一次打击，即可参与抽奖，有机会赢取正版愤怒的小鸟周边。<span></span>
+</p>
+<p class="MsoNormal">
+	下载地址：<span>http://abs.feiliu.com/download?cid=300365&amp;type=5</span>
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	<span><img src="http://i0.feiliu.com/image/20150413/20150413161547_78258.png" alt="" /></span>
+</p></div>
+				</div>
+			</div>
+			<div class="subbottom"></div>
+		</div>
+		<!--底部公共模块开始-->
+			<!--#include virtual="/list/abc_index_foot.shtml"-->
+		<!--底部公共模块结束-->
+	</div>
+</div>
+<!--右侧漂浮模块开始-->
+	<!--#include virtual="/list/abc_index_float.shtml"-->
+<!--右侧漂浮模块结束-->
+<!--底部公共js文件模块开始-->
+	<!--#include virtual="/list/abc_index_jsfile.shtml"-->
+<!--底部公共js文件模块结束-->
+</body>
+</html>

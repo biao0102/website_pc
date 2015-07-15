@@ -1,0 +1,82 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+<title>龙骑战歌官方网站</title> 
+<meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+<meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="http://js.feiliu.com/static/lqzg/wap0525/css/news.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/wap0525/js/jquery-1.11.2.min.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="content">
+            <div class="nav">
+                <h3>内容</h3>
+                <a href="javascript:history.go(-1);">返回&gt;&gt;</a>
+            </div>
+            <div class="news">
+                    <h1 class="title">宇宙流浪者 《龙骑战歌》星灵伙伴原画曝光</h1>
+                    <div class="news_con">
+                    <p>由墨麟倾力研发，飞流（FL Mobile）全平台独家代理发行的《龙骑战歌》即将正式亮相。作为一款以创新为理念的ARPG骑战新纪元手游，《龙骑战歌》独创了小伙伴在战斗中自由切换的双人物战斗模式，而游戏中诸多种族各异、职业不同的伙伴们已在逐渐揭露神秘的面纱。现在，让我们一起看看另一位伙伴，来自宇宙星空的流浪刺客——“星灵”图瑞根·泽拉瑞尔的原画！</p><p><br/></p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193600.jpg" title="20150416193600.jpg" alt="图1：星灵刺客——图瑞根·泽拉瑞尔.jpg"/></p><p><br/></p><p>【星空的流浪者 邪恶的猎杀者】</p><p><br/></p><p>&nbsp; 图瑞根·泽拉瑞尔是一名来自外星的神秘战士，他的部族被琳妮茵世界上的生物们称为“星灵”。星灵是一个强大的战斗种族，他们从远古时代开始就开始在宇宙中流浪，寻找着任何邪恶的生物，并毫不留情地将其作为猎物加以猎杀。同时星灵们也非常重视荣誉，虽然他们用以流浪的飞船上装备了强大的远程武器，然而在发现需要猎杀的邪恶目标后，他们仍然会降落在星球表面，用他们代代相传的古老武艺——一种融合了隐蔽，近身战斗和心灵异能的战斗技法——面对面地去消灭每一个邪恶的生物。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193608.jpg" title="20150416193608.jpg" alt="图2：小伙伴轮番出击 双职业畅快战斗.jpg"/></p><p>【负起天职 图瑞根化身伙伴】</p><p><br/></p><p>&nbsp; 一个偶然的机会，图瑞根所在的部族发现了琳妮茵世界的存在。从琳妮茵世界中感知到的邪恶力量使得星灵们将琳妮茵星球定为下一个狩猎场。按照惯例，几名刚成年的星灵武士前往琳妮茵世界猎杀邪恶生物，作为他们的成年仪式。但是这几名年轻的武士经过一段时间的艰苦战斗，全部失手被杀。意识到低估了邪恶力量的族长，立刻下令禁止年轻武士降落琳妮茵星球，并且派遣身经百战的图瑞根，带领一队经验丰富的星灵武士，前去彻底铲除这颗星球上的邪恶力量。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193616.jpg" title="20150416193616.jpg" alt="图3：享受立体化战斗的畅快.jpg"/></p><p><br/></p><p>&nbsp; 图瑞根·泽拉瑞尔作为《龙骑战歌》中使用“拳刃”作为兵器的伙伴，虚幻的紫色肌肤和铠甲，散发冷冰气息的利刃，他的出现将成为所有邪恶的终极者。《龙骑战歌》即将封测，概念官网正式开放预约活动，神秘大礼包免费派送！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193627.jpg" title="20150416193627.jpg" alt="图4：进入官网 收获预约大礼.jpg"/></p><p><br/></p>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+<script>
+    function getArgs()
+    {
+        var argsArr = new Object();
+        var query = window.location.search;  
+        query = query.substring(1);
+        var pairs = query.split("&");
+        for(var i=0;i<pairs.length;i++)
+        {
+            var sign = pairs[i].indexOf("="); 
+            if(sign == -1)
+            {
+                continue; 
+            }
+            var aKey = pairs[i].substring(0,sign);
+            var aValue = pairs[i].substring(sign+1);         
+            argsArr[aKey] = unescape(aValue);
+
+        }
+        return argsArr;
+    }
+
+    var param = new Object();
+    param = getArgs();
+    var source = param.s;
+
+    if(!source)
+    {
+        source = '300021';
+    }
+    $('a').click(function(e){
+        var url = $(this).attr('href');
+        if(url != 'javascript:void(0);' && url != "javascript:alert('敬请期待！');" && url != 'javascript:history.go(-1);');
+        {
+            e.preventDefault();
+            var url = $(this).attr('href');
+            if(url.indexOf('?') > -1)
+            {
+                var tourl = url + '&s='+source;
+            } else {
+                var tourl = url + '?s='+source;
+            }
+            window.location.href = tourl;   
+        }
+    });   
+
+</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>
+
+

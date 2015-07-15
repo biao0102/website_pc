@@ -1,0 +1,14 @@
+<div class="minews">
+  <!--首页最新栏目模板开始--> 
+  <!--#include virtual="/list/index_msysg_zx.shtml"-->
+  <!--首页最新栏目模板结束-->
+  <!--首页公告栏目模板开始--> 
+  <!--#include virtual="/list/index_msysg_gg.shtml"-->
+  <!--首页公告栏目模板结束-->
+  <!--首页活动栏目模板开始--> 
+  <!--#include virtual="/list/index_msysg_hd.shtml"-->
+  <!--首页活动栏目模板结束-->
+  <!--首页新闻栏目模板开始--> 
+  <!--#include virtual="/list/index_msysg_news.shtml"-->
+  <!--首页新闻栏目模板结束-->
+</div>

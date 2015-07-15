@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>装备打造玩法</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <h2>
+	装备打造：<span></span> 
+</h2>
+<p class="MsoNormal">
+	在副本中获得材料与图纸，在打造界面的模板中打造出高品质装备。<span></span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp; </span>打造配方<span></span> 
+</h2>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	Ø&nbsp; 可以查看现阶段当前职业所能打造的所有装备；<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	Ø&nbsp; 每次打造都需要消耗图纸、材料与铜钱。<span></span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp; </span>材料出处<span></span> 
+</h2>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:0cm;">
+	打造材料现阶段分为<span>3</span>种：图纸、主材料、辅助材料；<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:0cm;">
+	图纸<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:63.0pt;text-indent:-21.0pt;">
+	Ø&nbsp; 打造图纸与辅助材料可在多人副本中获得；<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:63.0pt;text-indent:-21.0pt;">
+	Ø&nbsp; 根据副本进入的等级，判定掉落图纸的等级；<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:0cm;">
+	主材料<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:63.0pt;text-indent:-21.0pt;">
+	Ø&nbsp; 可以通过三十六重天模块中获得；<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:0cm;">
+	辅助材料<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:63.0pt;text-indent:-21.0pt;">
+	Ø&nbsp; 辅助材料也可在单人副本中获得
+</p>
+<p class="MsoNormal">
+	<span></span><span></span> 
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	<span><img src="http://i0.feiliu.com/image/20140422/20140422163141_81809.jpg" width="500" height="242" alt="" /></span> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

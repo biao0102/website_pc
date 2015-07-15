@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Design:Lu; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="魔戒,魔戒官网,至尊魔戒，魔戒越狱版下载，魔戒IOS版下载，魔戒安卓版下载，魔戒游戏" />
+    <meta name="description" content="《魔戒》是一款欧美魔幻题材、带魔戒世界观的即时战斗制手机网游。《魔戒》强大的魔族入侵人类，摧毁我们的家园，伟大的勇士们！拿起手中的长剑，为了守护魔戒，击退魔族而战吧！这是一款MMOARPG真3D酷爽战斗手游。在这里你可以驰骋西方魔幻世界，拯救人类！" />   
+    <title>《魔戒》官方网站</title>
+    <link href="http://js.feiliu.com/static/mojie/style/news.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="wrap" class="wrap">
+        <div class="wrap02">
+            <div class="content">
+                <img src="http://js.feiliu.com/static/mojie/images/news/img01.jpg" alt="" border="0" usemap="#Map" />
+                <map name="Map" id="Map">
+                    <area shape="rect" coords="15,5,174,55" href="#" alt="新闻中心" />
+                    <area shape="rect" coords="177,6,342,55" href="#" alt="下载中心" />
+                    <area shape="rect" coords="681,3,842,54" href="#" alt="游戏资料" />
+                    <area shape="rect" coords="851,4,997,57" href="#" alt="官网论坛" />
+                    <area shape="rect" coords="172,61,381,123" href="#" alt="官方首页" />
+                    <area shape="rect" coords="638,60,845,121" href="#" alt="新手指南" />
+                    <area shape="rect" coords="398,4,628,148" href="#" alt="全民斗三国" />
+                </map>
+                <img src="http://js.feiliu.com/static/mojie/images/news/img02.jpg" alt="" border="0" />
+                <img src="http://js.feiliu.com/static/mojie/images/news/img03.jpg" alt="" border="0" />
+                <div class="main clearfix">
+                    <div class="main_l">
+                        <img src="http://js.feiliu.com/static/mojie/images/news/left_btn01.jpg" alt="" border="0" usemap="#Map2" />
+                        <map name="Map2" id="Map2">
+                            <area shape="rect" coords="16,11,267,109" href="#" alt="IOS版下载" />
+                            <area shape="rect" coords="15,120,267,218" href="#" alt="安卓版下载" />
+                            <area shape="rect" coords="10,233,268,308" href="#" alt="游戏介绍" />
+                            <area shape="rect" coords="9,312,268,385" href="#" alt="新手指南" />
+                        </map>
+                        <div class="left_btn">
+                            <a href="#">
+                                <img src="http://js.feiliu.com/static/mojie/images/news/left_btn02.jpg" alt="" /></a>
+                            <a href="#">
+                                <img src="http://js.feiliu.com/static/mojie/images/news/left_btn03.jpg" alt="" /></a>
+                            <a href="#">
+                                <img src="http://js.feiliu.com/static/mojie/images/news/left_btn04.jpg" alt="" /></a>
+                        </div>
+                        <div class="left_video clearfix">
+                            <div class="left_video_l">
+                                <div class="left_video_con"></div>
+                            </div>
+                            <div class="left_video_r">
+                                <div class="left_video_con"></div>
+                            </div>
+                        </div>
+                        <img src="http://js.feiliu.com/static/mojie/images/news/left_kf.jpg" alt="" border="0" usemap="#Map3" style="margin-top: 5px; margin-left: 22px;" />
+                        <map name="Map3" id="Map3">
+                            <area shape="rect" coords="32,75,117,98" href="#" alt="新浪微博" />
+                            <area shape="rect" coords="131,75,215,99" href="#" alt="腾讯微博" />
+                        </map>
+                    </div>
+                    <div class="main_r">
+                        <div class="news_bg01">
+                            <div class="news_bg02">
+                                <ul class="news_tab">
+                                    <li class="btn01"><a href="#">影音盛宴</a></li>
+                                    <li class="btn02"><a href="#" class="current">游戏截图</a></li>
+                                    <li class="btn03"><a href="#">游戏壁纸</a></li>
+                                    <li class="btn04"><a href="#">妹子照片</a></li>
+                                </ul>
+                                <div class="pic_content">
+                                    <ul class="pic_list clearfix">
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                        <li><a href="#" target="_blank">
+                                            <img src="http://js.feiliu.com/static/mojie/images/pic/pic01.jpg" alt="" /></a></li>
+                                     
+                                    </ul>
+                                    <div class="paging">
+                                        <a href="#" class="prev">上一页</a>
+                                        <span>1</span>
+                                        <a href="#">2</a>
+                                        <a href="#">3</a>
+                                        <a href="#">4</a>
+                                        <a href="#">5</a>
+                                        <a href="#" class="next">下一页</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="con_ma">
+        <img src="http://js.feiliu.com/static/mojie/images/index/ma01.jpg" />
+    </div>
+</body>
+</html>

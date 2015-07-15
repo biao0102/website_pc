@@ -1,0 +1,22 @@
+<div class="box02">
+	<!-- 视频 -->
+	<div class="vedio fltt">
+		<h2 class="rel"><img src="http://js.feiliu.com/static/abc/web/images/title01.jpg" alt=""><a href="http://abs.feiliu.com/list/abc_video.shtml"  target="_blank" class="asb hm">更多</a></h2>
+		<a rel="video" class="vdo" target="_blank"><img rel="video"  style="cursor:pointer;" video="http://player.youku.com/player.php/sid/XNzk5OTMwOTY0/v.swf" vw = "250" vh = "210" src="http://js.feiliu.com/gameimg/abs/20150318194929.jpg"></a>
+		<span class="vt">怒鸟萌猪对决NBA</span>
+	</div>
+	<!-- 视频  end-->
+	<!--介绍  -->
+	<div class="intro fltt">
+		<p>
+《愤怒的小鸟嘉年华》是一个妙趣横生、充满奇思妙想的版本，14大主题，300多关卡，超时空马戏团、猪戏嫦娥、唐装春节，目不暇接，更有超炫的“NBA灌篮番外篇”和“特别关卡”，是愤怒的小鸟上线以来最受欢迎的版本之一，鸟迷们怎可不玩？快去下载吧！
+		</p>
+	</div>
+	<!-- 介绍 end-->
+	<!-- 壁纸 -->
+	<div class="wallpaper fltt">
+		<h2 class="rel"><img src="http://js.feiliu.com/static/abc/web/images/title02.jpg" alt=""><a href="http://abs.feiliu.com/list/abc_picture.shtml" target="_blank" class="asb hm">更多</a></h2>
+		<a href="http://abs.feiliu.com/list/abc_picture.shtml"><img src="http://js.feiliu.com/gameimg/abc/20150313153911.jpg" alt=""></a>
+	</div>
+	<!-- 壁纸 end -->
+</div>

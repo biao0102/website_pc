@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">俯视群雄 《战地坦克》AppStore跨服霸主名单曝光</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-12-17</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              《战地坦克》AppStore跨服战已于12月1日至12月10日期间举办，这一涵盖28个服务器，上百万玩家的宏大竞赛最终落幕。柚子、阿尔萨斯、迈克尔•珑、糕帅富、秃驴、咖啡牛奶、麦蔻等七名玩家在各自分组服务器中摘得桂冠，问鼎百万玩家。他们的胜利不止彰显自己拥有俯视群雄的顶尖战力，更为自己与所在服务器的所有玩家带来了多重大奖，堪称服务器英雄。<br />
+<br /><img src="http://i0.feiliu.com/image/20141217/20141217172413_20243.jpg" alt="" /><br />
+【百万玩家争霸 最强战力的拼杀】<br />
+<br />
+&nbsp; 《战地坦克》此次跨服战在AppStore正版的28个服务器内举行，以4个服务器为一组，共7个小组共百万玩家参加了这一轰动全国的赛事。经历所在服争夺报名权的竞技场激战、正式比赛的分组赛、淘汰赛，上百万玩家以自己的最强军团，最强战斗状态无时无刻不在战场上拼杀。从百万玩家参与，到最终仅7人夺冠，一场场炮火纷飞的对战让所有人激情昂扬，精彩的战斗过程更是让人享受到了一次次无比震撼的身心双重冲击。<br /><img src="http://i0.feiliu.com/image/20141217/20141217172435_25251.jpg" alt="" /><br />
+<span ></span><span >【</span>名利双收 服务器英雄诞生】<br />
+<br />
+&nbsp; 跨服战可不仅仅是英雄的耀武之地，根据玩家在跨服战中的战绩，《战地坦克》将为玩家发放相应的积分，当然获胜越多所获积分也越多，而冠军的积分则更是堪称海量。玩家可以使用积分在“积分商店”中兑换顶级坦克、材料等物品。而且，各组冠军所在服务器的所有玩家还能享受冠军光环，收获一份异常丰厚的奖励。珍稀的奖励、受全服尊崇的荣耀，跨服战绝对是名利双收的绝佳机会。<br /><img src="http://i0.feiliu.com/image/20141217/20141217172456_21032.jpg" alt="" /><br />
+【献花赢积分 平民大逆袭】<br />
+<br />
+&nbsp; 相对于参战玩家，其他玩家也可以通过为自己看重的玩家“献花”押宝来赢取积分。虽然献花不能体验到直接战斗的激情，但是所获得的积分绝对不比参战玩家少，而且轻松获得积分的方式也颇受休闲玩家热衷。如果次次押对的话，积分甚至能超过某些参战玩家，获得大量的积分后便可以前往“积分商店”，兑换到自己心仪的物品啦！<br /><img src="http://i0.feiliu.com/image/20141217/20141217172750_26684.jpg" alt="" /><br />
+跨服战的硝烟已经落幕，《战地坦克》中的百万玩家又将在秣兵历马后迎来全新一届的战役。现在就提升自己实力，为下次跨服战做好准备，也许下一个服务器英雄就是你！<br />
+<div >
+	<br />
+</div>
+<span >《战地坦克》游戏官网：http://tk.feiliu.com</span><br  />
+<span >《战地坦克》iOS正版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8</span><br  />
+<span >《战地坦克》iOS越狱版下载：http://js.feiliu.com/ipa/tk/tk_300021.ipa</span><br />
+<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;最终解释权，归战地坦克项目组所有。<br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

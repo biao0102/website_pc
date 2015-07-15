@@ -1,0 +1,65 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">沙僧变铁匠？《众妖之怒》沙悟净形象首次曝光</div>
+			<div class="news-con">
+				提起《西游记》中的五名主人公，有人喜欢大闹天宫的孙悟空，有人喜欢搞笑贪吃的猪八戒，也有人喜欢诚恳朴实的沙悟净。在首款东方奇幻3D《众妖之怒》中，自然也少不了沙和尚的位置。西天取经过后，天庭异变，众妖奋起对抗天兵天将，沙僧将以NPC的身份登场，并成为铁匠，帮助玩家们强化装备。那么《众妖之怒》中的沙悟净到底长得什么样子呢，是可爱、是威猛？让我们来一起看看吧！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150206/20150206104128_46733.jpg" alt="" /><br />
+<br />
+【不要怕！这个妖怪很温柔】<br />
+<br />
+<br />
+&nbsp; 在《西游记》原著中沙僧外貌丑恶，但个性憨厚,忠心耿耿。他不像孙悟空那么叛逆，也不像猪八戒那样好吃懒惰、贪恋女色，自他放弃妖怪的身份起，他就一心跟着唐僧，正直无私，任劳任怨，谨守佛门戒律，踏踏实实，谨守本分，最终功德圆满，被如来佛祖封为南无金身罗汉。在《众妖之怒》里沙僧也站到了玩家一边，他以铁匠的身份支持玩家反抗天庭。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150206/20150206104138_52352.jpg" alt="" /><br />
+<br />
+<br />
+【二师兄变野猪人大头领】<br />
+<br />
+<br />
+&nbsp; 二师兄又变成猪刚鬣样貌的野猪形态了！没错，在《众妖之怒》中，野猪人将成为玩家们前期的一个剧情BOSS，打败他的话还能将其收服成为伙伴。上仙莫要生气，野猪人大头领是附近草原上一个出了名的欺压良善的妖怪，不仅作恶多端还荒淫好色，老百姓们对他都恨之入骨！其手下也各个飞扬跋扈“你打听打听，爷爷们的买卖是哪个神仙在罩着，咱们是托塔天王手下的巨灵神手下的草原剑神手下的野猪人大头领手下拆迁大队！”<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150206/20150206104147_96452.jpg" alt="" /><br />
+<br />
+<br />
+【大师兄永远是主角】<br />
+<br />
+<br />
+&nbsp; 灵猴本是五行灵根之一的灵明石猴，因斩杀了在地界为非作歹的天神部属，又中了天庭之计，武魂尽丧，从此与天庭势不两立。猕猴擅长近战，爆发力强，是战场上的灵动杀手。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150206/20150206104157_76296.jpg" alt="" /><br />
+<br />
+&nbsp; 2015东方奇幻3D动作手游《众妖之怒》等你来战，唐僧、沙僧等经典角色将陪你一起揭开玉帝变坏的真正原因！<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

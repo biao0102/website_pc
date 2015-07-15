@@ -1,0 +1,84 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			游戏资料
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			游戏资料
+	        				        		</div>
+	    			<div class="infotitle">《就是要三国》战役系统</div>
+		        	<div class="textTime">2015-01-13</div>
+		    		<div class="article">
+						<blockquote style="margin:0 0 0 40px;border:none;padding:0px;">
+	<p class="MsoNormal" align="left">
+		<b><span><img src="http://i0.feiliu.com/image/20150113/20150113111552_24957.jpg" alt="" /><br />
+开启条件：</span></b> 
+	</p>
+	<p class="MsoListParagraph" align="left" style="margin-left:36pt;text-indent:-18pt;">
+		<span>1、 </span><!--[endif]--><span>相应关卡等级限制</span><span lang="EN-US">+</span><span>关卡必须顺序开启</span> 
+	</p>
+	<p class="MsoListParagraph" align="left" style="margin-left:36pt;text-indent:-18pt;">
+		<span>2、 </span><!--[endif]--><span>消耗将令（失败不扣）</span> 
+	</p>
+	<p class="MsoNormal" align="left">
+		<br />
+	</p>
+	<p class="MsoNormal" align="left">
+		<b><span>可获得奖励：</span></b> 
+	</p>
+	<p class="MsoNormal" align="left" style="text-indent:21pt;">
+		<span>将魂（精英模式有几率掉落）、主公经验、将领经验、职业道具、经验药水、扫荡令、装备碎片掉落</span> 
+	</p>
+	<p class="MsoNormal" align="left">
+		<br />
+	</p>
+	<p class="MsoNormal" align="left">
+		<b><span>玩法介绍：</span></b> 
+	</p>
+	<p class="MsoNormal" align="left" style="text-indent:21pt;">
+		<span>战役系统分为普通战役和精英战役。关卡战役依照著名战役作为章节单位，其中会出现单军团、双军团、最多三军团对手，战役只能按照顺序依次推关。</span> 
+	</p>
+	<p class="MsoNormal" align="left" style="text-indent:21pt;">
+		<br />
+	</p>
+	<p class="MsoNormal" align="left" style="text-indent:21pt;">
+		<span>战役关卡打通后会根据通关情况进行评级：</span> 
+	</p>
+	<p class="MsoNormal" align="left" style="text-indent:21pt;">
+		<span>三星过关要求：我方军团战力要保持在</span><span lang="EN-US">75%</span><span>以上</span><span lang="EN-US"> (</span><span>三星过关后，再次挑战此关即可使用跳过功能</span><span lang="EN-US"><span>)</span><o:p></o:p></span> 
+	</p>
+	<p class="MsoNormal" align="left" style="text-indent:21pt;">
+		<span>两星过关要求：我方军团战力要保持在</span><span lang="EN-US">50%</span><span>以上</span> 
+	</p>
+	<p class="MsoNormal" align="left" style="text-indent:21pt;">
+		<span>一星过关要求：只要我方军团胜利即可一星</span> 
+	</p>
+	<p class="MsoNormal" align="left" style="text-indent:21pt;">
+		<br />
+	</p>
+	<p class="MsoNormal" align="left" style="text-indent:21pt;">
+		<span>可重复不限次数挑战，可以使用扫荡券扫荡，必胜并且直接获得挑战结果。</span> 
+	</p>
+	<p class="MsoNormal" align="left" style="text-indent:21pt;">
+		<span>整章节通过后方可开启本章节的精英战役。</span> 
+	</p>
+</blockquote>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

@@ -1,0 +1,695 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>商城道具_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">游戏资料</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">商城道具</div>
+              <p><table class="MsoNormalTable ke-zeroborder" border="0" cellspacing="0" cellpadding="0" width="449" style="width:337pt;">
+	<tbody>
+		<tr>
+			<td width="104" style="border:solid white 1.5pt;background:#4F81BD;">
+				<p class="MsoNormal" align="left">
+					<b><span >名称<span></span></span></b>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.5pt;background:#4F81BD;">
+				<p class="MsoNormal" align="left">
+					<b><span >价格<span></span></span></b>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.5pt;background:#4F81BD;">
+				<p class="MsoNormal" align="left">
+					<b><span >功能介绍<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >小喇叭<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >5</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >公共聊天每次发言需消耗一个<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >论剑贴<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >60</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >可恢复当日论剑次数<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >掠夺帖<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >50</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >可恢复当日掠夺次数<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >闯关帖<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >25</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >可恢复特定关卡挑战次数<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >金钥匙<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >20</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >可以打开装备金宝箱<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >装备金宝箱<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >200</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >使用金钥匙打开，可能获得无双装备<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >银钥匙<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >15</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >可以打开装备银宝箱<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >装备银宝箱<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >55</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >使用银钥匙打开，可能获得卓越装备<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >铜钥匙<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >5</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >可以打开装备铜宝箱<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >装备铜宝箱<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >15</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >使用铜钥匙打开<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >初级经验丹<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >4</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >痴迷武学的人，吞噬获得<span>200</span>经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >中级经验丹<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >12</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >痴迷武学的人，吞噬获得<span>600</span>经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >赤练玄铁<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >4</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >精铁制作而成，可提升武器少量经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >赤练火铜<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >12</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >精铜制作而成，可提升武器中量经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >炼铁玄石<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >4</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >精铁制作而成，可提升防具少量经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >绯铜玄石<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >12</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >精铜制作而成，可提升防具中量经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >锻铁灵珠<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >4</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >精铁制作而成，可提升头冠少量经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >铜光灵珠<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >12</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >精铜制作而成，可提升头冠中量经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >铸铁化玉<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >4</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >精铁制作而成，可提升饰品少量经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >淀铜化玉<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >12</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >精铜制作而成，可提升饰品中量经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >速成秘籍<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >4</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >武学小秘籍，提升武功<span>200</span>经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >速学秘籍<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >12</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >武学小秘籍，提升武功<span>600</span>经验<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >优良武功包<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >0</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >获得优良武功碎片<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >卓越武功包<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >0</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >获得卓越武功碎片<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >无双武功包<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >0</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >获得无双武功碎片<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >宝石包<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >0</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >获得一颗宝石<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >西瓜<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >6</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >12</span><span >小时产出<span>2700</span>银子<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >大西瓜<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >18</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >6</span><span >小时产出<span>2700</span>银子<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >二级气血宝石<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >90</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >气血<span> +300</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >二级治疗宝石<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >90</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >治疗<span> +110</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >二级内功宝石<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >90</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >内功<span> +110</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >二级外功宝石<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >90</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >外功<span> +110</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >二级内防宝石<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >90</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >内防<span> +160</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >二级外防宝石<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >90</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >外防<span> +160</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >二级暴击宝石<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >90</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#B8CCE4;">
+				<p class="MsoNormal" align="left">
+					<span >暴击率<span> +60</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="104" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >二级抗暴宝石<span></span></span>
+				</p>
+			</td>
+			<td width="75" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >90</span>
+				</p>
+			</td>
+			<td width="271" style="border:solid white 1.0pt;background:#DBE5F1;">
+				<p class="MsoNormal" align="left">
+					<span >抗暴率<span> +60</span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

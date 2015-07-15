@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>寻找BUG之旅_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>寻找BUG之旅</h2>
+          <p><p class="MsoNormal">
+	【活动时间】开服之日起<span lang="EN-US">-</span>封测结束<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" align="left">
+	【活动内容】在活动期间，请将您对游戏的建议或<span lang="EN-US">BUG</span>提交给我们，我们将每天收集并仔细阅读，争取早日还给广大玩家一个更出色的《战魔》，还请玩家朋友们帮助我们做到更好！<o:p></o:p>
+</p>
+<p class="MsoNormal" align="left">
+	【活动奖励】获得神秘道具礼包，随时出现各种珍贵道具<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	提交的<span lang="EN-US">BUG</span>越多，获奖的几率就越大，并且还会将获奖玩家的名单公布在论坛和官方<span lang="EN-US">QQ</span>群内，敬请留意获奖信息。<o:p></o:p>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:63pt;text-indent:-63pt;">
+	【参与方式】1、提交方式（<span lang="EN-US">1</span>）：通过官方论坛的置顶帖<span lang="EN-US">-</span>《<span lang="EN-US">BUG</span>及建议收集帖》进行提交。请在回帖中留下大家的：【角色名称】、【建议或<span lang="EN-US">bug</span>】内容。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:63pt;">
+	2、提交方式（<span lang="EN-US">2</span>）：联系我们的官方客服<span lang="EN-US">QQ</span>，提交您的建议及<span lang="EN-US">bug</span>。<br />
+<span lang="EN-US"><o:p>【活动链接】<br />
+18183论坛链接：http://bbs.18183.com/thread-4347028-1-1.html<br />
+360论坛链接：http://bbs.mgamer.cn/forum-2545-1.html<br />
+8783论坛链接：http://bbs.8783.com/forum-189-1.html<br />
+9游论坛链接：http://www.9game.cn/zm/271330.html</o:p></span>
+</p></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

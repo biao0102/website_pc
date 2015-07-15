@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>“武魂来袭”1.4.0新版本更新告知</h1>
+                        <span>2014-08-27</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal">
+	尊敬的玩家：
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>【战魂西游】<span lang="EN-US">1.4.0</span>新版本<span lang="EN-US">“</span>武魂来袭<span lang="EN-US">”</span>将于<span lang="EN-US">2014</span>年<span lang="EN-US">8</span>月<span lang="EN-US">28</span>日<span lang="EN-US">9</span>：<span lang="EN-US">30</span>更新上线，该版本增加了多个特色系统，期待您的体验哦！同时也将开放全新服务器<span lang="EN-US">”S4-</span>混世魔王<span lang="EN-US">”</span>与<span lang="EN-US">“X4-</span>蟠桃盛会<span lang="EN-US">”</span>，带给大家一个不同的热血西游故事！来吧，石猴邀您一起，<span lang="EN-US">“</span>斗<span lang="EN-US">”</span>破这西游世界！
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><b>一、新版本更新时间</b>：<b>2014</b><b>年8</b><b>月28</b><b>日9</b><b>：30 - 11</b><b>：30</b><b>（停服更新）</b> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><b>二、新版本开放新服：</b><span lang="EN-US">Android-”S4-</span>混世魔王<span lang="EN-US">”</span>、<span lang="EN-US">iOS</span>越狱<span lang="EN-US">-“X4-</span>蟠桃盛会<span lang="EN-US">”</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><b>三、新版本活动：<span lang="EN-US"><o:p></o:p></span></b> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ①</span>【老服（<span lang="EN-US">S1</span>、<span lang="EN-US">S2</span>、<span lang="EN-US">S3</span>、<span lang="EN-US">X1</span>、<span lang="EN-US">X2</span>、<span lang="EN-US">X3</span>）活动】：武魂来袭，劲爆活动<span lang="EN-US">High</span>翻天！
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>【活动链接】：<a href="http://zhxy.feiliu.com/20140828/21774.shtml" target="_blank">http://zhxy.feiliu.com/20140828/21774.shtml</a> 
+</p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+	<span lang="EN-US">&nbsp; &nbsp; ②</span>【新服（<span lang="EN-US">S4</span>、<span lang="EN-US">X4</span>）活动】：武魂来袭，新服火爆开启！
+</p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+	&nbsp; &nbsp; &nbsp; &nbsp;【活动链接】：<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Android：<a href="http://zhxy.feiliu.com/20140828/21776.shtml" target="_blank">http://zhxy.feiliu.com/20140828/21776.shtml<br />
+</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;iOS：<a href="http://zhxy.feiliu.com/20140828/21775.shtml" target="_blank">&nbsp;http://zhxy.feiliu.com/20140828/21775.shtml</a>
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<b>四、新版本你不得不知道的内容：<span lang="EN-US"><o:p></o:p></span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+	<span lang="EN-US">1</span>、新增“装备升星”玩法
+</p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+	<span lang="EN-US">2</span>、新增“灵蕴争夺”玩法
+</p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+	<span lang="EN-US">3</span>、新增“雷音宝库”玩法
+</p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+	<span lang="EN-US">4</span>、调整精英副本掉落
+</p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+	<span lang="EN-US">5</span>、调整部分角色技能的浮空效果
+</p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+	<span lang="EN-US">6</span>、调整所有技能开放等级
+</p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+	<span lang="EN-US">7</span>、调整花果山地图副本数量
+</p>
+<p class="MsoNormal" style="margin-left:21.0pt;text-indent:21.0pt;">
+	<span lang="EN-US">8</span>、调整<span lang="EN-US">7</span>级可开放托管功能
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<b>五、新版本<span lang="EN-US">“</span></b><b>武魂来袭<span lang="EN-US">”</span></b><b>上线赠送福利：<span lang="EN-US"><o:p></o:p></span></b> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	为感谢大家对【战魂西游】一直以来的支持，截止<span lang="EN-US">2014</span>年<span lang="EN-US">8</span>月<span lang="EN-US">28</span>日<span lang="EN-US">11</span>：<span lang="EN-US">30</span>前的游戏玩家，在新版本更新后，登录游戏均可领取到一份“神秘大礼”。
+</p>
+<p class="MsoNormal" style="margin-left:21.0pt;">
+	一般人我可不送，可千万别错过哦！
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	【神秘大礼】：元宝<span lang="EN-US">*</span>？？？、铜钱<span lang="EN-US">*</span>？？？、星力<span lang="EN-US">*</span>？？？、灵石<span lang="EN-US">*</span>？？？、？级宝石
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

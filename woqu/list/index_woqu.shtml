@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="我去西游,我去西游官网,我去西游兑换码,我去西游礼包,我去西游下载,我去西游攻略,我去西游飞流,3D手游,萌战卡牌,孙悟空,猪八戒,神卡,仙卡,二郎神,西天取经" />
+    <meta name="description" content="我去西游是乐卓网络科技（上海）有限公司开发，北京飞流九天独家代理的一款“萌系”西游卡牌RPG，玩家在游戏中扮演一位充满正义感的的神通人士，陪伴唐僧四人西行取经" />
+    <title>《我去西游》官方网站</title>
+    <link href="http://js.feiliu.com/static/woqu/style/master.css?v=965" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/woqu/js/jquery1.6.4.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/woqu/js/swfobject.js?id=100"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/woqu/js/is_mobile.js"></script>
+<script type="text/javascript">
+        $(function () {
+            newstab("news_nav a", "news_panes > ul.news_list");
+            newstab("jskp_tab a", "jskp_panes > ul.jskp_list");
+            newstab("shzb_tab a", "shzb_panes > ul.shzb_list");
+            newstab("kxfb_tab a", "kxfb_panes > ul.shzb_list");
+            fndatulb();
+			gundong();
+        });
+
+        function newstab(tabs, panes) {
+            var tabs = $("#" + tabs);
+            var panes = $("#" + panes);
+            tabs.each(function (i) {
+                $(this).click(function () {
+                    tabs.removeClass("current").eq(i).addClass("current");
+                    panes.hide().eq(i).show();
+                });
+            });
+        }
+
+        function fndatulb() {
+            var lbbox = $("#lbbox");
+            var imgs = $("#lbimg").children();
+            var btns = $("#lbnav_btn").children();
+            var timer = null;
+            var time = 3000;
+            var i = 0;
+            btns.each(function (x) {
+                $(this).click(function () {
+                    i = x;
+                    fnlb();
+                });
+            });
+            timer = setInterval(fnlbzd, time);
+            lbbox.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(fnlbzd, time);
+            });
+            function fnlbzd() {
+                i = i >= imgs.length - 1 ? 0 : i + 1;
+                fnlb();
+            }
+            function fnlb() {
+                imgs.hide().eq(i).show();
+                btns.removeClass("current").eq(i).addClass("current");
+            }
+        }
+		
+		function gundong() 
+		{	
+			var box = $("#mthz_list");
+			var lists = box.find("li");
+			var oNums = lists.length;
+			var oHeight = lists.eq(0).outerHeight();
+			var oHeight2 = box.height();
+			var i = 0;
+			var timer = null;
+
+			if (oNums > 4) {
+				box.append(box.html());
+				timer = setInterval(gdAnimate, 30);
+			}
+
+			function gdAnimate() {
+				i = i >= oHeight2 ? 0 : i + 1;
+				box.css("top", -i + "px");
+			}
+
+			box.hover(function () {
+				clearInterval(timer);
+				timer = null;
+			}, function () {
+				timer = setInterval(gdAnimate, 30);
+			});
+
+		}
+
+    </script>
+	<script type="text/javascript">
+		$(function(){
+			$("#btna1").click(function(){
+				//alert('function');
+				$("#ggmore").attr("href","http://woqu.feiliu.com/list/list_woqu_news.shtml");
+			})
+			$("#btna2").click(function(){
+				//alert('function');
+				$("#ggmore").attr("href","http://woqu.feiliu.com/list/list_woqu_gg.shtml");
+			})
+			$("#btna3").click(function(){
+				//alert('function');
+				$("#ggmore").attr("href","http://woqu.feiliu.com/list/list_woqu_huodong.shtml");
+			})
+		})
+	</script>
+</head>
+<body>
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/woqu/images/index/top.jpg" alt="" />
+        </div>
+        <a name="top" id="top"></a>
+    </div>
+    <div id="wrap" class="wrap">
+        <div class="content">
+			<!--头部导航-->
+            <!--#include virtual="/list/index_woqu_nav.shtml"-->
+			
+			<!--首页图片背景-->
+            <!--#include virtual="/list/index_woqu_pic.shtml"-->
+			
+            <div class="main clearfix">
+              <div class="news clearfix">
+                    <div class="lbbox" id="lbbox">
+						<!--左侧轮播图片-->
+                        <!--#include virtual="/list/index_left_lunbo.shtml"-->
+						
+                    </div>
+                    <div class="news_box">
+                        <div class="news_title"><a href="http://woqu.feiliu.com/list/list_woqu_news.shtml" target="_blank" class="more" id="ggmore">more</a></div>
+						<!--公告列表页导航-->
+                        <!--#include virtual="/list/index_gg_nav.shtml"-->
+						
+                        <div class="news_panes" id="news_panes">
+							<!--新闻列表-->
+                            <!--#include virtual="/list/index_news_list.shtml"-->
+							
+							<!--公告列表-->
+                            <!--#include virtual="/list/index_gg_list.shtml"-->
+							
+							
+							<!--活动列表-->
+                            <!--#include virtual="/list/index_huodong.shtml"-->
+							
+                        </div>
+                    </div>
+                </div>
+                <div class="glfwmt clearfix">
+                    <div class="glzq">
+						<!--攻略部分-->
+                        <!--#include virtual="/list/index_gl.shtml"-->
+						
+                    </div>
+					
+					
+                    <div class="khfw">
+						<!--客服部分-->
+                        <!--#include virtual="/list/index_kf.shtml"-->
+						
+                    </div>
+                    <div class="mthz">
+						
+						<!--合作媒体-->
+                        <!--#include virtual="/list/index_hzmt.shtml"-->
+						
+                    </div>
+                </div>
+                <div class="ggbox">
+				<!--中部公告导航-->
+                    <!--#include virtual="/list/index_middle_gg.shtml"-->
+				
+                </div>
+                <div class="jskp">
+                    <div class="jskp_title">
+                    	<a name="001" id="001"></a>
+						<!--角色卡牌导航-->
+                        <!--#include virtual="/list/index_jskp_nav.shtml"-->
+						
+                    </div>
+                    <div class="jskp_panes" id="jskp_panes">
+						<!--角色卡牌列表-->
+                        <!--#include virtual="/list/index_jskp_list.shtml"-->
+						
+                    </div>
+                </div>
+                <div class="zbfb clearfix">
+                    <div class="shzb">
+						<!--奢华装备-->
+                        <!--#include virtual="/list/index_shehua.shtml"-->
+						
+                    </div>
+                    <div class="kxfb">
+						<!--酷炫部分-->
+                         <!--#include virtual="/list/index_kuxuan.shtml"-->
+						
+                    </div>
+                </div>
+                <div class="gkfl">
+					<!--关卡分类-->
+                    <!--#include virtual="/list/index_guanqia.shtml"-->
+					
+                </div>
+				
+            </div>
+			<!--底部公共模板-->
+            <!--#include virtual="/list/index_woqu_foot.shtml"-->
+			
+        </div>
+    </div>
+    
+    <div class="rigt_nav">
+		<!--右侧下载部分-->
+    	<!--#include virtual="/list/index_right_download.shtml"-->
+		
+    </div>
+    
+    <!--pop video-->
+<div id="pop">
+
+	<!--弹出视频-->
+	<!--#include virtual="/list/index_pop_video.shtml"-->
+	
+    <div class="scroll_box">
+    	<span id="s_L">Prew</span>
+        <div id="scroll_cont">
+        	<ul id="scroll_ul">
+            	     
+            </ul>
+        </div>
+        <span id="s_R">Next</span>
+    </div>
+</div>
+
+    
+</body>
+
+<script src="http://js.feiliu.com/static/woqu/js/js_video_lightbox.js" type="text/javascript"></script>
+
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5877101'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/stat.php%3Fid%3D5877101' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<!--[if lte IE 6]>
+    <script type="text/javascript" src="js/DD_belatedPNG.js"></script>
+    <script type="text/javascript">
+    	DD_belatedPNG.fix('.png');
+    </script>
+<![endif]-->
+
+</html>

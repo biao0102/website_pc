@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_其他</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">战魂殿</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-21 19:01:05</span>
+																			</div>
+									<div class="w-d">
+										　　战魂殿是快速获得战魂的重要途径，每天都有一定的免费次数，同时也可以花费少量的元宝获得心仪的战魂魂玉<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140521/20140521185857_29418.png" /><br />
+<br />
+【分类】<br />
+太庙祭魂（免费CD为24小时，立即抽取花费100元宝）<br />
+五岳祭魂（免费CD为24小时，立即抽取花费150元宝）<br />
+九州祭魂（免费CD为24小时，立即抽取花费250元宝）<br />
+<br />
+【奖励】<br />
+太庙祭魂（蓝色魂玉，紫色魂玉，橙色魂玉，完美橙魂玉）<br />
+五岳祭魂（蓝色魂玉，紫色魂玉，橙色魂玉，完美橙魂玉）<br />
+九州祭魂（高品质成品战魂，蓝色魂玉，紫色魂玉，橙色魂玉，完美橙魂玉）<br />
+<br />
+【说明】<br />
+太庙祭魂，五岳祭魂，九州祭魂均可抽取各品质的魂玉，但获得高品质魂玉的几率依次大幅提高<br />
+九州祭魂可直接抽取获得各品质战魂令，抽之即战
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js"></script>
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">同步交互</div>
+			<div class="news-con">
+				
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="news.html">游戏资讯</a><a href="javascript:alert('敬请期待！');">热门活动</a>
+
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="javascript:alert('敬请期待')">越狱版下载</a><a href="javascript:alert('敬请期待')">安卓版下载</a>
+	</div>
+</nav>
+	</div>
+	<script>
+		window.onresize = resizeIndexWin;
+		resizeIndexWin();
+	</script>
+</body> 
+</html>

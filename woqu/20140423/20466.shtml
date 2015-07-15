@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="我去西游,我去西游官网,,我去西游兑换码,我去西游礼包,我去西游下载,我去西游攻略,我去西游飞流,3D手游,萌战卡牌,孙悟空,猪八戒,神卡,仙卡,二郎神,西天取经" />
+    <meta name="description" content="我去西游是乐卓网络科技（上海）有限公司开发，北京飞流九天独家代理的一款“萌系”西游卡牌RPG，玩家在游戏中扮演一位充满正义感的的神通人士，陪伴唐僧四人西行取经。" />
+    <title>圣婴大王 我去西游_卡牌</title>
+    <link href="http://js.feiliu.com/static/woqu/style/news.css?v=34" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/woqu/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="wrap03">
+        <div id="wrap" class="wrap">
+            <div class="wrap02">
+                <div class="content">
+                    <!--头部公共导航模板start-->
+						<!--#include virtual="/list/index_woqu_nav.shtml"-->
+					<!--头部公共导航模板end-->
+                    <img src="http://js.feiliu.com/static/woqu/images/news/img02.jpg" alt="" border="0" />
+                    <img src="http://js.feiliu.com/static/woqu/images/news/img03.jpg" alt="" border="0" />
+                    <div class="news_bg01">
+                        <div class="news_bg02">
+                            <div class="news">
+                                <div class="news_title">圣婴大王</div>
+                                <div style="text-align:center;"><img src="http://i0.feiliu.com/image/20140423/20140423131917_95901.jpg" alt=""  /><span ><br />
+<br />
+品级：神品 &nbsp;五行：火 &nbsp;出战：150（11%） &nbsp;属性：法攻+18.6% 法术穿透+8.0%<br />
+<br />
+估计是熊孩子的原型，神通广大却爱调皮惹祸，幸运的是回头是岸，做了观音菩萨的善财童子。致逝去的熊孩子时光。</span>
+</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--我去西游底部版权公共模板start-->
+						<!--#include virtual="/list/index_woqu_foot.shtml"-->
+					<!--我去西游底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

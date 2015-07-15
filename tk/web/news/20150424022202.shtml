@@ -1,0 +1,95 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+<div class="wrap minwidth">
+	<div class="contain minwidth rel">
+		<div class="subcon1120">
+			<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+			<div class="conri fltt">
+				<div class="address">
+					<h2>新闻中心</h2>
+					<p>
+						当前位置：
+						<a href="http://tk.feiliu.com">首页</a>>>
+												<a href="http://tk.feiliu.com/web/list/newslist.shtml?a=3">活动</a>
+											</p>
+				</div>
+				<div class="subnews">
+					<div class="infotitle">《战地坦克》 大量高价坦克来袭！游戏多独家发放！</div>
+					<div class="article"><p>&nbsp; &nbsp;
+	Battlefield Tank（战地坦克）是一款3D坦克射击游戏，挑战您的战略思想，坦克的瞄准还有躲避技能。它坐落在一个被数千敌人坦克包围的小镇，你的任务是摧毁敌人的坦克，同时获得尽可能多尽可能长时间生存。</p><p><br/></p><p>活动时间</p><p>2015年4月24日12：00~2015年4月30日21：00</p><p><br/></p><p>活动奖励</p><p>&nbsp; &nbsp;
+	IOS奖励：</p><p>&nbsp; &nbsp;
+	1-独家礼包 （2000份-礼包中心领取）</p><p>&nbsp; &nbsp;
+	礼包内容： T-90*20,黑鹰*20,鼠式坦克*20,突击虎*20</p><p><br/></p><p>&nbsp; &nbsp;
+	安卓奖励：</p><p>&nbsp; &nbsp;
+	独家礼包：1000份（适用平台-应用宝）</p><p>&nbsp; &nbsp;
+	精良配件箱*1、小型资源箱*1、幸运币*5、重型坦克*10、重型火箭车*10</p><p>活动详情：</p><p>详情请猛戳：<a href="http://www.youxiduo.com/huodong/111459.shtml">http://www.youxiduo.com/huodong/111459.shtml</a> &nbsp;&nbsp;<br/>也可在百度搜索“游戏多”或点击<a href="http://m.youxiduo.com/下载安装“游戏多">http://m.youxiduo.com/下载安装“游戏多</a>”客户端进入活动中心找到战地坦克参与活动。</p><p>1.&nbsp;&nbsp; 关注游戏多微信账号“youxiduo”，了解更多信息。</p><p>&nbsp; &nbsp;
+	2.&nbsp;&nbsp; 关注@游戏多 新浪官方微博，了解更多信息。</p><p>&nbsp; &nbsp;
+	3.&nbsp;&nbsp; 本次活动与苹果无关。</p></div>
+				</div>
+			</div>
+		</div>			
+	</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

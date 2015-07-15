@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+ <meta name="keywords" content="战魂西游,战魂西游官网, 战魂西游下载,战魂西游攻略,战魂西游礼包,战魂西游安卓版, 战魂西游ios版" />
+<meta name="description" content="战魂西游官网提供战魂西游下载,战魂西游攻略,ios安卓礼包发放。战魂西游是以西游记为题材的ARPG游戏,街机手动操作战斗,超爽快的动作打击效果,无限的动作连击以及角色多样化养成,在工作、学习的短暂闲暇中即可畅快游戏。" />
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="list-header">
+                    	<ul>
+                        	<li><a href="http://zhxy.feiliu.com/list/list_zhxy_zx.shtml">最新</a></li>
+                            <li><a href="http://zhxy.feiliu.com/list/list_zhxy_news.shtml">新闻</a></li>
+                            <li><a href="http://zhxy.feiliu.com/list/list_zhxy_gg.shtml">公告</a></li>
+                            <li><a class="active" href="http://zhxy.feiliu.com/list/list_zhxy_hd.shtml">活动</a></li>
+                        </ul>
+                    </div>
+                    <ul class="article-list">
+                            
+                          
+                            <li><a href="http://zhxy.feiliu.com/20141222/22779.shtml" target="_blank">【活动】【战魂西游】圣诞平安夜 感恩大回馈</a><span>2014-12-22</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20141023/22279.shtml" target="_blank">【活动】10.23精彩活动不停歇（5服）</a><span>2014-10-23</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20141023/22278.shtml" target="_blank">【活动】10.23精彩活动不停歇（1-4服）</a><span>2014-10-23</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20141011/22168.shtml" target="_blank">【活动】精彩活动 欢度周末（4-5服）</a><span>2014-10-11</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20141011/22167.shtml" target="_blank">【活动】合服狂欢 王者之战（1-3服）</a><span>2014-10-11</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140929/22114.shtml" target="_blank">【活动】六大活动 十一狂欢</a><span>2014-09-29</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140918/21970.shtml" target="_blank">【活动】活动来袭  好礼不停【1-4服】（9.18~9.22）</a><span>2014-09-18</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140911/21910.shtml" target="_blank">【活动】给力活动 好礼不停歇【1-4服】</a><span>2014-09-11</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140909/21888.shtml" target="_blank">【活动】4服获奖名单</a><span>2014-09-09</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140905/21872.shtml" target="_blank">【活动】中秋活动震撼来袭【4服】</a><span>2014-09-05</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140905/21871.shtml" target="_blank">【活动】中秋活动震撼来袭【1-3服】</a><span>2014-09-05</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140829/21784.shtml" target="_blank">【活动】充月卡赢话费活动结果</a><span>2014-08-29</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140828/21781.shtml" target="_blank">【活动】三十六重天勇攀高峰获奖名单</a><span>2014-08-28</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140828/21774.shtml" target="_blank">【活动】武魂来袭，劲爆活动High翻天！</a><span>2014-08-28</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140818/21678.shtml" target="_blank">【活动】3服获奖名单</a><span>2014-08-18</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140813/21641.shtml" target="_blank">【活动】1-2服活动公告8.14-8.20</a><span>2014-08-13</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140804/21547.shtml" target="_blank">【活动】2服获奖名单</a><span>2014-08-04</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140801/21516.shtml" target="_blank">【活动】2服甜蜜七夕 有我相伴</a><span>2014-08-01</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140801/21515.shtml" target="_blank">【活动】1服甜蜜七夕 有我相伴</a><span>2014-08-01</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140728/21461.shtml" target="_blank">【活动】1服获奖名单</a><span>2014-07-28</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140728/21460.shtml" target="_blank">【活动】战力比拼获奖名单</a><span>2014-07-28</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140715/21335.shtml" target="_blank">【活动】精彩活动抢先看</a><span>2014-07-15</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140708/21273.shtml" target="_blank">【活动】开服在即 全民世界杯竞猜 </a><span>2014-07-08</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140619/21106.shtml" target="_blank">【活动】论坛攻略获奖名单</a><span>2014-06-19</span></li>
+                                            </ul>
+                    <div class="pager" id="pager"></div>
+                </div>
+            </div>
+
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+<!--list分页-底部start--> 
+    <script language="javascript"> 
+    var f_pagecount = 2 
+    <!--#include virtual="/pub/page_ctrl.shtml"--> 
+    </script> 
+<!--list分页-底部end--> 
+</html>

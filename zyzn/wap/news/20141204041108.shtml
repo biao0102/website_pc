@@ -1,0 +1,60 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">《众妖之怒》狐狸精这么萌?四大主人公曝光</div>
+			<div class="news-con">
+				<p>
+	<span >《众妖之怒》作为一款3D萌系畅爽动作手游，《众妖之怒》凭借国际一流的技术水平，让游</span><span >戏拥有了真3D的完美画面品质、华丽的光影变化动态场景、自由畅爽的战斗以及随时可开启</span><span >的跨服多人战斗等诸多完美表现。玩家可以身临其境地体验到“暗黑”西游世界的丰富和连</span><span >贯的战斗快感，而游戏中一个个可爱Q萌的人物造型更是让人整颗心都要融化。Q萌人设VS激</span><span ><span >爽战斗，这样强烈的感官对比将为玩家带来前所未有的劲爆体验!</span><br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204160418_19819.jpg" />
+</p>
+<p>
+	<span >【狐狸精萌到爆 四大职业萌物来袭】</span><br />
+<span >《众妖之怒》为玩家开放了四大种族职业：范围法伤的狐妖、近战高爆的灵猴、血厚攻强的</span><span >蛮牛、远程弓手的玉兔。或是远程或是近战，或是法系，或是物理，涵盖了所有战斗方式的</span><span >四大种族将完全满足所有玩家的职业偏好。四大职业最吸引人的则是他们Q萌无比的造型，</span><span >尤其是其中的妖狐雪白的皮肤、俏皮的表情、毛绒绒的尾巴、手里轻轻握着琵琶，萌到极点</span><span >的妖狐让人心里包含暖暖的温情!</span><br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204160504_94504.jpg" /><br />
+<span >【萌宠陪伴 战力飙升】</span><br />
+<span >在《众妖之怒》的魔幻世界中，玩家可以领养各种萌萌的宠物并给它们取一个名字，让他们</span><span >陪伴自己在游戏中玩耍、游历、战斗，照顾它们进行喂养、进阶、培养来让萌萌的宠物长大</span><span >，让他们拥有自己的技能。通过辛勤地培养，宠物进阶后不止外形上会产生变化，还会拥有</span><span >更强悍的属性。最最重要的是，宠物的陪伴不止让人游戏更有乐趣，直接提升玩家人物属性</span><span >，帮助玩家战斗会让玩家的战力飙升，让战斗更加顺畅和爽快!</span><br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204160638_10690.jpg" />
+</p>
+<p>
+	<span >【跨服多人战斗 手游中的端游体验】</span><br />
+<span >《众妖之怒》率先在手游中应用了真实的跨服系统，开放了跨服多人PVE、PVP战斗两大体系</span><span >。玩家在游戏中将不会与电脑操纵的玩家枯燥地战斗，而是实时与真人同场战斗。多人副本</span><span >、团队BOSS的跨服PVE，战队竞技场、多人生存战的PVP，跨越全部服务器的真人联机对战将</span><span >让玩家首次在手游中享受到大型端游的品质，拥有最为激情和爽快的战斗体验。</span>
+</p>
+<p>
+	<br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204160557_15322.jpg" />
+</p>
+<p>
+	<span >萌萌的人物、可爱的宠物、激情的战斗、多人联机的乐趣，《众妖之怒》让你在手游中拥有</span><span >前所未有的视觉享受和战斗快感!现在拿起手机下载《众妖之怒》，随时准备抢先进入游戏</span><span >吧!</span>
+</p>
+<p>
+	<br />
+</span>&nbsp;
+</p>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

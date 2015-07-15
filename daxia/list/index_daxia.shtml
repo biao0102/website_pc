@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>大侠别嚣张 - 群侠乱斗，快意江湖</title>
+<meta name="keywords" content="大侠别嚣张，大侠别嚣张官网，游戏官网，游戏下载" />
+<meta  name="description" content="《大侠别嚣张》是由业内资深团队倾力研发的一款回合制武侠RPG手游大作。玩家可化身魔教教主，统领正派大侠，体验一个不一样的叛逆江湖。游戏拥有六大职业，丰富的乐趣玩法，上百种搭配策略。 画面场景炫酷华丽，拥有上百个武侠人物，每个人物都拥有精致的造型和炫酷的技能，让玩家置身媲美端游的视觉体验。"/>
+<link href="http://js.feiliu.com/static/daxia/css/main.css?v=07281125" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+</head>
+
+<body class="home">
+			<!--大侠别嚣张首页顶部模板start-->
+				<!--#include virtual="/list/index_daxia_header.shtml"-->
+			<!--大侠别嚣张首页顶部模板end-->
+<div class="bg1">
+			<!--大侠别嚣张首页顶部导航模板start-->
+				<!--#include virtual="/list/index_daxia_nav.shtml"-->
+			<!--大侠别嚣张首页顶部导航模板end-->
+</div>
+<div class="bg2">
+			<!--大侠别嚣张首页下载类型模板start-->
+				<!--#include virtual="/list/index_daxia_down.shtml"-->
+			<!--大侠别嚣张首页下载类型模板end-->
+
+</div>
+<div class="bg3">
+	<div class="wrap">
+			<!--大侠别嚣张首页左侧浮动框模板start-->
+				<!--#include virtual="/list/index_daxia_side.shtml"-->
+			<!--大侠别嚣张首页左侧浮动框模板end-->
+
+
+			<!-大侠别嚣张首页主体模板start-->
+				<!--#include virtual="/list/index_daxia_main.shtml"-->
+			<!--大侠别嚣张首页主体模板end-->
+
+
+    </div>
+</div>
+<div class="bg4">
+
+			<!--大侠别嚣张首页底部媒体合作模板start-->
+				<!--#include virtual="/list/index_daxia_mt.shtml"-->
+			<!--大侠别嚣张首页底部媒体合作模板end-->
+
+			<!--大侠别嚣张首页底部说明模板start-->
+				<!--#include virtual="/list/index_daxia_footer.shtml"-->
+			<!--大侠别嚣张首页底部说明模板end-->
+
+</div>
+</body>
+</html>

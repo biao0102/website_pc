@@ -1,0 +1,193 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>龙骑战歌官方网站</title>
+<meta name="keywords" content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" />
+<meta name="description" content=" 《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。"/>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/lqzg/web0529/style/base.css">
+</head>
+<body>
+
+<!-- header -->
+<div class="header">
+	<div class="w1000">
+		<div class="logo">
+			<a href="http://lqzg.feiliu.com/index.shtml"><img src="http://js.feiliu.com/static/lqzg/web0529/images/logo.png" alt="龙骑战歌"></a>
+		</div>
+		<div class="download clearfix">
+			<a href="javascript:;" class="icon-ios icon" onclick="alert('敬请期待！');"></a>
+			<a href="http://lqzg.feiliu.com/download?cid=300021&type=5" class="icon-android icon"></a>
+			<a href="javascript:;" class="icon-load icon"  onclick="alert('敬请期待！');"></a>
+			<a href="http://lqzg.feiliu.com/web/list/home.shtml" class="icon-go-home icon"></a>
+		</div>
+	</div>
+</div>
+
+<!-- content -->
+<div class="content">
+	<div class="w1000">
+		<!-- 节目视频 -->
+		<div class="jm-video">
+			<h1 class="icon icon-jm-video"></h1>
+			<ul class="clearfix">
+				<li>
+					<div class="div-video">
+						<img src="http://js.feiliu.com/static/lqzg/web0529/images/1.jpg" alt="">
+						<a href="javascript:;" data-video-src="http://player.youku.com/player.php/sid/XOTY1MDQyMTI0/v.swf" class="icon icon-video"></a>
+						<p><a href="javascript:;">第一期：四职业解析 冰霜巨龙吓坏逸凡和小陌</a></p>
+					</div>
+				</li>
+				<li>
+					<div class="div-video">
+						<img src="http://js.feiliu.com/static/lqzg/web0529/images/2.jpg" alt="">
+						<a href="javascript:;" data-video-src="http://player.youku.com/player.php/sid/XOTY1MDQyMTI4/v.swf" class="icon icon-video"></a>
+						<p><a href="javascript:;">第二期：畅爽触屏操作 超炫技能忙坏逸凡</a></p>
+					</div>
+				</li>
+				<li>
+					<div class="div-video">
+						<img src="http://js.feiliu.com/static/lqzg/web0529/images/3.jpg" alt="">
+						<a href="javascript:;" data-video-src="http://player.youku.com/player.php/sid/XOTY2MzYzMTg0/v.swf" class="icon icon-video"></a>
+						<p><a href="javascript:;">第三期：丰富多彩养成 主持人大呼“我们去升级”</a></p>
+					</div>
+				</li>
+				<li>
+					<div class="div-video">
+						<img src="http://js.feiliu.com/static/lqzg/web0529/images/4.jpg" alt="">
+						<a href="javascript:;" data-video-src="http://player.youku.com/player.php/sid/XOTY2MzYzNDky/v.swf" class="icon icon-video"></a>
+					</div>
+					<p><a href="javascript:;">第四期：骑战惊现 逸凡化身骑士激情爆棚</a></p>
+				</li>
+				<li>
+					<div class="div-video">
+						<img src="http://js.feiliu.com/static/lqzg/web0529/images/5.png" alt="">
+						<a href="javascript:;" data-video-src="http://player.youku.com/player.php/sid/XMTI0OTY5MDc3Mg/v.swf" class="icon icon-video"></a>
+					</div>
+					<p><a href="javascript:;">第五期：小陌实操圣武士 逸凡直喊妈</a></p>
+				</li>
+				<li>
+					<div class="div-video">
+						<img src="http://js.feiliu.com/static/lqzg/web0529/images/6.png" alt="">
+						<a href="javascript:;" data-video-src="http://player.youku.com/player.php/sid/XMTI0OTY1OTkxMg/v.swf" class="icon icon-video"></a>
+					</div>
+					<p><a href="javascript:;">第六期：坐骑宠物终极形态曝光 伙伴轮番上阵</a></p>
+				</li>
+				<li>
+					<div class="div-video">
+						<img src="http://js.feiliu.com/static/lqzg/web0529/images/7.png" alt="">
+						<a href="javascript:;" data-video-src="http://player.youku.com/player.php/sid/XMTI0OTY1OTk2OA/v.swf" class="icon icon-video"></a>
+					</div>
+					<p><a href="javascript:;">第七期：轮换多样玩法 高战力虐人超爽</a></p>
+				</li>
+				<li>
+					<div class="div-video">
+						<img src="http://js.feiliu.com/static/lqzg/web0529/images/8.png" alt="">
+						<a href="javascript:;" data-video-src="http://player.youku.com/player.php/sid/XMTI0OTY1OTk5Ng/v.swf" class="icon icon-video"></a>
+					</div>
+					<p><a href="javascript:;">第八期：逸凡法师首次试炼 折戟遭嘲笑</a></p>
+				</li>
+			</ul>
+		</div><!-- 节目视频 end-->
+
+		<!-- 录制花絮 -->
+		<div class="rec">
+			<h1 class="icon icon-rec"></h1>
+			<div class="pic-scroll clearfix">
+				<a href="javascript:;" class="icon fl icon-prev"></a>
+				<div class="wrap-ul fl">
+					<div class="wrap-move-ul clearfix">
+						<ul class="fl">
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (1).jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (2).jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (3).jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (4).jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (5).jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (6).jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (7).jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (8).jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (1).png" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (2).png" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (3).png" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/lqzg/web0529/images/rec/rec (4).png" alt=""></li>
+						</ul>
+					</div>
+				</div>
+				<a href="javascript:;" class="icon fr icon-next"></a>
+			</div>
+		</div><!-- 录制花絮 end-->
+	</div>	
+
+
+	<!-- footer -->
+	<div class="footer">
+		<p>About.us | Copy right@北京飞流九天科技有限公司</p>
+		<p>爱游戏，爱生活，也爱美女。</p>
+		<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+		<p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+		<p>Love is love!</p>
+	</div>
+</div>
+
+<script src="http://js.feiliu.com/static/lqzg/web0529/style/jquery.min.js"></script>
+<script src="http://js.feiliu.com/static/lqzg/web0529/style/main.js"></script>
+<script>
+	objMain.fnPicScroll();
+	objMain.fnMask();
+
+    function getArgs()
+    {
+        var argsArr = new Object();
+        var query = window.location.search;  
+        query = query.substring(1);
+        var pairs = query.split("&");
+        for(var i=0;i<pairs.length;i++)
+        {
+            var sign = pairs[i].indexOf("="); 
+            if(sign == -1)
+            {
+                continue; 
+            }
+            var aKey = pairs[i].substring(0,sign);
+            var aValue = pairs[i].substring(sign+1);         
+            argsArr[aKey] = unescape(aValue);
+
+        }
+        return argsArr;
+    }
+
+    var param = new Object();
+    param = getArgs();
+    var source = param.s;
+
+    if(!source)
+    {
+        source = '300021';
+    }
+
+    $('.icon-android').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+ 
+    
+    $('a').click(function(e){
+        var url = $(this).attr('href');
+        if(url != 'javascript:;' && url != "javascript:alert('敬请期待！');");
+        {
+            e.preventDefault();
+            var url = $(this).attr('href');
+            if(url.indexOf('?') > -1)
+            {
+                var tourl = url + '&s='+source;
+            } else {
+                var tourl = url + '?s='+source;
+            }
+            window.location.href = tourl;   
+        }
+    });
+
+
+</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,73 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content">&nbsp;
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span >&nbsp;</span><span >给你一个机会穿越回三国战场，怎样才能成为英雄？一骑当前冲入敌营，还是大军压境狼烟百里？<span><br />
+&nbsp; &nbsp;&nbsp; &nbsp;</span>团队碾压式的战争已经<span>out</span>，用<span>IQ</span>和<span>EQ</span>击败敌人更有乐趣！飞流旗下首款群战策略卡牌手游《天天逗群英》<span>,</span>为你提供一个自由发挥策略的战争舞台！用同样的军队展现出更胜一筹的实力，让敌人心服口服！会排兵布阵才算是真正的英雄，你准备好了吗？</span><span ><br />
+</span><span >【兵来将挡，士兵阵型完美克制】<span><br />
+&nbsp; &nbsp;&nbsp; &nbsp;</span>听说过我国古代兵法中的<span>“</span>十阵<span>”</span>吗？锥形阵、钩形阵、雁形阵、玄襄阵<span>……</span>在冷兵器时代，不同的战斗队形在实战中可以发挥出不同作用。《天天逗群英》在游戏中加入阵型克制策略玩法，根据对手摆出的阵型与兵种应变阵型克敌制胜！短枪兵可以压制轻骑兵，玄襄阵能够克制雁形阵<span>……</span>同样兵力打出伤害加成，让你赢的轻松！<span></span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span ><br />
+</span><span >【见缝插针，武将指挥策略为王】<span><br />
+<br />
+&nbsp; &nbsp;&nbsp; &nbsp;</span>在《天天逗群英》的战斗中，士兵们并非如过河卒子般只能一往无前，玩家可以指挥士兵做出前进或原地待命的动作，也可以让他们摆出包围的阵型向敌人发起总攻。而作为武将，其作战指令又更加出色，除了可以发起冲锋外，还拥有自身独特技能，比如诸葛亮的<span>“</span>集火柱<span>”</span>、刘备的<span>“</span>天崩<span>”</span>等技能，可以瞬间对敌人的士兵发动全屏性清杀效果，全屏秒杀，以一敌百！<span><br />
+</span></span>
+</p>
+<p class="MsoNormal">
+	<span ><br />
+</span><span >【善用援军，出其不意打击敌人】<span><br />
+<br />
+&nbsp; &nbsp;&nbsp; &nbsp;</span>除己方上阵武将与英勇奋战的士兵外，《天天逗群英》还配备了强大援军系统！玩家可以在战斗中召唤援军来对敌兵施以出其不意的打击。比起上阵武将狂拽炫酷的特殊技能，援军技却总是搞怪出招，令人忍俊不禁。比如运用<span>“</span>忽悠<span>”</span>技来降低敌军攻击力，<span>“</span>投放泻药<span>”</span>来让敌兵行动迟缓<span>……</span>虽狡猾，却拥有搞笑、克敌双重功效哦！选择合适的援军，也是你战无不胜的关键之一！<span><br />
+<br />
+&nbsp; &nbsp;&nbsp; &nbsp;</span>战争是指挥的艺术，必须灵活运用你的<span>IQ</span>和<span>EQ</span>！《天天逗群英》让你在掌上世界过足指挥瘾，精湛策略挑战等着你，天时、地利、人和尽在你掌握，送你一个常胜将军梦！<span></span></span>
+</p>
+<p class="MsoNormal">
+	<span ></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span><span >更多精彩内容，敬请关注官方信息：</span><span>&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	<span >官方</span><span>QQ</span><span >：</span><span>3131494764&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	<span >官方</span><span>QQ</span><span >群：</span><span>210206480&nbsp; </span>
+</p>
+<p class="MsoNormal">
+	<span >官网：</span><span><a href="http://ttdqy.feiliu.com/"><span style="text-decoration:none;">http://ttdqy.feiliu.com/</span></a> </span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span >实时资讯，互动交流，精彩随时掌握。</span> <span></span>
+</p>
+<span style="Calibri&quot;,&quot;sans-serif&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span >《天天逗群英》运营团队</span></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

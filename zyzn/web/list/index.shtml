@@ -1,0 +1,321 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="UTF-8">
+<title>众妖之怒</title> 
+<meta content="众妖之怒,众妖之怒官网, 众妖之怒下载,众妖之怒礼包,众妖之怒攻略,众妖之怒安卓版, 众妖之怒ios版,东方奇幻动作手游." name="keywords">
+<meta content="《众妖之怒》是一款Q版东方魔幻的3D大型动作RPG手机网游，拥有高品质的美术水准、创新的符文技能系统、炫爆眼球的跨服竞技，通过装备强化、技能升级、宠物养成以及参星悟道等创新玩法，提升自身的实力，体验到丰富多样的单人、多人副本挑战，更有单人轮回之塔等玩法，挑战你的自身极限，傲视群雄。" name="description">
+<meta name="format-detection" content="telephone=no"/>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web0430/js/is_mobile.js"></script>
+<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/web0430/css/style.css?v=11">
+<!--[if IE 6]>
+<script src="http://js.feiliu.com/static/zyzn/web0430/js/png.js"></script>
+<script>
+	PNG.fix('http://js.feiliu.com/static/zyzn/web0430/images/sprite.png');
+</script>
+<![endif]--> 
+</head>
+<body>
+<div id="index-wrap">
+		<div id="index-menu">
+		<div class="index-menu-wrap">
+			<a class="menu-curr" href="http://zyzn.feiliu.com/web/list/index.shtml">官网首页</a>
+			<a class="" href="http://zyzn.feiliu.com/web/list/tese.shtml">游戏特色</a>
+			<a class="" href="http://zyzn.feiliu.com/web/list/introduce.shtml">职业介绍</a>
+			<a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">内测活动</a>
+			<a href="http://bbs.8783.com/forum-159-1.html">内测论坛</a>
+			<a href="javascript:alert('敬请期待！');"><span>&nbsp;</span>飞流社区</a>
+		</div>
+	</div>
+	<div id="index-main">
+		<a class="logo" href="http://zyzn.feiliu.com"></a>
+		<div class="slogan"></div>
+		<div class="index-download">
+			<a class="dl-btn" href="javascript:alert('敬请期待');" id="ios"></a>
+			<a class="dl-btn" href="http://zyzn.feiliu.com/download?cid=300021&type=2" target="_blank" id="yy"></a>
+			<a class="dl-btn" href="http://zyzn.feiliu.com/download?cid=300021&type=5" target="_blank" id="android"></a>
+			<a class="dl-video" href="javascript:void(0);"></a>
+			<p>官方QQ群：</p>
+			<p>越狱1群：263683777</p>
+			<p>越狱2群：460920397</p>
+			<p>安卓群：370334946</p>
+			<p>微信公众号：zhongyaozhinu</p>
+			<p>客服 QQ：800032234</p>
+			<a class="dl-other1" href="http://bbs.8783.com/forum.php?mod=viewthread&tid=107661&page=1&extra=#pid893500"><img src="http://js.feiliu.com/gameimg/zyzn/20150518153214.png" alt=""></a>
+			<a class="dl-other2" href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml"><img src="http://js.feiliu.com/gameimg/zyzn/20150518190030.jpg" alt=""></a>
+			
+		</div>
+
+		<div id="info">
+			<div id="focus">
+														<a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml"><img src="http://js.feiliu.com/gameimg/zyzn/20150519121804.jpg" alt=""></a>
+																			<a href="javascript:void(0);" class="disN"><img src="http://js.feiliu.com/gameimg/zyzn/20150506181637.jpg" alt=""></a>
+																			<a href="javascript:void(0);" class="disN"><img src="http://js.feiliu.com/gameimg/zyzn/20150506182233.jpg" alt=""></a>
+																			<a href="javascript:void(0);" class="disN"><img src="http://js.feiliu.com/gameimg/zyzn/20150506182315.jpg" alt=""></a>
+																			<a href="javascript:void(0);" class="disN"><img src="http://js.feiliu.com/gameimg/zyzn/20150506182342.jpg" alt=""></a>
+													<div class="focus-tab-bg">
+					<span class="focus-tab focus-tab-curr"></span>
+					<span class="focus-tab"></span>
+					<span class="focus-tab"></span>
+					<span class="focus-tab"></span>
+					<span class="focus-tab"></span>
+				</div>
+			</div>
+
+			<div id="news">
+				<ul class="newswrap">
+					<li class="news-tab news-tab-curr"><a href="http://zyzn.feiliu.com/web/list/newslist.shtml?n=1">最新</a></li>
+					<li class="news-tab"><a href="http://zyzn.feiliu.com/web/list/newslist.shtml?n=1">新闻</a></li>
+					<li class="news-tab"><a href="http://zyzn.feiliu.com/web/list/newslist.shtml?n=2">活动</a></li>
+					<li class="news-tab"><a href="http://zyzn.feiliu.com/web/list/newslist.shtml?n=3">公告</a></li>
+					<li class="more"><a href="http://zyzn.feiliu.com/web/list/newslist.shtml?n=1">+</a></li>
+					<li class="more disN"><a href="http://zyzn.feiliu.com/web/list/newslist.shtml?n=1">+</a></li>
+					<li class="more disN"><a href="http://zyzn.feiliu.com/web/list/newslist.shtml?n=2">+</a></li>
+					<li class="more disN"><a href="http://zyzn.feiliu.com/web/list/newslist.shtml?n=3">+</a></li>
+				</ul>
+
+				<ul class="newslist">
+															<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150605144627.shtml">
+							【公告】 老用户召回活动<span class="news-date">[2015-06-05]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150601114056.shtml">
+							【公告】 开服系列活动<span class="news-date">[2015-06-01]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150601103658.shtml">
+							【新闻】 找回童“贞”《众妖之怒》性感“腰”精陪你过61<span class="news-date">[2015-06-01]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150527142934.shtml">
+							【新闻】 猛男也“腰”娆！《众妖之怒》参赛男选手亮相<span class="news-date">[2015-05-27]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://ka.18183.com/card_30986.shtml">
+							【公告】 点击领壕礼，18183特权礼包！<span class="news-date">[2015-05-25]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150521112841.shtml">
+							【新闻】 #版本前瞻#帮会挑战赛系统<span class="news-date">[2015-05-21]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://ka.5253.com/card_1924.html">
+							【公告】 点击领壕礼，多玩独家礼包<span class="news-date">[2015-05-19]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://ka.sina.com.cn/16354?retcode=0">
+							【公告】 点击领壕礼，新浪独家礼包<span class="news-date">[2015-05-19]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150511105341.shtml">
+							【新闻】 小妖如何长成大妖 《众妖之怒》新手升级攻略<span class="news-date">[2015-05-11]</span>
+						</a>
+					</li>
+														</ul>
+				
+				<ul class="newslist disN">
+															<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150601103658.shtml">
+							【新闻】找回童“贞”《众妖之怒》性感“腰”精陪你过61<span class="news-date">[2015-06-01]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150527142934.shtml">
+							【新闻】猛男也“腰”娆！《众妖之怒》参赛男选手亮相<span class="news-date">[2015-05-27]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150521112841.shtml">
+							【新闻】#版本前瞻#帮会挑战赛系统<span class="news-date">[2015-05-21]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150511105341.shtml">
+							【新闻】小妖如何长成大妖 《众妖之怒》新手升级攻略<span class="news-date">[2015-05-11]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150428110811.shtml">
+							【新闻】首充送大礼！《众妖之怒》明日越狱不删档内测<span class="news-date">[2015-04-28]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150424022939.shtml">
+							【新闻】《众妖》直追PC端大型Q萌西游<span class="news-date">[2015-04-24]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150421014310.shtml">
+							【新闻】热依扎化身《众妖之怒》小伙伴 萌萌妖精撸大炮<span class="news-date">[2015-04-21]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150420042032.shtml">
+							【新闻】《众妖之怒》的自白书<span class="news-date">[2015-04-20]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150416103804.shtml">
+							【新闻】热依扎献声《众妖之怒》 超嗲叫声宛如妖精<span class="news-date">[2015-04-16]</span>
+						</a>
+					</li>
+														</ul>
+
+				<ul class="newslist disN">
+															<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150605144627.shtml">
+							【活动】老用户召回活动<span class="news-date">[2015-06-05]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150601114056.shtml">
+							【活动】开服系列活动<span class="news-date">[2015-06-01]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://ka.18183.com/card_30986.shtml">
+							【活动】点击领壕礼，18183特权礼包！<span class="news-date">[2015-05-25]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://ka.5253.com/card_1924.html">
+							【活动】点击领壕礼，多玩独家礼包<span class="news-date">[2015-05-19]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://ka.sina.com.cn/16354?retcode=0">
+							【活动】点击领壕礼，新浪独家礼包<span class="news-date">[2015-05-19]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150112065313.shtml">
+							【活动】《众妖之怒》安卓渠道开服系列活动<span class="news-date">[2015-01-12]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150107071500.shtml">
+							【活动】#活动补充#<span class="news-date">[2015-01-07]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150106024333.shtml">
+							【活动】《众妖之怒》开服系列活动<span class="news-date">[2015-01-06]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20141205025519.shtml">
+							【活动】【众妖之怒】每日任务收益<span class="news-date">[2014-12-05]</span>
+						</a>
+					</li>
+														</ul>
+
+				<ul class="newslist disN">
+															<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150429025115.shtml">
+							【公告】热依扎最爱手游《众妖之怒》今日越狱不删档   <span class="news-date">[2015-04-29]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150122021837.shtml">
+							【公告】众妖版本前瞻之#宠物养成#<span class="news-date">[2015-01-22]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150116111913.shtml">
+							【公告】越狱和安卓测试停服公告<span class="news-date">[2015-01-16]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150112050749.shtml">
+							【公告】#1月11日充值送周边活动获奖名单#<span class="news-date">[2015-01-12]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150112050626.shtml">
+							【公告】#1月10日充值送周边活动获奖名单#<span class="news-date">[2015-01-12]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150112050537.shtml">
+							【公告】#1月9日充值送周边活动获奖名单#<span class="news-date">[2015-01-12]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150112050410.shtml">
+							【公告】#1月8日充值送周边活动获奖名单#<span class="news-date">[2015-01-12]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150108125917.shtml">
+							【公告】[公告] #获奖名单#1月6日《众妖》充值随机送周边活动<span class="news-date">[2015-01-08]</span>
+						</a>
+					</li>
+										<li class="news-item">
+						<a href="http://zyzn.feiliu.com/web/news/20150108125728.shtml">
+							【公告】[公告] #获奖名单#1月7日《众妖》充值随机送周边活动<span class="news-date">[2015-01-08]</span>
+						</a>
+					</li>
+														</ul>
+			</div>
+		</div>
+
+		<div id="bt-info">
+			<img src="http://js.feiliu.com/gameimg/zyzn/20150513102629.jpg" alt="">
+			<div class="right">
+				<div id="bt-info-news">
+					<ul class="newswrap">
+						<li class="news-tab news-tab-curr">8783</li>
+						<li class="news-tab">766</li>
+					</ul>
+
+					<ul class="newslist">
+						<iframe class="newslist-iframe" width="630px" height="166px" frameborder="no" scrolling="no" src="http://tpl.feiliu.com/web/zyzn/iframe" allowtransparency="" marginheight="0" marginwidth="0" border="0" style="position:relative;top:-26px; height:190px"></iframe>
+					</ul>
+
+					<ul class="newslist disN">
+						<iframe class="newslist-iframe" width="630px" height="166px" frameborder="no" scrolling="no" src="http://sy.766.com/block/block_436.html" allowtransparency="" marginheight="0" marginwidth="0" border="0" style="position:relative;top:-26px; height:190px"></iframe>
+					</ul> 
+
+				</div>
+			</div>
+		</div> 
+
+	</div>
+</div>
+<!--video-->
+<div class="video-sourse disN">
+	<div class="video-sourse-wrap">		
+		<div class="videoback">X</div>
+	</div>	
+</div>
+<div id="footer">
+	<div class="footer-main">
+	<p class="aboutus">About.us | Copy right@北京飞流九天科技有限公司<br>
+			地址：北京市东城区和平里东街11号雍和航星科技园2号楼北侧3层   联系电话：010-84229729<br>
+			爱游戏，爱生活，也爱美女。<br>
+			飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！<br>
+			我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！<br>
+			Love is love!
+	</p>
+	</div>
+</div>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web0430/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web0430/js/js.js?v=4"></script>
+<script>$.ajax({ url:"http://gameapi.feiliu.com/game/netlog",type:'GET',dataType:'jsonp',success: function(data){}});</script>
+
+
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web0430/js/download.js?v=1"></script>
+</body>
+</html>

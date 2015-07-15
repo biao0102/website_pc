@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>综合攻略_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">游戏攻略</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">综合攻略</div>
+              <p><p class="MsoNormal">
+	一、升级篇。<br />
+&nbsp; &nbsp;&nbsp; &nbsp;虽然这个游戏等级没什么意思，比人高<span>10</span>级也没什么优势，本着竞争第一的心理还是简单谈谈吧。大侠的经验值设定不是很复杂，经验来源我暂归纳为以下几个途径（有大神发现更多的话欢迎分享）：<span>1.</span>刷图。刷图的技巧相信大家都知道，合理运用每一点体力刷每一滴经验。游戏中没升级一次体力恢复为<span>100</span>，前期<span>5</span>点体力<span>=110</span>左右经验，系统很善良，基本上等你刷完<span>1</span>次<span>100</span>体力或者几次<span>100</span>体力后，会差一丝丝经验升级，这时候可以去参加竞技或者掠夺来把剩下的一点经验槽给补满，这样可以保证体力的完美运行。以上的小技巧相信大家玩过都能参透，接下来就说说如何在接下来的几天内超越对手吧（土豪，<span>V12</span>无视吧）：大家都知道刷图时开启新地图得到的经验是双倍的，因此开区前几天能开启更多新地图能远远把对手摔在身后，当别人还在刷着<span>120</span>经验的图时，你的实力已经能够让你的宝贵体力能刷<span>160</span>的了，几天下来超越<span>3J</span>不是问题，这个算法大家可想而知了。所以这个游戏很需要良好的开局，即阵容。首次<span>300</span>抽奖时必须得，阵容推荐在后面会慢慢道来。<span>2.</span>竞技场。竞技场没什么好说的，只有一个小技巧，挑战排名越靠前的对手，得到的经验，战绩也就越多（宝石几率一向坑爹），除了这个竞技场给的经验只能是给升级的尾数凑凑数据了。<span>3.</span>掠夺。同上。快升级时点上几次。<br />
+二、阵容篇。<br />
+&nbsp; &nbsp;&nbsp;&nbsp;大家最关心的阵容要出场了。这里只推荐<span>2</span>种阵容。<br />
+&nbsp; &nbsp;&nbsp;&nbsp;1、简单来说就是土豪阵容和普通玩家阵容（很不幸，砸了<span>1000RMB</span>还是沦为了普通玩家）。首先谈谈土豪阵容吧：理论很简单，本人已经在删档内测时尝试过<span>2</span>次，现在<span>1</span>区土豪<span>“</span>流月<span>”</span>大神已完美实现了这个版本（见谁秒谁模式）：前排主角和肉盾（肉盾随便哪个都行，这个游戏除了橙色，紫色数据都一样），后排单攻<span>+</span>黄老邪<span>+</span>张真人。输出模式就是第一轮下来主角<span>+</span>单攻（最好法功）<span>+</span>黄老邪<span>+</span>张真人（秒前排，同理最好法功）集火，一般不出闪避格挡都能秒掉对面前排一个，<span>2W</span>血肉盾也不例外，后面就任你切了，已测试。但是这种阵容对后排血量要求十分高，因为你秒掉对面前排一个肉对对面影响不大，要保证自己后排能续航，能坚持完对面的一轮爆发。<br />
+&nbsp; &nbsp;2、也是本人在用的，优点很多：很容易成型，投入不是很多也能杀的很爽。主角<span>+</span>肉盾（必不可少<span>,</span>肉盾只能选郭靖或陈英），后排龙女<span>+</span>蓉姑娘<span>+</span>神雕。龙女切后排、推图，大家一定爽过了，这招对付竞技场也是绰绰有余的，这套阵容输出点在第二轮：开局大家和平互<span>A</span>一轮，第二轮主角绝招<span>+</span>小龙女后排<span>+</span>蓉儿、神雕群秒，本人玩到现在除了<span>“</span>流月<span>”</span>大神后排血多，还没见哪个能顶过我第<span>2</span>轮爆发的（之后会上图看数据），之后就是<span>5V2</span>或者<span>5V3</span>了，随便砍的节奏。这个阵容还有最大的好处就是，大家最关心缘配可以<span>90%</span>完美的搭配（之后上图）。<br />
+3、五绝阵容：这个阵容本人还没试验成型就封测了，就看各位大神补完了。<br />
+&nbsp; &nbsp; 以上只是个人心得，不妥之处欢迎交流。<br />
+三 、战力篇。<br />
+&nbsp;&nbsp;其实这个游戏加战力最多的就是这几个属性（有优先顺序哦）：攻击、血量、防御、法防、暴击、抗暴。<br />
+&nbsp; &nbsp;实现途径（有优先顺序哦）：<span>1</span>、装备。<span>&nbsp;&nbsp;2</span>、宝石。<span> 3</span>、缘配。<span>&nbsp; &nbsp;</span>其实个人觉得还是缘配最重要，加属性幅度最大，所以大家要慎重选择阵容，否则你的银币光强化就够呛，下面就该讲银币了。<br />
+四 、银币篇。<br />
+&nbsp; &nbsp;其实这个游戏只要你不是很勤的去换阵容，银币完全没处用，本人都攒到<span>250W</span>银币了，实在没地方花 ，求<span>GM</span>大大给个活路吧，买点碎片也好啊。<br />
+&nbsp;&nbsp;废话不多说，这银币来源就更简单了：<span>1</span>、刷图，蚊子腿也是肉。<span>2</span>、种地，屌丝必备啊。<span>3</span>、斩草除根。说到这，<span>GM</span>大大赶紧把斩草除根改动下吧，我实在是斩不动了，手动累到死。同理刷的
+越多钱越多，还可以刷点碎片，各种垃圾<span>- -</span>。<span>4</span>、土豪玩法：卖侠客，砸个几<span>W</span>元宝刷出蓝色侠客卖了，银币妥妥的。
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

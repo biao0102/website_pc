@@ -1,0 +1,80 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">众妖新手入门  职业选择推荐</div>
+			<div class="news-con">
+				在众妖之怒中，一共有4个职业，分别是灵猴、妖狐、玉兔和蛮牛，每个职业都有其特点，下面就来为大家带来众妖之怒职业选择攻略。<br />
+<br />
+<br />
+1、灵猴<br /><img src="http://i0.feiliu.com/image/20150305/20150305141813_39640.png" alt="" /><br />
+众妖之怒灵猴<br />
+<br />
+<br />
+特点：猕猴擅长近战，爆发力强，是战场上的灵动杀手。<br />
+<br />
+<br />
+介绍：灵猴本是五行灵根之一的灵明石猴，因斩杀了在地界为非作歹的天神部属，又中了天庭之计，武魂尽丧，从此与天庭势不两立。<br />
+<br />
+<br />
+2、妖狐<br /><img src="http://i0.feiliu.com/image/20150305/20150305141827_77206.png" alt="" /><br />
+众妖之怒妖狐<br />
+<br />
+<br />
+特点：妖狐攻击及技能高，擅长大范围的法术操纵，杀敌于千里之外。<br />
+<br />
+<br />
+介绍：吸三界灵气而化为狐形的精灵，以幻境秘术协助武王伐纣，事后被神族嫁祸成为天庭阴谋的牺牲品，被逐入妖界。<br />
+<br />
+<br />
+3、玉兔<br /><img src="http://i0.feiliu.com/image/20150305/20150305141839_25379.png" alt="" /><br />
+众妖之怒玉兔<br />
+<br />
+<br />
+&nbsp;特点：灵兔攻击最高，轻捷优雅，是战场上追击突袭的能手。<br />
+<br />
+<br />
+介绍：瑶光玉衡两星精华而生的灵兽修炼而来，只为飞升广寒常伴嫦娥左右，却不料被天庭阴谋波及，千年修炼化作一场空。<br />
+<br />
+<br />
+4、蛮牛<br /><img src="http://i0.feiliu.com/image/20150305/20150305141849_58033.png" alt="" /><br />
+众妖之怒蛮牛<br />
+<br />
+<br />
+特点：蛮牛生命及防御极高，是名副其实的狂战士，战场上的杀戮机器。<br />
+<br />
+<br />
+介绍：地仙中的力士，经常被诸神充作仪仗护卫，力大无穷，却不料被天庭暗算，功力大减，流落妖界，心中怒气难平。<br />
+<br />
+<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="keywords" content="攻城掠地,攻城掠地官网,攻城掠地攻略，三国网页游戏,攻城略地,攻城略地官网" />
+    <meta name="description" content="《攻城掠地》是飞流旗下一款强调国战的战争策略网页游戏。实景还原三国战图，开创24小时全景即时国战！文臣武将云集，打破“重武轻文”的桎梏。内政、军师、计策等系统演绎文官本色！其次，新颖的掩杀式战斗模式、战术、皇城官职战等特色玩法，足以让你尽享开疆扩土、统一天下的激情！" />
+      <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+      <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>攻城掠地</title>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/index.css" />
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/thickbox.css" />
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/skin.css" />
+</head>
+<body>
+    <div class="wrap">
+	
+	
+         <!--攻城掠地头部模板start-->
+			<!--#include virtual="/list/index_gcldtop.shtml"-->
+		<!--攻城掠地头部模板end-->
+		
+		
+        <div class="content">
+            <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.lixtabs.js"></script>
+            <script type="text/javascript">
+                jQuery(document).ready(function ($) {
+                    $('#tabServer').Xtabs({ hdcn: 'tabServer', hdtagcur: 'now', bdcn: 'tabServerLite' });//服务器Tab
+                });
+            </script>
+			
+			
+			<!--攻城掠地首页左侧模板start-->
+				<!--#include virtual="/list/index_gcld_left.shtml"-->
+			<!--攻城掠地首页左侧模板end-->
+		   
+		   
+            <div class="right">
+                <div class="right_c">
+                    <div class="title">
+                        <h1 class="fl">游戏攻略</h1>
+                        <p class="fr">所在位置： <a href="http://gc.feiliu.com/" title="">首页</a>  >>   <a href="http://gc.feiliu.com/list/gcld_gl.shtml">游戏攻略</a> </p>
+                    </div>
+                    <ul class="sortTitle">
+                        <li><a href="http://gc.feiliu.com/list/gcld_gl.shtml" title="" class="sortCur">游戏攻略</a>|</li>
+                        <li><a href="http://gc.feiliu.com/list/gcld_yxzl.shtml" title="">游戏资料</a></li>
+                    </ul>
+                    <div class="sortList">
+					
+					
+                       <ul class="icon">
+							
+							  
+								<li><a href="http://gc.feiliu.com/20140522/20791.shtml" title="玩家推荐：白门楼之战5星通关攻略（困难，地狱，战神）" class="fl">玩家推荐：白门楼之战5星通关攻略（困难，地狱，战神）</a> <span class="fr">2014-05-22</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140520/20738.shtml" title="[转页游玩家] 跨服国战攻略技巧分享" class="fl">[转页游玩家] 跨服国战攻略技巧分享</a> <span class="fr">2014-05-20</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140415/18866.shtml" title="【groovy玩家提供】67级过甘宁攻略" class="fl">【groovy玩家提供】67级过甘宁攻略</a> <span class="fr">2014-04-15</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140109/5721.shtml" title="【资源】四大资源获得途径和建筑升级技巧" class="fl">【资源】四大资源获得途径和建筑升级技巧</a> <span class="fr">2014-01-09</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140109/5720.shtml" title="【装备】装备技能升星指南" class="fl">【装备】装备技能升星指南</a> <span class="fr">2014-01-09</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140109/5719.shtml" title="【新手】游戏各大功能开放大盘点" class="fl">【新手】游戏各大功能开放大盘点</a> <span class="fr">2014-01-09</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140109/5718.shtml" title="【武将】必看！战无不胜的武将搭配" class="fl">【武将】必看！战无不胜的武将搭配</a> <span class="fr">2014-01-09</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140109/5717.shtml" title="【升级】新手30级速升攻略" class="fl">【升级】新手30级速升攻略</a> <span class="fr">2014-01-09</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140109/5716.shtml" title="【升级】独特升级方式解析" class="fl">【升级】独特升级方式解析</a> <span class="fr">2014-01-09</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140109/5711.shtml" title="【升级】猛冲50级的经验心得" class="fl">【升级】猛冲50级的经验心得</a> <span class="fr">2014-01-09</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140109/5708.shtml" title="【日常】每日必做的几件事" class="fl">【日常】每日必做的几件事</a> <span class="fr">2014-01-09</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140109/5700.shtml" title="【攻略】非R玩家的精彩及特色" class="fl">【攻略】非R玩家的精彩及特色</a> <span class="fr">2014-01-09</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140108/5616.shtml" title="【玩家心得】红装的技能洗练" class="fl">【玩家心得】红装的技能洗练</a> <span class="fr">2014-01-08</span></li>
+							 
+						</ul>
+						
+						
+                        <div id="pagination" class="pagination"> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+		
+		
+        <!-- footer -->
+       <!--攻城掠地底部模板start-->
+			<!--#include virtual="/list/index_gcldfoot.shtml"-->
+		<!--攻城掠地底部模板end-->
+		
+		
+		
+        <!-- 公司 -->
+        <!--[if IE 6]>
+		<script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/DD_belatedPNG_0.0.8a-min.js"></script>
+		<script type="text/javascript">
+	        DD_belatedPNG.fix('.company div.footCenter a.logo,.company div.public a.shgs img,.company div.public a.jingwu img,.company div.public a.policeicon img,.company div.public a.zx110 img');
+		</script>
+	<![endif]-->
+    </div>
+<!--list分页-底部start--> 
+	<script language="javascript"> 
+	var f_pagecount = 1 
+	<!--#include virtual="/pub/page_ctrl.shtml"--> 
+	</script> 
+<!--list分页-底部end--> 
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.smallslider.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/thickbox.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/index.js"></script>
+</body>
+</html>

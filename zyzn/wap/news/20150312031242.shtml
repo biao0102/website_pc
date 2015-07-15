@@ -1,0 +1,77 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">宠物选择及培养攻略</div>
+			<div class="news-con">
+				在众妖之怒中，宠物可以跟随玩家一起战斗，是必不可少的核心，那宠物如何获得？什么宠物好？下面送上众妖之怒宠物选择培养攻略大全，希望大家能够喜欢。<br />
+众妖之怒宠物系统<br />
+如何选择宠物上场！<br />
+点击伙伴选项---把需要上场的宝宝点上出站--即可带宝宝去玩耍啦！<br />
+<br />
+<br />
+（19级开启可带两个宝宝，30级开启三个宝宝）真是前所未有！始料未及！<br />
+<br />
+<br />
+首冲就可送一只萌萌哒的葫芦宝宝！（我管他叫首冲娃，超喜爱，超卡哇伊）<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150312/20150312151239_72531.png" alt="" /><br />
+<br />
+<br />
+<br />
+【宠物品质】<br />
+决定宠物优劣的先天因素就是——宠物品质。<br />
+从低到高依次分为绿、蓝、紫、橙四个品级，品级越高的宠物拥有更好的资质，可以通过进化来提升宠物品级。<br />
+【宠物获取】<br />
+玩家比较关注的就是怎么获得宠物了，目前一共有以下几种方法。<br />
+1、 系统赠送<br />
+玩家5级时就能获得第一只宠物“熊锤”，可以看到服务器里满地跑的都是这家伙。不过隐身君觉得此熊还是很给力的，扎到怪堆里抡锤子跟吃了炫迈一样！<br />
+2、 签到奖励<br />
+签到奖励宠物元神，连续几天就能合成了，完全的福利向。<br />
+3、 幸运抽奖<br />
+抽奖入口在主页——奖励——聚宝，每隔一段时间会有免费抽奖机会，小伙伴们可别错过。<br />
+4、 活动获得<br />
+橙色品质的宠物可以在累计充值活动中获得。<br />
+5.伙伴召唤<br />
+每天均有几次免费召唤的机会，一定要把握好哦，着急的话可以 花费金币和晶石来召唤伙伴。<br />
+【宠物培养】<br />
+宠物要想变得强力，培养一定要跟上，这可都是宝贵战力哦~<br />
+【升级＆进化】<br />
+升级和进化都是最基础的培养方式，可以提升宠物的等级和品质，同时也和宠物技能的强化息息相关。<br />
+【宠物技能】<br />
+每只宠物的技能都各不相同，所以说宠物技能是最能体现宠物个性特色的一个方面。<br />
+宠物技能的升级条件，都受到宠物进化等级的限制。<br />
+【宠物装备】<br />
+宠物与角色的装备系统基本一致，同样可以进行强化、进阶、镶嵌等操作。<br />
+宠物装备的强化条件，受到宠物等级的限制。所以记得宠物升级后装备等级也要跟上哦~<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

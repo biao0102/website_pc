@@ -1,0 +1,52 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content">&nbsp; 千年前的三国时代原貌重现，《天天逗群英》让你体验真正的三国战役！作为国内首款三国题材的群战策略手游，《天天逗群英》遵照三国史实，在游戏中的地图、环境、人物、兵种、策略等方面完美还原了那个以战争为主题的乱世。尤其是其中的数百个副本关卡，更是重现了三国的经典战役，让玩家可以身临其境回味三国，重新演绎战争精彩！<img alt="" src="http://i0.feiliu.com/image/20141117/20141117183151_10581.jpg" /><br />
+<p>
+	【三国地图全貌呈现 重临真实世界】
+</p>
+<p>
+	&nbsp; 三国时期的著名城池有多少？来《天天逗群英》中便能一目了然。《天天逗群英》用精美的Q版风格画面原貌呈现了三国时期的地图，高山、平原、丘陵、长河……而在这些地貌中，历史上赫赫有名的江陵、会稽、长沙、建安、零陵等数十个城池一一呈现在玩家的面前。而且，三国时代发生在各个城池的著名战役也将在游戏中以副本形式呈现，但与历史不同的是，这些战役的主角将是玩家自己。玩家可以在游戏中经历一个个的经典战役，创造属于属于自己的三国传说。<br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117183210_29236.jpg" /> 
+</p>
+<p>
+	【真正的三国时期兵种武将由你操控】
+</p>
+<p>
+	&nbsp; 赵云、张飞、夏侯惇、吕蒙……三国时代的武将凭借勇武创下了赫赫威名，也让我们难以领略他们的风采而叹息。《天天逗群英》让三国著名武将以卡牌形式重现于世，武力、带兵数这样简单的属性可以让玩家直观了解武将卡牌的优劣，收集各种武将卡牌，让他们率领着长枪兵、大刀兵、弓箭兵等等兵种为自己征战天下，绝对是一种别样的三国体验。<br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117183224_75422.jpg" /> 
+</p>
+<p>
+	【火烧还是攻守 三国时代策略为王】
+</p>
+<p>
+	&nbsp; 火烧赤壁、空城计、埋伏围剿……三国时代的战争，策略才是王道！《天天逗群英》用拥有涵盖战争所有方面的武将、士兵、技能三大策略方式，选择克制对手的武将；选择前进、原地待命等士兵策略；选择武将技的释放时机，一切的策略选择完全由玩家自己掌控，让玩家可以重临三国时代，发挥策略扫灭千军万马。<br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117183238_33803.jpg" />&nbsp;<br />
+&nbsp; 百分百再现三国经典，真实的三国环境、卡牌形式的三国名将、层出不穷的三国策略，《天天逗群英》即将开启封测，一个真实的三国时代由你掌控！
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

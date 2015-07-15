@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>123_新闻公告_碰你妹官方网站</title>
+<link href="http://js.feiliu.com/static/pnm/web/css/index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/public.js"></script>
+</head>
+<body>
+<div class="contain fltt">
+  <div id="ripiao"> <img src="http://js.feiliu.com/static/pnm/web/images/scan.jpg" /> </div>
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+    <!--碰你妹头部导航模板start-->
+      <!--#include virtual="/list/index_pnm_nav.shtml"-->
+    <!--碰你妹头部导航模板end-->
+      <div></div>
+    <!--碰你妹轮播图模板start-->
+      <!--#include virtual="/list/index_pnm_lb.shtml"-->
+    <!--碰你妹轮播图模板end-->
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+              <div class="subnewsccon">
+          <h2>123</h2>
+         1234456     
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/pnm/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <!--box01 -->
+    <div class="box02 fltt">
+    <!--碰你妹公共客服模板start-->
+      <!--#include virtual="/list/index_pnm_kf.shtml"-->
+    <!--碰你妹公共客服模板end-->
+    <!--碰你妹公共合作媒体模板start-->
+      <!--#include virtual="/list/index_pnm_hzmt.shtml"-->
+    <!--碰你妹公共合作媒体模板end-->
+    </div>
+  <!--碰你妹公共底部模板start-->
+    <!--#include virtual="/list/index_pnm_foot.shtml"-->
+  <!--碰你妹公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

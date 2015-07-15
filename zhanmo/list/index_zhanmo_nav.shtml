@@ -1,0 +1,7 @@
+      <div class="topnav"> 
+        <a href="http://zhanmo.feiliu.com" class="nav01" title="官网首页">HOME</a> 
+        <a href="http://zhanmo.feiliu.com/list/list_zhanmo_news.shtml" class="nav02" title="新闻公告">NEWS</a> 
+        <a href="http://zhanmo.feiliu.com/list/list_zhanmo_yxzl.shtml" class="nav03" title="游戏资料">DATA</a> 
+        <a href="http://zhanmo.feiliu.com/list/list_zhanmo_yxts.shtml" class="nav04" title="游戏特色">FEATURE</a> 
+        <a href="http://bbs.8783.com/forum-189-1.html" class="nav05" title="游戏论坛">BBS</a> 
+      </div>

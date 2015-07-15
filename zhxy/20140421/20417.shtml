@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>游戏世界背景</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal">
+	<b>游戏世界背景：<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b><span><img src="http://i0.feiliu.com/image/20140421/20140421152308_99627.jpg" alt="" /></span></b>
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	这是一段遥远的、朔源于洪荒的故事。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	盘古生天地，天地生三清，三清生道化。世间由道化一统，道之教义无为，其内部随着时间流逝逐渐腐坏枯朽，山精鬼怪扰乱世间，本应掌管秩序的天庭亦毫无章法。洪荒众神以女娲为首，启动封神之战，改天换地，重整规章。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	自封神以来，阐截二教死伤无数，皆被名义封神，实则为天庭所控，逐渐出世退隐。其余人等在此一战中整合出了道教一派，却是元气大伤，暂且沉寂，只静待卷土重来的时机。<span></span>
+</p>
+<p class="MsoNormal">
+	而此时，东周佛教始出，有句云：佛光出在周王世，兴在明章释教开。佛教在东汉时期开始兴盛，渐有覆盖道家之势。从此天下二分，天庭作观鸟斗之势。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	为掌控天下，佛道两派争斗不休，期间血雨腥风，不知牵连多少无辜性命。一块“飞出三界外，不在五行中”的灵石，成为了改变这一切的契机。至唐代，李世民重道轻佛，金蝉子下世历劫，灵石已在山下五百年。参商同现，东风将至。佛家、道家、天庭、洪荒众神一同以天地为筹，众生为棋，开启了封神以来最大的一场赌局。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	此局名唤———西游。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	而你，作为女娲从封神时期埋下的一枚隐藏棋子，不为佛不为道不为天，只为众生，踏入了这江山棋盘……<span></span>
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	<span>&nbsp;</span>
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

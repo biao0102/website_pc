@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">
+        <title>《神谱》职业介绍-战士 _ 《神谱》飞流官网</title> 
+        <meta content="神谱之刃,神谱之刃官网,神谱之刃飞流九天," name="keywords">
+        <meta content="" name="description">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="format-detection" content="telephone=no"/>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/js.js"></script>
+        <link rel="stylesheet" href="http://js.feiliu.com/static/shenpu/webnew/css/style.css?v=768">
+        <!--[if IE 6]>
+        <script src="js/png.js"></script>
+        <script>
+                PNG.fix('*');
+        </script>
+        <![endif]--> 
+    </head>
+    <body>
+        <!-- 首页导航模板start-->
+        <!--#include virtual="/list/shenpu_index_nav.shtml"-->
+        <!-- 首页导航模板end--> 
+        <style>
+
+            
+        </style>
+        <section class="section4">
+            <div class="hot-main">
+                <a href="http://spzr.feiliu.com" class="logo"></a>
+                <div class="hotnews newspage">
+                    <div class="article-inner">
+                        <div class="art">
+                        <h2 class="article-title">《神谱》职业介绍-战士</h2>
+                        <p class="article-pubtime">2014-09-25</p>
+                        <div class="article-content"><p class="MsoNormal" >
+	<b>职业介绍<span lang="EN-US">-</span>战士</b><o:p></o:p>
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	防御型英雄，性格直率，充满正义感，从来不会掩饰自己的感受。容易相信别人，虽然偶尔会因此受伤，但很快就会克服伤痛，重新站起来。是坚韧不拔的热血英雄。<br /><img src="http://i0.feiliu.com/image/20140925/20140925131748_15563.jpg" alt="" /><br />
+<br />
+基础属性<br />
+血量	★★★★★<br />
+攻击	★★★<br />
+防守	★★★★★<br />
+操控	★★★<br />
+<br />
+初始技能<br />
+技能名称： 技能描述<br />
+极地狂斩： 狂暴的连挥十二斩，对敌人造成12次70%的技能伤害<br />
+剑光一线： 仗剑去而复返，回身抽剑再出，对敌人造成8次90%的技能伤害<br />
+魔流擎天： 以重剑之力，于滞空之际划出剑影，对敌人造成6次110%的技能伤害<br />
+<br />
+变身技能<br />
+技能名称：技能描述<br />
+双重打击：攻击时，有1%的几率对同一目标再次进行攻击，每10秒触发一次<br />
+欺凌 &nbsp; &nbsp;：如果目标血量少于你的血量，则你的暴击伤害增加１％<br />
+钢铁勇气：当血量低于20%的时候，受到伤害减少５％，持续５秒<br />
+</p>
+<div>
+	<br />
+</div>
+<p>
+	<br />
+</p></div>
+                        </div>
+                     </div>
+                     <div class="article-btm"></div>
+                </div>
+            </div>
+        </section>
+        <!--公共底部模板start-->
+        <!--#include virtual="/list/shenpu_index_foot.shtml"-->
+        <!--公共底部模板end-->
+    </body>
+</html>	 

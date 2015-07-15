@@ -1,0 +1,67 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">闪瞎双眼！《众妖之怒》四大职业橙色套装展示</div>
+			<div class="news-con">
+				<p>
+	<br />
+【妖狐套装——光环笼罩犹如仙女】
+</p>
+<p>
+	&nbsp; 妖狐是吸三界灵气化为狐形的精灵，以幻境秘术协助武王伐纣，事后被神族嫁祸成为天庭阴谋的牺牲品，被逐入妖界。妖狐擅长大范围的法术操纵，杀敌于千里之外。妖狐的橙色套装轻灵干练，手中的琵琶更是不时散发出炫目的光辉，犹如仙女一般。在属性方面，妖狐穿上套装后面板法功高达1688，370的韧性、634的法防令其他职业望尘莫及。<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204175236_49989.jpg" />
+</p>
+<p>
+	【玉兔套装——萌萌哒的小白兔】
+</p>
+<p>
+	&nbsp; 玉兔是瑶光、玉衡两星精华而生的灵兽，经过千年修炼而来，只为飞升广寒宫，能常伴嫦娥左右。却不料被天庭阴谋波及，千年修炼化作一场空。玉兔轻捷优雅，是战场上追击突袭的能手。玉兔的橙色套装性感可爱，白、蓝相交的套装令玉兔萌到极点。在属性方面，玉兔穿上套装后面板物攻高达1688，535的命中、583的暴击堪称不折不扣的杀手性角色。
+</p>
+<p><img alt="" src="http://i0.feiliu.com/image/20141204/20141204175248_98587.jpg" />
+</p>
+<p>
+	【灵猴套装——怎么看都是小龙人】
+</p>
+<p>
+	&nbsp; 灵猴本是五行灵根之一的灵明石猴，因斩杀了在地界为非作歹的天神部属 ， 又误中了天庭之计，武魂尽丧 ， 从此与天庭势不两立。灵猴擅长近战，爆发力强，是战场上的灵动杀手。灵猴的橙色套装自然威武不凡，但是头部装备怎么看都是长了两个犄角，看上去巨像80后记忆中的小龙人。虽然造型别有趣味，但灵猴穿上套装后，1533的物攻、716高物防、517的高暴击，在各属性综合实力上，灵猴橙色套装堪称强悍。<br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204175421_59639.jpg" />
+</p>
+<p>
+	【蛮牛套装——最凶残的造型】
+</p>
+<p>
+	&nbsp; 蛮牛是地仙中的力士，经常被诸神充作仪仗护卫，力大无穷，被陷害贬下妖界，功力大减，心中怒气难平。蛮牛是名副其实的狂战士，战场上的杀戮机器。直冲天际的金色光芒，令人望而生畏的头盔，看上去凶残无比就是蛮牛橙色套装的造型，在属性方面，穿上套装后，人物拥有所有游戏角色中最高的生命值，1513的高物攻、539的高暴击、797高物防、738高法防都是其他职业难以媲美的，实力极其强悍的蛮牛套装简直令人不忍直视！
+</p>
+<p><img alt="" src="http://i0.feiliu.com/image/20141204/20141204175440_87259.jpg" />
+</p>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

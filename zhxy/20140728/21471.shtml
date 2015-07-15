@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>1.3.3版本更新补偿公告</h1>
+                        <span>2014-07-28</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal" align="left">
+	亲爱的《战魂西游》玩家：<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:22pt;">
+	在《战魂西游》测试以来，我们不断的收到来自各渠道的玩家或是理智的分析建议，或是愤慨的发泄抱怨，但无论哪种情况，均是希望产品能够做的更好而发出的心声，在此对众位《战魂》的粉丝表示感谢！！！<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:22pt;">
+	为表达对众位的感谢与歉意，特此奉上<span>100</span>元宝聊表心意，登陆后可在精彩活动界面领取（有效期<span>7.29-7.30</span>）。希望各位小伙伴们继续陪伴《战魂西游》不断成长，感谢一路有你！！！<span></span> 
+</p>
+<p class="MsoNormal" align="left">
+	<br />
+</p>
+<p class="MsoNormal" align="left">
+	<b><span>已修复和优化内容：</span><span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	1、 &nbsp;修复登天路排名奖励系统不发放<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	2、 &nbsp;修复膜拜第一雕像导致闪退<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	3、 &nbsp;修复任务物品无法获取<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	4、 &nbsp;修复角色形象消失问题<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	5、 &nbsp;修复角色名创建时卡死问题<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	6、 &nbsp;修复版本更新加载闪退问题<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	7、 &nbsp;修复精英副本自动模式闪退问题<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	8、 &nbsp;修复物品回购操作闪退问题<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	9、 &nbsp;优化服务器网络延迟<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	10、优化加入门派异常问题<span></span> 
+</p>
+<p class="MsoNormal" align="left">
+	<br />
+</p>
+<p class="MsoNormal" align="left">
+	<b><span>正在努力修复和优化内容：</span><span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	1、 &nbsp;通天塔异常，无法参与问题<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	2、 &nbsp;时装通灵显示异常<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	3、 &nbsp;仙门斗法活动的每日开放次数<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	4、 &nbsp;游戏内实力提升的提示设置<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	5、 &nbsp;聊天面板系统通告文字优化<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	6、 &nbsp;装备穿戴操作的优化<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	7、 &nbsp;登天路商店售卖物品优化<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	8、 &nbsp;副本难易程度优化<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	9、 &nbsp;普通<span>/</span>精英副本装备掉落优化<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18pt;text-indent:-18pt;">
+	10、技能获得方式的优化<span></span> 
+</p>
+<p class="MsoNormal" align="left">
+	<br />
+</p>
+<p class="MsoNormal" align="left">
+	<b><span>以下为通过反馈将进行调整的重要问题：</span><span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	1.登天路由于一些<span>BUG</span>的问题导致部分玩家没有在登天路玩法中没有获得奖励，由于一些技术原因，该问题的排查时间较长，最终修复该问题。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	2.经常性的闪退问题，如在角色界面点击进入游戏时，游戏更新时，精英副本自动模式进行中时，回购物品时等。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	3.由于继承的使用方法不易于被玩家理解，且进阶时缺少提示，导致玩家市区之前装备的强化等级。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	4.在<span>25</span>级支线袈裟任务，通关副本提示已获得任务，出来后还是无法完成任务，重新接任务还是如此。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	5.网络卡顿现象，如一些玩法功能，加载地图时等。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	6.职业间由于不同机制造成的不平衡。<span></span> 
+</p>
+<p class="MsoNormal" align="left">
+	<br />
+</p>
+<p class="MsoNormal" align="left" style="background:white;">
+	<b><span>在下一个版本中，我们会进行如下调整：</span><span></span></b> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	1.UI界面中有很多功能变得容易点击。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	2.一些活动内容变得更加合理。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	3.一些字体变得更加容易辨认。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	4.新手引导中的内容变得更加容易理解。
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	5.调整了职业间的平衡性。
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	6.点击右侧背包内的物品即可将其出售；（若卖错了可以直接在左侧的回购界面里原价买回）。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	7.为了使时装看起来更<span>Cool</span>，略微增加时装提供的属性。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	8.增加一些小成就，让大家获得更多的奖励。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	9.增加一批登天路积分可以购买的称号。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	10.延长灵猴千斤坠地技能落地后的时间，增加玄女平砍第三下带有击倒效果。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	11.增加仙门斗法活动场次，中午<span>12:30~1</span>：<span>00</span>，下午<span>4:00~4:30</span>两场。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	12.为了让大家杀怪更加爽快，略微增加怪物受击的时间。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	13.副本通关的翻牌奖励中提高灵石产出。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	14.调整精英副本的掉落，增加绿色装备掉落。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	15.提高三十六重天的灵石掉落。<span></span> 
+</p>
+<p class="MsoNormal" align="left" style="margin-left:0cm;text-indent:0cm;">
+	16.增加通天塔的层数到<span>300</span>层。<span></span> 
+</p>
+<p class="MsoNormal" align="left">
+	<br />
+</p>
+<p class="MsoPlainText" align="left" style="text-indent:22pt;">
+	欢迎玩家们在根据此次调整在论坛及<span>Q</span>群等地点发表评论和建议，或有任何新的建议意见都可以在以下地方畅所欲言。我们都会记录下来，作为今后的参考，并提供给您一份惊喜大礼，以感谢您的支持！！<span></span> 
+</p>
+<p class="MsoPlainText" align="left" style="text-indent:22pt;">
+	【官方】微信：<span>zhxyol&nbsp;&nbsp; </span>【官方】官网：<span>zhxy.feiliu.com&nbsp;&nbsp;&nbsp; </span>【官方】安卓交流群：<span>234643062&nbsp;&nbsp;&nbsp; </span>【官方】<span>iOS</span>交流群：<span>363153854</span> 
+</p>
+<p class="MsoNormal" align="right" style="text-align:right;background:white;">
+	——《战魂西游》运营团队<span></span> 
+</p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

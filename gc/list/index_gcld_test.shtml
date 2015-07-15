@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地,攻城略地,攻城掠地手机版,攻城掠地手游,攻城略地手机手游版,攻城掠地无限金币,外挂,辅助,傲世堂,攻城掠地免费破解版 " />
+    <meta name="description" content="《攻城掠地》手游版男人的手机游戏,安卓、苹果平台全线上线。实景还原三国战图，开创24小时全景即时国战！文臣武将云集，打破“重武轻文”的桎梏。攻城掠地内政、军师、计策等系统演绎文官本色！其次，新颖的掩杀式战斗模式、战术、皇城官职战等特色玩法，足以让你尽享开疆扩土、统一天下的激情。" />
+    <title>《攻城掠地》手机版_攻城掠地手游男人的游戏</title>
+    <link href="http://js.feiliu.com/static/flg/style/master.css?v=040415" rel="stylesheet" type="text/css" />
+ <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/is_mobile.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<body>
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+
+					<!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->	
+					
+                    <div class="main main_bg clearfix">
+					
+						
+                        <div class="main_l">
+
+							<!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+							
+                            <div class="phone_send">
+                                <div class="phone_send_input">
+                                <input class="index-search-input" name="search-input" placeholder="请输入您的手机号" id="mobile" type="text">
+                                </div>
+								<script>
+								function sentmessage(){
+								var n = $("#mobile").val();
+								var reg = /^0?(13[0-9]|15[012356789]|18[0236789]|14[57])[0-9]{8}$/;
+								 if(reg.test(n)){
+									alert("信息已发送");
+								 	$.ajax({
+									url:"http://activity.feiliu.com/sentmessage/?n="+n,
+									type:"get",
+									})
+									} else {
+								      alert("请输入正确的手机号")
+									 }
+									}
+								</script>
+                                <div class="phone_send_btn">
+                                    <span>下载链接 免费发送到手机！ </span>
+                                    <a href="javascript:void(0);" onclick="sentmessage()" target="_self">发送</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="main_r" style="padding-top: 63px;">
+						
+                            <!--攻城掠地首页轮播位模板start-->
+								<!--#include virtual="/list/index_gcld_lunbo.shtml"-->
+							<!--攻城掠地首页轮播位模板end-->
+							
+							<!--攻城掠地首页右侧栏目模板start-->
+								<!--#include virtual="/list/index_gcld_col.shtml"-->
+							<!--攻城掠地首页右侧栏目模板end-->
+							
+                        </div>
+                    </div>
+					<!--攻城掠地首页中部导航模板start-->
+						<!--#include virtual="/list/index_gcld_midnav.shtml"-->
+					<!--攻城掠地首页中部导航模板end-->
+					
+                    <div class="main clearfix">
+						<div class="main_l">
+						<!--攻城掠地左侧礼包客服微博公共模板start-->
+							<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+						<!--攻城掠地礼包客服微博公共模板end-->
+						</div>
+                        <div class="main_r">
+							
+							<!--攻城掠地首页中部游戏资料模板start-->
+								<!--#include virtual="/list/index_gcld_midyxzl.shtml"-->
+							<!--攻城掠地首页中部游戏资料模板end-->
+
+                            <div class="glmt clearfix">
+							
+								<!--攻城掠地首页中部官方攻略模板start-->
+									<!--#include virtual="/list/index_gcld_gfgl.shtml"-->
+								<!--攻城掠地首页中部官方攻略模板end-->
+										
+								<!--攻城掠地首页中部媒体模板start-->
+									<!--#include virtual="/list/index_gcld_media.shtml"-->
+								<!--攻城掠地首页中部媒体模板end-->	
+                            
+							</div>
+							
+							<!--攻城掠地首页底部精美画面模板start-->
+								<!--#include virtual="/list/index_gcld_pic.shtml"-->
+							<!--攻城掠地首页底部精美画面模板end-->
+							
+                        </div>
+                    </div>		
+					
+					<!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+					
+                </div>
+            </div>
+        </div>
+    </div>
+	<!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+</body>
+</html>

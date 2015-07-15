@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">重温二战！《战地坦克》App Store限免下载开启</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-06-13</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              世界杯火热开赛，让人热血沸腾！和足球一样，坦克也是只有男人才懂的浪漫。由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团策略手游《战地坦克》开启App Store限免下载！《战地坦克》凭借真实还原百种二战主战坦克、操作轻松简单、百万玩家同地图军团PK等三大特色颠覆了传统手游的概念。快来《战地坦克》实现你称霸世界的梦想，打造自己的坦克帝国吧！<br />
+<br />
+<br />
+《战地坦克》游戏官网：tk.feiliu.com<br />
+《战地坦克》ios版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8<br /><img src="http://i0.feiliu.com/image/20140613/20140613104513_87634.jpg" alt="" /><br />
+<br />
+<br />
+【重温二战经典 指挥装甲雄师】<br />
+<br />
+<br />
+《战地坦克》真实还原二战众多装甲战车，在手机上实现你指挥钢铁雄狮攻城掠地的梦想。《战地坦克》中不仅真实还原了战车的外貌，更通过逼真的细节演绎各国钢铁雄狮——激烈震撼的战场上，坦克全速冲锋扬起的烟尘、射击后弹出的弹壳和散去的硝烟、被后坐力影响的坦克车身和炮管，被车体弹飞的炮弹，各种情况都在游戏中得以展现，时刻提醒你铁血大战的惨烈。<br /><img src="http://i0.feiliu.com/image/20140613/20140613104600_37679.jpg" alt="" /><br />
+【战场逼真 带入感强】<br />
+<br />
+<br />
+报告长官，西线10公里侦查到敌人的装甲主力！话音刚落，榴弹炮已经从天而降，一场遭遇战随之展。然而，敌人的奇袭并没有冲垮你的部队，及时的阵型调整以及针对性的战车部署很快就让军团稳定了下来，而随后的反击更是有效而致命，豹式坦克、追猎者随着你的一声令下，呼啸着蹂躏着对面的敌人……<br /><img src="http://i0.feiliu.com/image/20140613/20140613104622_13482.jpg" alt="" /><br />
+<br />
+<br />
+《战地坦克》无论在登场的坦克种类还是战术战略玩法上，都完美还原了二战时期最经典的苏德坦克大战——德军鼠式重型坦克、斐迪南坦克歼击车、豹2式坦克、虎王坦克等等军事迷耳熟能详的经典战车，均收录于游戏中。<br />
+<br />
+<br />
+【多兵种协同作战】<br />
+借助多兵种协同作战，你同样能够重现二战经典战役。相信库尔斯克战役对于各位指挥官来说耳熟能详，被称作是最著名的机械化师团协同作战，双方无论进攻还是防守，都由坦克、火炮、歼击车、火箭车等多种装甲战车配合行动。在《战地坦克》中你同样需要协同指挥旗下种类功能各异的战车部队，相互配合发挥出军团真正的作战能力。游戏中只有近战、远程、单体、群体类战车多样搭配，才能真正在战场上叱咤风云。<br /><img src="http://i0.feiliu.com/image/20140613/20140613104647_22741.jpg" alt="" /><br />
+<br />
+<br />
+指挥各国主战坦克集团撕裂对手防线，体验爽快硬派的机械化战争。《战地坦克》今日App Store限免下载开启，坦克大战 一触即发，施展谋略的舞台已经准备就绪，建造基地发展军备、火爆对战抢夺资源，在战火纷飞的世界中寻找激情与荣耀。<br />
+<br />
+<div >
+	<br />
+</div>
+<br />
+<div >
+	<br />
+</div>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

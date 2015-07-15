@@ -1,0 +1,45 @@
+    <div id="i-kapai"> <a class="kp-btn" id="btn-prev"><span></span><em class="bg"></em></a> <a class="kp-btn" id="btn-next"><span></span><em class="bg"></em></a>
+      <div class="picarea">
+        <ul>
+          <li class="cur"><img src="http://js.feiliu.com/gameimg/sgyy/20141015135320.png"></li>
+          <li><img src="http://js.feiliu.com/gameimg/sgyy/20141015135406.png"></li>
+        </ul>
+      </div>
+      <div class="overblack"></div>
+      <div class="kp-hb"></div>
+      <div class="kp-jij">
+        <p class="cur"> 
+            <b>卡牌名称</b>:飞龙在天·赵云<br>
+            <b>卡牌星级</b>:六星金卡  
+            <b>卡牌阵营</b>:蜀国 
+        </p>
+        <p>
+             <b>卡牌名称</b>:大贤良师·张角<br>
+             <b>卡牌星级</b>:六星金卡
+              <b>卡牌阵营</b>:群雄 
+         </p>
+      </div>
+    </div>
+    <!--卡牌 end--> 
+    <!--微信-->
+  <div id="i-wx"> <a href="http://weibo.com/3968959424/profile?rightmod=1&wvr=5&mod=personinfo" class="wb"><img src="http://js.feiliu.com/static/sgyy/images/icon_xl.jpg"></a>
+      <div class="i-gfwx"> <img src="http://js.feiliu.com/gameimg/sgyy/20141029141357.jpg"> </div>
+    </div>
+    <!--微信 end--> 
+    <!--礼包-->
+    <div> <img src="http://js.feiliu.com/static/sgyy/images/i_libao.jpg" usemap="#Map2">
+      <map name="Map2">
+        <area shape="rect" coords="31,11,206,59" href="http://sgyy.feiliu.com/20141209/22659.shtml">
+        <area shape="rect" coords="30,88,208,138" href="http://sgyy.feiliu.com/20140530/20939.shtml">
+        <area shape="rect" coords="32,165,205,212" href="http://bbs.8783.com/forum-69-1.html">
+      </map>
+    </div>
+    <!--礼包 end-->
+    <div id="i-wanjia">
+      <div class="i-qqun">
+        <p>        官方 1群 <span>  361174954  </span> <br>     
+<br>     <br>     <br>     
+          
+      </div>
+      <div class="i-qkefu"> <span>800032234</span> </div>
+    </div>

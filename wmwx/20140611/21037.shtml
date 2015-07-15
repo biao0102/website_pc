@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>卡牌介绍－成长属性 完美武侠_公告</title>
+<link href="http://js.feiliu.com/static/wmwx/css/main.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/wmwx/js/jquery1.6.4.js"></script>
+</head>
+<body class="inner">
+<div class="header">
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img src="http://js.feiliu.com/static/wmwx/images/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>
+<div class="sec1">
+
+	<!--首页头部导航模板开始-->	
+		<!--#include virtual="/list/index_wmwx_nav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+</div>
+<div class="sec2">
+	<div class="wrap-main main">
+	
+		<!--首页左侧边栏模板开始-->	
+			<!--#include virtual="/list/index_wmwx_leftbar.shtml"-->
+		<!--首页左侧边栏模板结束-->
+		
+        <div class="content">
+        	<div class="article-header">
+            	<h1>卡牌介绍－成长属性</h1>
+                <time>2014-06-11</time>
+            </div>
+            <div class="article-content">
+            	卡牌成长分为：普通、快速、晚成三类。普通成长即该卡牌属性成长平均。<br />
+<br />
+<strong>普通成长</strong><br />
+<br />
+普通成长即该卡牌属性成长平均。<br />
+<br />
+<strong>快速成长</strong><br />
+<br />
+快速成长即该卡牌前期属性成长较快，但后期逐渐变慢。<br />
+<br />
+<strong>晚成成长</strong><br />
+<br />
+晚成成长即该卡牌前期属性成长减慢，但后期会有大幅提升。<br />
+<br />
+<strong>普通、快速、晚成的区别</strong><br />
+<br />
+经验获得是相同的，只是属性成长不同，如快速代表前期卡牌属性增长快，但中后期属性增加会变慢。晚期和快速相反。但总体来说晚期的卡牌总属性会高于快速的卡牌<br />
+			</div>
+        </div>
+	</div>
+</div>
+<div class="sec3">
+
+	<!--首页底部版权模板开始-->	
+        <!--#include virtual="/list/index_wmwx_footer.shtml"-->
+	<!--首页底部版权模板结束-->
+	
+</div>
+
+	<!--首页右侧浮动下载框模板开始-->	
+        <!--#include virtual="/list/index_wmwx_down.shtml"-->
+	<!--首页右侧浮动下载框模板结束-->
+	
+<script type="text/javascript">
+$(function(){
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+});
+</script>
+</body>
+</html>

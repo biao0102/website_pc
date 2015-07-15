@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">
+        <title>系统篇：游戏内怎么充值？ _ 《神谱》飞流官网</title> 
+        <meta content="神谱之刃,神谱之刃官网,神谱之刃飞流九天," name="keywords">
+        <meta content="" name="description">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="format-detection" content="telephone=no"/>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/js.js"></script>
+        <link rel="stylesheet" href="http://js.feiliu.com/static/shenpu/webnew/css/style.css?v=768">
+        <!--[if IE 6]>
+        <script src="js/png.js"></script>
+        <script>
+                PNG.fix('*');
+        </script>
+        <![endif]--> 
+    </head>
+    <body>
+        <!-- 首页导航模板start-->
+        <!--#include virtual="/list/shenpu_index_nav.shtml"-->
+        <!-- 首页导航模板end--> 
+        <style>
+
+            
+        </style>
+        <section class="section4">
+            <div class="hot-main">
+                <a href="http://spzr.feiliu.com" class="logo"></a>
+                <div class="hotnews newspage">
+                    <div class="article-inner">
+                        <div class="art">
+                        <h2 class="article-title">系统篇：游戏内怎么充值？</h2>
+                        <p class="article-pubtime">2015-01-12</p>
+                        <div class="article-content">app服务器的童靴需要通过对下载游戏的<a href="http://www.5253.com/gameList/1-1-0-0-0-0-0-0.html" target="_blank">苹果</a>账号充值，再使用该账号上的资金<a href="http://www.5253.com/gameList/1-0-0-0-0-2-0-0.html" target="_blank">对游</a>戏中的账号充值购买金币。</div>
+                        </div>
+                     </div>
+                     <div class="article-btm"></div>
+                </div>
+            </div>
+        </section>
+        <!--公共底部模板start-->
+        <!--#include virtual="/list/shenpu_index_foot.shtml"-->
+        <!--公共底部模板end-->
+    </body>
+</html>	 

@@ -1,0 +1,28 @@
+                        <div class="main_l">
+                            <a href="#" target="_blank" class="btn_down">游戏下载</a>
+                            <div class="left_gg">
+                                <a href="#" target="_blank">
+                                    <img src="http://js.feiliu.com/static/mojie/images/news/gg01.jpg" alt="" /></a>
+                            </div>
+                            <div class="left_btn">
+                                <img src="http://js.feiliu.com/static/mojie/images/news/left02.jpg" alt="" border="0" usemap="#Map" />
+                                <map name="Map" id="Map">
+                                    <area shape="rect" coords="17,20,242,69" href="#" target="_blank" alt="新手引导" />
+                                    <area shape="rect" coords="19,82,241,132" href="#" target="_blank" alt="游戏资料" />
+                                    <area shape="rect" coords="19,144,240,195" href="#" target="_blank" alt="官方论坛" />
+                                </map>
+                            </div>
+                            <div class="left_lxfs">
+                                <div class="weixin">
+                                    <img src="http://js.feiliu.com/static/mojie/images/news/weixin.jpg" alt="" />
+                                </div>
+                                <div class="lxfs">
+                                    <p>微 信 号：4545454545</p>
+                                    <p>客服QQ：4545454545</p>
+                                </div>
+                                <div class="weibo">
+                                    <a href="#" target="_blank" class="xinlang">新浪微博</a>
+                                    <a href="#" target="_blank" class="tengxun">腾讯微博</a>
+                                </div>
+                            </div>
+                        </div>

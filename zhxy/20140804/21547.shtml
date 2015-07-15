@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>2服获奖名单</h1>
+                        <span>2014-08-04</span>
+                    </div>
+                    <div class="article-content">
+                        <h4>
+	<span>亲爱的玩家</span><span>:<br />
+</span><span>【战魂西游】最激动人心的两大活动登天竞技</span><span>&amp;</span><span>冲级王者活动现已截止，获奖名单更是新鲜出炉！小伙伴们快来围观吧！大神就在我们身边哦！</span> 
+</h4>
+<p class="MsoNormal">
+	<b>活动：登天竞技<br />
+<br />
+<span></span></b> 
+</p>
+<p class="MsoNormal">
+	<b>S2-</b><b>天蓬元帅<br /><img src="http://i0.feiliu.com/image/20140804/20140804171522_84883.png" alt="" /></b> 
+</p>
+<p class="MsoNormal">
+	<b>X2-</b><b>大圣出山<br /><img src="http://i0.feiliu.com/image/20140804/20140804171542_65451.png" alt="" /></b> 
+</p>
+<p class="MsoNormal" align="left">
+	<br />
+</p>
+<p class="MsoNormal">
+	<b>活动：冲级王者<span></span></b> 
+</p>
+<p class="MsoNormal">
+	<b>S2-</b><b>天蓬元帅<br /><img src="http://i0.feiliu.com/image/20140804/20140804171556_65174.png" alt="" /></b> 
+</p>
+<p class="MsoNormal">
+	<b>X2-</b><b>大圣出山<br /><img src="http://i0.feiliu.com/image/20140804/20140804171607_41780.png" alt="" /><br />
+</b> 
+</p>
+<p class="MsoNormal">
+	<b>【温馨提示】：<span></span></b> 
+</p>
+<p class="MsoNormal">
+	<b>1.</b><b>活动奖励已发放，如有未收到奖励的情况，请与官方<span>Q</span>群管理员联系。<br />
+2.官方<span>Q</span>群号（Android）：<span>234643062</span>。<b>官方Q群号（iOS）：</b><span>&nbsp;</span>363153854。<br />
+3.如有奖励发放错误的情况，请在三个工作日内与管理员联系，我们会尽快核实补发。<span></span></b> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

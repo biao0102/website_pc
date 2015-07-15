@@ -1,0 +1,199 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>战地坦克</title>
+	<meta name="keywords" content="战地坦克" />
+	<meta name="description" content="战地坦克" />
+	<meta name="format-detection" content="telephone=no"/>
+	<meta name="format-detection" content="address=no"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/tk/wap0506/css/style.css">
+	<script src="http://js.feiliu.com/static/tk/wap0506/js/TouchSlide.1.1.js"></script>
+</head>
+<body>
+	<div class="wrap">
+		<header class="banner" id="top">
+			<img src="http://js.feiliu.com/static/tk/wap0506/images/banner.jpg" class="bannerpic">
+			<a href="javascript:alert('敬请期待');"><img src="http://js.feiliu.com/static/tk/wap0506/images/download01.png" alt="" class="db01"></a>
+			<a href="javascript:alert('敬请期待');"><img src="http://js.feiliu.com/static/tk/wap0506/images/download02.png" alt="" class="db02"></a>
+			<a href="javascript:alert('敬请期待');"><img src="http://js.feiliu.com/static/tk/wap0506/images/download03.png" alt="" class="db03"></a>
+		</header>
+		<section class="newscon">
+			<h2>
+				<img src="http://js.feiliu.com/static/tk/wap0506/images/title01.jpg">
+			</h2>
+			<div class="hotpic">
+				<img src="http://js.feiliu.com/static/tk/wap0506/images/hotpic.jpg">
+			</div>
+									<a href="http://tk.feiliu.com/wap/news/20150424022202.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》 大量高价坦克来袭！游戏多独家发放！</p>
+					<p class="title1_nr_time">04-24</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150403052919.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】清明复活节社区活动</p>
+					<p class="title1_nr_time">04-03</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150402053201.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】周年狂欢揭幕《坦克风云》全新四大活动曝光</p>
+					<p class="title1_nr_time">04-02</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150324064849.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》活动介绍</p>
+					<p class="title1_nr_time">03-24</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150324064228.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》新服火爆开启</p>
+					<p class="title1_nr_time">03-24</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150212063652.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】喜气“羊羊”过大年</p>
+					<p class="title1_nr_time">02-12</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150210033138.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》活动介绍</p>
+					<p class="title1_nr_time">02-10</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150203124623.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》活动介绍</p>
+					<p class="title1_nr_time">02-03</p>
+				</div>
+			</a>			
+									<a href="http://tk.feiliu.com/wap/list/newslist.shtml">
+				<div class="chakanmore">查看更多＞＞</div>
+			</a>
+		</section>
+		<section class="intro">
+			<h2><img src="http://js.feiliu.com/static/tk/wap0506/images/title02.jpg"></h2>
+			<!-- Tab切换 -->
+	<div id="tabBox1" class="tabBox">
+		<div class="hd">
+			<ul>
+				<li><a href="javascript:void(0)">坦克展示 </a></li>
+				<li><a href="javascript:void(0)">火箭车</a></li>
+				<li><a href="javascript:void(0)">自行火炮</a></li>
+				<li><a href="javascript:void(0)">歼击车</a></li>
+			</ul>
+		</div>
+		<div class="bd" id="tabBox1-bd">
+			<div class="con">
+				<ul>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank01.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank02.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank03.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank04.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank05.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank06.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank07.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank08.png" alt=""></a></li>
+				</ul>
+			</div>
+			<div class="con">
+				<ul>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank01.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank02.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank03.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank04.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank05.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank06.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank07.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank08.png" alt=""></a></li>
+				</ul>
+			</div>
+			<div class="con">
+				<ul>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank01.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank02.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank03.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank04.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank05.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank06.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank07.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank08.png" alt=""></a></li>
+				</ul>
+			</div>
+			<div class="con">
+				<ul>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank01.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank02.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank03.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank04.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank05.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank06.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank07.png" alt=""></a></li>
+					<li><a href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank/tank08.png" alt=""></a></li>
+				</ul>
+			</div>
+
+		</div>
+	</div>
+	<script type="text/javascript">
+	TouchSlide( { slideCell:"#tabBox1", effect:"leftLoop"} );
+	// TouchSlide( { slideCell:"#tabBox1",
+	// 	effect:"leftLoop", 
+	// 	endFun:function(i){ 
+	// 		var bd = document.getElementById("tabBox1-bd");
+	// 		bd.parentNode.style.height = bd.children[i].children[0].offsetHeight+"px";
+	// 		if(i>0)bd.parentNode.style.transition="200ms";
+	// 	}
+	// } );
+	</script>
+  </section>
+  <section class="intro">
+  	<h2><img src="http://js.feiliu.com/static/tk/wap0506/images/title03.jpg"></h2>
+  	<!-- 焦点图 -->
+	<div id="slideBox" class="slideBox">
+		<div class="bd">
+			<ul>
+				<li>
+					<a class="pic" href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank.jpg" /></a>
+				</li>
+				<li>
+					<a class="pic" href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank.jpg"/></a>
+				</li>
+				<li>
+					<a class="pic" href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank.jpg"/></a>
+				</li>
+				<li>
+					<a class="pic" href="#"><img src="http://js.feiliu.com/static/tk/wap0506/images/tank.jpg"/></a>
+				</li>
+			</ul>
+		</div>
+		<div class="hd">
+			<ul></ul>
+		</div>
+	</div>
+	<script type="text/javascript">
+		TouchSlide({ 
+			slideCell:"#slideBox",
+			titCell:".hd ul", //开启自动分页 autoPage:true ，此时设置 titCell 为导航元素包裹层
+			mainCell:".bd ul", 
+			effect:"leftLoop", 
+			autoPage:true,//自动分页
+			autoPlay:false //自动播放
+		});
+	</script>
+      </section>
+		<section class="bottom">
+			<div class="bottom_sm">
+				<p>版权所有©北京飞流九天科技有限公司 2009-2013 </p>
+			</div>
+		</section>
+	</div>
+</body>
+</html>

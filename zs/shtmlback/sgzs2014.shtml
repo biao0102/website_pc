@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>手游网三国战神专区</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <base href="http://www.shouyou.com/" />
+    <style type="text/css">
+        body, div, h1, h2, h3, h4, form, img, ul, ol, li, dl, dt, dd, p { margin:0; padding:0; }
+        body { }
+        ul, li { list-style:none; }
+        .syw_frame{
+            margin:0px;
+            padding:px 0 0 px;
+            margin:px 0 0 px;
+            width:695px;
+            height:200px;
+            overflow:hidden;
+            background-color:#f3ece6;
+        }
+        .pic_frame{
+            margin:3px;
+            width:315px;
+            height:190px;
+            float:left;
+        }
+        .pic_frame img{
+            width:315px;
+            height:190px;
+            border:1px solid #a38e6a;
+        }
+
+        .news_frame{
+            float:left;
+            font-family:"宋体";
+            width:360px;
+            font-size:12px;
+        }
+        .news_frame ul {
+            margin:0px; padding:0px; padding-left:12px; overflow:hidden; padding-top: 3px;
+        }
+        .news_frame ul li {
+            list-style-type:none;
+            border-bottom:1px dotted ;
+            line-height:26px;
+            height:26px;
+            color:#727272; overflow:hidden;
+        }
+        a {
+            text-decoration:none; color:#727272;
+        }
+        a:hover {
+            color:#ff9600;
+        }
+        .news_frame p{ float:left; display:block; padding:0px; margin:0px;width:250px;height:24px; }
+        .news_frame span{
+            float:right;
+            color: #727272;
+        }
+        .in_frame{ float:right;margin:10px 10px 0 0; }
+        .search { width:450px; text-align:left; margin:15px auto; overflow:hidden;line-height:19px; }
+        .search input { float:left; font-family:"宋体";font-size:14px; }
+        .search .text { border:0; width:335px; height:26px; line-height:30px; background:#373B44; color:#fff; border:1px solid #333; }
+        .search .sub { width:100px; height:30px; cursor:pointer; background:#30587C; border:0; margin-left:10px;color:#fff; }
+    </style>
+    <script type="text/javascript">
+        function checkForm_search(this_form){
+            if (searchform1.title.value == ''){
+                alert("搜索关键词不能为空, 请重新输入！");
+                searchform1.title.focus();
+                return false;  nb
+            }
+            return true;
+        }
+        function search_submit(){
+            document.searchform1.key.value=document.searchform1.title.value;
+            var keyname=document.searchform1.key.value;
+            var partid=document.searchform1.partid.value;
+            document.searchform1.action="http://online.shouyou.com/info-4035930.htmltag/"+partid+"/"+keyname+"-news-1.html";
+        }
+    </script>
+</head>
+<body><div class=syw_frame>
+<div class=pic_frame><a title=三国战神手游网专区 href="http://online.shouyou.com/info-4035930.html" target=_blank><img title=三国战神手游网专区 src="http://i2.shouyou.itc.cn/2014/news/2014/06/23/l0623xy03.jpg"></a> </div>
+<div class=news_frame>
+<ul> <li>[热门]<a target="_blank" href="http://news.shouyou.com/news/09242014/111455327.shtml" title="江邀大佬亲友团 携手助力《三国战神》明日公测">江邀大佬亲友团 携手助力《三国战神》明日公测</a></li> <li>[热门]<a target="_blank" href="http://news.shouyou.com/news/09242014/095035806.shtml" title="江南春力邀大佬亲友团《三国战神》明日公测">江南春力邀大佬亲友团《三国战神》明日公测</a></li> <li>[热门]<a target="_blank" href="http://news.shouyou.com/news/09232014/111759344.shtml" title="《三国战神》耀世公测倒计时 客户端明日开放下载">《三国战神》耀世公测倒计时 客户端明日开放下载</a></li> <li>[热门]<a target="_blank" href="http://news.shouyou.com/news/09222014/115701215.shtml" title="亿万富豪江南春助力《三国战神》9.25公测">亿万富豪江南春助力《三国战神》9.25公测</a></li> <li>[热门]<a target="_blank" href="http://news.shouyou.com/news/09172014/093839255.shtml" title="《三国战神》公测延期9.25 加送千部小米手环">《三国战神》公测延期9.25 加送千部小米手环</a></li> <li>[热门]<a target="_blank" href="http://news.shouyou.com/news/09162014/151045114.shtml" title="《三国战神》羽翼顶级羽翼进阶指南">《三国战神》羽翼顶级羽翼进阶指南</a></li> <li>[热门]<a target="_blank" href="http://news.shouyou.com/news/09152014/173136130.shtml" title="单挑群P战无双《三国战神》9月25日公测">单挑群P战无双《三国战神》9月25日公测</a></li> </ul>
+</div></div>
+<div></div></body>
+</html>

@@ -1,0 +1,102 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content"><p style="text-indent:2em;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>《天天逗群英》为了让广大玩家有更加精彩的游戏体验，游戏中提供了多种</span><span>PVE</span><span>模式。<br />
+让我们对单一模式说拜拜，让我们一起来看看这几种，风格迥异，异彩纷呈的战斗模式吧。&nbsp;</span> 
+</p>
+<span> 
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>普通关卡</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>产出经验和金币，想了解后面的剧情就提升实力往后打吧。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>精英关卡</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>产出装备，玩家缺装备可以挑战精英副本，越高级装备越好。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>一骑当千</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>4</span><span>种战斗模式，产出不同的资源，但也需要不同的战斗策略。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>决战长坂坡</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>随机产出物品，惊喜从这里出现。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>暴走群英</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>自我实力的体现，靠实力拿奖品的地方。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>暴打董卓</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>暴君董卓，为了正义一起灭了他，与其他玩家共同抗敌。<br />
+<br /><img style="height:787px;width:601px;" alt="" src="http://i0.feiliu.com/image/20141028/20141028150533_61038.jpg" width="999" height="1226" /><br />
+<br />
+<br />
+</span><span></span>
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>更多精彩内容，敬请关注官方信息：</span><span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>官方</span><span>QQ</span><span>：</span><span>3131494764&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>官方</span><span>QQ</span><span>群：</span><span>210206480&nbsp; </span>
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>官网：</span><span><a href="http://ttdqy.feiliu.com/"><span style="text-decoration:none;">http://ttdqy.feiliu.com/</span></a> </span>
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>帅呆了的群战三国！</span> <span></span>
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<SPAN ,?sans-serif?;?>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>《天天逗群英》运营团队</span></span><span></span> 
+</p>
+</span> 
+<p class="MsoNormal" style="text-indent:2em;">
+	<span></span>&nbsp;
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

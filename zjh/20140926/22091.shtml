@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《最江湖》十万个小技巧-锻造_装备系统_最江湖官方网站</title>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/stop.jpg"  alt="新闻"/></h2>
+          </div>
+          <div class="clear"></div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle" style="color:#704e33;">《最江湖》十万个小技巧-锻造</div>
+              <div class="textTime"><span style="float:left; color:#393939; width:80px; padding-left:90px;">2014-09-26 11:08:11</span><span style="width:380px; float:right; padding-top:10px">
+                <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span></div>
+                <p></p>
+                <h1>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 真实的锻造学</strong>
+</h1>
+&nbsp; &nbsp; &nbsp;为了让大家真实的理解锻造功能下面我们讲一下新手玩家对锻造上的误区<br />
+&nbsp;1、锻造=制作装备<br />
+&nbsp;很多玩家首次接触锻造的时候会认为此项功能是对装备的强化！在强化到20-30几的时候就会发现自己的装备替换功能里多了很多很多的装备！这时想要回收这些装备是比较繁琐的 需要玩家通过熔炼一个一个点！所以这里想提醒玩家的是！锻造=制作≠装备强化！<br /><img src="http://i0.feiliu.com/image/20140926/20140926105336_80491.png" width="480" height="270" alt="" /> 
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="keywords" content="攻城掠地,攻城掠地官网,攻城掠地攻略，三国网页游戏,攻城略地,攻城略地官网" />
+    <meta name="description" content="《攻城掠地》是飞流旗下一款强调国战的战争策略网页游戏。实景还原三国战图，开创24小时全景即时国战！文臣武将云集，打破“重武轻文”的桎梏。内政、军师、计策等系统演绎文官本色！其次，新颖的掩杀式战斗模式、战术、皇城官职战等特色玩法，足以让你尽享开疆扩土、统一天下的激情！" />
+      <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+      <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>攻城掠地</title>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/index.css" />
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/thickbox.css" />
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/skin.css" />
+</head>
+<body>
+    <div class="wrap">
+	
+	
+         <!--攻城掠地头部模板start-->
+			<!--#include virtual="/list/index_gcldtop.shtml"-->
+		<!--攻城掠地头部模板end-->
+		
+		
+        <div class="content">
+            <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.lixtabs.js"></script>
+            <script type="text/javascript">
+                jQuery(document).ready(function ($) {
+                    $('#tabServer').Xtabs({ hdcn: 'tabServer', hdtagcur: 'now', bdcn: 'tabServerLite' });//服务器Tab
+                });
+            </script>
+			
+			
+			<!--攻城掠地首页左侧模板start-->
+				<!--#include virtual="/list/index_gcld_left.shtml"-->
+			<!--攻城掠地首页左侧模板end-->
+		   
+		   
+            <div class="right">
+                <div class="right_c">
+                    <div class="title">
+                        <h1 class="fl">游戏资料</h1>
+                        <p class="fr">所在位置： <a href="http://gc.feiliu.com" title="">首页</a> >> <a href="http://gc.feiliu.com/list/gcld_yxzl.shtm">游戏资料</a> </p>
+                    </div>
+                    <ul class="sortTitle">
+                        <li><a href="http://gc.feiliu.com/list/gcld_gl.shtml" title="">游戏攻略</a>|</li>
+                        <li><a href="http://gc.feiliu.com/list/gcld_yxzl.shtml" title="" class="sortCur">游戏资料</a></li>
+                    </ul>
+                    <div class="sortList">
+					
+					
+                       <ul class="icon">
+							
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5808.shtml" title="宝物系统" class="fl">宝物系统</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5807.shtml" title="宝石玩法" class="fl">宝石玩法</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5806.shtml" title="排位赛" class="fl">排位赛</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5805.shtml" title="文官周瑜" class="fl">文官周瑜</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5804.shtml" title="文官诸葛亮" class="fl">文官诸葛亮</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5803.shtml" title="文官司马懿" class="fl">文官司马懿</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5802.shtml" title="武将关羽" class="fl">武将关羽</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5801.shtml" title="武将张飞" class="fl">武将张飞</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5800.shtml" title="武将吕布" class="fl">武将吕布</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5794.shtml" title="军师系统" class="fl">军师系统</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5792.shtml" title="寻访系统" class="fl">寻访系统</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5790.shtml" title="国战军资" class="fl">国战军资</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5788.shtml" title="宴会系统" class="fl">宴会系统</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5784.shtml" title="集市系统" class="fl">集市系统</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5781.shtml" title="祭祀系统" class="fl">祭祀系统</a> <span class="fr">2014-01-10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20140110/5778.shtml" title="整点奖励" class="fl">整点奖励</a> <span class="fr">2014-01-10</span></li>
+													</ul>
+						
+						
+                      <div id="pagination" class="pagination"> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+		
+		
+        <!-- footer -->
+       <!--攻城掠地底部模板start-->
+			<!--#include virtual="/list/index_gcldfoot.shtml"-->
+		<!--攻城掠地底部模板end-->
+		
+		
+		
+        <!-- 公司 -->
+        <!--[if IE 6]>
+		<script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/DD_belatedPNG_0.0.8a-min.js"></script>
+		<script type="text/javascript">
+	        DD_belatedPNG.fix('.company div.footCenter a.logo,.company div.public a.shgs img,.company div.public a.jingwu img,.company div.public a.policeicon img,.company div.public a.zx110 img');
+		</script>
+	<![endif]-->
+    </div>
+
+		<!--list分页-底部start--> 
+	<script language="javascript"> 
+	var f_pagecount = 3 
+	<!--#include virtual="/pub/page_ctrl.shtml"--> 
+	</script> 
+	<!--list分页-底部end--> 
+	
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.smallslider.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/thickbox.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/index.js"></script>
+</body>
+</html>

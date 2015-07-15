@@ -1,0 +1,67 @@
+<!--头部公共文件模块开始-->
+	<!--#include virtual="/list/abc_index_topfile.shtml"-->
+<!--头部公共文件模块结束-->
+<body>
+<div class="wrap minwidth rel">
+	<!--公共导航模块开始-->
+		<!--#include virtual="/list/abc_index_nav.shtml"-->
+	<!--公共导航模块结束-->
+	<div class="contain minwidth rel">
+		<div class="con920">
+			<div class="subtop rel">
+				<img src="http://js.feiliu.com/static/abc/web/images/zhu.png" alt="" class="zhu asb">
+			</div>
+			<div class="subline">
+				<div class="newstxt">
+					<div class="infotitle">飞流携《愤怒的小鸟嘉年华》安卓版欢乐来袭 无死角火爆全国</div>
+					<div class="article">&nbsp; &nbsp; &nbsp; 史上最欢乐小鸟戳破你的笑点，由全球著名游戏厂商Rovio娱乐开发、飞流独家代理发行的《愤怒的小鸟嘉年华》安卓版火爆全国。作为“小鸟”系列最受欢迎的版本之一，《愤怒的小鸟嘉年华》中“唐装春节”、“NBA灌篮”等十几个全球性的盛典主题关卡让它俘获了无数玩家的青睐。当《愤怒的小鸟嘉年华》创纪录地亮相国内52家安卓平台后，便如爆炸般掀起游戏热潮。现在，360手机助手、UC九游中心、腾讯应用宝、百度多酷、小米、OPPO、豌豆荚、安智、步步高、华为、联想、金立、酷派、魅族等安卓平台正在火爆首发，快加入全球游戏玩家的狂欢吧！<br />
+<br />
+《愤怒的小鸟嘉年华》官方网站：http://abs.feiliu.com<br />
+《愤怒的小鸟嘉年华》下载地址：http://abs.feiliu.com/download?cid=300021&amp;type=5&nbsp;<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141217_96123.jpg" alt="" /><br />
+<br />
+<br />
+【全球性节日盛典 300多关卡无限狂欢】<br />
+<br />
+<br />
+&nbsp; 《愤怒的小鸟嘉年华》中拥有多达14个的全球性节日或盛典主题篇章，超过300个充满奇思妙想、风格迥异的关卡。“猪戏嫦娥”、“北极探险”、“樱花季”、“整蛊万圣节”、“礼物保卫战”⋯⋯无论是哪个关卡都将让玩家领略到众多世界著名盛典的风情。而在游览世界的同时，操纵小鸟将捣蛋猪们轰翻天，这样的狂欢盛宴绝对过瘾到爆！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141229_36955.jpg" alt="" /><br />
+<br />
+【量身打造中国元素 喜庆新年红红火火】<br />
+<br />
+<br />
+&nbsp; 中国的文化无时无刻不在吸引世界的目光，“小鸟”们当然也要在中国来场Party。在《愤怒的小鸟嘉年华》中，“唐装春节”篇章描绘出了春节的景象，烟花、红灯笼、红包、对联⋯⋯红红火火的气氛绝对让人能随时感受春节的喜庆。而另一个中国元素的关卡“猪戏嫦娥”更是耳熟能详，但嫦娥是什么样子呢？来游戏中自己看看吧！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141309_16112.jpg" alt="" /><br />
+<br />
+<br />
+【劲爆活动 随时进入欢乐时刻】<br />
+<br />
+<br />
+&nbsp; 说到春节，这个春节最火爆的是什么？必须是红包！《愤怒的小鸟嘉年华》开始发微信红包了，关注官方微信公众号（AngryBirdsChina）便会随机受到邀请，点开那个充满欢乐的红包群，便可以收获现金红包大礼啦！此外还有齐聚小鸟家族的毛绒玩具都会在微信中不定期发放哦！你准备好进入欢乐时刻了吗？<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141258_55074.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 无处不在的《愤怒的小鸟嘉年华》，随时随刻的欢乐！现在每日登陆还有惊喜奖励，多种有趣的道具给你超爽的必杀权利，现在快去下载，让小鸟飞吧！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141321_22443.png" alt="" /><br /></div>
+				</div>
+			</div>
+			<div class="subbottom"></div>
+		</div>
+		<!--底部公共模块开始-->
+			<!--#include virtual="/list/abc_index_foot.shtml"-->
+		<!--底部公共模块结束-->
+	</div>
+</div>
+<!--右侧漂浮模块开始-->
+	<!--#include virtual="/list/abc_index_float.shtml"-->
+<!--右侧漂浮模块结束-->
+<!--底部公共js文件模块开始-->
+	<!--#include virtual="/list/abc_index_jsfile.shtml"-->
+<!--底部公共js文件模块结束-->
+</body>
+</html>

@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>角色+技能介绍</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <h2>
+	<b><span>角色介绍</span></b><b><span>：</span><span></span></b>
+</h2>
+<p class="MsoNormal">
+	<b>角色一：【灵猴</b><b>】<br /><img src="http://i0.feiliu.com/image/20140421/20140421151820_84537.jpg" alt="" /><span></span></b>
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	<b>【攻击】：</b><b>★★★★<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【防御】：</b><b>★★★★<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【使用武器】：</b>棍<b><span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【角色特性】：</b>近战<b><span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【角色介绍】：</b>为灵石所化，不畏三界无常，重棍一出，天地震动。挑势，星沉月隐；落势，分海裂山。善于贴身缠斗，险中求胜，余敌怀取敌心也。<span></span>
+</p>
+<p class="MsoNormal" align="right" style="text-align:right;">
+	<b><span>------</span></b><b>推荐勇往直前型玩家选择</b><span></span>
+</p>
+<p class="MsoNormal">
+	<b>【角色技能】：<span></span></b>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>①&nbsp; </span>斗气裂云：原地进行短暂的蓄力，然后对身体四周的敌人造成多次伤害并击飞<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>②&nbsp; </span>千斤坠地：向前跳跃，落地后对身体四周的敌人造成多次伤害<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>③&nbsp; </span>横扫八荒：舞棍成风，对身体四周的敌人造成多次伤害，技能释放时角色可以位移<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>④&nbsp; </span>石破天惊：举棍砸地，将身前的敌人击飞，并造成多次伤害<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>⑤&nbsp; </span>毁天灭地：超大范围，对身体四周的敌人造成多次伤害<br />
+<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span><b >角色二：【神君</b><b >】</b>
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140421/20140421151905_18534.jpg" alt="" />
+</p>
+<p class="MsoNormal">
+	<b>【攻击】：</b><b>★★★★<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【防御】：</b><b>★★★★<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【使用武器】：</b>枪<b><span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【角色特性】：</b>近战<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b></b></span>
+</p>
+<p class="MsoNormal">
+	<b>【角色介绍】：</b>脚踏三山五岳，手持长枪一杆。近身横扫，烈如荒狂雷光；远敌穿刺，势若疾风迅雨，战法灵活多变，不拘套路，可一人敌，可万人敌。<span></span>
+</p>
+<p class="MsoNormal" align="right" style="text-align:right;">
+	<b><span>------</span></b><b>推荐敏捷近战型玩家选择</b><span></span>
+</p>
+<p class="MsoNormal">
+	<b>【角色技能】：<span></span></b>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>①&nbsp; </span>盘蛇七探：快速出枪，对身前的敌人造成多次伤害<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>②&nbsp; </span>铁画银钩：挥舞银枪，对身体四周的敌人造成多次伤害<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>③&nbsp; </span>流星赶月：持枪向前推进，对击中的敌人造成多次伤害并击退<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>④&nbsp; </span>飞龙在天：撩起银枪，将身前的敌人击飞，并造成多次伤害<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>⑤&nbsp; </span>寒冰刃域：举枪进行短暂蓄力，然后在身体四周凝结出大量冰块，击飞敌人并造成多次伤害<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span><b >角色三：【玄女</b><b >】</b>
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140421/20140421151939_28854.jpg" alt="" />
+</p>
+<p class="MsoNormal">
+	<b>【攻击】：</b><b>★★★★★<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【防御】：</b><b>★★<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【使用武器】：</b>扇<b><span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【角色特性】：</b>远程<b><span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【角色介绍】：</b>以仙扇为器，唤冥龙，风雷动，操纵五行之力追敌。扇摇，则飞沙走石暴风席卷；扇舞，则烈焰翻天大地蒸腾。运筹帷幄，对手莫能近身。<span></span>
+</p>
+<p class="MsoNormal" align="right" style="text-align:right;">
+	<b><span>------</span></b><b>推荐追求距离制敌型玩家选择<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>【角色技能】：<span></span></b>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>①&nbsp; </span>冥龙青焰：唤出冥龙的青色火焰，对身前的敌人造成多次伤害<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>②&nbsp; </span>雷电法球：召出法球往前推进，对击中的敌人造成多次伤害并击退<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>③&nbsp; </span>五雷轰顶：雷法赦令，唤出天雷轰击身前的敌人，造成多次伤害<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>④&nbsp; </span>冰封千里：将身前化为寒冰世界，冰封击中的敌人并造成多次伤害<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>⑤&nbsp; </span>风雷狂舞：将雷法融于龙卷狂风，对身体四周的敌人造成多次伤害<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

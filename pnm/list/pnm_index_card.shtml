@@ -1,0 +1,13 @@
+			<div class="general">
+				<div class="container">
+					<ul class="wrap">
+						<li class="curr"><img src="http://js.feiliu.com/gameimg/pnm/20141024185546.jpg" alt=""></li>
+						<li class="next"><img src="http://js.feiliu.com/gameimg/pnm/20141024185842.jpg" alt=""></li>
+						<li ><img src="http://js.feiliu.com/gameimg/pnm/20141028181424.jpg" alt=""></li>
+						<li ><img src="http://js.feiliu.com/gameimg/pnm/20141027151227.jpg" alt=""></li>
+						<li class="prev"><img src="http://js.feiliu.com/gameimg/pnm/20141027151240.jpg" alt=""></li>
+					</ul>
+				</div>
+				<span class="left_pot"></span>
+				<span class="right_pot"></span>
+			</div>

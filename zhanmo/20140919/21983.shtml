@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》装备系统介绍_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》装备系统介绍</h2>
+          <p>&nbsp; &nbsp; &nbsp; 俗话说工欲善其事必先利其器，再逆天的高手也离不开一身好装备的辅助，强大的装备是游戏角色的最好伙伴，它们赋予了角色强大的能力，一件强力装备往往能带来突破性的提高。《战魔》有完善的装备系统，装备部件分为武器、衣服、头饰、鞋子、手部、颈部六大类，每一类装备属性优劣均按照颜色区分，品质由低到高分为：白（青霜）、绿（逍遥）、蓝（贪狼）、紫（破军）、橙（神威）。<br /><img src="http://i0.feiliu.com/image/20140919/20140919152113_19019.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140919/20140919152120_21827.png" alt="" /><br />
+&nbsp; &nbsp; &nbsp; 想不想让自己的武器与众不同呢？《战魔》除了基础的装备，在达到特定的条件后，可以激活光武功能，其不止拥有绚丽的外表，还能为玩家带来属性的提升，想要与众不同，就快把武器点亮吧！<br /><img src="http://i0.feiliu.com/image/20140919/20140919152131_88893.png" alt="" /><br />
+&nbsp; &nbsp; &nbsp;《战魔》添加变装功能，让玩家在保留装备原属性的基础上改变原本的外观，让你在拥有好装备的同时可以充分展示自己独特的一面。<br />
+<br />
+1、装备强化：<br />
+装备可通过强化来提升属性；装备强化等级不可超过人物等级； 装备强化等级在装备锻造提升品质后可无损失继承到高级装备上，所以早强化早享受啦！<br />
+2、装备锻造：<br />
+锻造所需材料由副本产出。<br />
+白色（青霜） 装备等级20级锻造后变绿色（逍遥）装备，此时 装备等级10级<br />
+绿色（逍遥） 装备等级40级锻造后变蓝色（贪狼）装备，此时 装备等级30级<br />
+蓝色（贪狼） 装备等级60级锻造后变紫色（破军） 装备，此时 装备等级50级<br />
+紫色 （破军）装备等级80级锻造后变橙色（神威） 装备，此时 装备等级70级<br />
+3、装备镶嵌：<br />
+A.通关特定副本，掉落宝石，宝石可以镶嵌在装备上。<br />
+B.每件装备固定有1个孔可以镶嵌宝石。<br />
+C.可以通过购买道具【钻头】来增加装备的宝石孔。<br />
+D.装备最多可以有3个镶嵌孔，一个主，两个副。装备上固定的镶嵌孔为主，两个副的需要用道具开孔。<br />
+E.每个宝石能增加装备属性。<br />
+<div >
+	<br />
+</div></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

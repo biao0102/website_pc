@@ -1,0 +1,168 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>龙骑战歌官方网站</title> 
+    <meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+    <meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<link href="http://js.feiliu.com/static/lqzg/web0525/css/index.css?v=4" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/slides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/index.js?v=1"></script>
+<script>
+        function getArgs()
+        {
+            var argsArr = new Object();
+            var query = window.location.search;  
+            query = query.substring(1);
+            var pairs = query.split("&");
+            for(var i=0;i<pairs.length;i++)
+            {
+                var sign = pairs[i].indexOf("="); 
+                if(sign == -1)
+                {
+                    continue; 
+                }
+                var aKey = pairs[i].substring(0,sign);
+                var aValue = pairs[i].substring(sign+1);         
+                argsArr[aKey] = unescape(aValue);
+
+            }
+            return argsArr;
+        }
+
+        var param = new Object();
+        param = getArgs();
+        var source = param.s;
+
+        if(!source)
+        {
+            source = '300021';
+        }
+
+
+		function isMobile(args) {
+			var sUserAgent= navigator.userAgent.toLowerCase();
+			var bIsIpad= sUserAgent.match(/ipad/i) == "ipad";
+			var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsMidp= sUserAgent.match(/midp/i) == "midp";
+			var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+			var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb";
+			var bIsAndroid= sUserAgent.match(/android/i) == "android";
+			var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce";
+			var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile";
+			if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) 
+			{
+				window.location.href= 'http://lqzg.feiliu.com/wap/list/index.shtml?s='+source;
+			}
+		}
+		isMobile();
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
+<body>
+<div class="page">
+    <div class="nav">
+    <div class="nav-con">
+        <a href="http://lqzg.feiliu.com/index.shtml"><img src="http://js.feiliu.com/static/lqzg/web0525/images/logo.png" alt="logo" class="logo" /></a>
+        <ul>
+            <li><a href="http://lqzg.feiliu.com/web/list/home.shtml">首页</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml">新闻公告</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/index.shtml">玩法特色</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/notice.shtml">职业介绍</a></li>
+            <li><a href="javascript:alert('敬请期待');">游戏活动</a></li>
+            <li><a href="http://bbs.8783.com/forum-178-1.html">论坛</a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="public-top"></div>
+    <div class="public-con">
+        <div class="public-box">
+            <div class="public-left">
+    <div class="public-code">
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="ios-link"></a>
+        <a href="http://lqzg.feiliu.com/download?cid=300021&type=5" class="android-link"></a>
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="raiders-link"></a>
+        <div>
+            <p>扫一扫关注龙骑战歌</p>
+            <img src="http://js.feiliu.com/static/lqzg/web0525/images/public-code.jpg" />
+        </div>
+    </div>
+    <ul class="public-adv">
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114758.jpg" alt="" /></a></li>
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114939.jpg" alt="" /></a></li>
+        <li><a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150526115157.jpg" alt="" /></a></li>
+    </ul>
+</div>
+            <div class="public-right">
+                <div class="public-title">
+                    <h5>新闻公告</h5>
+                    <a href="http://lqzg.feiliu.com/web/list/newslist.shtml"><<返回</a>
+                </div>
+                <div class="newsDetail">
+                    <h5>2015中重度手游被看好 飞流布局重量级产品抢占市场</h5>
+                    <dl>
+                        <dt>发布于<span>2015-05-21 18:00:02</span></dt>
+                        <dd><span>分享到</span><div><a href="javascript:void(0);" class="weixin"></a><a href="javascript:void(0);" class="qzone"></a><a href="javascript:void(0);" class="tsina"></a><a href="javascript:void(0);" class="tqq"></a><a href="javascript:void(0);" class="renren"></a></div></dd>
+                    </dl>
+                    <div class="newsDetail-con">
+                        <p>&nbsp;近日，易观智库发布了《中国移动游戏市场年度综合报告2015》。据报告分析指出，2014年，重度RPG类游戏开始占据市场主导地位。中重度手游在现阶段市场中表现抢眼，首先得益于手游玩家对游戏内容和操作重度化的需求开始被激发；同时，随着手游市场在细分产品领域的深入发展，以及手机硬件配置的提升，中重度手游市场未来发展潜力被看好。作为全球移动游戏发行和运营服务商，飞流在中重度游戏方面的发行力度在继续加大，有望抢占潜力巨大的中重度手游市场。</p><p><br/></p><p>&nbsp; 而在中重度手游领域，竞技动作类手游优势渐趋凸显，对此，飞流在2014年与国内知名手游研发商墨麟合作，获得其旗下耗资超过1亿人民币，历时1年精心打造的一款ARPG手游——《龙骑战歌》的全平台独家代理发行权。据了解，这款手游在2014年底便已开发完成，此后经历长达6个月的测试与调整，产品品质已达到世界一流产品的水准，在多方渠道及机构的评价中达到了国内最高等级的S级。</p><p>&nbsp;</p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526180000.jpg" title="20150526180000.jpg" alt="图1：《龙骑战歌》.jpg"/></p><p><br/></p><p>&nbsp; 作为一款竞技级3D魔幻骑战动作手游，《龙骑战歌》在表现出业界领先的高清3D画面、超强的打击感、强烈的战斗视觉特效等特性外，还在全球范围内首创了“骑乘作战”、“小伙伴轮番切换作战”这两大备受业界瞩目的玩法。凭借这两大创新性玩法，手游用户可以首次在手机中体验到在3D世界中全方位立体化战斗的多元化精彩。</p><p><br/></p><p>&nbsp; &nbsp; 同时，飞流以其包含了《攻城掠地》、《啪啪三国》、《战地坦克》等在内的多款中重度手游大作的丰富运营经验，和优秀的数据分析及产品打磨能力，成就了《龙骑战歌》本身更为精良的品质；并通过多元化的活动方式让更多用户实现深入体验，在举办北京、深圳等城市的线下体验活动引起轰动之后，飞流还将携《龙骑战歌》与“滴滴打车”等展开跨界合作，意在通过一系列线上、线下举措，为玩家带去快乐。</p><p><br/></p><p>&nbsp; &nbsp; 而伴随着如《众妖之怒》、《全职高手》等更多中重度精品手游的推出，以及重量级IP储备的进一步丰富，飞流有望在整个中重度手游市场领域继续占得先机，同时，基于其渐趋广阔的全球发行平台的构建，以及优秀的海外本地化发行能力，期待飞流能将更多国产精品大作推向海外。</p><p><br/></p>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-con">
+            <p>About.us | Copy right@北京飞流九天科技有限公司</p>
+            <p>爱游戏，爱生活，也爱美女。</p>
+            <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+            <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+            <p>Love is love!</p>
+        </div>
+    </div>
+</div>
+    <script>
+        var link = $('.android-link').attr('href');
+        if(!link)
+        {
+        	$('.android-link a').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }else{
+        	$('.android-link').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }
+        
+        $('a').click(function(e){
+            var url = $(this).attr('href');
+            if(url != 'javascript:void(0);' && url != "javascript:;");
+            {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                if(url.indexOf('?') > -1)
+                {
+                    var tourl = url + '&s='+source;
+                } else {
+                    var tourl = url + '?s='+source;
+                }
+                window.location.href = tourl;   
+            }
+        });
+
+
+    </script>
+    <script>$.ajax({ url:"http://gameapi.feiliu.com/game/netlog",type:'GET',dataType:'jsonp',success: function(data){}});</script>
+    <div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

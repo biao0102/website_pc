@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>11.13【大侠别嚣张】更新公告_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">公告</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">11.13【大侠别嚣张】更新公告</div>
+              <p>亲爱的玩家：<br />
+&nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;为了给玩家更好的游戏体验，并不断丰富游戏内容。《大侠别嚣张》游戏将于2014年11月13日9点半-11点进行更新维护。更新后需下载更新包才能继续游戏，在此过程中如给大家带来不便，敬请谅<br />
+<br />
+<br />
+解。<br />
+&nbsp; &nbsp;<br />
+【新增内容】<br />
+<br />
+<br />
+1、开启帮派系统：创建帮派，帮主可以对帮派成员进行管理，批准成员入会。<br />
+<br />
+<br />
+2、增加帮派商城，可以通过帮贡来购买稀有道具。<br />
+<br />
+<br />
+3、帮派膜拜功能，可以对本帮高级成员进行膜拜。<br />
+<br />
+<br />
+4、帮派捐献功能，快速获得帮贡，并提高帮派等级。<br />
+<br />
+<br />
+5、增加新的副本关卡戏爵爷。<br />
+<br />
+<br />
+6、新增5件装备：飞火双枪、玄铁匕首、金丝软甲、金龙宝钗、红颜泪<br />
+<br />
+<br />
+7、增加新武功：混元功。<br />
+<br />
+<br />
+8、新增聚宝盆活动。<br />
+&nbsp;&nbsp;<br />
+【调整内容】<br />
+&nbsp;<br />
+1、论剑增加排名奖励。<br />
+<br />
+<br />
+2、论剑增加排名上升奖励。<br />
+<br />
+<br />
+3、橙色大侠可升级到6星。<br />
+<br />
+<br />
+4、签到奖励增加送喇叭。<br />
+&nbsp;<br />
+【优化内容】<br />
+&nbsp;<br />
+1、装备、大侠碎片增加前往功能。<br />
+<br />
+<br />
+2、新手剧情中字体优化。<br />
+<br />
+<br />
+欢迎加入官方交流QQ群（192947329,越狱）（163058605，安卓）进行讨论！<br />
+&nbsp;<br /></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

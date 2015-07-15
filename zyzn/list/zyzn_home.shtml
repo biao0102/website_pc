@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="UTF-8">
+<title>《众妖之怒》东方奇幻动作手游__众妖之怒官网</title>
+<meta name="keywords" content="众妖之怒,众妖之怒官网, 众妖之怒下载,众妖之怒礼包,众妖之怒攻略,众妖之怒安卓版, 众妖之怒ios版,东方奇幻动作手游." />
+<meta name="description" content="《众妖之怒》是一款Q版东方魔幻的3D大型动作RPG手机网游，拥有高品质的美术水准、创新的符文技能系统、炫爆眼球的跨服竞技，通过装备强化、技能升级、宠物养成以及参星悟道等创新玩法，提升自身的实力，体验到丰富多样的单人、多人副本挑战，更有单人轮回之塔等玩法，挑战你的自身极限，傲视群雄。" />
+<meta name="format-detection" content="telephone=no"/>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web/home/js/ismobile.js"></script>
+<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/web/home/css/style.css?v=9">
+<!--[if lt IE 6]>
+<script src="http://js.feiliu.com/static/zyzn/web/home/js/png.js"></script>
+<script>
+	PNG.fix('http://js.feiliu.com/static/zyzn/web/home/images/sprite.png');
+</script>
+<![endif]--> 
+</head>
+<body>
+<div id="index-wrap">
+	<div id="index-main">
+		<a class="logo" href="http://zyzn.feiliu.com/list/"></a>
+		<div class="slogan"></div>
+		<div class="video"></div>
+		<div id="index-menu">
+			<a class="menu-curr" href="http://zyzn.feiliu.com/list/zyzn_home.shtml">官网首页</a>
+			<a href="http://zyzn.feiliu.com/list/zyzn_list_feature.shtml">游戏特色</a>
+			<a href="http://zyzn.feiliu.com/list/zyzn_profession_manniu.shtml">职页介绍</a>
+			<a href="http://zyzn.feiliu.com/list/zyzn_activity.shtml">内测活动</a>
+			<a href="http://bbs.8783.com/forum-159-1.html">内测论坛</a>
+			<a href="http://game.feiliu.com/youxishequ/index.html?s=C08010000_App_shequ_908010000"><span></span>飞流社区</a>
+		</div>
+		<div class="index-download">
+			<div class="index-code">
+				<p>关注微信 精彩多多</p>
+				<span></span>
+			</div>
+			<div class="index-dl">
+				<a class="ios" href="http://zyzn.feiliu.com/download?cid=300021&type=2">
+					<span class="ios-code"></span>
+				</a>
+				<a class="android" href="http://zyzn.feiliu.com/download?cid=300021&type=5">
+					<span class="android-code"></span>
+				</a>
+			</div>
+		</div>
+
+		<div id="info">
+			<div id="focus">
+				<a href="javascript:void(0);" class=""><img src="http://js.feiliu.com/gameimg/zyzn/20150212180022.jpg" alt=""></a>
+				<a href="javascript:void(0);" class="disN"><img src="http://js.feiliu.com/gameimg/zyzn/20150212180130.jpg" alt=""></a>
+				<a href="javascript:void(0);" class="disN"><img src="http://js.feiliu.com/gameimg/zyzn/20150212180147.jpg" alt=""></a>
+				<a href="javascript:void(0);" class="disN"><img src="http://js.feiliu.com/gameimg/zyzn/20150212180226.jpg" alt=""></a>
+				<a href="javascript:void(0);" class="disN"><img src="http://js.feiliu.com/gameimg/zyzn/20150212180238.jpg" alt=""></a>
+				<div class="focus-tab-bg">
+					<span class="focus-tab focus-tab-curr"></span>
+					<span class="focus-tab"></span>
+					<span class="focus-tab"></span>
+					<span class="focus-tab"></span>
+					<span class="focus-tab"></span>
+				</div>
+			</div>
+
+			<div id="news">
+				<ul class="newswrap">
+					<li class="news-tab"><span class="nt1 nt1-curr"></span>最新</li>
+					<li class="news-tab"><span class="nt2"></span>新闻</li>
+					<li class="news-tab"><span class="nt3"></span>活动</li>
+					<li class="news-tab"><span class="nt4"></span>公告</li>
+					<li class="more"><a href="http://zyzn.feiliu.com/list/zyzn_list_news.shtml">+</a></li>
+					<li class="more disN"><a href="http://zyzn.feiliu.com/list/zyzn_list_news.shtml">+</a></li>
+					<li class="more disN"><a href="http://zyzn.feiliu.com/list/zyzn_list_hd.shtml">+</a></li>
+					<li class="more disN"><a href="http://zyzn.feiliu.com/list/zyzn_list_gg.shtml">+</a></li>
+				</ul>
+
+			<!--众妖之怒首页最新模板start-->
+				<!--#include virtual="/list/zyzn_home_zx.shtml"-->
+			<!--众妖之怒首页最新模板end-->
+
+			<!--众妖之怒首页新闻模板start-->
+				<!--#include virtual="/list/zyzn_home_news.shtml"-->
+			<!--众妖之怒首页新闻模板end-->
+
+			<!--众妖之怒首页活动模板start-->
+				<!--#include virtual="/list/zyzn_home_hd.shtml"-->
+			<!--众妖之怒首页活动模板end-->
+
+			<!--众妖之怒首页公告模板start-->
+				<!--#include virtual="/list/zyzn_home_gg.shtml"-->
+			<!--众妖之怒首页公告模板end-->
+
+			</div>
+
+			<div class="media">
+				<div class="media-title"><span></span>合作媒体</div>
+				<div class="mediawrap">
+					<ul class="media-auto">
+	            <li class="medialist"><a href="http://www.15666.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15666.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.yoyojie.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yoyojie.png" alt=""/></a></li> 
+            <li class="medialist"><a href="http://sj.xiaopi.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/xiaopi.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.bianwanjia.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/bianwanjia.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.benshouji.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/benshouji.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.anfan.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/安锋网.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.87g.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/87G-logo.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.72g.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/72G LOGO.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://ka.sina.com.cn/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/新浪游戏.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.mkzoo.com/ " target="_blank"><img src="http://js.feiliu.com/images/hzmt/猿.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.zhanggame.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/掌游网100-46.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.kela001.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/克拉手游100-46.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://mg.shunwang.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/顺网.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.youxiniao.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/游戏鸟.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.1688wan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/1688wan.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.aiyou.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/爱游.png" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.66u.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/66u-logo.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.4399.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/4399.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.yxzoo.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yxzoo.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.yoyou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yoyou.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.youxiduo.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/youxiduo.png" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.wankr.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/wankr.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://ol.tgbus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/tgbus.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.smzdwan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/smzdwan.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.shouyoubus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/shouyoubus.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.ptbus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/ptbus.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.play.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/play.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://sy.pcgames.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pcgames.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.mofang.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/mofang.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.maoren8.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/maoren8.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.joyme.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/joyme.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.gm86.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gm86.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.gao7.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gao7.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.gamedog.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gamedog.png" alt=""/></a></li> 
+            <li class="medialist"><a href="http://game.91.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/game91.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.g1080.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/g1080.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.ewoka.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/ewoka.png" alt=""/></a></li> 
+            <li class="medialist"><a href="http://games.enet.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/enet.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://i.china.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/china.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.candou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/candou.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.bufan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/bufan.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.banma.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/banma.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.appgame.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/appgame.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.anqu.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/anqu.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.97973.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/97973.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.61166.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/61166.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.18183.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/18183.png" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.5253.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/5253.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://sy.766.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/766.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.178.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/178.png" alt=""/></a></li> 
+            <li class="medialist"><a href="http://game.163.com/shouyou" target="_blank"><img src="http://js.feiliu.com/images/hzmt/163.gif" alt=""/></a></li> 
+            <li class="medialist"><a href="http://shouyou.52pk.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/52pk.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.18touch.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/18touch.png" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.7xz.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/7xz.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://games.qq.com/mobile/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/qq.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.shouyou.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/shouyou.jpg" alt=""/></a></li> 
+            <li class="medialist"><a href="http://www.15153.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15153.jpg" alt=""/></a></li> 
+						</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer">
+	<p class="aboutus">About.us | Copy right@北京飞流九天科技有限公司<br>
+			地址：北京市东城区和平里东街11号雍和航星科技园2号楼北侧3层   联系电话：010-84229729<br>
+			官方QQ群：263683777　　客服 QQ：800032234<br>
+			爱游戏，爱生活，也爱美女。<br>
+			飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！<br>
+			我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！<br>
+			Love is love!
+	</p>
+</div>
+<!--video-->
+<div class="video-sourse disN">
+	<div class="video-sourse-wrap">		
+		<div class="videoback">X</div>
+	</div>	
+</div>
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web/home/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web/home/js/js.js?v=2"></script>
+</html>

@@ -1,0 +1,132 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			游戏攻略
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			游戏攻略
+	        				        		</div>
+	    			<div class="infotitle">【就是要三国】攻略-介绍篇</div>
+		        	<div class="textTime">2014-10-17</div>
+		    		<div class="article">
+						<p class="MsoNormal">
+	<b>功能介绍篇</b><b><o:p></o:p></b> 
+</p>
+<p class="MsoNormal" style="text-align:center;">
+	<span lang="EN-US"><img src="http://i0.feiliu.com/image/20141017/20141017180548_57189.jpg" alt="" /><br />
+<!--[endif]--></span> 
+</p>
+<p class="MsoNormal">
+	1号区域从右往左（下面顺序均按此标准）分别是：<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 1）将令：相当于体力，随着的等级的提高将令的上限也会相应提高，每30分钟恢复1点；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 2）元宝：充值币，通过充值获得，也可通过一些任务奖励获得；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 3）银两：游戏币，通过税收、掠夺、山寨、副本、任务或活动奖励及元宝兑换获得；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 4）玩家属性，点击后弹出玩家的等级、声望、国号、官位等详细信息<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	2号区域分别是：<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 1）邮件：GM发送通知或一些奖励的地方便；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 2）活动：官方推出的一次任务和奖励；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 3）签到：每日一签<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	3号区域分别是：<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 1）战役：游戏副本；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 2）内政：税收、强化城池、补足兵力的地方；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 3）官位：玩家声望值达到某个标准后可以挑战，不扣将令，获胜后可以得到该官位，每日可以领取一定的元宝俸禄，而且据说官位的提高可以解锁高级兵种及获得更酷炫的议政厅背景图；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 4）兵科：达到某个官位后可以解锁更强力的兵种；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 5）排名：玩家战力排行榜，35级开启，玩家得到排名后每天可以获得相应的功勋奖励，目前已知获得功勋的方法之一；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 6）军报：当你的城池被别的玩家攻击后，在你上线时会获得该条军报，并给予你一个神圣的复仇按钮，然后……你懂的，不过要说的是对方在线或在被攻击保护的情况下，是无法复仇的！对了，当你的官位被被人抢了后也会获得军报，不过没有复仇按钮了喔。<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	4号区域分别是：<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 1）军团：玩家编队的地方，在将领足够的前提下可以组建多个团队，每个团队最少一名帅，最多放三名，分别是帅、将、谋；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 2）将领：玩家查看所有武将属性、强化及装备武将的地方；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 3）道具：玩家查看道具属性、强化及合炼升星的地方；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 4）集市：搜索道具、武将的地方，分别为99元宝和299元宝，每天可以免费99搜索三次，299搜索1次；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 5）任务：系统发放任务及奖励的地方，其中分成长任务及每日任务；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 6）功勋：玩家使用已有功勋兑换奖励的地方，有将魂、道具等，已知获得功勋的方法分别是排行奖励及掠夺他人城池获得；<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp; 7）战场：进入大地图的按钮<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	大地图中
+</p>
+<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20141017/20141017180602_83177.jpg" alt="" /> 
+</div>
+<p>
+	<br />
+</p>
+<p class="MsoNormal">
+	5号区域分别是：<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1）山寨：刷各种道具的地方，在自己的大地图上，一般每攻下一座新城池，在该城池的附近都会相应出现一个山寨，你可以通过点击大地图上的山寨图标进入，也可以通过5号区域的山寨按钮进入，每个山寨分为高、中、低三种难度，高级每天可战1次，中级每天可战2次，低级每天可战3次，刷完只能等第二天<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2）城池：在大地图上，插着自己旗帜的为自己的城，在城池上有双剑标识的是代表可以攻击的城，这些城池中都有NPC占守，按照路线图，每夺下一座城，就解锁下一个城池。点击自己的城池时驻守武将<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3）讨伐：可以掠夺别的玩家，不过对方必须要不在线，且与你的等级上下相差不到10级，成功讨伐就是你进入到敌对玩家的大地图上，将他已经攻下的城池按照路线图的方向一个一个拿下，每拿下一个城池就会得到该座城池现有的税收，并在他的城池上插上你的旗帜，他上线后如果不抢回去，他将收不到该城的税收，也刷不了与该城相关的山寨了，嘿嘿嘿，如果你能打下对方的主城，你还能获得该玩家所有银两的六分之一喔！不过要想占下对方的城池除了足够的战力外还需要足够的武将，因为在对方地图中你的每个武将只可以出战一次<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

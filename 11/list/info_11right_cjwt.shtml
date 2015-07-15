@@ -1,0 +1,64 @@
+                <div class="info_right">
+                    <h2 class="info_title">常见问题</h2>
+                    <div class="info_container">
+                        <p class="info_a">Q：这是个什么样的游戏？ </p>
+                        <p class="info_q">A：《冠军11人》是第一款拥有FIFPRO的正版授权的卡牌手游，所有球员以实名和真实照片形式化作卡牌，悉数登场！C罗，梅西，卡卡，贝尔，布冯……累计2000多名球星都可被你收入队中，并通过培养来打造理想中的超级豪门！ </p>
+                        <p class="info_a">Q：如何领取礼包？ </p>
+                        <p class="info_q">A：在游戏【首页】中右上角有【球哨】图标，点击【输入礼包码】，再点击【礼包】图标即可领取。 </p>
+                        <p class="info_a">Q：我该怎么变强？</p>
+                        <p class="info_q">A：通过【扭蛋】收集稀有度高的球员，并提升他们的属性，组建一支强大的队伍。
+</p>
+                        <p class="info_a">Q：比赛可以操控吗？</p>
+                        <p class="info_q">A：游戏本着“简单生活，简单游戏”的理念，手指轻松点几下，比赛自动进行。 </p>
+                        <p class="info_a">Q：这款足球手游的最低配置是什么？</p>
+                        <p class="info_q">A：本款游戏的最低配置为：512内存; 屏幕尺寸为800×480即可正常娱乐游戏。 </p>
+                        <p class="info_a">Q：人民币与金币的兑换比例是多少？ </p>
+                        <p class="info_q">A：游戏中的兑换比例为6RMB=1金球，兑换更多的金球还会获得额外的金球奖励。 </p>
+                        <p class="info_a">Q：怎么获得品质好的球员？ </p>
+                        <p class="info_q">A：在扭蛋里获得，使用普通扭蛋或高级扭蛋，高级扭蛋获得高品质球员的几率更高。 </p>
+                        <p class="info_a">Q：球员都有哪些品质?。 </p>
+                        <p class="info_q">A：球员根据稀有度分为N、R、S、SS、SCR和SW。稀有度越高球员的能力也越强。 </p>
+                        <p class="info_a">Q：TP如何恢复，TP的用途、TP的上限？</p>
+                        <p class="info_q">A：教练每升一级，会回满当前的TP；TP相当是游戏中的体力，参加世界巡回赛会消耗TP值；TP会随着等级上升也增加上限 </p>
+                        <p class="info_a">Q：球员如何培养？</p>
+                        <p class="info_q">A：消耗其他球员卡牌和道具也可以提升球员的等级。而通过消耗技能类道具还可以提升球员的技能。</p>
+                        <p class="info_a">Q：什么是球队阵容，球队阵容有哪些？</p>
+                        <p class="info_q">A：每个位置都要选择适合该位置的球员，阵型选择上尽量让自己高属性的球员放在适合的位置上。 </p>
+                        <p class="info_a">Q：豪门盛宴玩法怎么玩？ </p>
+                        <p class="info_q">A：点击主界面【CHAIN训练】就可以。</p>
+                        <p class="info_a">Q：阵容在哪里看？ </p>
+                        <p class="info_q">A：在游戏的主页面点击球员头像进行查看阵容。</p>
+                        <p class="info_a">Q：如何替换球员？ </p>
+                        <p class="info_q">A：在游戏的主界面点击球员头像进行查看阵容，点击编辑选择替换球员。</p>
+                        <p class="info_a">Q：如何接取任务？</p>
+                        <p class="info_q">A：在游戏的主界面向右滑动，进行任务界面，进行接取任务。 </p>
+                        <p class="info_a">Q：人民币与金币的兑换比例是多少？ </p>
+                        <p class="info_q">A：游戏中的兑换比例为6RMB=1金球，兑换更多的金球还会获得额外的金球奖励。 </p>
+                        <p class="info_a">Q：怎么获得品质好的球员？ </p>
+                        <p class="info_q">A：在扭蛋里获得，使用普通扭蛋或高级扭蛋，高级扭蛋获得高品质球员的几率更高。 </p>
+                        <p class="info_a">Q：球员都有哪些品质?。 </p>
+                        <p class="info_q">A：球员根据稀有度分为N、R、S、SS、SCR和SW。稀有度越高球员的能力也越强。 </p>
+                        <p class="info_a">Q：TP如何恢复，TP的用途、TP的上限？</p>
+                        <p class="info_q">A：教练每升一级，会回满当前的TP；TP相当是游戏中的体力，参加世界巡回赛会消耗TP值；TP会随着等级上升也增加上限 </p>
+                        <p class="info_a">Q：球员如何培养？</p>
+                        <p class="info_q">A：消耗其他球员卡牌和道具也可以提升球员的等级。而通过消耗技能类道具还可以提升球员的技能。</p>
+                        <p class="info_a">Q：什么是球队阵容，球队阵容有哪些？</p>
+                        <p class="info_q">A：每个位置都要选择适合该位置的球员，阵型选择上尽量让自己高属性的球员放在适合的位置上。 </p>
+                        <p class="info_a">Q：豪门盛宴玩法怎么玩？ </p>
+                        <p class="info_q">A：点击主界面【CHAIN训练】就可以。</p>
+                        <p class="info_a">Q：阵容在哪里看？ </p>
+                        <p class="info_q">A：在游戏的主页面点击球员头像进行查看阵容。</p>
+                        <p class="info_a">Q：如何替换球员？ </p>
+                        <p class="info_q">A：在游戏的主界面点击球员头像进行查看阵容，点击编辑选择替换球员。</p>
+                        <p class="info_a">Q：GP是干什么用的？</p>
+                        <p class="info_q">A：游戏中参加豪门盛宴玩法时会消耗。 </p>
+                        <p class="info_a">Q：豪门盛宴玩法能得到什么？</p>
+                        <p class="info_q">A：提升技能的道具、金钱。</p>
+                        <p class="info_a">Q：世界巡回赛能得到什么？ </p>
+                        <p class="info_q">A：可以获得金币,进化材料。提升技能材料、战术卡。</p>
+                        <p class="info_a">Q：杯赛会得到什么？</p>
+                        <p class="info_q">A：战术道具和强化技能的材料。</p>
+             
+
+                    </div>
+                </div>

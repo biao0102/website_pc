@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">隐私政策</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-09-18 11:51:59</span>
+																			</div>
+									<div class="w-d">
+										<p class="MsoNormal">
+	&nbsp;《三国战神》游戏（以下简称“本游戏”）隐私权保护声明系本游戏保护用户个人隐私的承诺。本声明适用于您与本游戏页面的交互行为以及您登记和使用本游戏的在线服务。故特此说明本游戏对用户个人信息所采取的收集、使用和保护政策，请您务必仔细阅读：<br />
+<br />
+1. 使用者个人化信息<br />
+&nbsp; 我们将通过您的操作请求来收集非个人化的信息，例如：您的登录时间、登出时间、以及给您提供接入游戏服务器等。通过收集上述信息，我们亦进行游戏访客盒用户的流量统计，从而改进游戏的设计和提高服务水平。<br />
+<br />
+2. 个人资料<br />
+&nbsp; 当您在本游戏进行用户注册或登录时，在您的同意及确认下，本游戏将通过注册表格、订单等形式要求您提供一些个人资料。这些个人资料包括：<br />
+个人识别资料：如电话、电子邮件地址等情况。<br />
+在未经您同意及确认之前，本游戏不会将您为参加本游戏所提供的资料利用于其它任何目的。<br />
+<br />
+3．信息安全<br />
+&nbsp; 本游戏将对您所提供的资料进行严格的管理及保护，本游戏站将使用相应的技术，防止您的个人资料丢失、被盗用或遭窜改。本游戏将电脑处理结果通知送达予您，而您未在通知规定的时间内主动明示反对，本游戏将推定您已同意。<br />
+<br />
+4. 用户权利<br />
+&nbsp; 您对于自己的个人资料享有以下权利：<br />
+&nbsp; 随时查询及请求阅览；<br />
+&nbsp; 随时请求补充或更正；<br />
+&nbsp; 随时请求停止电脑处理及进行删除；<br />
+<br />
+5. 限制利用原则<br />
+&nbsp; 本游戏惟在符合下列条件之一，方对收集之个人资料进行必要范围以外之利用：<br />
+&nbsp; 已取得您的邮件书面同意；<br />
+&nbsp;&nbsp;为免除您在生命、身体或财产方面之急迫危险；<br />
+&nbsp; 为防止他人权益之重大危害；<br />
+&nbsp; 为增进公共利益，且无害于您的重大利益。<br />
+<br />
+6. 个人资料之披露<br />
+&nbsp; 当政府机关依照法定程序要求本游戏披露个人资料时，本游戏将根据执法单位之要求或为公共安全之目的提供个人资料。在此情况下之任何披露，本游戏均得免责。<br />
+<br />
+7. Email地址<br />
+&nbsp; 不经过你明确的允许，本游戏不在任何游戏页面公开，也不向任何外部实体和个人透露你的email地址。你的email地址的用途限于辨别你的身份和保证在你忘记密码的时候能恢复你在本游戏的身份和数据。在游戏的更新、活动或紧急意外出现时，本游戏会向你发出email. 除此之外任何向你email的发送必须经过你明确的许可。<br />
+<br />
+本“隐私保护”最终解释权由《三国战神》项目组所有。
+</p>
+<div>
+	<br />
+</div>
+<p>
+	<br />
+</p>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

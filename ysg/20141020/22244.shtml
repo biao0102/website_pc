@@ -1,0 +1,37 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        		</div>
+	    			<div class="infotitle">超可爱Q版造型 视觉不再疲劳</div>
+		        	<div class="textTime">2014-10-20</div>
+		    		<div class="article">
+						<p style="text-indent:2em;">
+	超可爱的Q版人设、卡牌式的武将展现！以三国历史为背景的《<span >就是要三国</span>》力求让人们拥有轻松游戏的乐趣，在对三国时代诸多名望实力俱佳的名将、城池、士兵、装备等等视觉元素进行全新塑造时，采用了Q版这一卡通型的风格。清新的风格不止能大幅减低玩家长时间游戏的视觉疲劳，可爱的外形更会让心情愉悦。游戏的乐趣不就在于此吗？
+</p>
+<div style="text-align:center;">
+	<span style="text-indent:2em;"></span><br />
+</div>
+<p>
+	<br />
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

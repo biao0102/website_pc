@@ -1,0 +1,13 @@
+    	<div class="side">
+        	<a class="down-ios" href="#">iOS版下载</a>
+            <a class="down-yueyu" href="http://qmdjh.feiliu.com/count/download.php?cid=300021&type=2" target="_blank">越狱版下载</a>
+            <a class="down-android" href="http://qmdjh.feiliu.com/count/download.php?cid=300021&type=5" target="_blank">Android版下载</a>
+            <a class="btn-bbs" href="#">贴吧入口</a>
+            <div class="weixin">
+            	<img src="http://js.feiliu.com/static/qmdjh/images/qrcode_weixin.png" />
+            	<p>全民斗江湖微信号<br />敬请期待!</p>
+            </div>
+            <div class="lianxi">
+            	<p>官方交流群：367781165<br />客 服 Q  Q ： 800032234<br />客 服 邮 箱 ：800032234@b.qq.com</p>
+            </div>
+        </div>

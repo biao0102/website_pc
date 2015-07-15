@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="冠军11人，冠军11人官网， 冠军11人下载，冠军11人礼包，冠军11人攻略，冠军11人安卓版， 冠军11人ios版，巴西世界杯第一足球卡牌手游" />
+    <meta name="description" content="冠军11人手游是正版授权足球卡牌手游，随时随地与2000多正版授权球员同场竞技！参加世界巡回赛，亲临世界6大联赛，参加世界各地俱乐部的友谊赛来提升实力，体验世界杯冠军球员的成长之路。冠军11人官网提供冠军11人下载，ios安卓礼包发放，冠军11人攻略" />
+    <title>《冠军11人》巴西世界杯第一正版授权足球卡牌手游__冠军11人官网</title>
+    <link href="http://js.feiliu.com/static/11/style/master.css?v=1423" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!--信息帮助头部导航开始-->
+		<!--#include virtual="/list/info_11_nav.shtml"-->
+	<!--信息帮助头部导航结束-->
+    <div class="wrap info_wrap">
+        <div class="info_content">
+            <div class="content_kong info_kong">
+                <div id="flash_box"></div>
+            </div>
+            <div class="info_main clearfix">
+				<!--信息帮助左侧导航开始-->
+					<!--#include virtual="/list/info_11_leftnav.shtml"-->
+				<!--信息帮助左侧导航结束-->
+				<!--信息帮助左侧导航开始-->
+					<!--#include virtual="/list/info_11right_cjwt.shtml"-->
+				<!--信息帮助左侧导航结束-->
+            </div>
+        </div>
+    </div>
+	<!--公共底部开始-->
+        <!--#include virtual="/list/index_11_footer.shtml"-->
+	<!--公共底部结束-->
+</body>
+</html>

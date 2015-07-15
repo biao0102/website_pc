@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_活动</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">《三国战神》与您共战世界杯</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-06-26 15:54:38</span>
+																			</div>
+									<div class="w-d">
+										各位少侠：<br />
+<br />
+　　四年一度的世界杯已经来临，让即使是身处三国的我们，也能在这战火纷飞的世界中感受到世界杯的热情。让我们与世界杯共战！<br />
+<br />
+活动时间：<br />
+6月17日--7月14日<br />
+<br />
+活动范围：<br />
+IOS越狱全区全服<br />
+<br />
+活动规则：<br />
+活动期间内，只要关注飞流《三国战神》官方微信，并回复【三国战神世界杯】这七个字，即可立即获得世界杯超值礼包码！更有几率获得双倍！三倍！四倍甚至五倍的礼包码奖励！<br />
+<br />
+活动奖励：<br />
+在世界杯期间，如当日有世界杯比赛，我们将从当日在微信回复过的玩家中抽取幸运玩家赠送《三国战神》世界杯礼包奖励！<br />
+<br />
+注：当日与三国战神官方微信有过互动即可，回复内容不限<br />
+<br />
+小组赛期间抽取5玩家赠送双倍礼包<br />
+1/8决赛抽取4名玩家赠送双倍礼包<br />
+1/4决赛抽取4名玩家赠送三倍礼包<br />
+1/2决赛丑角3玩家赠送四倍礼包<br />
+最终决赛抽取1名玩家赠送五倍礼包一个！<br />
+<br />
+所有回复【三国战神世界杯】这七个字的玩家均可获得：
+<p>
+	&nbsp;
+</p>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

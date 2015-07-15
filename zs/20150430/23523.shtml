@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">《三国战神》1.10.1版本更新公告</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2015-04-30 17:35:26</span>
+																			</div>
+									<div class="w-d">
+										亲爱的玩家们：<br />
+&nbsp; &nbsp; 大家好！感谢大家长久以来对《三国战神》的支持！<br />
+<span>&nbsp; &nbsp;&nbsp;</span>我们非常高兴的通知大家，新版本1.10.1版本已经通过AppStore的审核，我们预计在五一假期结束之后一周之内对游戏进行更新！具体更新时间请大家密切留意官方公告！再次感谢广大玩家朋友们对《三国战神》一如既往的支持和厚爱！相信我们会做的更好！<br />
+<span>&nbsp; &nbsp;&nbsp;</span>更新内容如下：<br />
+<span>&nbsp; &nbsp;&nbsp;</span>新增内容<br />
+一、新增群英会魔化副本。<br />
+&nbsp; &nbsp; 副本名为：魔化孙策、魔化张飞、魔化司马懿、魔化关羽<br />
+&nbsp; &nbsp; 参与等级：82、84、87、90<br />
+&nbsp; &nbsp; 特殊设置：魔化关卡群英会，死亡后，直接退出副本<br />
+&nbsp; &nbsp; 难度系数：★★★★★（建议组队-四人队伍）<br />
+&nbsp; &nbsp; <span >群英会副本</span>产出天意石、炼丹药，材料用于灵脉修炼<br /><img src="http://i0.feiliu.com/image/20150430/20150430173246_95557.jpg" alt="" /><br />
+<br />
+二、新增福运红包，参加活动可获得元宝奖励。<br />
+<br />
+三、新增灵脉丹药系统。<br />
+&nbsp; &nbsp; 开放等级:60级<br /><img src="http://i0.feiliu.com/image/20150430/20150430173301_69167.jpg" alt="" /><img src="http://i0.feiliu.com/image/20150430/20150430173302_11732.jpg" alt="" /><img src="http://i0.feiliu.com/image/20150430/20150430173302_63466.jpg" alt="" /><img src="http://i0.feiliu.com/image/20150430/20150430173302_19486.jpg" alt="" /><br />
+<br />
+四、新增占星位“紫薇”（84级开放）。“廉贞”（90级开放）。<br /><img src="http://i0.feiliu.com/image/20150430/20150430173318_12920.jpg" alt="" /><br />
+<br />
+五、新增“经验地图”、“铜钱地图”。<br /><img src="http://i0.feiliu.com/image/20150430/20150430173330_77028.jpg" alt="" /><br />
+<br />
+六、新增角色改名卡。<br />
+&nbsp; &nbsp; 1.玩家使用改名卡后，游戏中角色名将即时变为修改后的名称，但游戏中排行榜的名字需要等排行榜刷新时才会发生变化。&nbsp;<br />
+&nbsp; &nbsp; 2.修改角色名限制。<br />
+&nbsp; &nbsp; &nbsp;a.不能出现非法字符。<br />
+&nbsp; &nbsp; &nbsp;b.不能修改为服务器中已有的角色名。<br />
+&nbsp; &nbsp; 3.改名卡使用条件。<br />
+&nbsp; &nbsp; &nbsp;a.无等级限制。<br />
+&nbsp; &nbsp; &nbsp;b.使用改名卡后需间隔7天才能再次使用。<br />
+&nbsp; &nbsp; 4.改名卡产出途径。<br />
+&nbsp; &nbsp; &nbsp;a.商城产出：1000元宝。<br /><img src="http://i0.feiliu.com/image/20150430/20150430173343_73862.jpg" alt="" /><br />
+<br />
+七、新增宠物系统，65级开启。<br />
+&nbsp; &nbsp; 1.宠物系统在65级开启，玩家会得到系统赠与的碎片并尝试合成第一个宠物 宠物最多拥有10只。<br />
+&nbsp; &nbsp; 2.宠物可以通过喂养提升等级,宠物升到20级,60级会产生发生进化,喂养中有几率发生技能领悟。<br />
+&nbsp; &nbsp; 3.宠物最多拥有3个技能,可以通过技能书学习新的技能，也可以遗忘不需要技能来学习新的技能。<br />
+&nbsp; &nbsp; 4.玩家可以使用同星,同级,同种族宠物提升宠物星级,星级影响宠物当前最大等级提升。<br />
+&nbsp; &nbsp; 5.碎片收集到一定数量可以在宠物图鉴中换取对应宠物 。<br />
+&nbsp; &nbsp; 6.宠物技能书商城产出。<br /><img src="http://i0.feiliu.com/image/20150430/20150430173410_58613.jpg" alt="" /><br />
+<br />
+八、新增日常活动“灵兽秘境”。<br />
+&nbsp; &nbsp; 1.参与等级：65<br />
+&nbsp; &nbsp; 2.通过活动面板进入。<br />
+&nbsp; &nbsp; 3.每层关卡有通关限时，必须在限定时间内击败特殊BOSS方可通关。<br />
+&nbsp; &nbsp; 4.通关后根据层数可以获得铜钱，经验，各类宠物碎片。<br /><img src="http://i0.feiliu.com/image/20150430/20150430173421_94205.jpg" alt="" /><br />
+<br />
+九、新增帮派名修改卡。<br />
+&nbsp; &nbsp; 1.玩家使用改名卡后，游戏中帮派名将即时变为修改后的名称，但游戏中排行榜涉及到的帮会名字信息需要等排行榜刷新时才会发生变化。<br />
+&nbsp; &nbsp; 2.修改帮名限制。<br />
+&nbsp; &nbsp; &nbsp;a.不能出现非法字符。<br />
+&nbsp; &nbsp; &nbsp;b.不能修改为服务器中已有的帮派名。<br />
+&nbsp; &nbsp; 3.改名卡使用条件。<br />
+&nbsp; &nbsp; &nbsp;a.无等级限制。<br />
+&nbsp; &nbsp; &nbsp;b.使用改名卡后需间隔7天才能再次使用。<br />
+&nbsp; &nbsp; &nbsp;c.只有帮主才能使用。<br />
+&nbsp; &nbsp; 4.帮名修改卡产出途径<br />
+&nbsp; &nbsp; &nbsp;a.商城产出：2000元宝。<br /><img src="http://i0.feiliu.com/image/20150430/20150430173433_49159.jpg" alt="" /><br />
+<br />
+十、新增三国人数限制功能（平衡三国）。<br />
+&nbsp; &nbsp; 新增选择国家规则<br />
+&nbsp; &nbsp; 1.国家新增人数上限循环:当前共有三个国家，国家达到上限则新进入玩家不可选该国家为效力国家，当三个国家人数都达到上限，开放下一个新上限。<br />
+&nbsp; &nbsp; &nbsp;a.例：国家上限人数设置为50，以10为基数循环，A,B增加人数都到达10人此时只能加入C国家，假如都有10人加入继续以10为基数循环，假如三国满50人后开启下一轮选国，人数设置为100，以10为基数循环，以此类推。<br />
+&nbsp; &nbsp; 2.老区已加入国家的玩家并不计入当前规则人数中。<br />
+&nbsp; &nbsp; 玩家选择规则<br />
+&nbsp; &nbsp; 1.自主选择（遵守上述选国规则）<br />
+&nbsp; &nbsp; 2.随机加入<br />
+&nbsp; &nbsp; &nbsp;a.当其中一国满足上限则不会再随机到该国，只会随机到没达到上限的国家。以此类推。<br />
+<br />
+优化内容<br />
+1、优化客户端性能，减少闪退发生。<br />
+2、限购翻倍机制修改，可以隔次清除前一次的限购档位记录。<br />
+3、解决了充值闪退后无法登陆游戏的问题。<br />
+<div>
+	<br />
+<br />
+<br />
+<span>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组</span><br />
+<span>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 &nbsp;2015.4.30</span><br />
+</div>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

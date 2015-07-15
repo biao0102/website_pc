@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>开服在即 全民世界杯竞猜 </h1>
+                        <span>2014-07-08</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal">
+	建议加入战魂西游交流群：<span>234643062</span>，寻找志同道合的伙伴，一起关注战魂西游！<span></span> 
+</p>
+<p class="MsoNormal" align="left">
+	加入战魂西游官方微信：<span>ZHXYOL</span>，精彩活动抢先知晓！<b></b> 
+</p>
+<p class="MsoNormal">
+	<b>&nbsp;</b> 
+</p>
+<p class="MsoNormal">
+	四年一次的世界杯实在是一场全球狂欢盛宴，《战魂西游》的小伙伴们也有在关注哦<span>~~</span>既然如此，来场全民疯狂竞猜吧！<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	<b>参与活动请戳：</b> 
+</p>
+<p class="MsoNormal">
+	官网：<span><a href="http://bbs.8783.com/thread-53168-1-1.html" target="_blank">http://bbs.8783.com/thread-53168-1-1.html</a></span> 
+</p>
+<p class="MsoNormal">
+	九游：<span><a href="http://bbs.9game.cn/thread-5987603-1-1.html" target="_blank">http://bbs.9game.cn/thread-5987603-1-1.html</a></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	【活动内容】<span></span> 
+</p>
+<p class="MsoNormal">
+	竞猜本届世界杯的冠军队伍以及《战魂西游》内测开服日期，猜中即有机会获得现金豪礼哦！
+</p>
+<p class="MsoNormal">
+	【参与方式】<span></span> 
+</p>
+<p class="MsoNormal">
+	在论坛跟帖回复<b>冠军团队<span>+</span>游戏开服日期</b> 
+</p>
+<p class="MsoNormal">
+	【活动时间】<span></span> 
+</p>
+<p class="MsoNormal">
+	2014年<span>7</span>月<span>7</span>日 —— <span>7</span>月<span>13</span>日<span>23</span>∶<span>59</span> 
+</p>
+<p class="MsoNormal">
+	【活动奖励】<span></span> 
+</p>
+<p class="MsoNormal">
+	一等奖（<span>1</span>名，在全部猜对的名单中随机抽取）：<span>200</span>元京东购物卡<span><br />
+</span>二等奖（<span>2</span>名，在猜对开服时间的名单中随机抽取）：<span>100</span>元京东购物卡<span><br />
+</span>三等奖（<span>3</span>名，在猜对冠军队伍的名单中随机抽取）：<span>50</span>元京东购物卡<span></span> 
+</p>
+<p class="MsoNormal">
+	参与奖：游戏内惊喜礼包激活码<span></span> 
+</p>
+<p class="MsoNormal">
+	<b></b> 
+</p>
+<p class="MsoNormal">
+	<b>东卡等你来拿哦：</b> 
+</p>
+<p class="MsoNormal">
+	官网：<span><a href="http://bbs.8783.com/thread-53168-1-1.html" target="_blank">http://bbs.8783.com/thread-53168-1-1.html</a></span> 
+</p>
+<p class="MsoNormal">
+	九游：<span><a href="http://bbs.9game.cn/thread-5987603-1-1.html" target="_blank">http://bbs.9game.cn/thread-5987603-1-1.html</a></span> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

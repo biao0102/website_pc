@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">堪比“罗伯托·卡洛斯”《战地坦克》自行火炮详解</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-07-10</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <p>
+	本届世界杯巴西与德国的这场“传奇比赛”不禁让人缅怀起巴西球队当年的风采。提到巴西队，不能不让我们想到罗伯托·卡洛斯，而你知道吗，《战地坦克》中其实也有着堪比卡洛斯的作战单位，那就是擅长远程进攻的自行火炮。《战地坦克》是由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团策略手游，看巴西世界杯，玩《战地坦克》体验真男人的浪漫！
+</p>
+<p>
+	《战地坦克》游戏官网：tk.feiliu.com<br />
+《战地坦克》ios版下载：<a href="https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8">https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8</a><br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140710/20140710101325_55736.jpg" /><br />
+罗伯托·卡洛斯，国际足坛的传奇人物，被认为是世界最好的左后卫，曾在2002年夺得大力神杯。最被人称道的左脚长距离传中和任意球十分犀利，速度奇快，体力充沛，在左路助攻强劲，防守中的铲球也很突出。<br /><img alt="" src="http://i0.feiliu.com/image/20140710/20140710101347_86712.jpg" /><br />
+如同这位世界上最好的左后卫一样，《战地坦克》擅长远程进攻的自行火炮同样是“最强11人阵容”最出色的后卫。历年世界杯的经验告诉我们，只会进攻的球队永远与冠军无缘。《战地坦克》的自行火炮凭借强大的复数攻击能力，第一时间削减对方的锋线力量、减少后方压力。<br /><img alt="" src="http://i0.feiliu.com/image/20140710/20140710101409_97490.jpg" /><br />
+不仅如此，自行火炮与卡洛斯一样更精通助攻之道，越是艰巨的战斗越能体现它猛烈轰击下撕裂对手防线的威力。当然，《战地坦克》“任意球大师”的头衔也是非自行火炮莫属，精准的命中、无法忽视的杀伤力，确保了自行火炮“指哪打哪”的最大特点。<br /><img alt="" src="http://i0.feiliu.com/image/20140710/20140710101436_50604.jpg" /><br />
+其实《战地坦克》中不仅有最佳后卫自行火炮，包括前锋主战坦克、前腰歼击车以及门将火箭车等等“最强11人阵容”可谓应有尽有，作为这支世界杯队伍灵魂的你，需要结合他们的特点以及对手的情报，编排阵型、调整军团战车比例、发展科技扬长避短，各种策略考虑周全，才能真正发挥出最强阵容的全部威力！<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140710/20140710101513_34805.jpg" /><br />
+<br />
+真实再现世界经典坦克，策略战术演绎装甲军团战争艺术，攻城略地抢夺资源称霸战场，首款坦克军团策略手游《战地坦克》火爆来袭，坦克大战，一触即发，钢铁雄狮引擎已经发动，只等各位指挥官下达出击指令！
+</p>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/js.js"></script>
+<body>
+<div id="wrap">
+	<div id="main">
+		<div class="main-wrap">	
+			<!--导航模板start-->
+				<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+			<!--导航模板end-->
+			<!--下载模板start-->
+				<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+			<!--下载模板end-->
+			<!--栏目模板start-->
+				<!--#include virtual="/list/list_ttdqy_col.shtml"-->
+			<!--栏目模板end-->
+		</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

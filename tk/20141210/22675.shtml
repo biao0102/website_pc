@@ -1,0 +1,226 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《战地坦克》坦克属性克制表</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-12-10</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	坦克：加全体友军伤害。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	歼击车：加全队友军暴击<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	自行火炮：减少全体友军收到的各类伤害。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	火箭车：减少受到的友军伤害。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<br />
+坦克：对火箭车造成125%的伤害。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	歼击车：对坦克造成125%的伤害。对自行炮火造成80%的伤害。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	自行炮火：对歼击车造成125%的伤害，对坦克造成80%的伤害。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	火箭车：对自行炮火造成125%的伤害，对歼击车造成80%的伤害。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<br />
+坦克--装甲王者<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->1、<!--[endif]-->轻型坦克：对火箭车伤害加成。增加己方所有部队伤害的5%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->2、<!--[endif]-->中型坦克：对火箭车伤害加成。增加己方所有部队伤害的10%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->3、<!--[endif]-->重型坦克：对火箭车伤害加成。增加己方所有部队伤害的15%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->4、<!--[endif]-->豹式坦克：对火箭车伤害加成。增加己方所有部队伤害的20%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->5、<!--[endif]-->天启坦克：对火箭车伤害加成。增加己方所有部队伤害的25%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->6、<!--[endif]-->鼠式坦克：受坦克工厂中制造的坦克伤害减少，增加己方所有部队的防护24<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->7、<!--[endif]-->59式坦克：不会被任何坦克克制。增加己方所有部队装甲的30%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->8、<!--[endif]-->虎王坦克-火力压制：对火箭车有伤害加成。命中后可令目标攻击减少5%。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->9、<!--[endif]-->虎式坦克：对火箭车有极大的伤害加成，可减少己方所有部队受到的伤害10%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;<span ><img src="http://i0.feiliu.com/image/20141210/20141210164929_13296.jpg" alt="" /></span>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	歼击车--穿甲之王<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->1、<!--[endif]-->轻型歼击车:对坦克有伤害加成，可增加己方所有部队的暴击5%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->2、<!--[endif]-->中型歼击车:对坦克有伤害加成，可增加己方所有部队的暴击10%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->3、<!--[endif]-->重型歼击车:对坦克有伤害加成，可增加己方所有部队的暴击15%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->4、<!--[endif]-->追猎者歼击车:对坦克有伤害加成，可增加己方所有部队的暴击20%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->5、<!--[endif]-->猛虎歼击车:对坦克有伤害加成，可增加己方所有部队的暴击25%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->6、<!--[endif]-->斗狼歼击车-电能护盾:对坦克有伤害加成，命中目标后自身制造一个可吸收伤害的护盾，持续一回合，可增加己方部队的暴击25%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->7、<!--[endif]-->黑鹰歼击车:对坦克工厂中制造的坦克有额外伤害，可增加己方所有部队命中15%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->8、<!--[endif]-->秃鹫歼击车:对坦克工厂中制造的坦克有额外伤害，命中后伤害加10%，可叠加3层，如对方闪避则失效，己方全体命中加20%。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->9、<!--[endif]-->挖掘机:提高野外矿点采集速度，队伍中的挖掘机越多采集速度越快<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->10、<!--[endif]-->谢尔曼:对坦克有极大的伤害加成，可增加地方所有部队受到的伤害10%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;"><img src="http://i0.feiliu.com/image/20141210/20141210164918_66732.jpg" alt="" /><br />
+自行炮火-爆裂之主<br />
+<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->1、<!--[endif]-->轻型自行火炮:对歼击车有伤害加成，可减少敌方所有部队的伤害5%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->2、<!--[endif]-->中型自行火炮:对歼击车有伤害加成，可减少敌方所有部队的伤害10%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->3、<!--[endif]-->重型自行火炮:对歼击车有伤害加成，可减少敌方所有部队的伤害15%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->4、<!--[endif]-->野蜂自行火炮:对歼击车有伤害加成，可减少敌方所有部队的伤害20%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->5、<!--[endif]-->黑豹自行火炮:对歼击车有伤害加成，可减少敌方所有部队的伤害25%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->6、<!--[endif]-->猛犸自行火炮-精准打击:对歼击车有伤害加成，命中后可令目标闪避减少10%，连击可额外造成10%伤害<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->7、<!--[endif]-->T90自行火炮:对黑鹰有极大的额外伤害，可增加己方所有部队的闪避15%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->8、<!--[endif]-->T99自行火炮-反应力场:黑鹰有极大的额外伤害，被攻击命中后，将减少下一次所受到的伤害。可增加己方所有部队的闪避20%。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->9、<!--[endif]-->突击虎自行火炮:对鼠式坦克有额外伤害，可增加己方所有部队的击破24<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;"><img src="http://i0.feiliu.com/image/20141210/20141210164859_52382.jpg" alt="" /><br />
+火箭车--全爆之神<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->1、<!--[endif]-->轻型火箭车:对自行火炮有额外伤害，可减少对方的火箭伤害5%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->2、<!--[endif]-->中型火箭车:对自行火炮有额外伤害，可减少对方的火箭伤害10%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->3、<!--[endif]-->重型火箭车:对自行火炮有额外伤害，可减少对方的火箭伤害15%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->4、<!--[endif]-->冰雹火箭车:对自行火炮有额外伤害，可减少对方的火箭伤害20%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->5、<!--[endif]-->尖啸者火箭车:对自行火炮有额外伤害，可减少对方的火箭伤害25%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->6、<!--[endif]-->怒狮火箭车-燃烧攻击:对自行火炮有伤害加成，命中后可令目标起火，持续5回合，每回合损失之前伤害总值的3%，可减少敌方的火箭车伤害25%<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	<!--[if !supportLists]-->7、<!--[endif]-->飓风火箭车：对自行火炮有额外伤害，可减少敌方所有部队的闪避10%<br /><img src="http://i0.feiliu.com/image/20141210/20141210164958_38091.jpg" alt="" /><br />
+<span ></span><span >《战地坦克》游戏官网：http://tk.feiliu.com</span><br  />
+<span >《战地坦克》iOS正版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8</span><br  />
+<span >《战地坦克》iOS越狱版下载：http://js.feiliu.com/ipa/tk/tk_300021.ipa</span><span ><br />
+<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;最终解释权，归战地坦克项目组所有。<br />
+</span>
+</p>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

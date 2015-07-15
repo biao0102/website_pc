@@ -1,0 +1,30 @@
+<div class="left">
+                    <div class="zybox">
+                        <div class="zybox_img">
+                            <span class="prev" id="prev">上一页</span>
+                            <span class="next" id="next">下一页</span>
+                            <ul class="zyimg_list" id="zyimg_list">
+                                <li>
+                                    <img src="http://js.feiliu.com/static/mojie/images/index/zy01.jpg?v=1" alt="" /></li>
+                                <li>
+                                    <img src="http://js.feiliu.com/static/mojie/images/index/zy02.jpg" alt="" /></li>
+                                <li>
+                                    <img src="http://js.feiliu.com/static/mojie/images/index/zy03.jpg" alt="" /></li>
+                                <li>
+                                    <img src="http://js.feiliu.com/static/mojie/images/index/zy04.jpg" alt="" /></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="videobox">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/sp.jpg" alt="" />
+                        </div>
+                    </div>
+                    <div class="hdsq">
+                        <div class="weixin">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/mojie_weixin.jpg" alt="" />
+                        </div>
+                        <div class="weibo">微 信 号：mojie_ol<a href="#" target="_blank" class="xinlang">新浪微博</a></div>
+                        <div class="weibo">客服QQ：800032234<a href="#" target="_blank" class="tengxun">腾讯微博</a></div>
+                    </div>
+                </div>

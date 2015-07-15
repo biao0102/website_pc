@@ -1,0 +1,31 @@
+    <div id="marea01"> 
+      <!--新闻资讯-->
+      <div id="newsbox">
+        <div class="tab-menu"> <a href="javascript:;"  class="cur">全部</a> <a href="javascript:;" class="">新闻</a> <a href="javascript:;">媒体</a> <a href="javascript:;">公告</a> </div>
+        <a href="http://sgyy.feiliu.com/list/list_sgyy_all.shtml" class="tab-more">更多</a>
+        <div class="tab-ctn">
+			<!--首页中部新闻栏目全部模板start-->
+				<!--#include virtual="/list/index_sgyy_allcol.shtml"-->
+			<!--首页中部新闻栏目全部模板end-->
+        </div>
+        <div class="tab-ctn">
+			<!--首页中部新闻栏目新闻模板start-->
+				<!--#include virtual="/list/index_sgyy_newscol.shtml"-->
+			<!--首页中部新闻栏目新闻模板end-->
+			<!--首页中部新闻栏目媒体模板start-->
+				<!--#include virtual="/list/index_sgyy_mtcol.shtml"-->
+			<!--首页中部新闻栏目媒体模板end-->
+			<!--首页中部新闻栏目公告模板start-->
+				<!--#include virtual="/list/index_sgyy_ggcol.shtml"-->
+			<!--首页中部新闻栏目公告模板end-->
+          
+        </div>
+       
+      </div>
+      <!--新闻资讯 end--> 
+      <!--轮播图-->
+			<!--首页轮播图模板start-->
+				<!--#include virtual="/list/index_sgyy_lb.shtml"-->
+			<!--首页轮播图模板end-->
+      <!--轮播图--> 
+    </div>

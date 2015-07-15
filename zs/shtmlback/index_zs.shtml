@@ -1,0 +1,614 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网首页</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/index.css?v=1143">
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/is_mobile.js?v=1"></script>
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time","section"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="warp">
+		<!--首页头部导航模板开始-->
+			  <div class="headerT1">
+    <nav>
+      <ul>
+        <li><a href="http://zs.feiliu.com/list/index_zs.shtml" target="_blank">首页</a></li>
+        <li><a href="http://zs.feiliu.com/list/list_zs_allzx.shtml" target="_blank">资讯中心</a></li>
+        <li><a href="http://zs.feiliu.com/list/down_zs.shtml" target="_blank">下载专区</a></li>
+        <li class="sub"><a href="http://zs.feiliu.com/list/list_zs_zl.shtml">资料大全</a>
+        	<div class="sub-forbg"></div>
+        	<div class="sub-box">
+            	<a href="http://zs.feiliu.com/list/list_zs_zl.shtml">资料站</a>
+                <a href="#">新手指南</a>
+                <a href="http://zs.feiliu.com/list/focus_zs_list.shtml">职业专题</a>
+                <a href="http://zs.feiliu.com/list/video_zs_yxsp.shtml" class="nobor">游戏视频</a>
+            </div>
+        </li>
+        <li><a href="#" target="_blank">服务中心</a></li>
+        <li><a href="http://bbs.8783.com/forum-70-1.html" target="_blank">社区中心</a></li>
+      </ul>
+    </nav>
+  </div>
+		<!--首页头部导航模板结束-->
+		
+		<!--首页头部背景图模板开始-->
+				<div class="showbg"> 
+		<img src="http://js.feiliu.com/static/zs/images/index_imgbg_01.jpg"> 
+		<img src="http://js.feiliu.com/static/zs/images/index_imgbg_02.jpg"> 
+		<img src="http://js.feiliu.com/static/zs/images/index_imgbg_03.jpg"> 
+		<img src="http://js.feiliu.com/static/zs/images/index_imgbg_04.jpg?v=2">
+	</div>
+		<!--首页头部背景图模板结束-->
+  <!--lunbo-->
+  <div id="newstab">
+		<!--首页头部新闻栏目模板开始-->
+			<div id="i-topnews">
+      <div class="tab-menu"> <a href="http://zs.feiliu.com/list/list_zs_allzx.shtml" class="cur">全部</a> <a href="http://zs.feiliu.com/list/list_zs_gg.shtml">公告</a><a href="http://zs.feiliu.com/list/list_zs_news.shtml">新闻</a><a href="http://zs.feiliu.com/list/list_zs_hd.shtml">活动</a></div>
+      <div class="tab-ctn">
+		<!--首页头部全部栏目模板开始-->
+			<ul class="i-lt1" style=" display:block;">
+	
+	  
+		<li><b>【全部】</b><a  href="http://zs.feiliu.com/20140922/22018.shtml" target="_blank">9月23日越狱新服【单刀赴会】正式启动</a><time>2014-09-22</time></li>
+	  
+		<li><b>【全部】</b><a  href="http://zs.feiliu.com/20140918/21969.shtml" target="_blank">隐私政策</a><time>2014-09-18</time></li>
+	  
+		<li><b>【全部】</b><a  href="http://zs.feiliu.com/20140918/21967.shtml" target="_blank">三国战神--逢贱必收</a><time>2014-09-18</time></li>
+	  
+		<li><b>【全部】</b><a  href="http://zs.feiliu.com/20140917/21953.shtml" target="_blank">9月19日13~14区合服公告</a><time>2014-09-17</time></li>
+	  
+		<li><b>【全部】</b><a  href="http://zs.feiliu.com/20140917/21952.shtml" target="_blank">9月18日越狱新服【龙争虎斗】正式启动</a><time>2014-09-17</time></li>
+	  
+		<li><b>【全部】</b><a  href="http://zs.feiliu.com/20140915/21941.shtml" target="_blank">9月16日越狱新服【卧虎藏龙】正式启动</a><time>2014-09-15</time></li>
+	</ul>
+		<!--首页头部全部栏目模板结束-->
+
+		<!--首页头部公告栏目模板开始-->
+			<ul class="i-lt1">
+	
+	  
+		<li><b>【公告】</b><a  href="http://zs.feiliu.com/20140922/22018.shtml" target="_blank">9月23日越狱新服【单刀赴会】正式启动</a><time>2014-09-22</time></li>
+	  
+		<li><b>【公告】</b><a  href="http://zs.feiliu.com/20140918/21969.shtml" target="_blank">隐私政策</a><time>2014-09-18</time></li>
+	  
+		<li><b>【公告】</b><a  href="http://zs.feiliu.com/20140918/21967.shtml" target="_blank">三国战神--逢贱必收</a><time>2014-09-18</time></li>
+	  
+		<li><b>【公告】</b><a  href="http://zs.feiliu.com/20140917/21953.shtml" target="_blank">9月19日13~14区合服公告</a><time>2014-09-17</time></li>
+	  
+		<li><b>【公告】</b><a  href="http://zs.feiliu.com/20140917/21952.shtml" target="_blank">9月18日越狱新服【龙争虎斗】正式启动</a><time>2014-09-17</time></li>
+	  
+		<li><b>【公告】</b><a  href="http://zs.feiliu.com/20140915/21941.shtml" target="_blank">9月16日越狱新服【卧虎藏龙】正式启动</a><time>2014-09-15</time></li>
+	</ul>
+		<!--首页头部公告栏目模板结束-->	
+  
+		<!--首页头部新闻栏目模板开始-->
+			<ul class="i-lt1">
+	
+	  
+		<li><b>【新闻】</b><a  href="http://zs.feiliu.com/20140806/21575.shtml" target="_blank">为鲁甸祈福，献出你的爱心！</a><time>2014-08-06</time></li>
+	  
+		<li><b>【新闻】</b><a  href="http://zs.feiliu.com/20140627/21181.shtml" target="_blank">恭贺《三国战神》入围PP助手游戏风云榜4强</a><time>2014-06-27</time></li>
+	  
+		<li><b>【新闻】</b><a  href="http://zs.feiliu.com/20140626/21166.shtml" target="_blank">新手必玩活动推荐 有钱有粮有装备</a><time>2014-06-26</time></li>
+	  
+		<li><b>【新闻】</b><a  href="http://zs.feiliu.com/20140527/20878.shtml" target="_blank">酷炫无拘束 真3D国战手游《三国战神》四大特色揭秘</a><time>2014-05-27</time></li>
+	  
+		<li><b>【新闻】</b><a  href="http://zs.feiliu.com/20140527/20877.shtml" target="_blank">百人同屏大战！《三国战神》PK吊炸天</a><time>2014-05-27</time></li>
+	  
+		<li><b>【新闻】</b><a  href="http://zs.feiliu.com/20140527/20873.shtml" target="_blank">纵横捭阖 飞流联合西山居铸造极致《三国战神》</a><time>2014-05-27</time></li>
+	</ul>
+		<!--首页头部新闻栏目模板结束-->
+	  
+		<!--首页头部活动栏目模板开始-->
+			<ul class="i-lt1">
+	
+	  
+		<li><b>【活动】</b><a  href="http://zs.feiliu.com/20140728/21468.shtml" target="_blank">庆新版上线送祝福得豪礼</a><time>2014-07-28</time></li>
+	  
+		<li><b>【活动】</b><a  href="http://zs.feiliu.com/20140707/21263.shtml" target="_blank">喜大普奔！天上掉元宝啦！</a><time>2014-07-07</time></li>
+	  
+		<li><b>【活动】</b><a  href="http://zs.feiliu.com/20140626/21162.shtml" target="_blank">《三国战神》与您共战世界杯</a><time>2014-06-26</time></li>
+	  
+		<li><b>【活动】</b><a  href="http://zs.feiliu.com/20140617/21089.shtml" target="_blank">《三国战神》元宝返利活动，元宝奖不停！</a><time>2014-06-17</time></li>
+	  
+		<li><b>【活动】</b><a  href="http://zs.feiliu.com/20140526/20849.shtml" target="_blank">5.28不删档内测全面启动 十二重好礼等你拿！</a><time>2014-05-26</time></li>
+	</ul>
+		<!--首页头部活动栏目模板结束-->
+		
+
+      </div>
+    </div>
+		<!--首页头部新闻栏目模板结束-->
+	  
+		<!--首页头部轮播图模板开始-->
+			    <div id="i-hd">
+    	<div id="lunbo-img">
+        	<a href="http://zs.feiliu.com/20140918/21967.shtml" target="_blank"  style="display:inline;"><img src="http://js.feiliu.com/gameimg/zs/20140919161204.jpg"></a>
+            <a href="http://zs.feiliu.com/20140527/20873.shtml" target="_blank"><img src="http://i0.feiliu.com/201405/2d/2d6bd9521538ae6624d430031a23d550.jpg"></a>
+        </div>
+        <div class="lzlor"></div>
+        <div id="lunbo-nav">
+        	<a href="javascript:;" class="cur">1</a>
+            <a href="javascript:;">2</a>
+         </div>
+    </div>
+		<!--首页头部轮播图模板结束-->
+	  
+		<!--首页头部游戏下载模板开始-->
+			    <div id="i-dwnd">
+      <div class="i-dwnd-g mt30"><a href="#"><span>App大小：106MB</span><img src="http://i0.feiliu.com/201405/b9/b95845993aeb8914f6bdc1042610b1d4.jpg"></a></div>
+      <div class="i-dwnd-g mt15"><a href="http://zs.feiliu.com/count/download.php?cid=300021&type=2"><span>App大小：106MB</span> <img src="http://i0.feiliu.com/201405/0e/0eaa44623e0ef8a09d5310723a419912.png"></a></div>
+    </div>
+		<!--首页头部游戏下载模板结束-->
+	</div>
+  <!--lunbo end-->
+  <div id="content"> 
+    <!--首页主体-->
+    <div id="c-box">
+		<!--首页主体攻略推荐模板开始-->
+				<section class="clearfix">
+		<!--首页主体新手攻略模板开始-->
+			<div class="i-grlist fl">
+	<h1 class="i-xsgl"> <img src="http://js.feiliu.com/static/zs/images/more_xsgl.jpg">
+		<a href="http://zs.feiliu.com/list/gl_zs_xs.shtml" class="more">more</a>
+	</h1>
+	<div class="grbor">
+		<ul class="i-lt1">
+			
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140703/21229.shtml" target="_blank">善用双倍符升级快 《三国战神》实用技巧分享</a><time>2014-07-03</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140626/21165.shtml" target="_blank">《三国战神》超实用冲级攻略 让等级飞起来</a><time>2014-06-26</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140603/20962.shtml" target="_blank">教你如何简单粗暴称霸三国战神</a><time>2014-06-03</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140527/20902.shtml" target="_blank">三国战神-小窍门</a><time>2014-05-27</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140527/20901.shtml" target="_blank">钱钱钱！新手赚钱指南</a><time>2014-05-27</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140527/20891.shtml" target="_blank">新手攻略——新手不知道的x大技巧</a><time>2014-05-27</time></li>
+					</ul>
+	</div>
+</div>
+		<!--首页主体新手攻略模板结束-->
+		
+		<!--首页主体副本攻略模板开始-->
+			<div class="i-grlist fl">
+	<h1 class="i-xsgl"><img src="http://js.feiliu.com/static/zs/images/more_fbgl.jpg">
+		<a href="http://zs.feiliu.com/list/gl_zs_fb.shtml" class="more">more</a>
+	</h1>
+	<div class="grbor">
+		<ul class="i-lt1">
+			
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140603/20958.shtml" target="_blank">蛮族入侵BOSS大揭秘</a><time>2014-06-03</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140527/20909.shtml" target="_blank">《三国战神》双人轻松挑战郭嘉</a><time>2014-05-27</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140527/20908.shtml" target="_blank">教你神秘地牢怎么打</a><time>2014-05-27</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140527/20904.shtml" target="_blank">天机刷活动攻略</a><time>2014-05-27</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140527/20903.shtml" target="_blank">守卫汉帝技巧</a><time>2014-05-27</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140526/20859.shtml" target="_blank">三国征途路漫漫——快速升级篇</a><time>2014-05-26</time></li>
+					</ul>
+	</div>
+</div>
+
+		<!--首页主体副本攻略模板结束-->
+		
+		<!--首页主体进阶攻略模板开始-->
+			<div class="i-grlist fl mt10">
+	<h1 class="i-xsgl"><img src="http://js.feiliu.com/static/zs/images/more_jjgl.jpg">
+		<a href="http://zs.feiliu.com/list/gl_zs_jj.shtml" class="more">more</a>
+	</h1>
+	<div class="grbor">
+		<ul class="i-lt1">
+			
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140626/21164.shtml" target="_blank">《三国战神》帮会战引领新团战 致胜战术分享</a><time>2014-06-26</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140603/20959.shtml" target="_blank">简单介绍下《三国战神》中的打造系统</a><time>2014-06-03</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140527/20906.shtml" target="_blank">平民玩家的战魂道路浅析</a><time>2014-05-27</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140527/20905.shtml" target="_blank">免费玩家心得</a><time>2014-05-27</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140527/20900.shtml" target="_blank">如何将双倍经验发挥到极致</a><time>2014-05-27</time></li>
+			  
+				<li><b>【攻略】</b><a href="http://zs.feiliu.com/20140527/20899.shtml" target="_blank">帮会领地战的打法</a><time>2014-05-27</time></li>
+					</ul>
+	</div>
+</div>
+		<!--首页主体进阶攻略模板结束-->
+		
+		<!--首页主体热点推荐模板开始-->
+			<div class="i-grlist fl mt10">
+	<h1 class="i-xsgl"><img src="http://js.feiliu.com/static/zs/images/more_rdtj.jpg">
+		<a href="http://zs.feiliu.com/list/list_zs_rdtj.shtml" class="more">more</a>
+	</h1>
+	<div class="grbor">
+		<ul class="i-lt1">
+			
+			  
+				<li><b>【热点】</b><a href="http://zs.feiliu.com/20140527/20880.shtml" target="_blank">ARPG手游新格局  西山居与飞流强强联合新可能</a><time>2014-05-27</time></li>
+			  
+				<li><b>【热点】</b><a href="http://zs.feiliu.com/20140527/20879.shtml" target="_blank">酷炫无拘束 真3D国战手游《三国战神》四大特色揭秘</a><time>2014-05-27</time></li>
+			  
+				<li><b>【热点】</b><a href="http://zs.feiliu.com/20140527/20876.shtml" target="_blank">百人同屏大战！《三国战神》PK吊炸天</a><time>2014-05-27</time></li>
+			  
+				<li><b>【热点】</b><a href="http://zs.feiliu.com/20140527/20874.shtml" target="_blank">纵横捭阖 飞流联合西山居铸造极致《三国战神》</a><time>2014-05-27</time></li>
+			  
+				<li><b>【热点】</b><a href="http://zs.feiliu.com/20140526/20861.shtml" target="_blank">5.28不删档内测全面启动 十二重好礼等你拿！</a><time>2014-05-26</time></li>
+					</ul>
+	</div>
+</div>
+		<!--首页主体热点推荐模板结束-->
+      </section>
+		<!--首页主体攻略推荐模板结束-->
+	  
+	  	<!--首页主体战魂BOSS装备模板开始-->
+			       <section class="mt10" id="i-zb">
+       	
+      	 <div class="i-xsgl">	
+         	<ul>
+            	<li class="cur"><span class="zh">战魂</span></li>
+                                            </ul>
+           <a href="http://zs.feiliu.com/list/list_zs_video.shtml" class="more">more</a>
+        </div>
+        <div class="i-imglist">
+        	<ul style="display:block;">
+            	<li>
+                	<a href="http://zs.feiliu.com/list/video_zs_jmtp.shtml"><img src="http://i0.feiliu.com/201405/a2/a271ec9ebeabf93c922c4017e18a5e8f.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="http://zs.feiliu.com/list/video_zs_jmtp.shtml"><img src="http://i0.feiliu.com/201405/44/4487749601cbbd2ac8613e8ce9e90912.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="http://zs.feiliu.com/list/video_zs_jmtp.shtml"><img src="http://i0.feiliu.com/201405/ff/ff209fb6f33bb6a1cf1f92260081dfcf.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="http://zs.feiliu.com/list/video_zs_jmtp.shtml"><img src="http://i0.feiliu.com/201405/07/07551df8c60dbed90fb82b5a67210cc7.jpg"></a>
+                  
+                </li>
+            </ul>
+            <ul>
+            	<li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                  
+                </li>
+            </ul>
+            <ul>
+            	<li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                  
+                </li>
+            </ul>
+            <ul>
+            	<li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                   
+                </li>
+                <li>
+                	<a href="#"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg8.jpg"></a>
+                  
+                </li>
+            </ul>
+        </div>
+      </section>
+		<!--首页主体战魂BOSS装备模板结束-->
+	  
+		<!--首页主体游戏视频模板开始-->
+			      <section class="mt10">
+      	 <h1 class="i-xsgl"> <img src="http://js.feiliu.com/static/zs/images/i-yxzqbg.jpg">
+           <a href="http://zs.feiliu.com/list/video_zs_yxsp.shtml" class="more">more</a>
+        </h1>
+        <div class="i-imglist">
+        	<ul>
+            	<li>
+                	<a href="http://zs.feiliu.com/20140527/20894.shtml"><img src="http://i0.feiliu.com/201405/50/504200faaed12f98bbd493295a38743b.jpg"></a>
+                    <p><a href="http://zs.feiliu.com/20140527/20894.shtml">《三国战神》五虎将展示</a></p>
+                </li>
+                <li>
+                	<a href="http://zs.feiliu.com/20140527/20896.shtml"><img src="http://i0.feiliu.com/201405/70/70e06cf0f31565b932815ed8914f3ecd.jpg"></a>
+                    <p><a href="http://zs.feiliu.com/20140527/20896.shtml">百战沙场！为我独尊！</a></p>
+                </li>
+                <li>
+                	<a href="http://zs.feiliu.com/20140623/21125.shtml"><img src="http://i0.feiliu.com/201406/db/db6ffc173346858edf189a846de25667.jpg"></a>
+                    <p><a href="http://zs.feiliu.com/20140623/21125.shtml">极速融合天书视频教程</a></p>
+                </li>
+                <li>
+                	<a href="http://zs.feiliu.com/20140519/20731.shtml"><img src="http://i0.feiliu.com/201405/cf/cf80cf62be8ca263c46b5bb209b4cfac.jpg"></a>
+                    <p><a href="http://zs.feiliu.com/20140519/20731.shtml">战起来！兄弟抱团打天下！</a></p>
+                </li>
+            </ul>
+        </div>
+      </section>
+		<!--首页主体游戏视频模板结束-->
+
+		<!--首页主体媒体专区模板开始-->
+			      <section class="cb mt10">
+      <h1 class="i-xsgl"> <img src="http://js.feiliu.com/static/zs/images/i-mtzqbg.jpg">
+          
+        </h1>
+      <div id="i-mtzqtab">
+      	<div class="i-oybr">
+      		<ul class="tab-menu">
+<li class="cur">魔方网</li>
+<li>17173</li>
+<li>口袋巴士</li>
+<li>多玩手游</li>
+<li>178</li>
+<li>766</li>
+<li>新浪手游</li>
+<li>游戏多</li>
+<li>游戏狗</li>
+
+                 
+            </ul>
+            </div>
+                  <div class="tab-ctn"  style="display:block;">
+                    <iframe src="http://www.mofang.com/sgzs/list_6593_1.html" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+                  </div>
+            <div class="tab-ctn">
+                    <iframe src="http://news.shouyou.com/news/sgzs2014.shtml" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://www.ptbus.com/sanguozhanshen/show/" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://www.5253.com/article/gameArticleList4Company.do?gameId=15447" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://shouyou.178.com/sgzs/news/index.html" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://sy.766.com/block/block_110.html" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://www.97973.com/kb/13285.shtml" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://www.youxiduo.com/iframe/31190.shtml" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://pcapi.gamedog.cn/qianru/sanguozhanshen.html" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+
+      </div>
+      </section>
+		<!--首页主体媒体专区模板结束-->
+
+    </div>
+    <!--首页主体 end--> 
+	
+	
+	
+    <!--侧边栏-->
+    <sidebar id="c-bar"> 
+		<!--首页侧边栏数据资料开始-->
+			<section>
+     <a href="http://act.feiliu.com/zs/lb"> <img src="http://i0.feiliu.com/201406/b0/b0afe82729436cee4096d0336ee6e5dc.jpg"> </a>
+     </section>
+     <section>
+      <h1 class="mt10"><img src="http://js.feiliu.com/static/zs/images/i_sjzl.jpg"></h1>
+      <div id="i-sjzl">
+      	 <h2><i></i>游戏介绍<a class="more" href="http://zs.feiliu.com/list/list_zs_zl.shtml">more</a></h2>
+         <div class="plist">
+                    	<a href="http://zs.feiliu.com/20140521/20765.shtml">VIP介绍 </a>|<a href="http://zs.feiliu.com/20140521/20766.shtml">职业分类</a>|<a href="http://zs.feiliu.com/20140521/20768.shtml">称号系统</a><a href="http://zs.feiliu.com/20140521/20769.shtml">占星系统</a>|<a href="http://zs.feiliu.com/20140521/20771.shtml">天书系统</a>|<a href="http://zs.feiliu.com/20140521/20773.shtml">战魂系统</a><a href="http://zs.feiliu.com/20140521/20775.shtml">战魂培养</a>|<a href="http://zs.feiliu.com/20140521/20779.shtml">装备系统</a>|<a href="http://zs.feiliu.com/20140521/20780.shtml">装备强化</a><a href="http://zs.feiliu.com/20140522/20786.shtml">技能介绍</a>|<a href="http://zs.feiliu.com/20140522/20787.shtml">技能升级</a>|
+                    </div>
+         
+      </div>
+      <div id="i-sjzl"  class="pb10">
+      	 <h2><i></i>特色活动<a class="more" href="http://zs.feiliu.com/list/list_zs_zl.shtml">more</a></h2>
+         <div class="plist">
+                    	<a href="http://zs.feiliu.com/20140522/20792.shtml">边境BOSS</a>|<a href="http://zs.feiliu.com/20140522/20793.shtml">草船借箭</a>|<a href="http://zs.feiliu.com/20140522/20794.shtml">地宫夺宝</a><a href="http://zs.feiliu.com/20140522/20795.shtml">皇榜任务</a>|<a href="http://zs.feiliu.com/20140522/20796.shtml">蛮族入侵</a>|<a href="http://zs.feiliu.com/20140522/20797.shtml">每日答题</a><a href="http://zs.feiliu.com/20140522/20800.shtml">守卫汉帝</a>|<a href="http://zs.feiliu.com/20140522/20802.shtml">护送粮草</a>|<a href="http://zs.feiliu.com/20140522/20804.shtml">群雄逐鹿</a><a href="http://zs.feiliu.com/20140522/20805.shtml">沙场点将</a>|<a href="http://zs.feiliu.com/20140522/20799.shtml"> 群英会 </a>|<a href="http://zs.feiliu.com/20140522/20803.shtml"> 竞技场 </a>
+                    </div>
+         
+      </div>
+       </section>
+		<!--首页侧边栏数据资料结束-->
+	
+		<!--首页侧边栏客服中心开始-->
+			       <section>
+       		<div id="i-roleimg">
+            	<a href="http://zs.feiliu.com/list/focus_zs_hj.shtml"><img src="http://js.feiliu.com/static/zs/images/roleimg1.jpg"></a>
+                <a href="http://zs.feiliu.com/list/focus_zs_tj.shtml"><img src="http://js.feiliu.com/static/zs/images/roleimg2.jpg"></a>
+                <a href="http://zs.feiliu.com/list/focus_zs_yl.shtml"><img src="http://i0.feiliu.com/201405/be/beaa433c5c63cae21b1a3201c7cea5f1.jpg"></a>
+                <a href="#"><img src="http://i0.feiliu.com/201405/c7/c7fbbff5fe7f40b2bd5b45f7f111fb23.jpg"  class="mg0"></a>
+            </div>
+       </section>
+       <section>
+       		 <h1 class="mt10"><img src="http://js.feiliu.com/static/zs/images/i_kfzx.jpg"></h1>
+             <div class="i-kefu-if">
+             	<p>
+                	公共账号：sgzsios<br>
+                    或扫描二维码添加关注<br>
+                    客服QQ：800032234<br>
+                    邮箱：800032234@b.qq.com	
+                </p>
+                <img src="http://i0.feiliu.com/201405/df/dfdec268b0b14f89ef9a4a25887f8f45.jpg">
+             </div>
+             <div class="i-kefu-qq">
+             	<span>官方QQ群:</span><p>1群：(275507160) <a style="color:#FF0000">已满</a><br>2群：(361552040)<br><hr>
+                <span>工作时间:</span><a style="color:#000000">周一至周五 10：00-19：00</a>
+                </p>
+             </div>
+       </section>
+		<!--首页侧边栏客服中心结束-->
+	
+		<!--首页侧边栏合作媒体开始-->
+			<section>
+       		 <h1 class="mt10"><img src="http://js.feiliu.com/static/zs/images/i_mthz.jpg"></h1>
+             <div class="i-hzmt">
+				<div id="hzmt_list" class="hzmt_list">
+				<ul class="clearfix">
+					            <li><a href="http://www.yxzoo.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yxzoo.jpg" alt=""/></a></li> 
+            <li><a href="http://www.yoyou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yoyou.jpg" alt=""/></a></li> 
+            <li><a href="http://www.youxiduo.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/youxiduo.png" alt=""/></a></li> 
+            <li><a href="http://www.wankr.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/wankr.jpg" alt=""/></a></li> 
+            <li><a href="http://g.uuu9.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/uuu9.jpg" alt=""/></a></li> 
+            <li><a href="http://ol.tgbus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/tgbus.jpg" alt=""/></a></li> 
+            <li><a href="http://www.te6.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/te6.jpg" alt=""/></a></li> 
+            <li><a href="http://www.smzdwan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/smzdwan.jpg" alt=""/></a></li> 
+            <li><a href="http://games.sina.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/sina.jpg" alt=""/></a></li> 
+            <li><a href="http://www.shouyoubus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/shouyoubus.jpg" alt=""/></a></li> 
+            <li><a href="http://www.ptbus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/ptbus.jpg" alt=""/></a></li> 
+            <li><a href="http://www.play.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/play.jpg" alt=""/></a></li> 
+            <li><a href="http://www.pipaw.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pipaw.jpg" alt=""/></a></li> 
+            <li><a href="http://game.pchome.net" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pchome.jpg" alt=""/></a></li> 
+            <li><a href="http://sy.pcgames.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pcgames.jpg" alt=""/></a></li> 
+            <li><a href="http://www.mofang.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/mofang.jpg" alt=""/></a></li> 
+            <li><a href="http://www.maoren8.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/maoren8.jpg" alt=""/></a></li> 
+            <li><a href="http://www.joyme.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/joyme.jpg" alt=""/></a></li> 
+            <li><a href="http://www.gm86.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gm86.jpg" alt=""/></a></li> 
+            <li><a href="http://www.gao7.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gao7.jpg" alt=""/></a></li> 
+            <li><a href="http://www.gamedog.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gamedog.png" alt=""/></a></li> 
+            <li><a href="http://game.91.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/game91.jpg" alt=""/></a></li> 
+            <li><a href="http://www.g1080.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/g1080.jpg" alt=""/></a></li> 
+            <li><a href="http://www.ewoka.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/ewoka.png" alt=""/></a></li> 
+            <li><a href="http://games.enet.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/enet.jpg" alt=""/></a></li> 
+            <li><a href="http://www.d1758.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/d1758.jpg" alt=""/></a></li> 
+            <li><a href="http://i.china.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/china.jpg" alt=""/></a></li> 
+            <li><a href="http://www.candou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/candou.jpg" alt=""/></a></li> 
+            <li><a href="http://www.bufan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/bufan.jpg" alt=""/></a></li> 
+            <li><a href="http://www.banma.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/banma.jpg" alt=""/></a></li> 
+            <li><a href="http://www.appgame.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/appgame.jpg" alt=""/></a></li> 
+            <li><a href="http://www.anqu.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/anqu.jpg" alt=""/></a></li> 
+            <li><a href="http://www.97973.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/97973.jpg" alt=""/></a></li> 
+            <li><a href="http://www.61166.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/61166.jpg" alt=""/></a></li> 
+            <li><a href="http://www.18183.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/18183.png" alt=""/></a></li> 
+            <li><a href="http://www.15666.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15666.jpg" alt=""/></a></li> 
+            <li><a href="http://www.5253.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/5253.jpg" alt=""/></a></li> 
+            <li><a href="http://sy.766.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/766.jpg" alt=""/></a></li> 
+            <li><a href="http://www.178.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/178.png" alt=""/></a></li> 
+            <li><a href="http://game.163.com/shouyou" target="_blank"><img src="http://js.feiliu.com/images/hzmt/163.gif" alt=""/></a></li> 
+            <li><a href="http://www.91weile.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/91weile.jpg" alt=""/></a></li> 
+            <li><a href="http://shouyou.52pk.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/52pk.jpg" alt=""/></a></li> 
+            <li><a href="http://www.18touch.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/18touch.png" alt=""/></a></li> 
+            <li><a href="http://www.7xz.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/7xz.jpg" alt=""/></a></li> 
+            <li><a href="http://games.qq.com/mobile/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/qq.jpg" alt=""/></a></li> 
+            <li><a href="http://www.shouyou.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/shouyou.jpg" alt=""/></a></li> 
+            <li><a href="http://news.7k7k.com/m" target="_blank"><img src="http://js.feiliu.com/images/hzmt/7k7k.jpg" alt=""/></a></li> 
+            <li><a href="http://www.15153.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15153.jpg" alt=""/></a></li> 
+    
+				</ul>
+				</div>
+             </div>
+       </section>
+		<!--首页侧边栏合作媒体结束-->
+    </sidebar>
+    <!--侧边栏 end-->  	
+	
+	
+  </div>
+	<!--公共底部开始-->
+          <footer id="footer">
+    <p> About.us | Copyright@北京飞流九天科技有限公司<br>
+      地址：北京市东城区和平里东街11号雍和航星科技园2号楼北侧3层  联系电话：010-84229729<br>
+      爱游戏，爱生活，也爱美女。<br>
+      飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！<br>
+      我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！<br>
+      Love is love!<br>
+    </p>
+  </footer>
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5915744'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5915744' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+	<!--公共底部结束-->
+</div>
+
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+<script>
+	$(function () {
+		gundong();
+	});
+
+	function gundong() {
+		var box = $("#hzmt_list");
+		var lists = box.find("li");
+		var oNums = lists.length;
+		var oHeight = lists.eq(0).outerHeight();
+		var oHeight2 = box.height();
+		var i = 0;
+		var timer = null;
+
+		if (oNums > 8) {
+			box.append(box.html());
+			timer = setInterval(gdAnimate, 30);
+		}
+
+		function gdAnimate() {
+			i = i >= oHeight2 ? 0 : i + 1;
+			box.css("top", -i + "px");
+		}
+
+		box.hover(function () {
+			clearInterval(timer);
+			timer = null;
+		}, function () {
+			timer = setInterval(gdAnimate, 30);
+		});
+
+	}
+$(function(){
+	$("#lunbo-nav").hoverdom({menuDiv:"lunbo-img",autoTime:"4000",menuDiv_dom:"a",num:2,tabCurClass:'cur'});	
+	$("#newstab").tabMenu({tabMenuBox:".tab-menu",tabMenuSub:"a",tabCtnBox:".tab-ctn",tabCtnSub:".i-lt1",tabMenuCur:"cur"});
+	$("#i-mtzqtab").tabMenu({tabMenuBox:".tab-menu",tabMenuSub:"li",tabCtnSub:".tab-ctn",tabMenuCur:"cur"});
+	$("#i-zb").tabMenu({tabMenuBox:".i-xsgl",tabMenuSub:"li",tabCtnBox:".i-imglist",tabCtnSub:"ul",tabMenuCur:"cur",switchingMode:"click"});
+})
+</script>
+
+</body>
+</html>

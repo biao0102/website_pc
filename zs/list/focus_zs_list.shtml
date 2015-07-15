@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网 角色专题列表页</title>
+    <meta name="keywords" content="三国战神，三国战神官网， 三国战神下载，三国战神礼包，三国战神攻略，三国战神安卓版， 三国战神ios版，三国战神手游" />
+    <meta name="description" content="《三国战神》基于U3D引擎开发，是一款真3D硬派PK网游，以大众熟知的三国题材为背景，通过国际化顶级标准的唯美中国风游戏画面，华丽的全屏3D绝技，随意变身三国名将“战魂”系统等特色，将每一个参与游戏的玩家深深带入其中，尤其对于曾经的剑侠、传奇、征途类游戏玩家来说，将深刻感受到相识的酷爽感觉。对于没有太多时间的端游老玩家来说，绝对能勾起美好的回忆，倍感惬意" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/zhuanti.css">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+          <div id="content">
+          	<div id="roleShow">
+          	<a class="zs-rw1" href="http://zs.feiliu.com/list/focus_zs_tj.shtml" target="_blank"><img src="http://js.feiliu.com/static/zs/images/ztrw_tianji.jpg"></a>
+            <a class="zs-rw2" href="http://zs.feiliu.com/list/focus_zs_hj.shtml" target="_blank"><img src="http://js.feiliu.com/static/zs/images/ztrw_haojie.jpg"></a>
+            <a class="zs-rw3" href="http://zs.feiliu.com/list/focus_zs_yl.shtml" target="_blank"><img src="http://js.feiliu.com/static/zs/images/ztrw_yueling.jpg?v=2"></a>
+            </div>
+          </div>
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global.js?v=0527"></script>
+</body>
+
+</html>

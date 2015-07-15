@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>副本系统</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal">
+	<b>副本</b><b>系统：</b><b></b> 
+</p>
+<p class="MsoNormal">
+	<b><span>1</span></b><b>．副本</b><b>系统介绍：<span></span></b> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家通过主城场景里的传送门进入单人副本选择界面，根据不同的主城，进入的副本不同。<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<b><span>2</span></b><b>．副本选择界面</b><b>：<span></span></b> 
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;"><img src="http://i0.feiliu.com/image/20140421/20140421161324_98423.jpg" width="500" height="332" alt="" />玩家通过选择副本后，通过“开始战斗”按钮进入战斗场景挑战副本，当玩家点击“开始战斗”后，系统加载战斗副本，同时会扣除玩家当前的活力进入战斗场景。如下图：<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;"><img src="http://i0.feiliu.com/image/20140421/20140421160958_31060.jpg" width="500" height="338" alt="" />玩家杀光副本中的全部怪物或者击杀<span>BOSS</span>完成副本的通关条件，当玩家在副本中死亡时，可以通过复活继续战斗（玩家每天有<span>3</span>次免费复活的机会，如果玩家等级不超过<span>10</span>级则可以享受无条件复活）。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<b><span>3</span></b><b>．通关副本界面：<span></span></b> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421161405_25995.jpg" width="500" height="334" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	系统根据玩家通关的水平从而给予当前副本的通关评价。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	通关评价根据玩家的通关时间来决定，如果玩家通关所消耗的时间越少则评价越高反之越多评价越低，按照玩家所获得的评价，系统会给予不同的宝箱、经验和铜钱奖励。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<br />
+</p>
+<p class="MsoNormal">
+	<b><span>4</span></b><b>．副本宝箱</b><b>：<span></span></b> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	副本宝箱一共分为金、银、铜；根据品质的不同，箱子中所包含的道具也会不同，当然金箱子里所包含的道具会明显比铜箱子要优良很多。当玩家点击箱子后，会自动抽选道具发送给玩家。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	当玩家是<span>VIP</span>用户时，可以额外多选择一次奖励，<span>VIP</span>用户所选择的箱子中只存在金、银二种宝箱，具有更高的几率抽到金箱子。<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<b><span>5</span></b><b>．副本扫荡</b><b>：<span></span></b> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	当玩家通关当前副本后，系统会判断玩家的<span>VIP</span>等级，如果玩家具备<span>VIP1</span>级的特权权限时，则默认开启扫荡功能。玩家可以直接消耗活力进行扫荡。如下图：<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421161458_91386.jpg" width="500" height="332" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家可通过三种扫荡方式进行操作：<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<b><span>A</span></b><b>：</b>消耗完剩余活力进行扫荡，系统会计算玩家当前的活力值和可扫荡的次数执行操作<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<b><span>B</span></b><b>：</b>根据当前任务所需要的次数进行扫荡，系统会计算玩家当前任务所需要扫荡的次数执行操作，如果玩家的次数不满足完成任务的条件，则次数停留在这个任务所需要扫荡的最大值上，如果玩家没有任务，则默认为扫荡<span>1</span>次。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<b><span>C</span></b><b>：</b>直接扫荡<span>5</span>次，简单粗暴。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	在扫荡开始前，玩家可通过以下操作辅助扫荡操作，具体如下：<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<b>自动出售副本掉落物品：</b>玩家所扫荡的道具将默认为自动购买，玩家将不能获得副本内掉落的道具奖励，道具将全部通过等价的方式以铜钱的形式发送到玩家的背包里。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<b>自动获取全部箱子奖励：</b>玩家每一次扫荡都会消耗元宝额外开启一个箱子，如果玩家的元宝不足，则恢复到正常开启奖励。<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家选择好相应的操作后，点击开始扫荡，界面将进入扫荡模式，如下图：<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421161540_70249.jpg" width="500" height="335" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	在扫荡过程中，系统会根据玩家的评价默认玩家每一次通关，并且给予当前副本的最高评价记录获得奖励（系统会记录玩家每一次手动通关的最高评价，通过调用这个评价值给予扫荡时的奖励）。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	在扫荡过程中，玩家可以终止扫荡，这时系统会停止扫荡，玩家可以获得终止前的扫荡奖励，但是后面的奖励将不在给予。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	如果玩家点击“立即完成”按钮，则默认扫荡时间结束，奖励全部发送到玩家账号上。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	在扫荡过程中，玩家可以通过点击右上角的最小化按钮关闭扫荡界面返回到主界面中，如下图：<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421161615_31304.jpg" width="500" height="333" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家在扫荡过程中，无法参与任何可以进入战斗场景的活动，当玩家点击相关按钮后，系统会给予错误提示。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<b><span>6</span></b><b>．离线扫荡</b><b>：<span></span></b> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	当玩家离开游戏后，扫荡变更为离线扫荡，系统会记录玩家的扫荡时间，当玩家在一次上线时，系统会判断扫荡是否结束<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	已结束：系统会将里发送到玩家背包，如果背包格子不够则发送到邮箱里<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	未结束：系统会显示玩家的扫荡剩余时间，当时间结束后发送奖励<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

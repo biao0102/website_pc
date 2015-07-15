@@ -1,0 +1,25 @@
+<div class="yxts">
+	<div class="title02">
+		<img src="http://js.feiliu.com/static/tkfywap/images/title02.jpg" alt="" />
+	</div>
+	<div class="yxtsbox">
+		<div class="ts_box">
+			<div class="ts_img" id="ts_img">
+				<a href="#" target="_blank" style="display: block;">
+					<img src="http://js.feiliu.com/static/tkfywap/images/ts01.jpg" alt="" /></a>
+				<a href="#" target="_blank">
+					<img src="http://js.feiliu.com/static/tkfywap/images/ts01.jpg" alt="" /></a>
+				<a href="#" target="_blank">
+					<img src="http://js.feiliu.com/static/tkfywap/images/ts01.jpg" alt="" /></a>
+				<a href="#" target="_blank">
+					<img src="http://js.feiliu.com/static/tkfywap/images/ts01.jpg" alt="" /></a>
+			</div>
+			<ul class="ts_btn" id="ts_btn">
+				<li><a href="javascript:;" class="current">重甲突击</a></li>
+				<li><a href="javascript:;">陆战之王</a></li>
+				<li><a href="javascript:;">掠夺到底</a></li>
+				<li><a href="javascript:;">策略为王</a></li>
+			</ul>
+		</div>
+	</div>
+</div>

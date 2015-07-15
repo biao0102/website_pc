@@ -1,0 +1,50 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">众妖之怒世界观之# 魔物当道#</div>
+			<div class="news-con">
+				<div align="left" >
+	<span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;">当天庭已然善恶难分之时，邪念所到之处，妖孽滋生，一时间天地群魔乱舞，各种妖魔纷纷而来，充斥人间：泽地，荒漠，雪原，地府，无不变成了鬼域所在。</span></span></span></span></span>
+</div>
+<div align="left" >
+	<span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;">更有那一干堕入魔道的天神，为虎作伥，指使众多妖魔，追剿妖族，必欲除之而后快，正邪之战，一触即发。</span></span></span></span></span>
+</div>
+<br style="word-wrap:break-word;" />
+<div align="left" >
+	<span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><ignore_js_op style="word-wrap:break-word;"><img id="aimg_67335" aid="67335" src="http://bbsimage.8783.com/data/attachment/forum/201501/30/102342q9kx6ggrr6wgq727.png" zoomfile="http://bbsimage.8783.com/data/attachment/forum/201501/30/102342q9kx6ggrr6wgq727.png" file="http://bbsimage.8783.com/data/attachment/forum/201501/30/102342q9kx6ggrr6wgq727.png" class="zoom" width="674" inpost="1" initialized="true" style="word-wrap:break-word;cursor:pointer;" />&nbsp;</ignore_js_op><br style="word-wrap:break-word;" />
+</span></span>
+</div>
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;">&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;（未完待续。。。）</span></span></span>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

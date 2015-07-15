@@ -1,0 +1,394 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="">
+<link href="http://js.feiliu.com/static/sgyy/index/css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/sgyy/index/css/flgame02.css" />
+ <link rel="stylesheet" href="http://js.feiliu.com/static/sgyy/index/css/lightbox.css" />
+
+<title></title>
+<script type="text/javascript" src="http://js.feiliu.com/static/sgyy/index/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/sgyy/index/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/sgyy/index/js/public.js"></script>
+<script>
+    function isMobile(args) {
+        var sUserAgent= navigator.userAgent.toLowerCase();
+        var bIsIpad= sUserAgent.match(/ipad/i) == "ipad";
+        var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os";
+        var bIsMidp= sUserAgent.match(/midp/i) == "midp";
+        var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+        var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb";
+        var bIsAndroid= sUserAgent.match(/android/i) == "android";
+        var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce";
+        var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile";
+        if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
+            window.location.href= 'http://sgyy.feiliu.com/wap/index.php';
+        }
+    }
+    isMobile();
+</script>
+<script language="javascript"> 
+function __show(val1){
+	$("#_show1").hide();
+	$("#_show2").hide();
+	$("#_show3").hide();
+	$("#_show4").hide();
+	$("#_show" + val1).show();
+}
+ 
+function __showa(val1){
+	$("#_showa1").hide();
+	$("#_showa2").hide();
+	$("#_showa3").hide();
+	$("#_showa4").hide();
+	$("#_showa5").hide();
+	$("#_showa" + val1).show();
+}
+</script>
+</head>
+
+<body>
+<!-- top fl导航 -->
+<!--div id="fl">
+  <div id="fl_wrap"> <img style="position: absolute;left:200px;top: 1px;" src="http://cdnpush.feiliu.com/uploadimage/papasanguostatic/images/papapa.jpg" />
+    <div id="fl_logo"><img src="http://cdnpush.feiliu.com/uploadimage/public/logo.png" /></div>
+    <div id="flgame">
+      <div id="fl_head">飞流游戏</div>
+      <div id="flgame_list_area">
+        <table id="flgame_list">
+          <tr>
+            <td><a href="http://dsg.feiliu.com" target="_blank" class="hot">斗三国</a></td>
+            <td><a href="http://papasg.feiliu.com" target="_blank" class="hot">啪啪三国</a></td>
+            <td><a href="http://xyq.feiliu.com" target="_blank" class="hot">悟空去哪儿</a></td>
+            <td><a href="http://woqu.feiliu.com" target="_blank" class="hot">我去西游</a></td>
+            <td><a href="http://ds.feiliu.com" target="_blank" >龙之召唤</a></td>
+            <td><a href="http://hlqk.feiliu.com" target="_blank" >火力全开</a></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div-->
+<script>
+    window.onload = function(){
+        var $list = $('#flgame_list_area');
+        $('#flgame').hover(function(){
+            $list.stop(true,true).show();
+        },function(){
+            $list.stop(true,true).hide();
+        });
+    }
+</script>
+<!-- top fl导航 end -->
+<div class="wrapper">
+<!--wleft start -->
+  <div class="wleft">
+  <img src="http://js.feiliu.com/static/sgyy/index/images/logo.png"  class="glogo fltt"/>
+  <div class="topnav fltt">
+  <a href="http://sgyy.feiliu.com" class="pop">官网首页</a>
+  <a href="http://sgyy.feiliu.com/list/list_sgyy_all.shtml" class="pop">新闻中心</a>
+  <a href="http://sgyy.feiliu.com/list/sgyy_cards.shtml" class="pop">游戏资料</a>
+  <a href="http://bbs.8783.com/forum-69-1.html" class="pop">官网论坛</a>
+  </div>
+  
+  <div class="downimg fltt">
+      <a id="ios-app" class="pop" href="http://sgyy.feiliu.com/count/download.php?cid=300021&type=8" target="_self" alt="AppStore下载" title="AppStore官方下载"><img src="http://js.feiliu.com/static/sgyy/index/images/dwbgt01.jpg" /></a>
+      <div class="qrc" id="qrc-iosapp">
+        <img src="http://js.feiliu.com/static/sgyy/index/images/qrcode/ios.png" width="117" height="117" alt="AppStore正版二维码" /><br /><span>AppStore二维码下载</span>
+      </div>
+
+      <a id="ios-ipa" class="pop" href="http://sgyy.feiliu.com/count/download.php?cid=300021&type=2" target="_self" alt="越狱版下载" title="越狱版下载"><img src="http://js.feiliu.com/static/sgyy/index/images/dwbgt02.jpg" /></a>
+      <div class="qrc" id="qrc-iosipa">
+          <img src="http://js.feiliu.com/static/sgyy/index/images/qrcode/yy.png" width="117" height="117"  alt="越越版二维码" /> <br /><span>越狱版二维码下载 </span>              
+      </div>
+
+      <a id="android" class="pop" href="http://sgyy.feiliu.com/count/download.php?cid=300021&type=5" target="_self" alt="安卓版下载" title="安卓版下载"><img src="http://js.feiliu.com/static/sgyy/index/images/dwbgt03.jpg" /></a>
+      <div class="qrc" id="qrc-android">
+          <img src="http://js.feiliu.com/static/sgyy/index/images/qrcode/android.png" width="117" height="117"  alt="安卓版二维码" /> <br /><span>安卓版二维码下载</span>               
+      </div>
+ </div>
+<div class="guanzhu fltt">
+扫描二维码加入官方微信
+<span class="gzbg fltt" ><img src="http://js.feiliu.com/static/sgyy/index/images/qrcode/weixin.jpg?v=1" /></span>
+<a href="http://weibo.com/3968959424/profile?rightmod=1&wvr=5&mod=personinfo" class="weibo"><img src="http://js.feiliu.com/static/sgyy/index/images/weibo.jpg" /></a>
+</div>
+  </div>
+  <!--wleft  end-->
+  
+  <!--wright start -->
+<div class="wright">
+   	   
+     <!--righttop start -->
+    <div class="righttop">
+      <!--focus start -->
+     <div class="focus fltt">
+         <div id="imgauto">
+            <div class="img-btn">
+                <a class="img-btn-checked">1</a>
+                <a>2</a>
+                <a>3</a>
+                <a>4</a>
+           </div>
+                    <div class="img-con">
+                <a style="display:block" href="#"><img src="http://js.feiliu.com/static/sgyy/index/images/pics.png" /></a>
+                <a href="#" ><img src="http://js.feiliu.com/static/sgyy/index/images/pics.png"/></a>
+                <a href="#"><img src="http://js.feiliu.com/static/sgyy/index/images/pics.png" /></a>
+                <a href="#"><img src="http://js.feiliu.com/static/sgyy/index/images/pics.png" /></a>
+                 </div>
+        </div>
+     </div>
+       <!--focus  end-->
+       
+        <!--rmcon start -->
+     <div class="rmcon fltt">
+      <div  class="video"><a rel="video" class="push"><img rel="video"  style="cursor:pointer;" video="http://v.qq.com/iframe/player.html?vid=o0136domyj0&tiny=0" vw = "250" vh = "210" height src="http://js.feiliu.com/static/sgyy/index/images/vedio.jpg"><span class="playbtn"></span></a></div>
+     
+     <div class="newscon fltt">
+      <div class="top001" id="_show1">
+                <ul class="buttonbg">
+                  <li class="li01"><a href="http://sgyy.feiliu.com/list/list_sgyy_all.shtml">全部</a></li>
+                  <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_news.shtml" onmousemove="__show(2);">新闻</a></li>
+                   <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_mt.shtml" onmousemove="__show(3);">媒体</a></li>
+                   <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_gg.shtml" onmousemove="__show(4);">公告</a></li>
+                  <li><a href="http://sgyy.feiliu.com/list/list_sgyy_all.shtml" class="more"><img src="http://js.feiliu.com/static/sgyy/index/images/more.jpg" alt="more" /></a></li>
+                </ul>
+                <div class="news01">
+			<!--三国艳义首页全部栏目模板start-->
+				<!--#include virtual="/list/sgyy_index_all.shtml"-->
+			<!--三国艳义首页全部栏目模板end-->
+                </div>
+          </div>
+              <div class="top002" id="_show2">
+                <ul class="buttonbg">
+                  <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_all.shtml" onmousemove="__show(1);">全部</a></li>
+                  <li class="li01"><a href="http://sgyy.feiliu.com/list/list_sgyy_news.shtml">新闻</a></li>
+                  <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_mt.shtml"  onmousemove="__show(3);">媒体</a></li>
+                  <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_gg.shtml"  onmousemove="__show(4);">公告</a></li>
+                  <li><a href="http://sgyy.feiliu.com/list/list_sgyy_all.shtml" class="more"><img src="http://js.feiliu.com/static/sgyy/index/images/more.jpg" alt="more" /></a></li>
+                </ul>
+                <div class="news01">
+			<!--三国艳义首页新闻栏目模板start-->
+				<!--#include virtual="/list/sgyy_index_news.shtml"-->
+			<!--三国艳义首页新闻栏目模板end-->
+                </div>
+              </div>
+          <div class="top003" id="_show3">
+                <ul class="buttonbg">
+                  <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_all.shtml" onmousemove="__show(1);">全部</a></li>
+                  <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_news.shtml" onmousemove="__show(2);">新闻</a></li>
+                  <li class="li01"><a href="http://sgyy.feiliu.com/list/list_sgyy_mt.shtml" >媒体</a></li>
+                  <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_gg.shtml" onmousemove="__show(4);">公告</a></li>
+                  <li><a href="http://sgyy.feiliu.com/list/list_sgyy_all.shtml" class="more"><img src="http://js.feiliu.com/static/sgyy/index/images/more.jpg" alt="more" /></a></li>
+                </ul>
+                <div class="news01">
+			<!--三国艳义首页媒体栏目模板start-->
+				<!--#include virtual="/list/sgyy_index_mt.shtml"-->
+			<!--三国艳义首页媒体栏目模板end-->
+                </div>
+          </div>
+              <div class="top004" id="_show4">
+                <ul class="buttonbg">
+                  <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_all.shtml" onmousemove="__show(1);">全部</a></li>
+                  <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_news.shtml" onmousemove="__show(2);">新闻</a></li>
+                  <li class="li02"><a href="http://sgyy.feiliu.com/list/list_sgyy_mt.shtml" onmousemove="__show(3);">媒体</a></li>
+                  <li class="li01"><a href="http://sgyy.feiliu.com/list/list_sgyy_gg.shtml" >公告</a></li>
+                  <li><a href="http://sgyy.feiliu.com/list/list_sgyy_all.shtml" class="more"><img src="http://js.feiliu.com/static/sgyy/index/images/more.jpg" alt="more" /></a></li>
+                </ul>
+                <div class="news01">
+			<!--三国艳义首页公告栏目模板start-->
+				<!--#include virtual="/list/sgyy_index_gg.shtml"-->
+			<!--三国艳义首页公告栏目模板end-->
+                </div>
+              </div>
+     </div>
+     </div>
+      <!--rmcon  end-->
+     
+     <div class="rbtn fltt">
+     <a href="http://sgyy.feiliu.com/list/sgyy_cards.shtml" class="pop"><img src="http://js.feiliu.com/static/sgyy/index/images/rbtn01.jpg" /></a>
+     <a href="" class="pop"><img src="http://js.feiliu.com/static/sgyy/index/images/rbtn02.jpg" /></a>
+     <a href="" class="pop"><img src="http://js.feiliu.com/static/sgyy/index/images/rbtn03.jpg" /></a>
+     </div>
+     
+    </div>
+    <!--righttop  end-->
+    
+
+<!--rgbottom start-->
+<div class="rgbottom  fltt">
+
+<!--wallpaper start-->
+<div class="wallpapercon   fltt">
+ <div class="top001" id="_showa1">
+                <ul class="buttonbg01">
+                  <li class="li011"><a href="javascript:void(0);">游戏截图</a></li>
+                  <li class="li022"><a href="javascript:void(0);" onmousemove="__showa(2);">精美视频</a></li>
+                   <li class="li022"><a href="javascript:void(0);" onmousemove="__showa(3);">精美壁纸</a></li>
+                 
+                  <li><a href="#" class="more"><img src="http://js.feiliu.com/static/sgyy/index/images/more.jpg" alt="more" /></a></li>
+                </ul>
+          <div class="wpbg">
+            <ul>
+              <li><a href="http://sgyy.feiliu.com/list/sgyy_index_pic1.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/pic/pic1.jpg" /></a></li>
+                    <li><a href="http://sgyy.feiliu.com/list/sgyy_index_pic2.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/pic/pic2.jpg" /></a></li>
+                    <li><a href="http://sgyy.feiliu.com/list/sgyy_index_pic3.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/pic/pic3.jpg" /></a></li>
+                    <li><a href="http://sgyy.feiliu.com/list/sgyy_index_pic4.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/pic/pic4.jpg" /></a></li>
+                    
+            </ul>
+          </div>
+        </div>
+              <div class="top002" id="_showa2">
+                <ul class="buttonbg01">
+                  <li class="li022"><a href="javascript:void(0);" onmousemove="__showa(1);">游戏截图</a></li>
+                  <li class="li011"><a href="javascript:void(0);">精美视频</a></li>
+                  <li class="li022"><a href="javascript:void(0);"  onmousemove="__showa(3);">精美壁纸</a></li> 
+                  <li><a href="#" class="more"><img src="http://js.feiliu.com/static/sgyy/index/images/more.jpg" alt="more" /></a></li>
+                </ul>
+                 <div class="wpbg">
+                  <ul>
+                    <li><a href="http://sgyy.feiliu.com/list/sgyy_index_video1.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/wpics.jpg" /></a></li>
+                    <li><a href="http://sgyy.feiliu.com/list/sgyy_index_video2.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/wpics.jpg" /></a></li>
+                    <li><a href="http://sgyy.feiliu.com/list/sgyy_index_video3.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/wpics.jpg" /></a></li>
+                    <li><a href="http://sgyy.feiliu.com/list/sgyy_index_video4.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/wpics.jpg" /></a></li>
+                    
+                  </ul>
+              </div>
+              </div>
+        <div class="top003" id="_showa3">
+                <ul class="buttonbg01">
+                  <li class="li022"><a href="javascript:void(0);" onmousemove="__showa(1);">游戏截图</a></li>
+                  <li class="li022"><a href="javascript:void(0);" onmousemove="__showa(2);">精美视频</a></li>
+                  <li class="li011"><a href="javascript:void(0);" >精美壁纸</a></li> 
+                  <li><a href="javascript:void(0);" class="more"><img src="http://js.feiliu.com/static/sgyy/index/images/more.jpg" alt="more" /></a></li>
+                </ul>
+          <div class="wpbg">
+            <ul>
+              <li><a href="http://sgyy.feiliu.com/list/sgyy_index_bz1.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/pic/bz1.jpg" /></a></li>
+                    <li><a href="http://sgyy.feiliu.com/list/sgyy_index_bz2.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/pic/bz2.jpg" /></a></li>
+                    <li><a href="http://sgyy.feiliu.com/list/sgyy_index_bz3.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/pic/bz3.jpg" /></a></li>
+                    <li><a href="http://sgyy.feiliu.com/list/sgyy_index_bz4.shtml" target="_blank"><img src="http://js.feiliu.com/static/sgyy/index/images/pic/bz4.jpg" /></a></li>
+                    
+            </ul>
+          </div>
+        </div>
+</div>
+<!--wallpaper end-->
+
+<div class="meiti fltt">
+<div class="hz_box">
+          <ul class="hz_list clearfix" id="hz_list">
+                        <li><a href="http://www.zhanggame.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/掌游网100-46.jpg" alt=""/></a></li> 
+            <li><a href="http://www.kela001.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/克拉手游100-46.jpg" alt=""/></a></li> 
+            <li><a href="http://mg.shunwang.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/顺网.jpg" alt=""/></a></li> 
+            <li><a href="http://www.youxiniao.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/游戏鸟.jpg" alt=""/></a></li> 
+            <li><a href="http://www.1688wan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/1688wan.jpg" alt=""/></a></li> 
+            <li><a href="http://www.aiyou.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/爱游.png" alt=""/></a></li> 
+            <li><a href="http://www.66u.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/66u-logo.jpg" alt=""/></a></li> 
+            <li><a href="http://www.4399.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/4399.jpg" alt=""/></a></li> 
+            <li><a href="http://www.7659.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/7659.jpg" alt=""/></a></li> 
+            <li><a href="http://www.yxzoo.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yxzoo.jpg" alt=""/></a></li> 
+            <li><a href="http://www.yoyou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yoyou.jpg" alt=""/></a></li> 
+            <li><a href="http://www.youxiduo.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/youxiduo.png" alt=""/></a></li> 
+            <li><a href="http://www.wankr.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/wankr.jpg" alt=""/></a></li> 
+            <li><a href="http://g.uuu9.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/uuu9.jpg" alt=""/></a></li> 
+            <li><a href="http://ol.tgbus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/tgbus.jpg" alt=""/></a></li> 
+            <li><a href="http://www.te6.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/te6.jpg" alt=""/></a></li> 
+            <li><a href="http://www.smzdwan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/smzdwan.jpg" alt=""/></a></li> 
+            <li><a href="http://games.sina.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/sina.jpg" alt=""/></a></li> 
+            <li><a href="http://www.shouyoubus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/shouyoubus.jpg" alt=""/></a></li> 
+            <li><a href="http://www.ptbus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/ptbus.jpg" alt=""/></a></li> 
+            <li><a href="http://www.play.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/play.jpg" alt=""/></a></li> 
+            <li><a href="http://www.pipaw.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pipaw.jpg" alt=""/></a></li> 
+            <li><a href="http://game.pchome.net" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pchome.jpg" alt=""/></a></li> 
+            <li><a href="http://sy.pcgames.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pcgames.jpg" alt=""/></a></li> 
+            <li><a href="http://www.mofang.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/mofang.jpg" alt=""/></a></li> 
+            <li><a href="http://www.maoren8.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/maoren8.jpg" alt=""/></a></li> 
+            <li><a href="http://www.joyme.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/joyme.jpg" alt=""/></a></li> 
+            <li><a href="http://www.gm86.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gm86.jpg" alt=""/></a></li> 
+            <li><a href="http://www.gao7.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gao7.jpg" alt=""/></a></li> 
+            <li><a href="http://www.gamedog.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gamedog.png" alt=""/></a></li> 
+            <li><a href="http://game.91.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/game91.jpg" alt=""/></a></li> 
+            <li><a href="http://www.g1080.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/g1080.jpg" alt=""/></a></li> 
+            <li><a href="http://www.ewoka.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/ewoka.png" alt=""/></a></li> 
+            <li><a href="http://games.enet.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/enet.jpg" alt=""/></a></li> 
+            <li><a href="http://www.d1758.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/d1758.jpg" alt=""/></a></li> 
+            <li><a href="http://i.china.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/china.jpg" alt=""/></a></li> 
+            <li><a href="http://www.candou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/candou.jpg" alt=""/></a></li> 
+            <li><a href="http://www.bufan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/bufan.jpg" alt=""/></a></li> 
+            <li><a href="http://www.banma.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/banma.jpg" alt=""/></a></li> 
+            <li><a href="http://www.appgame.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/appgame.jpg" alt=""/></a></li> 
+            <li><a href="http://www.anqu.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/anqu.jpg" alt=""/></a></li> 
+            <li><a href="http://www.97973.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/97973.jpg" alt=""/></a></li> 
+            <li><a href="http://www.61166.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/61166.jpg" alt=""/></a></li> 
+            <li><a href="http://www.18183.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/18183.png" alt=""/></a></li> 
+            <li><a href="http://www.15666.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15666.jpg" alt=""/></a></li> 
+            <li><a href="http://www.5253.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/5253.jpg" alt=""/></a></li> 
+            <li><a href="http://sy.766.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/766.jpg" alt=""/></a></li> 
+            <li><a href="http://www.178.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/178.png" alt=""/></a></li> 
+            <li><a href="http://game.163.com/shouyou" target="_blank"><img src="http://js.feiliu.com/images/hzmt/163.gif" alt=""/></a></li> 
+            <li><a href="http://www.91weile.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/91weile.jpg" alt=""/></a></li> 
+            <li><a href="http://shouyou.52pk.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/52pk.jpg" alt=""/></a></li> 
+            <li><a href="http://www.18touch.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/18touch.png" alt=""/></a></li> 
+            <li><a href="http://www.7xz.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/7xz.jpg" alt=""/></a></li> 
+            <li><a href="http://games.qq.com/mobile/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/qq.jpg" alt=""/></a></li> 
+            <li><a href="http://www.shouyou.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/shouyou.jpg" alt=""/></a></li> 
+            <li><a href="http://www.15153.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15153.jpg" alt=""/></a></li> 
+          </ul>
+        </div>
+</div>
+
+</div>
+<!--rgbottom end-->
+
+</div>
+<!--wright  end-->
+
+
+</div>
+
+
+
+
+    <script type="text/javascript">
+
+     
+		//视频弹窗
+	$('body').on('click','a[rel^=video]',function(){
+		var $img = $(this).find('img');
+		var src = $img.attr('video'),
+			vw = $img.attr('vw'),
+			vh = $img.attr('vh'),
+			ww = document.documentElement.clientWidth,
+			wh = document.documentElement.clientHeight,
+			width,height;
+			console.log(src);
+		if (src) {
+			if (vw/wh >= ww/wh) {
+				width = ww*0.6;
+				height = width*vh/vw;
+			}
+			else{
+				height = wh*0.8;
+				width = height*vw/vh;
+			}
+			$("<div id='videoboxOverlay' class='videoboxOverlay' style='display: block;top:0;position:fixed; left:0;width:100%;height:100%;z-index:10000;'></div><div id='videobox' class='videobox' style='display: block; width:"+ww+"px;height:"+wh+"px;position:fixed;top:"+(wh-height)/2+"px;left:0;z-index:100000'><div class='lb-outerContainer' style='position:relative;width:"+(width+8)+"px;height:"+(height+8)+"px;margin:0 auto;'><a class='lb-close' style='position:absolute;top:-30px;right:0;'></a><div class='lb-container' style='width:"+width+"px;height:"+height+"px;margin:0 auto;'><iframe class='lb-image' src='"+src+"' width="+width+" height="+height+" frameborder=0 allowfullscreen></iframe><div class='lb-loader'></div></div></div></div>").appendTo('body');
+			
+			//$('#lb-outerContainer').animate({width:width,height:height});
+		}
+	})
+	$('body').on("click","a.lb-close",function(){
+		$('#videoboxOverlay,#videobox').hide();
+	});
+	$(".downimg a").hover(function(){
+		$(this).next().show();
+	},function(){
+		$(this).next().hide();
+	});
+    </script>
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5791879'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s13.cnzz.com/stat.php%3Fid%3D5791879' type='text/javascript'%3E%3C/script%3E"));</script>
+</script>
+</div>
+</body>
+</html>

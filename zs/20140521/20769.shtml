@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_其他</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">占星系统</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-21 18:20:24</span>
+																			</div>
+									<div class="w-d">
+										　　占星是三国战神的特色玩法，是快速提升玩家战斗力的途径<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140521/20140521181929_58930.jpg" /><br />
+<br />
+【占星星位分类】<br />
+贪狼（34级开放）<br />
+破军（50级开放）<br />
+计都（60级开放）<br />
+七杀（70级开放）<br />
+罗睺（80级开放）<br />
+<br />
+【占星时需要】<br />
+一：若干数量相应等级的占星灵石<br />
+　　1级占星灵石（贪狼，破军）<br />
+　　2级占星灵石（计都，七杀）<br />
+　　3级占星灵石（罗睺）<br />
+二：若干数量的铜钱<br />
+<br />
+【占星灵石获得途径】<br />
+1通过【守卫汉帝】【边境BOSS】【地宫夺宝】活动获得<br />
+2通过兑换商人使用其他低级或高级的占星灵石合成或分解<br />
+3商城购买<br />
+<br />
+说明：<br />
+●星位属性对角色属性相对应，每个星位受6部分影响，，每部分需要占星进行属性提升，<br />
+●星位战斗力直接附加到玩家总战斗力
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_新手攻略</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">告别选择综合症——新手职业选择篇</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-22 19:04:39</span>
+																			</div>
+									<div class="w-d">
+										　　《三国战神》提供3种职业，各有特色。职业的属性成长和技能上都会不断放大职业的特色，产生多变的玩法，同时3种职业相互克制，所以每种职业都很需要。<br />
+<br />
+豪杰是高生命，高防御的近战坦克 <br />
+月灵是高命中，高闪避的远程职业<br />
+天机是高攻击，高暴击的远程输出职业<br />
+<br />
+由于3种职业在属性上各有千秋，而游戏对战斗队操作要求不是太高，所以远程单位没有明显的优势，淡然也不存在明显的劣势，在生命和防御上不会比近程职业低太多。单刷副本和活动也是没有太大压力的。<br />
+所以，选择职业的时候依靠个人喜好即可，没有什么最好的职业和最烂的职业。<br />
+<br />
+属性特点：<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140522/20140522190103_53435.png" /><br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140522/20140522190103_54086.png" /><br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140522/20140522190103_75191.png" /><br />
+<br />
+技能特点：<br />
+<br />
+【豪杰（枪）】<br />
+【主动技能】<br />
+●残阳斩：单体普攻+火攻，同时提高自身防御，持续5秒<br />
+●野火燎原：群体普攻+火攻<br />
+●天外流星：单体普攻+火攻，同时让目标持续掉血，持续5秒<br />
+●火莲焚华：群体普攻+火攻，有几率造成目标眩晕，持续3秒<br />
+<br />
+【被动技能】<br />
+●长生诀：永久提升自身生命值<br />
+●赤炎战意：攻击时有几率提升火系攻击<br />
+●禁雷咒：永久提升自己雷系抗性<br />
+●金钟罩：永久提升自身普通防御<br />
+●狮子吼：被攻击时，有几率降低目标普通攻击<br />
+<br />
+<br />
+<br />
+【月灵（弓）】<br />
+【主动技能】<br />
+●冰风蚀骨：单体普攻+风攻，同时降低目标普通防御，持续5秒<br />
+●风刃裂地：群体普通+风攻<br />
+●风岗破：单体普攻+风攻，同时提高自身暴击值，持续5秒<br />
+●风卷残云：群体普通+风攻，有几率对目标造成缠绕效果，持续3秒<br />
+<br />
+【被动技能】<br />
+●天眼诀：永久提高自身命中值<br />
+●道骨仙风：攻击时有几率提高自身风系攻击<br />
+●避火诀：永久提高自身火系抗性<br />
+●云隐术：永久提高自身闪避值<br />
+●冰踪无影：被攻击时，有几率降低目标命中<br />
+<br />
+<br />
+<br />
+【天机（扇）】<br />
+【主动技能】<br />
+●云龙击：单体普攻+雷攻，同时提升5秒普攻<br />
+●雷动九霄：群体普通+雷攻<br />
+●奔雷咒：单体普通+雷攻，同时降低自身移动速度，持续3秒<br />
+●玄天无极：群体普通+雷攻，有几率麻痹目标<br />
+<br />
+【被动技能】<br />
+●纯阳诀：永久提升普通攻击<br />
+●五雷正法：攻击时有几率提升自身的雷系攻击<br />
+●御风术：永久提升风系抗性<br />
+●混元乾坤：永久提升暴击值<br />
+●摄魂乱心：被攻击时，有几率降低目标闪避值<br />
+<br />
+相克关系：<br />
+从技能来看来看，3者是相互克制的关系：<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140522/20140522190435_39828.png" /><span style="display:none;" id="__kindeditor_bookmark_start_200__"></span>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

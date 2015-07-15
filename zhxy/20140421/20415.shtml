@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>游戏简介</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal">
+	<b>游戏简介：<span></span></b> 
+</p>
+<p class="MsoNormal">
+	<b><span>&nbsp;</span></b> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	《战魂西游》是一款以古典名著《西游记》为背景雏形的<span>ARPG</span>游戏。玩法简单流畅，与市面上的闯关战斗游戏不同，《战魂西游》更注重玩家的体验与游戏乐趣，在操作手感方面达到了相当不俗的效果。<span></span> 
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	《战魂西游》战斗招式画面华美精细，每个<span>BOSS</span>都特点十足，不会给玩家乏味之感。游戏操作轻松，玩法新颖。作为手机游戏，不过分消耗玩家时间，使玩家在碎片时间内能完成基础操作。工作、学习的短暂闲暇中即可畅快游戏。<span></span> 
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	游戏创新独特的符箓与经文系统，给予玩家类似于卡牌养成的游戏感受。在疲累的闯关战斗后，对角色进行多样化的养成也是游戏的主要乐趣之一，游戏中有包括培养、星宿、强化、打造装备、宝石、符箓、经文等多种养成模块，从养成人物到养成装备，多种变强方式任君选择。更有仙门斗法与精英副本等多人同步竞技活动，享受与朋友一同战斗或互相对抗的乐趣。<span></span> 
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	<br />
+</p>
+<p class="MsoNormal" align="center" style="text-align:center;">
+	<span></span> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

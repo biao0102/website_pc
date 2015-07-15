@@ -1,0 +1,44 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			游戏资料
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			游戏资料
+	        				        		</div>
+	    			<div class="infotitle">《就是要三国》战场之城池系统</div>
+		        	<div class="textTime">2015-01-13</div>
+		    		<div class="article">
+						<blockquote style="margin:0 0 0 40px;border:none;padding:0px;">
+</blockquote>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px;"><img src="http://i0.feiliu.com/image/20150113/20150113110930_53542.jpg" alt="" /><br />
+<span>&nbsp;</span><b><span>开启条件：</span><br />
+</b><span style="text-indent:21pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;无（城池需按路线开启）</span><br />
+</span><b><span>&nbsp;</span><br />
+</b><b><span>可获得奖励：</span><br />
+</b><span>&nbsp; &nbsp; &nbsp; &nbsp;城池、游戏币、声望、主公经验、将领经验</span><br />
+<b><span>玩法介绍：</span><br />
+</b><span>&nbsp; &nbsp; &nbsp; &nbsp;城池系统依照魏、蜀、吴三地地图作为背景，各有</span><span>20</span><span>座城池，城池分为大、中、小三个级别，对应的守城兵军团数量分别为三批、两批和一批，每座城池都设有一个守城将领军团，级别固定。</span><br />
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>城池只能按照路线顺序依次攻打，攻打城池胜利，消耗</span><span>1</span><span>将令，失败不消耗将令，胜利后即可拥有该城池，每座城池均配有</span><span>1~2</span><span>个山寨，拥有城池后即可开启，城池有城防和商业两个升级点，城防用于提升城池防御，商业用于提升城池每天的游戏币产出，城池可由小城升级至大城，需要花费游戏币。</span> 
+	</p>
+</blockquote>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

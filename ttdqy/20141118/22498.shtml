@@ -1,0 +1,52 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content">《天天逗群英》是采用Unity3D游戏引擎打造的全新卡牌手游，真3D游戏画面重现三国时代的千军万马，在移动设备上实现了前所未有的立体化百人同屏战斗场面！《天天逗群英》更以策略为王的玩法，让玩家们真正身临其境地体验到三国乱世宏大战争的激情！玩《天天逗群英》体验超激爽战斗，做乱世霸主！<br /><img alt="" src="http://i0.feiliu.com/image/20141118/20141118145553_84832.jpg" /><br />
+<p>
+	【燃烧斗魂！拳皇3VS3对阵方式】
+</p>
+<p>
+	&nbsp; 指挥三国名将，统领千军万马征战沙场，这难道不是梦想中的世界吗？《天天逗群英》为玩家开创3VS3的KOF战斗模式，让每次战斗都极尽精彩和激情；而在每场战斗中，玩家可以安排三国名将率领众多士兵征伐敌军，100VS100宏大的全屏战斗场面绝对会让玩家拥有前所未有的震撼体验。<br /><img alt="" src="http://i0.feiliu.com/image/20141118/20141118145602_69640.jpg" />
+</p>
+<p>
+	【运筹帷幄！做主公玩转三国】
+</p>
+<p>
+	&nbsp; 三国征战，不讲究策略可不行。《天天逗群英》包含武将天命技、武将策略、阵型三大方面。诸多武将拥有诸多独特的天命技，或是剿灭士兵、或是斩首敌将，或是战力提升……在战斗中，把握好时机释放武将那炫目并且威力巨大的全屏天命技绝对会扭转战局，一举破灭敌军。同时，在战斗中或是全军前进、或是士兵突击，百变的战斗策略绝对让人可以享受到无尽的指挥乐趣。最令人感到惊叹的则是在战斗中可以让好友助阵，从天而降的好友突袭，绝对会让敌人手足无措，溃不成军。<br /><img alt="" src="http://i0.feiliu.com/image/20141118/20141118145612_13703.jpg" />
+</p>
+<p>
+	【热血对战！与人斗其乐无穷】
+</p>
+<p>
+	&nbsp; 在丰富多彩的PVE玩法之外，《天天逗群英》为玩家开放了封地、演武场、藏书阁等充满激情和乐趣的PVP系统。封地在游戏中可以为玩家产出大量并且稳定的金钱，为此，争抢封地便成为玩家发展壮大的焦点；天梯挑战模式的演武场则将让玩家直面对战，争抢排名和功勋奖励；兵书在三国世界中可谓弥足珍贵，在游戏中，玩家可以在藏书阁中掠夺其他玩家的兵书碎片，集齐足够的碎片便可以为麾下武将装备威力巨大的兵书！<br /><img alt="" src="http://i0.feiliu.com/image/20141118/20141118145620_48916.jpg" /><br />
+高清画面、热血的战斗、100VS100的宏大战场……《天天逗群英》完美重现三国群英传一切精彩的元素，让人可以在游戏中培养武将卡牌体验收集养成的乐趣，可以运用策略体验指挥千军万马的豪情，可以率领名将玩转三国体验RPG的丰富和精彩！快来加入《天天逗群英》与各路英雄一较高下，争霸三国吧！
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

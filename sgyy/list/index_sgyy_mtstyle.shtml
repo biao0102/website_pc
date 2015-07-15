@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>三国艳义媒体新闻推荐 - 8783论坛</title>
+<style>
+*{ margin:0; padding:0;}
+.mt-newslist { padding-top:5px;}
+.mt-newslist li{height:27px; line-height:27px; color:#6f5f31; padding-left:15px; font-size:12px; border-bottom:1px dashed #dbd1be;}
+.mt-newslist li a{ color:#6f5f31; font-size:12px; cursor:pointer;text-decoration:none;}
+.mt-newslist li a:hover{text-decoration:underline;}
+.mt-newslist li span { color: #6D7780;float: right;}
+</style>
+</head>
+<body>
+	<ul class="mt-newslist">
+                     <li>> <span>[2014-09-03]</span> <a href="http://bbs.8783.com/thread-61181-1-1.html" target="_blank" title="《三国艳义》越狱，安卓3服三顾茅庐新手礼包">《三国艳义》越狱，安卓3服三顾茅庐新手礼包</a></li>
+                     <li>> <span>[2014-07-10]</span> <a href="http://bbs.8783.com/thread-53182-1-1.html" target="_blank" title="发攻略，拿礼包，晶钻六星玉女等你拿">发攻略，拿礼包，晶钻六星玉女等你拿</a></li>
+                     <li>> <span>[2014-07-10]</span><a href="http://bbs.8783.com/thread-53170-1-1.html" target="_blank" title="论坛金币换晶钻！走过路过不要错过啦！">论坛金币换晶钻！走过路过不要错过啦！</a></li>
+                     <li>> <span>[2014-07-10]</span><a href="http://bbs.8783.com/thread-53162-1-1.html" target="_blank" title="三国艳义50晶钻礼包：喊话就送晶钻啦！">三国艳义50晶钻礼包：喊话就送晶钻啦！</a></li>
+                     <li>> <span>[2014-07-10]</span><a href="http://bbs.8783.com/thread-49502-1-1.html" target="_blank" title="《三国艳义》APP正版艳姬无双新手礼包">《三国艳义》APP正版艳姬无双新手礼包</a></li>
+                  <!--   <li>> <span>[2014-07-10]</span><a href="http://bbs.8783.com/thread-49501-1-1.html" target="_blank" title="《三国艳义》越狱，安卓3服三顾茅庐新手礼包">《三国艳义》越狱，安卓3服三顾茅庐新手礼包</a></li> -->
+           </ul>
+</body>
+</html>

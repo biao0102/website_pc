@@ -1,0 +1,57 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+	<!--<div class="toptiao"></div> -->
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+		<!--列表页游戏资料模板开始--> 
+			<!--#include virtual="/list/bgzg_list_yxzl.shtml"-->
+		<!--列表页游戏资料模板结束-->
+		<!--列表页游戏攻略模板开始--> 
+			<!--#include virtual="/list/bgzg_list_yxgl.shtml"-->
+		<!--列表页游戏攻略模板结束-->
+		<!--列表页活动专题模板开始--> 
+			<!--#include virtual="/list/bgzg_list_hdzt.shtml"-->
+		<!--列表页活动专题模板结束-->
+
+			<div class="subbottom">
+				<!-- 武将图鉴 -->
+				<div class="wujiangcon fltt">
+					<h2>武将图鉴</h2>
+					<div class="wjbg">
+						<ul class="wjpics">
+							<li><img src="http://js.feiliu.com/static/bgzg/pc/images/pics.jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/bgzg/pc/images/pics.jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/bgzg/pc/images/pics.jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/bgzg/pc/images/pics.jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/bgzg/pc/images/pics.jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/bgzg/pc/images/pics.jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/bgzg/pc/images/pics.jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/bgzg/pc/images/pics.jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/bgzg/pc/images/pics.jpg" alt=""></li>
+							<li><img src="http://js.feiliu.com/static/bgzg/pc/images/pics.jpg" alt=""></li>
+						</ul>
+					</div>
+				</div>
+				<!-- 武将图鉴 -->
+				<!-- 游戏视频 -->
+				<div class="infocon ml subvd">
+					<h2>游戏视频</h2>
+					<div class="infobg01">
+						<a rel="video" target="_blank"><img rel="video"  style="cursor:pointer;padding-top:40px;" video="http://v.qq.com/iframe/player.html?vid=o0142c77i70&tiny=0" vw = "250" vh = "210" src="http://js.feiliu.com/gameimg/bgzg/20150109181120.jpg"></a>
+					</div>
+				</div>
+				<!-- 游戏视频 -->
+			</div>
+		</div>
+
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+	<script type=text/javascript src="http://js.feiliu.com/static/bgzg/pc/js/jquery.min.js"></script>
+	<script type=text/javascript src="http://js.feiliu.com/static/bgzg/pc/js/public.js?v=2"></script>
+</body>
+</html>

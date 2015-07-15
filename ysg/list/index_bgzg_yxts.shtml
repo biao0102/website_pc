@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《报告主公》 游戏特色列表页</title>
+<link href="http://js.feiliu.com/static/bgzg/web/css/index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/bgzg/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/bgzg/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/bgzg/web/scripts/public.js"></script>
+</head>
+<body>
+<div class="contain fltt">
+  <div id="ripiao"> <img src="http://js.feiliu.com/static/bgzg/web/images/scan.jpg" /> </div>
+  <div class="head minwidth">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <div style="clear:both"></div>
+      <!--首页头部导航模板开始--> 
+        <!--#include virtual="/list/index_bgzg_nav.shtml"-->
+      <!--首页头部导航模板结束-->
+      <div style="clear:both"></div>
+      <!--首页轮播图模板开始--> 
+        <!--#include virtual="/list/index_bgzg_lb.shtml"-->
+      <!--首页轮播图模板结束-->
+    </div>
+  </div>
+  <div class="con1000">
+    <!--box01 -->
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">游戏特色</span>
+          <!--span class="txt02"><a href="">More</a></span-->
+        </h2>
+        <div class="subnewsccon">
+          <ul>
+              
+                      </ul>
+        </div>
+      </div>
+      <!--
+      <div class="subpages fltt ">
+        <a href="">上一页</a> 
+        <a href="">1</a> 
+        <a href="">2</a> 
+        <a href="">3</a> 
+        <a href="">下一页</a>
+      </div>
+      -->
+      <img src="http://js.feiliu.com/static/bgzg/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <!--box01 -->
+    <div class="box02 fltt">
+      <!--首页微信客服模板开始--> 
+        <!--#include virtual="/list/index_bgzg_kf.shtml"-->
+      <!--首页微信客服模板结束-->
+      <!--首页合作媒体模板开始--> 
+        <!--#include virtual="/list/index_bgzg_hzmt.shtml"-->
+      <!--首页合作媒体模板结束-->
+    </div>
+      <!--首页底部版权模板开始--> 
+        <!--#include virtual="/list/index_bgzg_foot.shtml"-->
+      <!--首页底部版权模板结束-->
+  </div>
+</div>
+</body>
+</html>

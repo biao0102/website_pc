@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《战地坦克》登录App Store 全新军团玩法来袭</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-06-11</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团策略手游《战地坦克》已经在App Store上火爆上线，战争场面恢弘庞大、全新军团战玩法紧张刺激。《战地坦克》为玩家提供施展谋略的舞台，快来施展策略布下阵阵型去抢夺敌人的资源吧！让我们在战火纷飞的世界中寻找军人的激情与荣耀！<br />
+<br />
+<br />
+欢迎访问游戏官网：<br />
+点击下载ios版：http://itunes.apple.com/cn/app/id875915071<br /><img src="http://i0.feiliu.com/image/20140611/20140611172723_27946.jpg" alt="" /><br />
+【军团玩法荣耀来袭】<br />
+活动时间：每日10:00 ~ 12:00（报名）<br />
+当日20:00/21:00/22:00/23:00军团作战开启<br />
+<br />
+厌倦了局部地区的小打小闹？打矿抓羊已经满足不了你了？《战地坦克》隆重推出紧张刺激的军团玩法，让你真正置身残酷的战场，接受无情战火的洗礼。军团战分为东西两线，所有军团都能在每日限定时间内提交军团作战的申请，当晚固定时间系统将选出最具实力的军团，在同服所有玩家的注目下驶入战区，一决胜负。<br /><img src="http://i0.feiliu.com/image/20140611/20140611172842_42185.jpg" alt="" /><br />
+《战地坦克》全新军团玩法并不仅仅是简单的消耗战，游戏中双方的目的不是消灭对方的战力，而是尽可能多的占领资源点，获得规定数量资源的一方将赢得最终的胜利。争夺资源点不仅要靠军团硬实力，更要凭借策略战术、排兵布阵等方法才能真正驰骋于战场——派什么样的先锋部队能够有效牵制对手的猛攻？是强攻据点硬碰硬，还是靠消耗战保存主力？是进是退，是攻是守，每一个选择都会关系到整个战局的走向。<img src="http://i0.feiliu.com/image/20140611/20140611172917_19472.jpg" alt="" /><br />
+【真实还原 二战经典】<br />
+除了紧张刺激的军团玩法外，《战地坦克》更为广大玩家奉上最真实军事战争题材手机游戏。《战地坦克》网罗二战经典战车、真实还原百余种坦克从外观性能到武器装备等一系列参数，让你在手机上指挥现实中的钢铁巨兽，成为媲美古德里安、隆美尔的坦克名将！<br /><img src="http://i0.feiliu.com/image/20140611/20140611173008_93776.jpg" alt="" /><br /><img src="http://i0.feiliu.com/image/20140611/20140611173024_67701.jpg" alt="" /><br />
+【掠夺到底 战地之王】<br />
+《战地坦克》除了能建造各国经典坦克外，各位指挥官更要将一部分精力放在军事基地的建立以及设施的升级，开采、调配资源等方面。不仅如此，还能够通过对其他的玩家进行掠夺，获取对手的资源从而进一步提升自身军备力量。同时也要发挥你的智慧，组建强大的防御阵地，诱导敌军进入你的埋伏圈。让他们知道什么才是撞到牢不可破的坚墙。<br /><img src="http://i0.feiliu.com/image/20140611/20140611173047_27187.jpg" alt="" /><br />
+真实再现世界经典坦克，策略战术演绎装甲军团战争艺术，攻城略地抢夺资源称霸战场，首款坦克军团策略手游《战地坦克》今日登录App Store，坦克大战，一触即发，钢铁雄狮引擎已经发动，只等各位指挥官下达出击指令！<br />
+<br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,254 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">上阵亲兄弟！《坦克世界》特色军团系统详解</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-03-07</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <strong>坦克风云是一个需要多人配合的游戏，交流必不可少，组建军团也是必不可少的，它可以凝聚众人的力量，向最强者的地位挑战。<br /><img src="http://i0.8783.com/image/20140307/20140307184848_47185.jpg" alt="" /><br />
+<br />
+<br />
+基础功能<br />
+<p class="MsoNormal">
+	基础功能<span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	创建军团：玩家指挥中心达到<span>15</span>级时即可花费资源创建属于自己的军团<span><br />
+</span>创建军团的消耗有两种选择：<span><br />
+1.</span>消耗<span>500K</span>水晶、<span>500K</span>铁矿、<span>500K</span>石油、<span>500K</span>铅矿<span><br />
+2.</span>花费<span>50</span>金币<span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	加入军团：玩家可点击军团建筑，打开军团列表申请加入军团<span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	成员列表：当军团成员长时间未登录游戏，则该成员在军团“成员列表”中的信息将为灰色<span><br />
+</span>玩家可在该界面查看个人和其他团员的信息，军团管理可以通过该界面对其他成员做管理操作<span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	退出军团：玩家退出军团则贡献度将会清零，重新加入军团也不会恢复贡献度。<span><br />
+</span>退出军团将不会再受到军团科技的加成。
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	<br />
+</p>
+<p class="MsoNormal">
+	军团邮件：军团邮件为给全团成员发送邮件<span><br />
+</span>军团邮件只能由团长发送，并且每天仅能发送<span>5</span>封<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	军团捐献：军团等级、军团科技都需要全团成员的捐献资源来升级<span><br />
+</span>军团成员每天每种资源最多捐献<span>6</span>次<span><br />
+</span>每种资源随着捐献次数增加，所需消耗的资源也更多，获得的奖励也将更丰厚<span><br />
+</span>第一次捐献：消耗资源<span>50K</span>或者<span>5</span>金币<span><br />
+</span>奖励：<span>1</span>点军团经验、<span>1</span>点贡献、<span>5</span>声望<span><br />
+</span>第二次捐献：消耗资源<span>400K</span>或者<span>10</span>金币<span><br />
+</span>奖励：<span>2</span>点军团经验、<span>2</span>点贡献、<span>10</span>声望、<span>1</span>个荣誉勋章<span><br />
+</span>第三次捐献：消耗资源<span>2.40M</span>或者<span>15</span>金币<span><br />
+</span>奖励：<span>3</span>点军团经验、<span>3</span>点贡献、<span>15</span>声望、<span>2</span>个荣誉勋章<span><br />
+</span>第四次捐献：消耗资源<span>12M</span>或者<span>20</span>金币<span><br />
+</span>奖励：<span>4</span>点军团经验、<span>4</span>点贡献、<span>20</span>声望、<span>3</span>个荣誉勋章<span><br />
+</span>第五次捐献：消耗资源<span>36M</span>或者<span>25</span>金币<span><br />
+</span>奖励：<span>5</span>点军团经验、<span>5</span>点贡献、<span>25</span>声望、<span>4</span>个荣誉勋章<span><br />
+</span>第六次捐献：消耗资源<span>60M</span>或者<span>30</span>金币<span><br />
+</span>奖励：<span>6</span>点军团经验、<span>6</span>点贡献、<span>30</span>声望、<span>5</span>个荣誉勋章<span><br />
+</span>注：用户金币代替资源捐献后科技点和贡献奖励翻倍！<span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-left:45.2pt;text-indent:-45.2pt;">
+	<b>军团科技<span></span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	军团等级：升级军团可开放更多科技，提高科技等级上限，提高人数上限，<span>30</span>级前每增加<span>2</span>级提升<span>1</span>军团人数上限，并且军团等级是所有军团科技的等级上限。<span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	<br />
+</p>
+<p class="MsoNormal">
+	攻坚战术：攻击关卡每级增加己方<span>1%</span>伤害，军团副本每级增加己方<span>5%</span>伤害<span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	<br />
+</p>
+<p class="MsoNormal">
+	阵地防守：攻击关卡每级减少敌方<span>1%</span>伤害，军团副本每级减少敌方<span>5%</span>伤害<span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	火力支援：守卫基地时，每级增加己方<span>1%</span>伤害<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	干扰烟雾：守卫基地时，每级减少敌方<span>1%</span>伤害<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	载重技术：每级增加部队<span>1.5%</span>的总载重量<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	连续射击：每级增加坦克<span>1%</span>连击概率（连击：效果触发连续攻击两次，第二次伤害为正常伤害的<span>50%</span>，连击不可再触发连击）<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	穿甲连发：每级增加歼击车<span>1%</span>连击概率（连击：效果触发连续攻击两次，第二次伤害为正常伤害的<span>50%</span>，连击不可再触发连击）<span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	饱和攻击：每级增加自行火炮<span>1%</span>连击概率（连击：效果触发连续攻击两次，第二次伤害为正常伤害的<span>50%</span>，连击不可再触发连击）<span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-left:54.0pt;text-indent:-54.0pt;">
+	地毯式轰炸：每级增加火箭车<span>1%</span>连击概率（连击：效果触发连续攻击两次，第二次伤害为正常伤害的<span>50%</span>，连击不可再触发连击）<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	高频传导：每级增加<span>1%BUFF</span>（即坦克所带对全队生效的光环）效果<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	精准：每级增加<span>1%</span>命中概率<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	闪避：每级增加<span>1%</span>闪避概率<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	暴击：每级增加<span>1%</span>暴击概率<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	装甲：每级增加<span>1%</span>装甲；抵消敌方暴击概率<span></span> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	军团协防<span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:27.0pt;text-indent:-27.0pt;">
+	说明：同军团的玩家可以互相派遣部队代替防守部队<span><br />
+</span>玩家基地最多可待命<span>5</span>支协防部队<span><br />
+</span>玩家只能选取<span>1</span>支待命的协防部队作为防守部队<span><br />
+</span>协防部队面板中只显示到达目标时间最短的<span>5</span>个协防部队<span><br />
+</span>待命部队不满<span>5</span>个时，可以继续向目标派遣协防部队<span><br />
+</span>当玩家基地中有协防部队驻守时，无法退出军团和搬迁<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+</strong>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+        <nav class="nav">
+            <menu class="menu">
+                <a href="http://spzr.feiliu.com" class="menulist menu1"></a>
+                <a href="http://spzr.feiliu.com/list/shenpu_list_yxzl.shtml" class="menulist menu2"></a>
+                <a href="http://spzr.feiliu.com/list/shenpu_list_hd.shtml" class="menulist menu3"></a>
+                <a href="http://spzr.feiliu.com/list/shenpu_list_show.shtml" class="menulist menu4"></a>
+                <a href="http://bbs.8783.com/forum-184-1.html " class="menulist menu5"></a>
+                <a href="javascript:void(0);" class="menulist menu6"></a>
+                <span class="menuicon"></span>
+                <!--<span class="code1 disN"><img src="http://js.feiliu.com/static/shenpu/webnew/images/code2.jpg" alt=""></span>-->
+                <span class="code2 disN" style="width:120px;right:36px;"><img src="http://js.feiliu.com/static/activity/sq/qrcode/gw_spzr.png" alt=""></span>
+            </menu>
+        </nav>

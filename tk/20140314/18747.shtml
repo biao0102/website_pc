@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《坦克风云》城市界面图解</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-03-14</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              &nbsp; 一个强大的军团背后都有一个强大的供给基地，下面我们给大家介绍一下，基地的一些内容。<br />
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314162612_33675.png" alt="" /><br />
+<br />
+<br />
+<strong></strong><strong>每个普通用户每天是可以免费抽奖一次，其余每次抽奖需要消耗幸运币，每次消耗一个<br />
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314162650_70855.png" alt="" /><br />
+<br />
+<br />
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	高级抽奖须要指挥官等级达到<span lang="EN-US">15</span>级后开放。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314162746_41748.png" alt="" /><br />
+<br />
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+		进入邮箱可以查看系统相关活动（在邮件里面）；报告
+里面会有他人来攻打自己的战斗记录。<br />
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314162940_98816.png" alt="" /><span lang="EN-US"><o:p></o:p></span>
+	</p>
+<span lang="EN-US"><o:p></o:p></span>
+</p>
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314163004_86129.png" alt="" /><br />
+<br />
+坦克上面的数字代表您所用有该类型的坦克数量。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314163034_44807.png" alt="" /><br />
+<br />
+<br />
+所有建筑的开放都是以建筑中心的等级为基础，详细等级会在建筑中心说明中有。例：每<span lang="EN-US">2</span>级会开放<span lang="EN-US">1</span>个普通资源点，每<span lang="EN-US">10</span>级会开放<span lang="EN-US">1</span>个钛矿点<span lang="EN-US">3</span>级开放：水晶工厂<span lang="EN-US">5</span>级开放：研中心等</strong>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

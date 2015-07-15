@@ -1,0 +1,15 @@
+<div class="header">
+	<img src="http://js.feiliu.com/static/tkfywap/images/header_top.jpg" alt="" />
+	<img src="http://js.feiliu.com/static/tkfywap/images/img01.jpg" alt="" />
+	<img src="http://js.feiliu.com/static/tkfywap/images/img02.jpg" alt="" />
+	<img src="http://js.feiliu.com/static/tkfywap/images/img03.jpg" alt="" />
+	<img src="http://js.feiliu.com/static/tkfywap/images/img04.jpg" alt="" />
+	<div class="btnbox">
+		<a href="#" class="btn01" id="btn01">
+			<img src="http://js.feiliu.com/static/tkfywap/images/btn01.png" alt="" /></a>
+		<a href="#" class="btn02" id="btn02">
+			<img src="http://js.feiliu.com/static/tkfywap/images/btn02.png" alt="" /></a>
+		<a href="#" class="btn03" id="btn03">
+			<img src="http://js.feiliu.com/static/tkfywap/images/btn03.png" alt="" /></a>
+	</div>
+</div>

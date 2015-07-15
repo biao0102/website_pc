@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_新闻</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">百人同屏大战！《三国战神》PK吊炸天</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-27 12:40:14</span>
+																			</div>
+									<div class="w-d">
+										　　玩三国？玩乱斗？《三国战神》带来手机游戏PVP全新玩法！由成都掌沃无限开发，FL Mobile（飞流）代理发行的三国写实3D风格MMORPG手游《三国战神》以超精致的写实风格画面、超爽的操作手感以及超热血的PK战斗，为你献上手游版的真无双三国！在《三国战神》中，玩家将化身乱世军神，感受英雄豪杰穿梭于沙场之间的气势，领略作为乱世枭雄统帅千军万马的豪情！<br />
+《三国战神》越狱包下载地址：<a href="http://zs.feiliu.com/download/yy.php">http://zs.feiliu.com/download/yy.php</a><br />
+《三国战神》官网地址：<a href="http://zs.feiliu.com/">http://zs.feiliu.com/</a><br />
+《三国战神》官方客服QQ群：275507160<br />
+《三国战神》微信公众：sgzs3d<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140527/20140527123840_16459.jpg" /><br />
+<br />
+【百人PK吊炸天 同屏无双割草战！】<br />
+　　<br />
+　　最大50 VS 50的PVP大战？你没有看错！手机上也能玩到享受到百人群PK了，《三国战神》就是这么吊！为了满足各类玩家对PVP玩法的追求，《三国战神》中准备了单人PVP的和群体PVP以及大乱斗三种玩法。玩家不仅可以重温类似张翼德大战马孟起，关羽温酒斩华雄等经典单挑场面，亦可以模拟出如官渡之战、赤壁之战这样的历史大战。《三国战神》的PVP系统打破了手游PK人数的最高限制，在帮战、国战、混战中玩家可以亲身体验50VS50的波澜壮阔的战斗，我们可以尽情感受几十个人一起释放大招时候的快感。只要你实力够强劲，那就来享受无双割草般爽快的超炫PK战场吧！强大的热血百人PVP战斗等待您的加入，让兄弟姐妹们一起驰骋疆场，建功立业。<br /><img alt="" src="http://i0.feiliu.com/image/20140527/20140527123900_20518.jpg" /><br />
+<br />
+【三大职业任君选 百名武魂任君招！】<br />
+<br />
+　　《三国战神》中一共有三大职业任君选择，无论你是追求绞肉机快感，高血高防的近战群攻职业 “豪杰”，还是追求御敌于千里之外，高攻高闪的远程杀手 “月灵”，又或是喜好来一个打一个，来十个打五对，最高攻超高爆的远程群攻策士 “天机”，《三国战神》都可以满足你的各种需求。除此之外，玩家手中的角色还会根据战魂系统变身为三国中流芳百世的那些英雄人物，使用他们的独门绝技。无论你是喜欢帅爆了的赵云，还是裸奔男许褚，又或是钟情于风流倜傥的周郎，《三国战神》都可以让您如愿。这些战魂英雄还会跟着玩家的角色一同成长，陪玩家共同打遍天下。<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140527/20140527123925_76976.jpg" /><br />
+<br />
+　　说的不如看的，看的不如亲自玩的！想知道这款吊炸天的三国PK神作到底有多好玩，还是各位看官们亲自来体验一番吧！现在就准备好，加入《三国战神》的豪情世界，开始专属于你的三国盛宴吧。<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140527/20140527123940_60435.jpg" />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

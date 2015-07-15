@@ -1,0 +1,51 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit"> 众妖熊锤萌萌哒</div>
+			<div class="news-con">
+				<br />
+在众妖之怒中，熊锤是小伙伴们接触到的第一个宠物，人物等级达到5级就可以得到了。下面就来为大家介绍下众妖之怒熊锤属性。<br />
+<br /><img src="http://i0.feiliu.com/image/20150320/20150320121928_96472.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20150320/20150320121938_74753.png" alt="" /><br />
+【宠物获取】<br />
+玩家比较关注的就是怎么获得宠物了，目前一共有以下几种方法。<br />
+1、 系统赠送<br />
+玩家5级时就能获得第一只宠物“熊锤”，可以看到服务器里满地跑的都是这家伙。不过隐身君觉得此熊还是很给力的，扎到怪堆里抡锤子跟吃了炫迈一样！<br />
+2、 签到奖励<br />
+签到奖励宠物元神，连续几天就能合成了，完全的福利向。<br />
+3、 幸运抽奖<br />
+抽奖入口在主页——奖励——聚宝，每隔一段时间会有免费抽奖机会，小伙伴们可别错过。<br />
+4、 活动获得<br />
+橙色品质的宠物可以在累计充值活动中获得。<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

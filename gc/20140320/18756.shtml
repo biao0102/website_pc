@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="告别鼠标！手机版触屏操作是王道_" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>告别鼠标！手机版触屏操作是王道 攻城掠地_新闻</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+															<div class="news_head">
+										
+										<ul class="news_tab">
+											<li><a href="http://gc.feiliu.com/list/list_gcld_gg.shtml">公告</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_news.shtml"  class="current">新闻</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_rd.shtml">热点</a></li>
+											<li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_hd.shtml">活动</a></li>
+										</ul>
+										<p>所在位置： <a href="http://gc.feiliu.com">首页</a> &gt;&gt; 新闻 </p>
+									                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">告别鼠标！手机版触屏操作是王道</a></div>
+                                    <div class="news_date">发布时间：2014-03-20 18:02:22</div>
+                                    <div class="news_main">
+										由傲世堂出品、FL Mobile（飞流）代理的《攻城掠地》在从网页游戏转化为手机游戏的同时，不仅在游戏品质上保留了策略类游戏的精髓，在操作上也变得更加简单。传统策略类游戏一向以考验玩家的智力而著称，而手机上的策略类游戏考虑最多的是如何将游戏性与操作性融合起来。《攻城掠地》手机版将繁琐的鼠标操作改为轻松的触屏点击，告别鼠标吧，触屏才是王道。<br />
+<br />
+《攻城掠地》官方网站：http://gc.feiliu.com/<br />
+《攻城掠地》官方微博：http://weibo.com/gongcld<br />
+《攻城掠地》官方微信：gongcld<br />
+<br /><img src="http://i0.feiliu.com/image/20140320/20140320180122_25437.jpg" alt="" /><br />
+<br />
+【便捷的触控操作模式】<br />
+<br />
+《攻城掠地》作为一款页游移植为手游的作品，在保持了良好的操作手感同时，为了追求便携性，对于一些复杂功能做了适合在移动端上触控操作的改进。在城池内政建筑方面，大幅缩短了建筑物升级的时间，同时也大大提高了基础资源的产出量。在战场战斗方面，轻松点击便可选择合适的战术以及武将技能进行应对，简单之间便可操作战局发展。<br />
+<br /><img src="http://i0.feiliu.com/image/20140320/20140320180137_65848.jpg" alt="" /><br />
+<br />
+手游版的《攻城掠地》与追求在线时间不同的页游原作不同，在各方面都加快了游戏的节奏，让玩家们在任何时候都能把游戏拿出来把玩一番。游戏中，对自己的武将下达了战斗命令之后，便可完全放手，任由武将们去自动去沙场厮杀。玩家只要在之前做足武将培养及装备搭配等准备工作就OK了。<br />
+<br /><img src="http://i0.feiliu.com/image/20140320/20140320180148_91609.jpg" alt="" /><br />
+<br />
+【手残不脑残，语音国战赢天下】<br />
+<br />
+自古纸上谈兵者都是被嘲笑的懦夫，今天不同，在《攻城掠地》的世界中，要让所有人对纸上谈兵者刮目相看。轻松的触屏操作便可以在在三国乱世开疆拓土、调兵遣将，指尖一划便能施展出玩家脑中深思缜密的各类策谋，看似简单的操作，其实却是玄机重重。<br />
+<br /><img src="http://i0.feiliu.com/image/20140320/20140320180205_44625.jpg" alt="" /><br />
+<br />
+在国战之中，语音系统的加入，更能让手残党们取得战场的先机。通过语音频道，能在最短时间内与同势力的其他玩家协调战术策略，各尽其职完成守城或进攻任务。在战事紧急之时，岂能容各位将领间慢慢文书沟通？赶快打开语音功能，向其他玩家们施发指令，千钧一发之际获得先机的一方必然是取得胜利的一方！<br />
+<br /><img src="http://i0.feiliu.com/image/20140320/20140320180215_32106.jpg" alt="" /><br />
+<br />
+玩策略游戏，变化万千的战略计谋让人爱不释手。史上操作最简单的三国策略力作《攻城掠地》，看似不起眼的操作，却能在点击之间实现玩家们的雄韬伟略，让你平定天下、统一中原。更多情报请关注《攻城掠地》官方网站：http://gc.feiliu.com/<br />
+<div >
+	<br />
+</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

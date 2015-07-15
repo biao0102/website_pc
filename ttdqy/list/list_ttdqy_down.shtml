@@ -1,0 +1,10 @@
+			<a href="index.html" class="logo"></a>
+			<div class="slogan"></div>			
+<div class="download">
+				<a class="ios" href="javascript:alert('敬请期待！');"></a>
+				<a class="android" href="http://ttdqy.feiliu.com/download?cid=300021&type=5"></a>
+				<a class="register" href="javascript:void(0);"></a>
+				<a class="getgift" href="javascript:alert('敬请期待！');"></a>
+				<a class="other" href="http://ttdqy.feiliu.com/list/list_ttdqy_downpage.shtml"></a>
+				<img src="http://js.feiliu.com/static/ttdqy/web/images/customer.jpg" alt="" class="customer">
+			</div>

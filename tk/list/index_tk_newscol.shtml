@@ -1,0 +1,19 @@
+              <div class="top002" id="_show2">
+                <ul class="buttonbg">
+                  <li class="li02"><a href="http://tk.feiliu.com/list/list_tk_hd.shtml" onmousemove="__show(1);">活动</a></li>
+                  <li class="li01"><a href="http://tk.feiliu.com/list/list_tk_news.shtml">新闻</a></li>
+                  <li class="li02"><a href="http://tk.feiliu.com/list/list_tk_gg.shtml"  onmousemove="__show(3);">公告</a></li>
+                  <li><a href="http://tk.feiliu.com/list/list_tk_allcol.shtml" class="more">more>></a></li>
+                </ul>
+                <div class="news01">
+                  <ul>
+					
+											<li><a href="http://tk.feiliu.com/20150515/23584.shtml" target="_blank">· 炽热的钢铁杀戮 《战地坦克》全新官网震撼上线</a><span class="date">[05-15]</span></li>
+											<li><a href="http://tk.feiliu.com/20150402/23393.shtml" target="_blank">· 周年狂欢揭幕《坦克风云》全新四大活动曝光</a><span class="date">[04-02]</span></li>
+											<li><a href="http://tk.feiliu.com/20141217/22747.shtml" target="_blank">· 俯视群雄 《战地坦克》AppStore跨服霸主名单曝光</a><span class="date">[12-17]</span></li>
+											<li><a href="http://tk.feiliu.com/20141208/22650.shtml" target="_blank">· 沙漠之狐隆美尔复活！《战地坦克》将领系统升级</a><span class="date">[12-08]</span></li>
+											<li><a href="http://tk.feiliu.com/20141203/22615.shtml" target="_blank">· 万人景仰 《战地坦克》首届跨服赛冠军名单曝光</a><span class="date">[12-03]</span></li>
+											<li><a href="http://tk.feiliu.com/20141120/22521.shtml" target="_blank">· 百万钢铁军团混战 《战地坦克》跨服战火爆来袭</a><span class="date">[11-20]</span></li>
+					                  </ul>
+                </div>
+              </div>

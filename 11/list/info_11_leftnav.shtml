@@ -1,0 +1,22 @@
+<div class="info_left">
+                    <div class="info_left_btn">
+                        <a href="#" class="btn01">资料站首页</a>
+                        <a href="http://11.feiliu.com/list/list_11_down.shtml" class="btn02">游戏下载</a>
+                    </div>
+                    <dl class="info_sidebar">
+                        <dt>新手专区</dt>
+                        <dd><a href="http://11.feiliu.com/list/info_11_yxjs.shtml">游戏介绍</a></dd>
+                        <dd><a href="http://11.feiliu.com/list/info_11_cjwt.shtml">常见问题</a></dd>
+                        <dd><a href="http://11.feiliu.com/list/info_11_xsgl.shtml">新手攻略</a></dd>
+                        <dt>玩法介绍</dt>
+                        <dd><a href="http://11.feiliu.com/list/info_11_sjxhs.shtml">世界巡回赛</a></dd>
+                        <dd><a href="http://11.feiliu.com/list/info_11_hmsy.shtml">豪门盛宴</a></dd>
+                        <dd><a href="http://11.feiliu.com/list/info_11_bsjs.shtml">杯赛介绍</a></dd>
+                        <dt>球员培养</dt>
+                        <dd><a href="http://11.feiliu.com/list/info_11_qxzm.shtml">球星招募</a></dd>
+                        <dd><a href="http://11.feiliu.com/list/info_11_qysx.shtml">球员属性</a></dd>
+                        <dt>高手进阶</dt>
+                        <dd><a href="http://11.feiliu.com/list/info_11_qyqh.shtml">球员强化</a></dd>
+                        <dd><a href="http://11.feiliu.com/list/info_11_gsgl.shtml">高手攻略</a></dd>
+                    </dl>
+                </div>

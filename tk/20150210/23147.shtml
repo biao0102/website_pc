@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《战地坦克》活动介绍</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2015-02-10</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              活动一：军团冲级送礼<br />
+介绍：<br />
+&nbsp; &nbsp; &nbsp;1、活动将在结束当日的24点结束，排名以活动截止时间为准。<br />
+&nbsp; &nbsp; &nbsp;2、活动结束后，面板将在24小时之后消失，请尽早领取奖励。<br />
+&nbsp; &nbsp; &nbsp;3、领取奖励后，请到物品中查收！小提示：军团等级需要所有成员一起捐献才能更快的升级。<br />
+奖励：<br />
+&nbsp; &nbsp; &nbsp;1、团长:500金，荣誉勋章：60。团员荣誉勋章：40，加速生产：1<br />
+&nbsp; &nbsp; 2、团长：金币：300.荣誉勋章：40.团员：荣誉勋章：30，大型能量盾:1<br />
+&nbsp; &nbsp; 3、团长：金币:200，荣誉勋章:30，团员：荣誉勋章:20，高能火药:1<br />
+&nbsp; &nbsp; 4-5：团长：金币:100,荣誉勋章：20，团员：荣誉勋章：10，小型能量盾：1<br />
+&nbsp; &nbsp; 6-10团长：金币：50，荣誉勋章：10，团员：荣誉勋章：3，幸运币：1、<br /><img src="http://i0.feiliu.com/image/20150210/20150210152251_29216.jpg" alt="" /><br />
+活动二：莫斯科的赌局<br />
+介绍：<br />
+&nbsp; &nbsp; &nbsp;1、通过抽奖可获得装甲零件，20个零件可组装10辆对应坦克。<br />
+&nbsp; &nbsp; &nbsp;2、动期间每日登陆皆可免费抽奖一次活动结束后尚未使用的坦克碎片将被销毁。<br />
+&nbsp; &nbsp; &nbsp;3、俄罗斯顶尖装甲：黑鹰（歼灭车）攻击：1500.生命值：2000.暴击：15%.命中：15%.独有BUFF：全队15%命中.克&nbsp;<br />
+制：对坦克工厂中的制造的坦克有额外伤害。&nbsp;<br />
+&nbsp; &nbsp; &nbsp;4、乌克兰秘密武器：T-90（自行炮火)。攻击：800.生命值：2800.闪避:15%.装甲：15%.独有BUFF：全队15%闪避。克制：黑鹰坦克。<br /><img src="http://i0.feiliu.com/image/20150210/20150210152547_30098.jpg" alt="" /><br />
+活动三：勤劳致富<br />
+介绍：<br />
+&nbsp; &nbsp; &nbsp;1、活动期间：只要占领野外矿点并将所采集的资源运回基地，即算作采集成功。这些采集的资源量便可计入排行榜，排行榜前列的用户将会获得不菲的奖励。<br />
+&nbsp; &nbsp; 2、每种资源的排行榜单独统计，每种资源的前3名玩家可在活动结束后领取奖励。<br /><img src="http://i0.feiliu.com/image/20150210/20150210152742_86630.jpg" alt="" /><br />
+活动四：连续充值送礼<br />
+介绍：<br />
+&nbsp; &nbsp; &nbsp;1、您需要连续7天充值都满足指定条件的金币，方可领取奖励。<br />
+&nbsp; &nbsp; &nbsp;2、如果连续充值中断，除非您补回遗漏的天数否则无法领取最终奖励。<br />
+&nbsp; &nbsp; &nbsp;3、第7天充值后即可领取奖励，如未领取则不会保留至次日，请及时领取奖励。<br /><img src="http://i0.feiliu.com/image/20150210/20150210152933_56183.jpg" alt="" /><br />
+活动五：火线名将<br />
+介绍：<br />
+&nbsp; &nbsp; 1、招募后有几率点亮星星，当4颗星星全部点亮后，下次招募必得名将。<br />
+&nbsp; &nbsp; 2、活动中每24小时可免费进行一次招募。3.星星只能在活动中点亮，名将也只能在活动中获得。<br /><img src="http://i0.feiliu.com/image/20150210/20150210153009_15566.jpg" alt="" /><br />
+活动六：鸡’动部队<br />
+介绍：<br />
+&nbsp; &nbsp; &nbsp;1、活动期间内攻击矿点撤离后，有几率触发‘火鸡部队’，同时火鸡部队的坐标会显示在‘火鸡基地’中，打败‘火鸡部队’即可得到美味‘火鸡’。<br />
+&nbsp; &nbsp; &nbsp; 2、攻打的矿点等级越高，‘火鸡部队’越强，得到火鸡数越多。<br />
+&nbsp; &nbsp; &nbsp;&nbsp;3、活动期间，指挥官亦可通过抽奖来获得火鸡。4、活动兑换结束后火鸡数量清零请及时兑换。<br />
+<br />
+<div style="padding:0px;margin:0px;text-align:center;">
+	《战地坦克》游戏官网：http://tk.feiliu.com
+</div>
+<span >
+<div style="padding:0px;margin:0px;text-align:center;">
+	《战地坦克》iOS正版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8
+</div>
+</span><span >
+<div style="padding:0px;margin:0px;text-align:center;">
+	《战地坦克》iOS越狱版下载：http://js.feiliu.com/ipa/tk/tk_300021.ipa
+</div>
+</span><br />
+<div style="text-align:center;">
+	<span ></span><img src="http://i0.feiliu.com/image/20150210/20150210153052_58859.png" alt=""  /><br />
+本活动最终解释权，归战地坦克项目组所有
+</div>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

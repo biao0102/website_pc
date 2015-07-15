@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>疯狂兔子大爆炸官网_疯兔动画</title>
+<!--疯狂兔子静态文件模板start-->
+  <!--#include virtual="/list/index_fktz_static.shtml"-->
+<!--疯狂兔子静态文件模板end-->
+</head>
+<!--疯狂兔子静态文件模板start-->
+  <!--#include virtual="/list/index_fktz_static.shtml"-->
+<!--疯狂兔子静态文件模板end-->
+<body>
+<div class="contain fltt">
+  <!--疯狂兔子二维码模板start-->
+    <!--#include virtual="/list/index_fktz_qrcode.shtml"-->
+  <!--疯狂兔子二维码模板end-->
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <div style="clear:both"></div>
+      <!--疯狂兔子导航模板start-->
+       <!--#include virtual="/list/index_fktz_nav.shtml"-->
+      <!--疯狂兔子导航模板end-->
+      <div style="clear:both"></div>
+      <!--疯狂兔子焦点图模板start-->
+        <!--#include virtual="/list/index_fktz_lb.shtml"-->
+      <!--疯狂兔子焦点图模板end-->
+    </div>
+  </div>
+  
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="gamepicsub  fltt">
+        <h2>疯兔动画</h2>
+        <div class="subnewsccon">
+              
+                    </div>
+      </div>
+      <div class="subpages fltt "><a href="">上一页</a> <a href="">1</a> <a href="">2</a> <a href="">3</a> <a href="">4</a> <a href="">5</a> <a href="">6</a> <a href="">7</a> <a href="">8</a> <a href="">下一页</a></div>
+      <img src="http://js.feiliu.com/static/tuzi/web/images/bottom.jpg" width="960" height="4" /> 
+
+    </div> 
+    <div class="box02 fltt">
+    <!--公共微信客服模板start-->
+      <!--#include virtual="/list/index_fktz_msg.shtml"-->
+    <!--公共微信客服模板end-->
+    <!--公共合作媒体模板start-->
+      <!--#include virtual="/list/index_fktz_hzmt.shtml"-->
+    <!--公共合作媒体模板end-->
+    </div>
+    <!--公共底部版权模板start-->
+     <!--#include virtual="/list/index_fktz_foot.shtml"-->
+    <!--公共底部版权模板end-->
+
+
+  </div>
+</div>
+
+</body>
+</html>

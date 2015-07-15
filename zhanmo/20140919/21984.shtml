@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》心法系统介绍_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》心法系统介绍</h2>
+          <p>&nbsp; &nbsp; &nbsp; &nbsp;在《战魔》中想要变得更强，除了提升装备，心法修炼也是一个提升自身属性的好办法，让自身的角色在修炼心法中不断变强，获取征战群魔的能力。不过提升心法会有一定的限制，心法修炼受人物等级影响。因此玩家想要快速的提升心法的等级，就必须努力提升自身等级，以能够随时满足角色提升心法的需求。想必大家对游戏中的心法系统产生了些好奇，下面就让我们一起来看看吧！<br />
+<br />
+心法技能及效果<br />
+1、白虎破：属性为金，主攻杀，增加单体攻击能力<br />
+技能效果：30S内增加角色物攻、法功20%<br /><img src="http://i0.feiliu.com/image/20140919/20140919155145_75440.png" alt="" /><br />
+2、无脉而脉：属性为木，主恢复，增加恢复能力<br />
+技能效果：30S内回复最大生命值的60%血量。每秒恢复最大生命值的2%<br /><img src="http://i0.feiliu.com/image/20140919/20140919154627_40674.png" alt="" /><br />
+3、焚天：属性为火，主暴击，增加角色暴击概率<br />
+技能效果：30S内增加角色暴击概率30%,暴击伤害50%<br /><img src="http://i0.feiliu.com/image/20140919/20140919154834_87183.png" alt="" /><br />
+4、玄武变：属性为水，主毒，增加角色技能的削弱能力<br />
+技能效果：30S内对攻击到的敌人，降低敌方20%伤害、20%防御、30%移动速度持续3秒(不可叠加，可刷新时间)<br /><img src="http://i0.feiliu.com/image/20140919/20140919154842_62660.png" alt="" /><br />
+5、种神大法：属性为土，主生存，增加角色生命和防御<br />
+技能效果：30S内增加30%最大生命值上限、30%物理、法术防御，并恢复30%生命<br /><img src="http://i0.feiliu.com/image/20140919/20140919154852_66505.png" alt="" /><br />
+6、先天八卦：主封印，可对怪物进行段时间定身<br />
+技能效果：10S内使地图内所有怪物定身<br /><img src="http://i0.feiliu.com/image/20140919/20140919154901_39333.png" alt="" /><br />
+7、回光诀：复活，主复活，死亡后满血恢复<br />
+技能效果：死亡后已80%的血量原地复活。<br /><img src="http://i0.feiliu.com/image/20140919/20140919154910_32963.png" alt="" /><br />
+8、混沌诀：混沌，吞噬，吸收对方攻击反弹伤害<br />
+技能效果：30S秒内吸收受到的30%伤害，并反弹给对方。<br />
+<br />
+<br /></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

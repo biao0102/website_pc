@@ -1,0 +1,19 @@
+            <div class="lbbox" id="lbbox">
+                <div class="lbimg" id="lbimg">
+                    <a href="#" style="display: block;"><img src="http://i0.feiliu.com/201407/22/22e9b53a73bff00084f179a1599ef081.jpg" alt="" /></a>
+                    <a href="#"><img src="http://i0.feiliu.com/201407/17/172671085fa3ee1a108bf86e7c434567.jpg" alt="" /></a>
+                    <a href="#"><img src="http://i0.feiliu.com/201407/54/540d137fb25e2a47687411f31f55e7fc.jpg" alt="" /></a>
+                     <a href="#"><img src="http://i0.feiliu.com/201407/06/064d5bde7a115da703b204ed24f44235.jpg" alt="" /></a>
+
+                </div>
+                <div class="lbnav">
+                    <div class="lbnav_bg"></div>
+                    <div class="lbnav_btn" id="lbnav_btn">
+                        <a href="javascript:;" class="current">1</a>
+                        <a href="javascript:;">2</a>
+                        <a href="javascript:;">3</a>
+                        <a href="javascript:;">4</a>
+                      
+                    </div>
+                </div>
+            </div>

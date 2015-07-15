@@ -1,0 +1,69 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">全民奇幻盛宴 《众妖之怒》安卓版封测今日开启</div>
+			<div class="news-con">
+				<br />
+<br />
+&nbsp; 飞流（FL Mobile）2015开年巨作《众妖之怒》再掀手游狂欢，安卓版删档封测今日11:00震撼开启！作为一款东方奇幻3D动作手游，《众妖之怒》具有国内最为顶尖的画面表现、劲爆的战斗快感、丰富的游戏玩法、无处不在的跨服PVE&amp;PVP、富有中国传统特色的游戏世界……一切的特色都将让玩家拥有前所未有的精彩体验。现在就去九游游戏中心、百度多酷、小米手机助手、360手机助手、豌豆荚这五大游戏下载平台，搜索《众妖之怒》吧！<br />
+<br />
+<br />
+《众妖之怒》官方网站：http://zyzn.feiliu.com<br />
+《众妖之怒》官方QQ群：263683777　　<br />
+《众妖之怒》客服 QQ：800032234<br />
+&nbsp;<br />
+新浪专访链接：http://games.sina.com.cn/ol/n/2015-01-09/1818848818.shtml?qq-pf-to=pcqq.group<br />
+<br /><img src="http://i0.feiliu.com/image/20150113/20150113142814_59486.jpg" alt="" /><br />
+<br />
+<br />
+【唯美3D画面 震撼的视觉冲击】<br />
+<br />
+<br />
+&nbsp; 《众妖之怒》凭借Unity 3D游戏引擎在画面方面的表现，在游戏中实现了全3D场景的塑造，为玩家揭开了一个立体化的东方世界。同时，通过画师精心的描绘，游戏中的每个场景都表现得无比唯美。游戏其中，玩家可以游走在草原，感受茵茵绿草包围的惬意；可以冒险怪石林立的山巅，穿梭在不时冒出的怪群；可以亲身融入白云飘渺的天宫，可以亲自探究大海的广阔……而且，游戏中的场景都有昼夜交替的真实设定，根据时间而变化的光线绝对会让人时时刻刻都拥有无比强烈的视觉冲击。<br />
+<br /><img src="http://i0.feiliu.com/image/20150113/20150113142826_56309.jpg" alt="" /><br />
+<br />
+【即时跨服团战 热血激情同时迸发】<br />
+<br />
+<br />
+&nbsp; 作为一款以顶尖技术创造多项手游奇迹的高品质手游，《众妖之怒》以突破现今手游水平的先驱理念，推出了即时跨服多人战斗的PVE&amp;PVP机制。玩家在游戏中可以随时进入跨服PVE系统，与来自不同服务器的小伙伴一起战斗，挑战世界BOSS，享受集群战斗的快感；还可以进行组队PK，感受不同职业真人决战的激情，体验胜败掌握在团队配合的精彩。<br />
+<br /><img src="http://i0.feiliu.com/image/20150113/20150113142837_93147.jpg" alt="" /><br />
+<br />
+<br />
+【热依扎代言 享受贵人的贴心服务】<br />
+<br />
+<br />
+&nbsp; 《众妖之怒》邀请到了曾在《甄嬛传》中饰演宁贵人的热依扎代言。除了COS游戏中的妖狐职业，让玩家真实感受妖狐魅力的同时，热依扎还为游戏中的NPC进行配音，可爱富有独特气质的音线，让游戏更加生动。萌萌的声音，贴心的服务，热依扎的出现，想必游戏在《众妖之怒》，也会有种暖暖的感受吧！<br />
+<br /><img src="http://i0.feiliu.com/image/20150113/20150113142902_41850.png" alt="" /><br />
+&nbsp; 《众妖之怒》安卓删档封测震撼开启，让我们一起进入这个3D东方奇幻游戏世界，享受前所未有的精彩体验吧！<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="冠军11人，冠军11人官网， 冠军11人下载，冠军11人礼包，冠军11人攻略，冠军11人安卓版， 冠军11人ios版，巴西世界杯第一足球卡牌手游" />
+    <meta name="description" content="冠军11人手游是正版授权足球卡牌手游，随时随地与2000多正版授权球员同场竞技！参加世界巡回赛，亲临世界6大联赛，参加世界各地俱乐部的友谊赛来提升实力，体验世界杯冠军球员的成长之路。冠军11人官网提供冠军11人下载，ios安卓礼包发放，冠军11人攻略" />
+    <title>《冠军11人》巴西世界杯第一正版授权足球卡牌手游__冠军11人官网</title>
+    <link href="http://js.feiliu.com/static/11/style/master.css?v=1112" rel="stylesheet" type="text/css" />
+ <script type="text/javascript" src="http://js.feiliu.com/static/11/js/is_mobile.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/11/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://www.wanmei.com/public/js/swfobject.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/11/js/11.js?v=201406221631"></script>
+	<script type="text/javascript">
+        $(function () {
+            addSWF('http://js.feiliu.com/static/11/swf/index.swf', 'flash_index', '1920', '100%');
+            addSWF('http://js.feiliu.com/static/11/swf/down.swf', 'left_down_flash', '280', '126', { js: aLink });
+            function aLink() {
+                window.location.href = "http://www.baidu.com/";
+            }
+            newstab();
+            fnLunBo();
+            fnScrollTop();
+            initFlashPosition();
+        });
+
+
+
+        function newstab() {
+            var tabs = $("#news_tab span");
+            var panes = $("#news_panes > ul.left_news_list");
+            tabs.each(function (i) {
+                $(this).hover(function () {
+                    tabs.removeClass("current").eq(i).addClass("current");
+                    panes.hide().eq(i).show();
+                }, function () { });
+            });
+        }
+
+        function fnLunBo() {
+            var imgs = $("#lunbo_img > a");
+            var btns = $("#lunbo_btn li");
+            var box = $("#lunbo");
+            var imgnum = imgs.length;
+            var i = 0;
+            var time = 3000;
+            var timer = null;
+
+            btns.each(function (j) {
+                $(this).click(function () {
+                    i = j;
+                    lbAnimate();
+                });
+            });
+
+            function lbAnimate() {
+                btns.removeClass("current").eq(i).addClass("current");
+                imgs.hide().eq(i).show();
+            }
+
+            function zidonglb() {
+                i = i >= imgnum - 1 ? 0 : i + 1;
+                lbAnimate();
+            }
+
+            timer = setInterval(zidonglb, time);
+            box.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(zidonglb, time);
+            });
+
+        }
+
+        function fnScrollTop() {
+            var box = $("#left_lxkf_hzmt");
+            var lis = box.children();
+            var timer = null;
+            var i = 0;
+            if (lis.length > 4) {
+                var oHeight = box.height();
+                box.append(box.html());
+                timer = setInterval(fnScrollAni, 50);
+                box.hover(function () {
+                    clearInterval(timer);
+                    timer = null;
+                }, function () {
+                    timer = setInterval(fnScrollAni, 50);
+                });
+            }
+            function fnScrollAni() {
+                i = i > oHeight ? 0 : i + 1;
+                box.css("top", -i + "px");
+            }
+        }
+
+        function initFlashPosition() {
+            var oBox = $("#flash_index_box");
+            var fWinWidth = 1000;
+            function setFlashPosition() {
+                fWinWidth = $(window).width();
+                if (fWinWidth < 1000) { fWinWidth = 1000; }
+                oBox.css("left", (fWinWidth - 1920) / 2 + "px");
+            }
+            $(window).resize(function () {
+                setFlashPosition();
+            });
+            setFlashPosition();
+        }
+
+    </script>
+</head>
+<body>
+
+
+<!--公共头部导航开始-->
+    <!--#include virtual="/list/index_11_nav.shtml"-->
+<!--公共头部导航结束-->
+	
+	
+    <div class="wrap">
+<!--
+	<div class="flash_index" id="flash_index_w">
+            <div class="flash_index_box" id="flash_index_box">
+                <div id="flash_index"></div>
+            </div>
+        </div>
+-->
+        <div class="content">
+            <div class="content_kong">
+            <!--    <div class="fixed_box">
+                    <img src="http://js.feiliu.com/static/11/images/qr_app.jpg" />            
+                    <p>AppStore扫码下载</p>
+                    <img src="http://js.feiliu.com/static/11/images/qr_ipa.jpg" />            
+                    <p>越狱版扫码下载</p>                 
+                    <img src="http://js.feiliu.com/static/11/images/qr_android.jpg" />            
+                    <p>安卓版扫码下载</p>                                               
+                </div>
+-->
+<!--
+                <div class="ma_box">
+                    <div class="ma_img">
+                        <img src="http://js.feiliu.com/static/11/images/weixin.jpg?v=1" alt="" />
+                    </div>
+                </div>
+-->
+            </div>
+            <div class="main clearfix">
+                <div class="main_l">
+                    
+				<!--公共下载开始-->	
+					<!--#include virtual="/list/index_11_down.shtml"-->
+				<!--公共下载结束-->		
+					
+					
+				<!--首页左侧栏目开始-->	
+                    <!--#include virtual="/list/index_11_col.shtml"-->
+				<!--首页左侧栏目结束-->	
+					
+					
+
+                    <div class="left_box">
+                    <!--首页左侧单图开始-->    
+						<!--#include virtual="/list/index_11_leftpic.shtml"-->
+                    <!--首页左侧单图结束-->   
+						
+					<!--公共左侧客服媒体开始-->	
+					    <!--#include virtual="/list/index_11_kfmt.shtml"-->
+					<!--公共左侧客服媒体开始-->
+                    </div>
+					
+					
+                </div>
+                <div class="main_r">
+                    
+					<!--首页右侧轮播图开始-->
+					    <!--#include virtual="/list/index_11_lunbo.shtml"-->
+					<!--首页右侧轮播图结束-->
+					
+					
+					<!--首页右侧新闻列表开始-->
+                        <!--#include virtual="/list/index_11_rightnews.shtml"-->
+					<!--首页右侧新闻列表结束-->
+					
+                </div>
+            </div>
+        </div>
+    </div>
+	<!--公共底部开始-->
+        <!--#include virtual="/list/index_11_footer.shtml"-->
+	<!--公共底部结束-->
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>《最江湖》游戏官网</title>
+<meta name="keywords" content="最江湖,最江湖官网,最江湖下载,最江湖礼包,最江湖激活码,最江湖安卓版,最江湖ios版,最江湖越狱版,最江湖概念站,最江湖手游"/ >
+<meta name="description" content=" 《最江湖》将于2014年5月15日拭剑开测，开创武侠微电影新时代！业内首创的微电影式剧情呈现，颠覆传统手游的革新体验，将带你亲临江湖，享受一番快意恩仇，剑指武林的豪迈之感。"/>
+<link type="text/css"  href="http://js.feiliu.com/static/zjh/web/css/information.css?v=1" rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<!--<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/pp.js"></script>-->
+<body>
+    <!--公共头部飞流链接模板start-->
+    <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+    <!--公共头部飞流链接模板end-->
+<div class="pp-wrapper">
+  <div class="pc-left"> <a href="http://zjh.feiliu.com/list/index_zjh.shtml" class="backbtn"></a>
+    <ul class="pc-tabs">
+      <li class="one"><a class="oo" href="http://zjh.feiliu.com/list/focus_zjh_xkjs.shtml" data-toggle="tab"></a></li>
+      <li class="two"><a class="tt" href="http://zjh.feiliu.com/list/focus_zjh_fbgl.shtml" data-toggle="tab"></a></li>
+      <li class="three"><a class="rr" href="http://zjh.feiliu.com/list/focus_zjh_bzjq.shtml" data-toggle="tab"></a></li>
+      <li class="four"><a class="uu" href="http://zjh.feiliu.com/list/focus_zjh_zbxt.shtml" data-toggle="tab"></a></li>
+      <li class="five"><a class="vv" href="http://zjh.feiliu.com/list/focus_zjh_video.shtml" data-toggle="tab"></a></li>
+      <li class="six active"><a class="xx" href="http://zjh.feiliu.com/list/focus_zjh_hdjs.shtml" data-toggle="tab"></a></li>
+    </ul>
+    <a href="http://bbs.8783.com/forum-185-1.html" class="luntan"></a> 
+  </div>
+  <div class="pc-main">
+    <!--最江湖专题页公共下载start-->
+    <!--#include virtual="/list/focus_zjh_down.shtml"-->
+    <!--最江湖专题页公共下载end-->
+    <div class="pc-content  active" id="leSix">
+      <div class="con01">
+        <div class="topbg">
+          <h2><img src="http://js.feiliu.com/static/zjh/web/images/infopics06.jpg"  alt="" /></h2>
+        </div>
+        <div class="subnewstxt"> 
+          北京飞流九天科技有限公司。
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--最江湖专题页公共底部start-->
+<!--#include virtual="/list/focus_zjh_foot.shtml"-->
+<!--最江湖专题页公共底部end-->
+</body>
+</html>

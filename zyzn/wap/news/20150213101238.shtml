@@ -1,0 +1,65 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">情人节献礼！《众妖之怒》全新官网今日上线</div>
+			<div class="news-con">
+				&nbsp; &nbsp; &nbsp; &nbsp;又是一年情人节，又是一个人孤单的夜晚……不！《众妖之怒》让你在游戏中也能抱得女神归！《众妖之怒》是由曜石互动研发、飞流（FL Mobile）独家代理的首款东方奇幻3D动作手游，正在火爆内测中。《众妖之怒》以其独特的Q萌形象，受到了许多美女玩家的青睐。为《众妖之怒》代言的新一代宅男女神热依扎就是其中之一。今日，《众妖之怒》全新官网正式上线，更全的游戏资讯、更多的官方活动助你早日推翻天庭！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150213/20150213101202_51309.jpg" alt="" /><br />
+<br />
+<br />
+【热依扎领衔！《众妖之怒》美女多】<br />
+<br />
+<br />
+&nbsp; 热依扎出身北影表演系，是现今国内当红的新一代短发女神。她15岁时便以《瑞丽》最年轻的封面女郎一举成名。此后，先后出演包括《后宫甄嬛传》、《爱情自有天意》、《平安岛》等影视剧，参加《天天向上》、《奔跑吧兄弟2》等热播娱乐节目，此次代言《众妖之怒》，也是代言手游产品的“处女秀”。热依扎坦言，平时自己也玩过不少游戏，之所以爱上《众妖之怒》，首先是因为西游的题材，能让她轻松的进入剧情，了解角色。其次就是《众妖之怒》可爱的3D人物造型和绚丽的动作打击特效，玩起来非常爽快、刺激。在热依扎的发动下，片场休息时，经常能看到许多明星在联机打《众妖之怒》。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150213/20150213101217_42215.jpg" alt="" /><br />
+<br />
+<br />
+【女玩家最爱！时装系统COSPLAY】<br />
+<br />
+<br />
+&nbsp; 有别于追求酷炫的正式装备，《众妖之怒》拥有着无比可爱的时装系统。无论是新变成可爱的猴子、还是摇滚达人，无论是想让自己拥有长长的兔耳朵还是一个搞笑的牛头，《众妖之怒》中各式各样的时装都将充分满足玩家的喜好，让所有玩家都可以按照自己的个性，为人物穿上可爱的时装，来场火爆游戏的时尚COS秀。<br />
+<br /><img src="http://i0.feiliu.com/image/20150213/20150213101227_66287.jpg" alt="" /><br />
+<br />
+<br />
+【组队无限制！轻松跨服争霸战】<br />
+<br />
+<br />
+&nbsp; 无处不在的跨服系统是《众妖之怒》最大的亮点，在游戏中，玩家可以进行跨服组队，挑战团队副本，协力击杀强悍的世界BOSS，分享丰厚的收获；也可以加入跨服单人、团队PVP竞技联赛，与其他服务器玩家一较高下。最重要的是，《众妖之怒》的跨服系统摒弃了传统手游中系统代管离线人物的设定，而是与真人玩家实时战斗，让战斗更富激情，让游戏体验更加精彩。<br />
+<br /><img src="http://i0.feiliu.com/image/20150213/20150213101236_99197.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 《众妖之怒》全新官网今日上线，为情人节献礼。你还在一个人寂寞的打游戏么，快来《众妖之怒》中寻找真爱吧，妖行三界，怒战九天，“妹子狩猎计划”开始！<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

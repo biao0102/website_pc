@@ -1,0 +1,70 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">热依扎化身《众妖之怒》小伙伴 萌萌妖精撸大炮</div>
+			<div class="news-con">
+				飞流（FL Mobile）2015开年巨作《众妖之怒》邀请到了曾在《甄嬛传》中饰演宁贵人的热依扎进行代言。此次合作不仅仅是简单的拍摄COSPLAY照片，更是在游戏中为热依扎量身打造一名虚拟人物，该角色将以小伙伴的身份出现在《众妖之怒》的游戏中，今天就让我们来抢先看看游戏中的热依扎是什么样子吧？其同时热依扎还为该角色进行了配音，独特气质的音线，让游戏更加生动。<br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150421/20150421134233_17011.jpg" alt="" /><br />
+<br />
+<br />
+【最强小伙伴 萌萌妖精撸大炮】<br />
+<br />
+<br />
+&nbsp; 这次《众妖之怒》为热依扎量身打造的角色十分强力，平常使用两把手枪作为武器，放技能的时候还会拿出大炮轰炸敌人！绝对是居家旅行、杀人灭口必备伙伴。《众妖之怒》不仅拥有妖狐、蛮牛、灵猴、玉兔四大主人公，还有许多各色各样的小伙伴。热依扎作为一个北京女孩，天生的深眼窝、高鼻梁、大眼睛、长睫毛，配合上天生模特身材和演员气质，将其卡通化是个很艰难的任务，不过在设计师的努力下，我们终于完成了这个又萌又御姐的人物。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150421/20150421134247_75456.jpg" alt="" /><br />
+<br />
+<br />
+【热依扎进军游戏圈变宅男女神】<br />
+<br />
+<br />
+&nbsp; 15岁的热依扎在《瑞丽》杂志举办的全国比赛中赢得“最上镜头奖”，成为了《瑞丽》的封面女郎，并以杂志人气模特的身份出道。随后以专业演员为发展志向，就读北京电影学院表演系。2011年受到郑晓龙导演钦点，在《后宫甄嬛传》饰演宁贵人一角，开始受到关注。2014年6月，主演徐静蕾导演的电影《有一个地方只有我们知道》。近日，以可爱的妖狐造型代言东方奇幻3D手游《众妖之怒》，首次进军游戏圈。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150421/20150421134257_20557.png" alt="" /><br />
+<br />
+<br />
+【特色换装 打造时尚造型】<br />
+<br />
+<br />
+&nbsp; &nbsp;《众妖之怒》拥有着无比可爱的时装系统。把弄香蕉的灵猴、性感妩媚的妖狐、大哥大造型的蛮牛、粉嫩胡萝卜的玉兔，《众妖之怒》中各式各样的服装都将充分满足玩家的喜好，让你可以按照自己的个性尽情装扮！快来《众妖之怒》为自己喜欢的人物穿上可爱的时装，跟小伙伴们一起来场火爆的时尚COSPLAY秀吧！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150421/20150421134307_97767.jpg" alt="" /><br />
+<br />
+&nbsp; 《甄嬛传》宁贵人热依扎化身萌萌妖精陪你一起激战《众妖之怒》！玩家们如何才能获得这个小伙伴呢？敬请关注《众妖之怒》官方网站后续报道！《众妖之怒》，妖行三界，怒战九天！<br />
+<br />
+<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

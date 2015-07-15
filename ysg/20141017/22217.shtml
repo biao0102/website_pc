@@ -1,0 +1,65 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			游戏攻略
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			游戏攻略
+	        				        		</div>
+	    			<div class="infotitle">【就是要三国】攻略-心得篇</div>
+		        	<div class="textTime">2014-10-17</div>
+		    		<div class="article">
+						<p class="MsoNormal" style="text-indent:2em;">
+	<b>心得篇</b> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	就个人玩到50级时的一点心得体会，希望能带来点帮助
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	1）初期时延长自己的升级时间，一开始的等级非常好升，但在30级以前玩家处于被保护状态，最少下线不会被别的玩家搜到并攻击，在这个过程中强化武将的技能和强化自己已有城池的城防与商业，最好能在自己的主城升级成为中级城，按我的经验，30～40级的武将，只要不是升过星的将，一般打不下中级城，再加上一般主城中会放入自己最强的部队驻守，所以主城基本能保住
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	2）武将驻守时，初期武将较少，一般只能守主城，但随着副本的解锁，增加了一些可以刷将魂的地方，通过一些努力和运气，合出第二、第三梯队后，可以在自己的地图上快速扩张，根据大地图中的路线图尽可能抢到一个关卡城市，如下图，一般敌人入侵会走两条线路，我在其中一个关卡城市巴东驻守，而另一边因为没有关卡，我就在主城边上的峨嵋山驻守，前方空出三个小城让其他玩家占领，因为初期大家都没有太多的部队，所以能打到峨嵋山时估计也没什么部队了，一般而言是可以防住的，但如果遇上大R级玩家，那就什么吧
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	小贴示：无论是军团还是驻守，必须要放入帅，不然该军团或驻守部队不会被游戏承认，到时你在自己的每个城池中都放了个将而导致部队根本不上阵，别怪我没提醒你……
+</p>
+<div style="text-align:center;">
+	<span style="text-indent:2em;"><img src="http://i0.feiliu.com/image/20141017/20141017182402_34477.jpg" alt="" /></span> 
+</div>
+<p class="MsoNormal" style="text-indent:2em;">
+	3）城池被抢后如果对方实力很强，你可以通过求援（也就是所属国排行榜）前10名的玩家帮你把城抢回来，但个人建议如果对方实力高于你战力太多且你也有足够剩余的城池及山寨的话，就不急着把这个城抢回来，这可是个免费的好打手喔！因为在游戏中，占领对方城池成功后，会默认将该支占领的军才驻扎在该城池，玩家上线要抢回城池就必须打败你这支部队，相应的如果有其他玩家找到此玩家时，也必须先打败这支部队才能攻击下面的城池，这不失为一个守家法喔
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	小贴示：内政中的修复城池按钮很实用，是为你城池补守兵的，当你升级了城池或抢夺回自已的城池后，记得点击一下这个按钮
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	4）掠夺他人城池，多建立几个军团，特别是到了50级后，你的将领们无论是通过练级又或者通过喝酒达到50级后，他们的职业都得到了解锁，这时可以建立两到三个只有帅的军团，战力虽不高，但在攻击其他玩家一些没有驻守将领的小城时可以用的上，但双方在同样数量的将领上，你就有可能占领更多一点的城池，不过一定要对比好战力
+</p>
+<p class="MsoNormal" style="text-align:center;"><img src="http://i0.feiliu.com/image/20141017/20141017182411_31734.jpg" alt="" /> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	5）每日任务过了30级之后尽量做到每天能完成，它是后期唯一提供主公经验的地方，可以增快你的升级速度，同样也增加一些相应的好处，如有个任务是每天累计占领其他玩家10座城，得到经验的同时，还能得到声望、功勋、银两。先不说银两，声望高了可以抢到高官位，每天可以得到的元宝增加不说，关键还能升级自己的兵种，我现在的官位已经达到剌史，现在我的兵种已经是重甲了，嘿嘿嘿。而功勋更不用说，足够的功勋可以让我这种屌丝玩家得到橙将与橙装不再是遥不可及的。
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>&nbsp;</span> 
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

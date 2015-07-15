@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网 下载页</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/download.css">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time","section"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+
+<div class="warp">
+	<!--首页头部导航模板开始-->
+		  <div class="headerT1">
+    <nav>
+      <ul>
+        <li><a href="http://zs.feiliu.com/list/index_zs.shtml" target="_blank">首页</a></li>
+        <li><a href="http://zs.feiliu.com/list/list_zs_allzx.shtml" target="_blank">资讯中心</a></li>
+        <li><a href="http://zs.feiliu.com/list/down_zs.shtml" target="_blank">下载专区</a></li>
+        <li class="sub"><a href="http://zs.feiliu.com/list/list_zs_zl.shtml">资料大全</a>
+        	<div class="sub-forbg"></div>
+        	<div class="sub-box">
+            	<a href="http://zs.feiliu.com/list/list_zs_zl.shtml">资料站</a>
+                <a href="#">新手指南</a>
+                <a href="http://zs.feiliu.com/list/focus_zs_list.shtml">职业专题</a>
+                <a href="http://zs.feiliu.com/list/video_zs_yxsp.shtml" class="nobor">游戏视频</a>
+            </div>
+        </li>
+        <li><a href="#" target="_blank">服务中心</a></li>
+        <li><a href="http://bbs.8783.com/forum-70-1.html" target="_blank">社区中心</a></li>
+      </ul>
+    </nav>
+  </div>
+	<!--首页头部导航模板结束-->
+  <div class="showbg"> <img src="http://js.feiliu.com/static/zs/images/dwd_oyimg_01.jpg"> <img src="http://js.feiliu.com/static/zs//images/dwd_oyimg_02.jpg"> <img src="http://js.feiliu.com/static/zs/images/dwd_oyimg_03.jpg"> <img src="http://js.feiliu.com/static/zs/images/dwd_rturn.jpg" usemap="#Map">
+    <map name="Map">
+      <area shape="rect" coords="422,28,582,83" href="http://zs.feiliu.com/list/index_zs.shtml">
+    </map>
+  <img src="http://js.feiliu.com/static/zs/images/dwd_btn.jpg" usemap="#Map2">
+  <map name="Map2">
+    <area shape="rect" coords="158,58,422,147" href="#">
+    <area shape="rect" coords="562,52,826,151" href="http://zs.feiliu.com/count/download.php?cid=300021&type=2
+">
+  </map>
+  </div>
+  <div class="dwdMain">
+  	<ul class="dwd-des fios">
+    	<li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+        <li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+        <li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+    </ul>
+    <ul class="dwd-des fyueyu">
+    	<li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+        <li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+        <li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+    </ul>
+    <div class="dwd-ewm eios"><img src="http://i0.feiliu.com/201405/d9/d9622ae78edf1df3d4dd277ce2d94247.jpg"></div>
+    <div class="dwd-ewm efyueyu"><img src="http://i0.feiliu.com/201405/10/10da75bf88e2cfa0f2bcb46ca84832a0.png"></div>
+  </div>
+		<!--公共底部开始--> 	
+			  <footer id="footer">
+    <p> About.us | Copyright@北京飞流九天科技有限公司<br>
+      地址：北京市东城区和平里东街11号雍和航星科技园2号楼北侧3层  联系电话：010-84229729<br>
+      爱游戏，爱生活，也爱美女。<br>
+      飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！<br>
+      我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！<br>
+      Love is love!<br>
+    </p>
+  </footer>
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5915744'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5915744' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+		<!--公共底部结束-->
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+</html>

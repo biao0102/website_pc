@@ -1,0 +1,53 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">众妖之怒攻略之角色选择篇（上）</div>
+			<div class="news-con">
+				<br />
+<br />
+随着众妖之怒火热开启，玩家对于这款游戏也越发的关注，那众妖之怒到底哪个职业好呢？这也许是很多新玩家想知道的吧！目前游戏里面一共有四个职业可供玩家们选择，那这四个职业里哪个实力最强呢？今天先重点介绍一下其中的两个职业。希望看了下面的教程，对你在众妖之怒里选什么角色，有一定的帮助。<br />
+&nbsp;<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150324/20150324113047_69854.png" alt="" /><br />
+灵猴：从上图可以看出，灵猴的四项属性非常平均。能当T能输出，上手也不算复杂。天赋的增加暴击5%让其输出能力得到进一步的加强。虽然定位是高爆发的刺客，不过防御和血量都不算低，算是非常中庸的一个职业，如果玩家有选择恐惧症的话，那么先选灵猴到游戏中试试身手是绝对不会错的~~<br />
+&nbsp;<br />
+<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150324/20150324113101_97189.png" alt="" /><br />
+妖狐：与灵猴的均衡相比，妖狐的四围属性差异化就比较明显了，五星的攻击力保证了妖狐强力输出法师的定位。虽然天赋增加了5%的闪避，不过偏低的防御和血量还是使得妖狐难以承受太多的伤害。让队友或者宠物上前顶怪，自己躲在背后默默输出才是妖狐的生存之道。<br />
+众妖之怒的职业本期先介绍这两种，之后将会对玉兔和狂牛进行分析，希望大家保持关注哦~~<br />
+<div >
+	<br />
+</div>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

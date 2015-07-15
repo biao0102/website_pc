@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《大侠别嚣张》10月21日更新公告_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">新闻</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">《大侠别嚣张》10月21日更新公告</div>
+              <p><p>
+	亲爱的玩家：<br />
+&nbsp;&nbsp; <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 为了给玩家更好的游戏体验，并不断丰富游戏内容。《大侠别嚣张》游戏将于2014年10月21日11时0分进行更新维护。更新后需下载更新包才能继续游戏，在此过程中如给大家带来不便，敬请谅解。
+</p>
+<p>
+	&nbsp;&nbsp; <br />
+【新增内容】<br />
+&nbsp;<br />
+1、更新了主场景的背景音乐。
+</p>
+<p>
+	2、增强主角和紫色大侠的战斗音效。<br />
+&nbsp; <br />
+【调整内容】<br />
+&nbsp;<br />
+1、招募界面调整，十里挑一也有机会获得无双品质。<br />
+&nbsp;<br />
+2、战斗加速提前到4级开启。
+</p>
+<p>
+	3、新手引导职业特效改成点击响应。
+</p>
+<p>
+	4、调整关卡通关提示语。
+</p>
+<p>
+	5、第一章加入宝箱引导。
+</p>
+<p>
+	&nbsp;<br />
+【优化内容】<br />
+&nbsp;<br />
+1、优化剧情，精简了新手引导步骤。
+</p>
+<p>
+	2、配合剧情调整章节名称。
+</p>
+<p>
+	3、内存优化，减少游戏闪退。
+</p>
+<p>
+	欢迎加入官方交流QQ群（192947329）进行讨论！
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

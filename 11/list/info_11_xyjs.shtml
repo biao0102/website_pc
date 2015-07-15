@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="《足球》官方网站" />
+    <meta name="description" content="《足球》官方网站" />
+    <title>《足球》官方网站</title>
+    <link href="http://js.feiliu.com/static/11/style/master.css?v=2" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!--信息帮助头部导航开始-->
+		<!--#include virtual="/list/info_11_nav.shtml"-->
+	<!--信息帮助头部导航结束-->
+    <div class="wrap info_wrap">
+        <div class="info_content">
+            <div class="content_kong info_kong">
+                <div id="flash_box"></div>
+            </div>
+            <div class="info_main clearfix">
+				<!--信息帮助左侧导航开始-->
+					<!--#include virtual="/list/info_11_leftnav.shtml"-->
+				<!--信息帮助左侧导航结束-->
+                <div class="info_right">
+                    <h2 class="info_title">常见问题</h2>
+                    <div class="info_container">
+                        <p>《冠军11人》是第一款拥有FIFPRO的正版授权的卡牌手游，所有球员也将前所未有的以实名和真实照片形式化作卡牌，悉数登场！C罗，梅西，卡卡，贝尔，布冯……累计2000多名球星都可被你收入队中，并通过培养来打造理想中的超级豪门！</p>
+                       <p>在游戏中你可以带队参加世界巡回赛，亲临世界6大联赛，通过和当地俱乐部的友谊赛来提升自己的实力，打造一支经验丰富的球队。体验冠军球员的成长之路。 </p>
+                        

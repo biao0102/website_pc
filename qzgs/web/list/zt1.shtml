@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>全职高手 专题页</title>
+<meta name="Keywords" content="" />
+<meta name="description" content="" />
+<link type="text/css"  href="http://js.feiliu.com/static/qzgs/card/css/css.css?a=1" rel="stylesheet"/>
+<script type="text/javascript" src="http://js.feiliu.com/static/qzgs/card/js/jquery.min.js"></script>
+<script src="http://js.feiliu.com/static/qzgs/card/js/jquery.linscroll.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/qzgs/card/js/pp.js"></script>
+<script src="http://echarts.baidu.com/build/dist/echarts.js"></script>
+
+<body style="overflow:scroll;overflow-x:hidden">
+	<div class="pp-wrapper allTrans">
+		<div class="wrap allTrans wrap-index">
+			<div class="pc-left"> 
+				<div class="lside" id="div1"> </div> 
+				<span href="" class="gamelogo"></span>
+				<ul class="pc-tabs">
+					<li class="color one" data-value="1"><a class="oo" href="" data-toggle="tab"></a></li>
+					<li class="color two" data-value="2"><a class="tt" href="" data-toggle="tab"></a></li>
+					<li class="color three" data-value="3"><a class="rr" href="" data-toggle="tab"></a></li>
+					<li class="color four" data-value="4"><a class="uu" href="" data-toggle="tab"></a></li>
+					<li class="color five" data-value="5"><a class="vv" href="" data-toggle="tab"></a></li>   
+				</ul>
+				<ul class="pc-tabs01">
+					<li class="type six" data-value="1"><a class="xx" href="" data-toggle="tab"></a></li>
+					<li class="type seven" data-value="2"><a class="yy fm" href="" data-toggle="tab"></a></li>
+					<li class="type eight" data-value="3"><a class="zz fm01" href="" data-toggle="tab"></a></li>
+					<li class="type nine" data-value="4"><a class="ww fm02" href="" data-toggle="tab"></a></li>
+					<li class="type ten" data-value="5"><a class="pp fm03" href="" data-toggle="tab"></a></li>
+				</ul> 
+			</div>
+		  	<div class="pc-main">
+				<div class="pc-content  active" id="leOne">
+				  	<div class="con01">
+						<div class="topbg"><h2>全职高手 > 鬼剑士</h2></div>
+						<div class="subnews01">        
+							<ul class="new_list _ShopList1  ttt"></ul>
+							<div class="renwu-intro rel"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>  
+	</div>
+
+	<script>
+		function chart(data){
+
+			require.config({
+				paths: {
+					echarts: 'http://echarts.baidu.com/build/dist'
+				}
+			});
+			// 使用
+			require(
+				[
+					'echarts',
+					'echarts/chart/radar' // 使用柱状图就加载bar模块，按需加载
+				],
+				function (ec) {
+					// 基于准备好的dom，初始化echarts图表
+					var myChart = ec.init(document.getElementById('main')); 
+					
+					var option = {
+					  	polar : [{
+							indicator : [
+								{text : '生命', max  : 1000},
+								{text : '物理', max  : 1000},
+								{text : '魔法', max  : 1000},
+								{text : '抗性', max  : 1000}, 
+								{text : '防御', max  : 1000},
+								{text : '闪避', max  : 1000},
+								{text : '格挡', max  : 1000}
+							],
+							radius : 60
+						}],
+						series : [{
+								type: 'radar',
+								itemStyle: {
+									normal: {
+										areaStyle: {
+											type: 'default'
+										}
+									}
+								},
+								data : [
+									{
+										value : [data.life, data.physics, data.magic, data.resistance, data.defense, data.avoid,data.parry]
+									}
+								]
+						}]
+					};
+			
+					// 为echarts对象加载数据 
+					myChart.setOption(option); 
+				}
+			);
+		}	
+
+		$('._ShopList1').setScroll(
+		  {img:'http://js.feiliu.com/static/qzgs/card/images/habg.png',width:20,},//background-image and width
+		  {img:'http://js.feiliu.com/static/qzgs/card/images/shang.png',height:1},//up
+		  {img:'http://js.feiliu.com/static/qzgs/card/images/xia.png',height:1},//down
+		  {img:'http://js.feiliu.com/static/qzgs/card/images/handler.png',height:65,width:20}//bar
+		);
+
+		$(".renwu-intro").hide();  
+		$(".new_list").on("click","li",function(){			
+			var id = $(this).attr('data-value');
+			$.ajax({
+				type : 'GET',
+				url : 'http://gameapi.feiliu.com/qzgs/get_card_info',
+				dataType : 'jsonp',
+				data : {'id':id},
+				success : function(data)
+				{
+					if(data.stat == 1)
+					{
+						var  html;
+						html = '<a href="http://qzgs.feiliu.com/web/list/zt1.shtml" class="close asb">返回</a>' +
+								'<div class="renwupic"><img src="'+ data.info.bicon +'" alt=""></div>' + 
+								'<div class="renwu-introtxt">' +
+									'<p>' + 
+									'<span class="f40 fb">' + data.info.name + '</span> ';
+
+						var star = data.info.star / 2;
+						star = 6;
+						for (i = 1; i <= star; i++) {
+							html += '<img src="http://js.feiliu.com/static/qzgs/card/images/star.png" alt="">';
+							var i = i;
+						};
+
+						if((i-1)*2 < data.info.star)
+						{
+							html += '<img src="http://js.feiliu.com/static/qzgs/card/images/h-star.png" alt="">';
+						}
+					
+						html +=	 '</p>' +
+							  '<ul class="rw-jianjie">' +
+							    '<li><span>职　业:</span>'+data.info.career+'</li>' +
+							    '<li><span>战　队:</span>'+data.info.team+'</li>' +
+							    '<li><span>操作者:</span>'+data.info.operator+'</li>' +
+							    '<li><span>品　质:</span>'+data.info.color+'</li>' +
+							    '<li><span>性　别:</span>'+data.info.sex+'</li>' +
+							    '<li><span>资　质:</span>'+data.info.star+'</li>' +
+							  '</ul>' +
+					           '<div class="renwu-shuzhi">' +
+					             '<span class="shu-left">' +
+					               '生　命: '+data.info.life +'<br>' +
+					               '物　理: '+data.info.physics +'<br>' +
+					               '魔　法: '+data.info.magic +'<br>' +
+					               '抗　性: '+data.info.resistance +'<br>' +
+					               '防　御: '+data.info.defense +'<br>' +
+					               '闪　避: '+data.info.avoid +'<br>' +
+					               '格　挡: '+data.info.parry +'<br>' +
+					             '</span>' +
+					            '<span class="tubiao"  id="main" style="width:240px;height:240px;"></span>' +
+					           '</div>' +
+							  '<div class="kapai-intro">' +
+							    '<h2>卡牌介绍:</h2>' +
+							    '<span>'+data.info.introduce+'</span>' +
+							  '</div>' +
+							'</div>' +
+							'<div class="jineng-intro">' +
+							  '<h2>主动技能:</h2>' +
+							  '<span>'+data.info.skill+'</span>' +
+							'</div>';
+						$('.renwu-intro').html(html);
+						chart(data.info);
+						$(".ttt").hide();
+						$(".renwu-icon").hide(); 
+						$(".renwu-intro").show();
+					}
+				}
+			});
+		});
+
+		$(".close,.pc-tabs,.pc-tabs01").on('click',function(){
+			$(".renwu-intro").hide();
+			$(".renwu-icon").show();
+			$(".ttt").show(); 
+		});
+
+
+		var type = '',color = '';
+		$(".type").click(function(){
+			type = $(this).attr('data-value');
+			color = $('.pc-tabs').children('.active').attr('data-value');
+			if(!color || color == 'undefined')
+			{
+				color = '';
+			}
+			getlist(type,color);
+		});
+
+		$(".color").click(function(){
+			color = $(this).attr('data-value');
+			type =  $('.pc-tabs01').children('.active').attr('data-value');
+			if(!type || type == 'undefined')
+			{
+				type = '';
+			}
+			getlist(type,color);
+		});
+
+		getlist(type,color);
+		function getlist(type,color)
+		{
+			$.ajax({
+				type : 'GET',
+				url : 'http://gameapi.feiliu.com/qzgs/get_card_list',
+				dataType : 'jsonp',
+				data : {'type':type, 'color':color},
+				success : function(data)
+				{	
+					list = '';
+					if(data.stat == 1)
+					{
+						$.each(data.list,function(k,v) {
+				            list += '<li  class="renwu-icon rel" data-value="' + v.id + '"><img src="' + v.sicon + '" alt=""><span class="ren-name asb">'+v.name+'</span></li>';
+				        });
+					}
+					$('.new_list').html(list);
+				}
+			});
+		}
+	</script>
+</body>
+</html>

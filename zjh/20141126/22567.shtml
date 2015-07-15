@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>【停服维护】越狱版本临时停服公告_公告_最江湖官方网站</title>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/stop.jpg"  alt="新闻"/></h2>
+          </div>
+          <div class="clear"></div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle" style="color:#704e33;">【停服维护】越狱版本临时停服公告</div>
+              <div class="textTime"><span style="float:left; color:#393939; width:80px; padding-left:90px;">2014-11-26 18:28:08</span><span style="width:380px; float:right; padding-top:10px">
+                <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span></div>
+                <p></p>
+                <strong>各位江湖豪杰：</strong><br />
+<br />
+<span>　　非常抱歉，为了更好的优化游戏，《最江湖》越狱版本将于2014年11月26日</span><span >18：00~19:00</span><span>临时停服维护，请您知悉并提前做好相关准备，对您造成的不便请您谅解。</span><br />
+<br />
+<p>
+	<br />
+</p>
+<p>
+	<br />
+</p>
+<div style="text-align:right;">
+	<span>《最江湖》团队</span> 
+</div>
+<div style="text-align:right;">
+	<span>2014年11月26日&nbsp;</span> 
+</div> 
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

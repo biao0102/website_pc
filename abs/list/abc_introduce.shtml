@@ -1,0 +1,47 @@
+<!--头部公共文件模块开始-->
+	<!--#include virtual="/list/abc_index_topfile.shtml"-->
+<!--头部公共文件模块结束-->
+<body>
+	<div class="wrap minwidth rel">
+	<!--公共导航模块开始-->
+		<!--#include virtual="/list/abc_index_nav.shtml"-->
+	<!--公共导航模块结束-->
+		<div class="contain minwidth rel">
+			<div class="con920">
+				<div class="subtop rel">
+					<img src="http://js.feiliu.com/static/abc/web/images/zhu.png" alt="" class="zhu asb">
+					<img src="http://js.feiliu.com/static/abc/web/images/subtitle02.png" alt="" class="st asb">
+				</div>
+				<div class="subline">
+					<div class="newstxt">
+						<div class="infotitle">游戏介绍</div>
+						<div class="article">
+【游戏介绍】<br>
+《愤怒的小鸟 嘉年华版》是鸟迷们的至爱珍藏，也是小鸟新手的饕餮盛宴。它不仅给鸟迷们提供超多数量的全新篇章，而且倾心奉上超级炫酷的“NBA灌篮番外篇”和“特别关卡”，让鸟迷喜大普奔，尖声惊叫，连呼过瘾；让粉丝们玩到爽翻，玩到劲爆，玩到手酸！<br>
+ 
+《愤怒的小鸟 嘉年华版》是Rovio公司结合各种妙趣横生、奇思妙想的主题、风光、国家、节日等策划而成的版本，篇章数量极大丰富，关卡设计超级有趣，自iOS上线以来是目前最受欢迎的版本之一！“愤怒的小鸟”系列游戏全球下载量已超过25亿次，身为游戏玩家的你怎么可以不玩？<br><br>
+ 
+【游戏特色】<br>
+■ 极大丰富：14大主题篇章，300个精彩关卡，让你high翻天！<br>
+■ 特别奉送：“NBA灌篮番外篇”和“特别关卡”，惊为天关！<br>
+■ 超级可爱：画面精美纷呈，场景奇趣绚丽，怒鸟萌猪你懂的！<br>
+■ 有趣道具：多种道具助你“一击必杀”，得到所有隐藏奖励！<br>
+■ 情人猪吻：情人节特献篇章，美女猪出场擦出爱火，极度期待！<br>
+						</div>
+					</div>
+				</div>
+				<div class="subbottom"></div>
+			</div>
+		<!--底部公共模块开始-->
+			<!--#include virtual="/list/abc_index_foot.shtml"-->
+		<!--底部公共模块结束-->
+	</div>
+</div>
+<!--右侧漂浮模块开始-->
+	<!--#include virtual="/list/abc_index_float.shtml"-->
+<!--右侧漂浮模块结束-->
+<!--底部公共js文件模块开始-->
+	<!--#include virtual="/list/abc_index_jsfile.shtml"-->
+<!--底部公共js文件模块结束-->
+</body>
+</html>

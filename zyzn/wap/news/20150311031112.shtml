@@ -1,0 +1,50 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">众妖之怒怎么升级快 快速升级攻略</div>
+			<div class="news-con">
+				在目前大部分的手游里，人物的级别越高，系统开得越多，众妖之怒也不例外。随着人物等级的提升，可供我们玩的系统就越多，特别是体现在强化装备以及技能升级上，下面就来为大家带来众妖之怒快速升级攻略。<br />
+1、主线任务<br />
+做主线任务，可以说是前期升级最快的方式，没有之一，前期基本上完成个主线，就可以升一级。<br />
+<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150311/20150311151103_19333.png" alt="" /><br />
+2、支线任务<br />
+在做主线任务的时候，会时不时出现支线任务。支线任务一般相对简单，只需要对装备、宠物、技能等进行强化即可完成。<br />
+3、每日任务<br />
+众妖之怒等级<br />
+玩家25级后会开启每日任务，有的任务会奖励人物经验，建议都做。<br />
+4、刷副本<br />
+通关副本会给予人物经验，虽然给的人物经验很少，但积少成多，也是可以达到升级的效果的。另外，除了每天的体力领取外，我们还可以通过元宝购买体力，想要冲击排行榜的，每天的体力记得购满哦，平民玩家就量力而行吧。<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

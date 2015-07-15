@@ -1,0 +1,14 @@
+<div id="imgauto" class="fltt">
+	<div class="img-btn"> 
+		<a class="img-btn-checked">1</a> 
+		<a>2</a> 
+		<a>3</a> 
+		<a>4</a> 
+	</div>
+	<div class="img-con">
+		<a style="display:block" href="http://abs.feiliu.com/20150313/23281.shtml"><img src="http://js.feiliu.com/gameimg/abc/20150313120838.jpg" /></a>
+		<a href="http://abs.feiliu.com/20150313/23282.shtml" ><img src="http://js.feiliu.com/gameimg/abc/20150313120851.jpg"/></a> 
+		<a href="http://abs.feiliu.com/20150319/23312.shtml"><img src="http://js.feiliu.com/gameimg/abc/20150313120904.jpg" /></a> 
+		<a href="http://abs.feiliu.com/20150313/23278.shtml"><img src="http://js.feiliu.com/gameimg/abc/20150313120916.jpg" /></a>  
+	</div>
+</div>

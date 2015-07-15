@@ -1,0 +1,390 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/js.js?v=1"></script>
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<div id="menu">
+			<a href="http://ttdqy.feiliu.com"><span>官</span>网首页</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_data.shtml"><span>游</span>戏资料站</a>
+			<a class="menu-curr" href="http://ttdqy.feiliu.com/list/list_ttdqy_hero.shtml"><span>三</span>国点将谱</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml"><span>群</span>英大事件</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_downpage.shtml"><span>游</span>戏下载</a>
+			<a href="http://bbs.8783.com/forum-192-1.html" target="_blank"><span>玩</span>家论坛</a>	
+		</div>
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="hero">
+			<div class="herowrap">
+				<h3 class="hero-title"><img src="http://js.feiliu.com/static/ttdqy/web/images/hero_title.png" alt=""></h3>
+				<ul class="country">
+					<li class="country-item1 country-curr1"></li>
+					<li class="country-item2"></li>
+					<li class="country-item3"></li>
+					<li class="country-item4"></li>
+				</ul>
+				<!-- 魏国 -->
+				<div class="herolist-wrap">
+					<ul class="herolist">
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/cc.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/xhd.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/smy.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/dw.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/zj.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/gj.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/xc.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/zl.png" alt=""></li>
+					</ul>
+				</div>
+				<!-- 蜀国 -->
+				<div class="herolist-wrap disN">
+					<ul class="herolist">
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/lb.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/gy.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/zf.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/zy1.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/mc.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/zgl.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/hz.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/jw.png" alt=""></li>
+					</ul>
+				</div>
+				<div class="herolist-wrap disN">
+				<!-- 吴国 -->
+					<ul class="herolist">
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/sq.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/zy.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/dq.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/xq.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/ssx.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/sj.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/hg.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/tsc.png" alt=""></li>
+					</ul>
+				</div>
+				<div class="herolist-wrap disN">
+				<!-- 群雄 -->
+					<ul class="herolist">
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/lb1.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/dc.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/dz.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/zj1.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/yl.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/wc.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/zr.png" alt=""></li>
+						<li class="hero-item"><img src="http://js.feiliu.com/static/ttdqy/web/images/mh.png" alt=""></li>
+					</ul>
+				</div>
+				<ul class="intr cw">
+					<li class="intr-item disB">
+						<h4>曹操：</h4>
+						<p>拥有封禁天地技能，可让敌将无法释放技能，远程攻击敌将；<br>拥有天命技奸雄，受伤回复技力。<br>
+						阵法：鱼丽之阵  兵种：朴刀兵<br>
+						技能：鸣雷箭1级  封禁天地1级  君王薨1级<br>
+						武器：苍天弑帝剑<br>
+						坐骑：抱月乌龙<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>夏侯惇：</h4>
+						<p>生命值极低，有大范围对兵和将的群杀技能，<br>拥有天命技不屈，可以死里逃生。<br>
+						阵法：雁行之阵  兵种：弓箭兵<br>
+						技能：月刃1级  生死宝轮1级  遗咒1级<br>
+						武器：噬魂魔刀<br>
+						坐骑：燎原火<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>司马懿：</h4>
+						<p>生命力较低，善于用兵偷袭敌后方，拥有天命技遗咒，<br>如果手下小兵死亡有概率自爆伤敌。<br>
+						阵法：钩形之阵  兵种：短枪兵<br>
+						技能：天罡神雷1级  神兵天降1级  无双1级<br>
+						武器：七星神剑<br>
+						坐骑：绝影<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>典韦：</h4>
+						<p>生命力极高，近身攻击，拥有天命技铁壁，受到伤害减免，非常善于单挑的武将。<br>
+						阵法：锥形之阵  兵种：轻骑兵<br>
+						技能：破山刀1级  雷霆护体1级  悲歌1级<br>
+						武器：玄天神锤<br>
+						坐骑：白蹄乌<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>甄姬：</h4>
+						<p>洛神化身，三国时期媚惑天生的美女。生命力极低，<br>可免疫一切武将技能伤害，拥有大范围群攻技能。<br>
+						阵法：鱼丽之阵  兵种：朴刀兵<br>
+						技能：生死宝轮1级  护神盾1级<br>
+						武器：邪月<br>
+						坐骑：红骊<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>郭嘉：</h4>
+						<p>善用兵，擅长封禁天地，可封敌将技能，<br>兵海源源不断招兵，天命技遗咒让手下小兵自爆。<br>
+						阵法：雁行之阵  兵种：朴刀兵<br>
+						技能：兵海1级  封禁天地1级  天怒涅槃1级<br>
+						武器：天罡扇<br>
+						坐骑：爪黄飞电<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>许褚：</h4>
+						<p>可以瞬间冲刺到敌将面前，擅长杀法师型武将，拥有天命技虎痴，生命低时武力爆发。<br>
+						阵法：锥形之阵  兵种：轻骑兵<br>
+						技能：破山刀1级  瞬息千里1级  不屈1级<br>
+						武器：蚩尤碎<br>
+						坐骑：燎原火<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>张辽：</h4>
+						<p>武力高，有近身攻击技能，拥有天命技神速，<br>让手下小兵速度武力双双提升，不擅长杀兵。<br>
+						阵法：锥形之阵  兵种：轻骑兵<br>
+						技能：龙枪突杀1级  修罗斩魂1级  虎痴1级<br>
+						武器：开山神斧<br>
+						坐骑：绿螭骢<br>
+						</p>
+					</li>
+				</ul>
+				<ul class="intr disN xs">
+					<li class="intr-item disB">
+						<h4>刘备：</h4>
+						<p>生命力普通，擅长中范围群攻技能，拥有天命技君王薨，自己死亡则攻击敌军所有小兵。<br>
+						阵法：箭矢之阵  兵种：短枪兵<br>
+						技能：幽龙1级  天崩1级  英姿勃发1级<br>
+						武器：雌雄双股剑<br>
+						坐骑：夜照玉狮子<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>关羽：</h4>
+						<p>可以瞬间冲刺到敌将面前，是血量低的武将的噩梦，<br>拥有天命技忠义，血量低时伤害减免。<br>
+						阵法：锥形之阵  兵种：轻骑兵<br>
+						技能：破山刀1级  瞬息千里1级  铁壁1级<br>
+						武器：青龙偃月刀<br>
+						坐骑：赤兔<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>张飞：</h4>
+						<p>拥有远程杀将和近身群攻杀兵技能，拥有天命技连斩，<br>战斗中每杀死一个敌将武力在下场提升一定百分比。<br>
+						阵法：箭矢之阵  兵种：短枪兵<br>
+						技能：鬼神闪1级  旋灯火1级  天香1级<br>
+						武器：丈八蛇矛<br>
+						坐骑：乌云踏雪<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>赵云：</h4>
+						<p>善于让敌小兵定身，拥有大范围攻击技能，拥有天命技天怒涅槃，<br>全屏火雨打击，不擅长杀将。<br>
+						阵法：箭矢之阵  兵种：短枪兵<br>
+						技能：天崩1级  八门金锁1级  连斩1级<br>
+						武器：白龙神枪<br>
+						坐骑：绝影踏云<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>马超：</h4>
+						<p>一骑当千武将，有远程杀将和近身群攻杀兵技能，拥有天命技铁骑，<br>如果第一个上场则武力大幅提升。<br>
+						阵法：玄襄之阵  兵种：轻骑兵<br>
+						技能：神剑1级  剑刃风暴1级  神弓1级<br>
+						武器：飞翼神枪<br>
+						坐骑：照夜白<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>诸葛亮：</h4>
+						<p>生命力较低，非常善于大范围群攻敌军小兵，拥有天命技疲兵，<br>削弱敌军小兵，不擅长杀将。<br>
+						阵法：雁行之阵  兵种：弓箭兵<br>
+						技能：腾龙1级  集火柱1级  天怒涅槃1级<br>
+						武器：朱雀羽扇<br>
+						坐骑：透骨银龙驹<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>黄忠：</h4>
+						<p>生命力极低，可让敌军小兵定身，拥有天命技神弓，<br>让手下的弓兵射出冰霜箭，善于杀兵。<br>
+						阵法：雁行之阵  兵种：弓箭兵<br>
+						技能：八门金锁1级  青涛箭雨1级  离间1级<br>
+						武器：射日神弓<br>
+						坐骑：玉花骢<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>姜维：</h4>
+						<p>生命值极低，拥有护神盾免疫一切敌将技能伤害，拥有大范围攻击法术鬼戟。<br>
+						阵法：鱼丽之阵  兵种：朴刀兵<br>
+						技能：护神盾1级  鬼戟1级  遗咒1级<br>
+						武器：邪月<br>
+						坐骑：的卢<br>
+						</p>
+					</li>
+				</ul>
+				<ul class="intr disN sw">
+					<li class="intr-item disB">
+						<h4>孙权：</h4>
+						<p>生命力极低，有大范围对兵和将群杀技能，拥有天命技援军，召唤大量小兵偷袭敌将。<br>
+						阵法：雁行之阵  兵种：弓箭兵<br>
+						技能：火焰刀1级  青涛箭雨1级  疲兵1级<br>
+						武器：冻血灭狱刀<br>
+						坐骑：玉面紫骅骝<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>周瑜：</h4>
+						<p>拥有封禁天地技能，可让敌将无法释放技能，拥有天命技英姿勃发，<br>受到伤害时候反弹伤害，不擅长杀将。<br>
+						阵法：箭矢之阵  兵种：短枪兵<br>
+						技能：封禁天地1级  雪球1级  神速1级<br>
+						武器：古锭魔刀<br>
+						坐骑：宛天马<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>大乔：</h4>
+						<p>生命力中等，中范围对兵和将法术攻击，拥有天命技国色，可让敌方小兵眩晕。<br>
+						阵法：箭矢之阵  兵种：短枪兵<br>
+						技能：火球1级  崩山阵1级  国色1级<br>
+						武器：乔美丽<br>
+						坐骑：里飞沙<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>小乔：</h4>
+						<p>生命力较低，有大范围仅对兵有伤害的技能，拥有天命技天香，<br>吸收技能伤害给自己补血，不擅长杀将。<br>
+						阵法：钩形之阵  兵种：朴刀兵<br>
+						技能：天翔神剑1级  火云地狱1级  天雷怒击1级<br>
+						武器：乔佳丽<br>
+						坐骑：碧水金睛兽<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>孙尚香：</h4>
+						<p>生命力极低，护神盾免疫一切对自己的武将技伤害，拥有天命技天雷怒击，<br>召唤大范围雷电群攻伤敌。<br>
+						阵法：鱼丽之阵  兵种：朴刀兵<br>
+						技能：生死宝轮1级  护神盾1级  铁骑1级<br>
+						武器：日月乾坤圈<br>
+						坐骑：踏雪红鬃兽<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>孙坚：</h4>
+						<p>有远程杀将和近身群攻杀兵技能，拥有天命技守护，获得生命力护盾，可吸收一定伤害。<br>
+						阵法：玄襄之阵  兵种：轻骑兵<br>
+						技能：雷罚天刑1级  八面火1级  奸雄1级<br>
+						武器：紫龙戟<br>
+						坐骑：赤龙驹<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>黄盖：</h4>
+						<p>生命值高，武力一般，拥有群杀身边小兵的技能，单挑中用处很大。<br>
+						阵法：雁行之阵  兵种：短枪兵<br>
+						技能：剑刃风暴1级  旋灯火1级  守护1级<br>
+						武器：绝音弓<br>
+						坐骑：闪电<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>太史慈：</h4>
+						<p>生命值较低，拥有大范围只对兵群杀技能，天命技天怒涅槃则是召唤大范围<br>火雨攻击敌军。<br>
+						阵法：钩形之阵  兵种：朴刀兵<br>
+						技能：剑轮舞1级  天翔神剑1级  援军1级<br>
+						武器：古锭刀<br>
+						坐骑：忽雷驳<br>
+						</p>
+					</li>
+					
+				</ul>
+				<ul class="intr disN qx">
+					<li class="intr-item disB">
+						<h4>吕布：</h4>
+						<p>武力极高，近身攻击几乎无敌，拥有天命技无双，经常秒杀敌将，善于杀将。<br>
+						阵法：锥形之阵  兵种：轻骑兵<br>
+						技能：破山刀1级  龙枪突杀1级  忠义1级<br>
+						武器：方天画戟<br>
+						坐骑：赤兔胭脂兽<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>貂蝉：</h4>
+						<p>生命力较低，善于让敌军小兵定身，可以源源不断招出援军，<br>拥有天命技离间，可让敌军小兵叛变。<br>
+						阵法：玄襄之阵  兵种：轻骑兵<br>
+						技能：八门金锁1级  兵海1级  国色1级<br>
+						武器：金丽玉锤<br>
+						坐骑：胭脂火龙<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>董卓：</h4>
+						<p>生命值较低，拥有大范围对兵群杀技能，技能对武将也有一定的伤害能力。<br>
+						阵法：雁行之阵  兵种：弓箭兵<br>
+						技能：天翔神剑1级  剑轮舞1级<br>
+						武器：赤霄<br>
+						坐骑：翻羽<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>张角：</h4>
+						<p>生命力较低，拥有只伤害小兵的大范围攻击技能，无法直接用技能攻击武将。<br>
+						阵法：雁行之阵  兵种：弓箭兵<br>
+						技能：天翔神剑1级  八门金锁1级<br>
+						武器：七星剑<br>
+						坐骑：青骢<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>颜良：</h4>
+						<p>武力高，只拥有近身攻击技能，必须接近敌将才能发挥作用，单挑时作用大。<br>
+						阵法：锥形之阵  兵种：轻骑兵<br>
+						技能：破元斩1级  修罗斩魂1级  国色1级<br>
+						武器：混沌双斧<br>
+						坐骑：绝地<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>文丑：</h4>
+						<p>生命值高，武力一般，拥有群杀身边小兵的技能来接近敌将，单挑时作用大。<br>
+						阵法：雁行之阵  兵种：短枪兵<br>
+						技能：雷霆护体1级  旋灯火1级<br>
+						武器：日月双锤<br>
+						坐骑：龙驹<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>祝融夫人：</h4>
+						<p>少数民族原生态美女，生命值极低，可让敌军小兵定身，<br>并召唤小兵从后方偷袭敌将。<br>
+						阵法：玄襄之阵  兵种：轻骑兵<br>
+						技能：八门金锁1级  神兵天降1级  国色1级<br>
+						武器：彩霓扇<br>
+						坐骑：翻羽<br>
+						</p>
+					</li>
+					<li class="intr-item">
+						<h4>孟获：</h4>
+						<p>皮糙肉厚，生命值高，拥有身边群杀技能以接近敌将，单挑时有优势。<br>
+						阵法：雁行之阵  兵种：短枪兵<br>
+						技能：雷霆护体1级  剑刃风暴1级<br>
+						武器：玄天神锤<br>
+						坐骑：望云骓<br>
+						</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	</div>
+
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

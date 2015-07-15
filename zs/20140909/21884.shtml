@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">《三国战神》IOS 1.2.1版本9月9日正式启动</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-09-09 10:16:29</span>
+																			</div>
+									<div class="w-d">
+										&nbsp;特大喜讯，《三国战神》IOS 1.2.1版将于9月9日上午10:00在 PP助手、91助手、同步推、快用、苹果园、XY助手、海马助手、itools、加速宝9家越狱渠道正式发布。为提高游戏乐趣，此次更新不仅开放了新的玩家等级上限（85级）和数个全新的功能系统（御前比武和套装等），还对原有的版本进行了全面修订，让广大玩家玩的更舒心。热血奔腾的战斗场面，纯粹真实的新三国世界，《三国战神》正在掀起一场全新概念的战争娱乐化风潮，一起来看看吧！服务器维护需要2--4小时，开服时间视进度提前或延后，请大家耐心等待。<br />
+<br />
+等级上限<br />
+1.等级上限开放到85级<br />
+a)剧情副本开放81级、84级副本（邪法祭坛、张角伏诛）<br />
+<br />
+新功能开放<br />
+1.御前比武活动开放<br /><img src="http://i0.feiliu.com/image/20140909/20140909102025_95993.jpg" alt="" /><br /><img src="http://i0.feiliu.com/image/20140909/20140909102033_12512.jpg" alt="" /><br />
+a)活动开放等级：30级<br />
+b)每日活动开启时间：22:00<br />
+c)御前比武活动简介<br />
+i.活动开启后，玩家先通过参加选拔赛决出前16名淘汰赛选手，选拔赛为混战模式，击杀其他玩家获得积分。<br />
+ii.选拔赛结束后，淘汰赛选手根据排名1V1对战，最终决出今日的冠军选手。<br />
+iii.所有进入淘汰赛选手会获得勋章奖励，每周根据勋章数量进行排名，最终在周一凌晨决出上周的周冠军。<br />
+d)参与御前比武选拔赛即可获得参与奖励，如果能跻身淘汰赛，除了能获取更丰厚的奖励外，还有机会问鼎最后的日冠军。<br />
+<br />
+<br />
+2.套装功能开放<br /><img src="http://i0.feiliu.com/image/20140909/20140909102047_13316.jpg" alt="" /><img src="http://i0.feiliu.com/image/20140909/20140909102047_83200.jpg" alt="" /><img src="http://i0.feiliu.com/image/20140909/20140909102047_50562.jpg" alt="" /><br />
+a)套装合成途径：玩家可以用5阶装备与套装合成材料在合成商人处自动合成为高级套装。<br />
+b)套装合成材料获取途径：荣誉商城购买<br />
+c)套装功能简介：<br />
+i.合成新的套装后，套装的基准属性会有一定幅度的提升。<br />
+ii.玩家穿戴指定数量的套装后，可以激活指定的套装属性。<br />
+iii.穿戴套装后会使玩家角色变得更炫丽，更独特。<br />
+<br />
+<br />
+3.新职业技能开放<br />
+a)豪杰开放新的职业技能（急速冲锋：冲锋到8米内选定目标所在位置，同时给自己添加冲锋状态，提升移动速度）。<br /><img src="http://i0.feiliu.com/image/20140909/20140909102101_44303.jpg" alt="" /><br />
+b)月翎开放新的职业技能（腾挪闪转：瞬移到自身后方8米处，会被障碍所阻挡）<br />
+c)天机开放新的职业技能（五行遁法：闪现到自身前方8米处，会被障碍所阻挡）<br />
+<br />
+<br />
+4.运营类活动<br />
+a)等级基金<br />
+b)首充翻倍<br />
+<br />
+5.战斗力界面开放<br /><img src="http://i0.feiliu.com/image/20140909/20140909102111_43378.jpg" alt="" /><br />
+a)玩家可以在战斗力界面中查看到自己的当前战斗力，并且通过点击属性功能按钮直接前往培养对应的属性系统。<br />
+<br />
+6.VIP系统<br />
+a)VIP开放VIP14，并增加VIP14对应奖励。<br />
+<br />
+功能优化<br />
+1.主界面优化<br />
+a)游戏主界面显示优化，将活动、功能按钮集成起来，让主界面显示更清爽。<br />
+<br />
+2.帮会系统<br />
+a)增加帮会职位：堂主、精英<br />
+i.堂主权限：可以批准其他玩家入帮<br />
+ii.精英没有特殊权限<br />
+b)帮主、副帮主增加邀请他人直接入帮的功能，点击玩家头像或名字可弹出邀请入帮按钮<br />
+c)帮会捐献、帮会祭神使用元宝时增加帮聊频道消息提示<br />
+<br />
+3.聊天系统<br />
+a)记录私聊对象，当玩家再次打开聊天界面，会默认私聊对象为上一个私聊对象。<br />
+b)世界频道发言等级限制调整为18级<br />
+<br />
+4.技能系统<br />
+a)增加自动设置技能快捷键功能，点击后可以自动设置技能快捷键<br />
+<br />
+5.群英会<br />
+a)组队界面中增加打开聊天界面按钮，玩家可以自由聊天，关闭聊天后返回组队界面。<br />
+<br />
+6.运营活动<br />
+a)充值返利、消费返利界面增加充值按钮<br />
+<br />
+7.雷达地图<br />
+a)雷达地图中的NPC列表显示优化，优先显示传送点和功能NPC<br />
+<br />
+8.小助手系统<br />
+a)小助手更名为攻略<br />
+<br />
+9.七日礼和登陆赠礼奖励修改<br />
+<br />
+BUG修复<br />
+1.修复帮会神树元宝领取元宝数量显示错误（帮会神树元宝收取实际为20元宝，显示为80元宝）<br />
+2.关闭守卫汉帝在活跃度中的显示（守卫汉帝已经关闭，但是部分玩家仍在活跃度中存在此活跃度）<br />
+3.修复技能CD有时显示有时不显示的问题<br />
+4.修复排行榜玩家模型显示不对的问题<br />
+5.修复合成分解界面底框不显示的问题<br />
+6.修复黑名单中玩家VIP等级显示不正确的问题<br />
+7.修复在线抽奖免费次数用完后显示错误问题<br />
+8.修复在线抽奖冷却时间中光圈仍然闪烁的问题<br />
+9.修复帮会领地战地图中使用自动战斗导致领地按钮图标消失问题<br />
+10.修复3级神树高等级玩家无法领取奖励的问题<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2014.9.9<br />
+<br />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

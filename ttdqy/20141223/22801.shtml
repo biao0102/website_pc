@@ -1,0 +1,63 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content"><p>
+	&nbsp;全新三国策略手游《天天逗群英》今日封测啦！由上海鸣泉网络科技有限公司研发，飞流（FL Mobile）全平台代理发行的《天天逗群英(原名：马上有三国)》今日正式登陆飞流游戏中心、UC、360、百度、豌豆荚、小米六大国内主流安卓游戏平台，开启不计费删档封测。《天天逗群英》凭借其3D的视觉效果、百人同屏的震撼场面以及丰富多变的战场策略让许多玩家都大呼过瘾。快来一起加入《天天逗群英》，重温三国那些精彩的故事吧！
+</p>
+<p>
+	《天天逗群英》官方网站：<a href="http://ttdqy.feiliu.com">http://ttdqy.feiliu.com</a>
+</p>
+<p>
+	（图1：安卓六大渠道护航！《天天逗群英》封测今日开启）<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223165011.jpg" /><br />
+【三国武将任你选 一统天下有何难】
+</p>
+<p>
+	&nbsp; 忠肝义胆的关羽，知人善用的刘备，算无遗策的郭嘉，阴险狡诈的曹操……他们都将放下前世的仇恨，通通只为你而战！有诸葛亮与周瑜为你出谋划策，关羽和吕布为你征战沙场，何愁霸业不成？另外还有个劲爆的消息要告诉大家！嫌刘备手长过膝太过难看？司马懿狼顾之相令人生畏？错错错！他们在加盟《天天逗群英》之前，都自愿参加了整容活动！每个武将在整容之后都将及勇猛与可爱于一身，并且个个拥有逆转战局的绝技！谁说反杀是错觉？《天天逗群英》告诉你，哥不但能耍帅，更能杀敌！
+</p>
+<p>
+	（图2：三国武将任你选 一统天下有何难）<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223165018.jpg" /><a href="http://js.feiliu.com/gameimg/ttdqy/20141223165018.jpg"></a><br />
+【多种阵法组合 策略才是制胜之道】
+</p>
+<p>
+	&nbsp; 每个看过三国的人相信都对三国里的阵法如痴如醉，诸葛亮的八卦阵可当十万兵，三国时的十大阵法更是流传至今，真的有这么神奇么？有！在《天天逗群英》中，有锥形阵、雁形阵、钩形阵、玄襄阵等多种阵法，短枪兵，弓箭手等多种兵种，彼此相生相克，每个武将的出场顺序，每个阵法兵种的选择都将成为你的制胜之匙！对手兵数多武力高又如何？拜托，现在是21世纪，智商才是王道！
+</p>
+<p>
+	（图3：多种阵法组合 策略才是制胜之道）<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223165025.jpg" /><a href="http://js.feiliu.com/gameimg/ttdqy/20141223165025.jpg"></a><br />
+【打劫抢地！夺书方显枭雄本色】
+</p>
+<p>
+	&nbsp; 兵书作为游戏内的三大装备之一，可以大幅提升玩家的属性。而兵书升级所需碎片太多，副本给的又太少，怎么办？抢！在藏书阁中，玩家可以通过战斗来夺取他人的碎片为己所用，合成兵书，提升自己的实力。而封地作为一个暴露在地图之上的金矿，更是所有玩家抢占的目标。毕竟那些滚滚而来的金币每个人都望眼欲穿，如何在激烈的抢夺战中获胜，是每个玩家每天都将面对的一大挑战！
+</p>
+<p>
+	（图4：打劫抢地！夺书方显枭雄本色）<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223165031.jpg" /><a href="http://js.feiliu.com/gameimg/ttdqy/20141223165031.jpg"></a><br />
+&nbsp; 滚滚长江东逝水，浪花淘尽英雄，《天天逗群英》封测今日火热开启，六大国内主流安卓游戏平台飞流游戏中心、UC、360、百度、豌豆荚、小米鼎力护航！快来一起重回东汉末年，感受那段波澜壮阔的历史，完成心中一统天下的梦想吧！
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

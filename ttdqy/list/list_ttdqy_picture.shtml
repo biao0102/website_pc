@@ -1,0 +1,64 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">	
+		<div id="menu">
+			<a class="menu-curr" href="index.html"><span>官</span>网首页</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_data.shtml"><span>游</span>戏资料站</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_hero.shtml"><span>三</span>国点将谱</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml"><span>群</span>英大事件</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_downpage.shtml"><span>游</span>戏下载</a>
+			<a href="http://bbs.8783.com/forum-192-1.html" target="_blank"><span>玩</span>家论坛</a>
+		</div>
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="news-center">
+			<div class="centerwrap p60">
+				<ul class="cartoon-tab">
+					<li class="cartoon-left"></li>
+					<li class="cartoon-middle"></li>
+					<li class="cartoon-right"></li>
+				</ul>
+				<ul class="photo">
+					<li class="photo-item">
+						<img src="http://js.feiliu.com/static/ttdqy/web/images/photo1.jpg" alt="">
+						<span>官方漫画第XX期</span>
+					</li>
+					<li class="photo-item">
+						<img src="http://js.feiliu.com/static/ttdqy/web/images/photo1.jpg" alt="">
+						<span>官方漫画第XX期</span>
+					</li>
+					<li class="photo-item">
+						<img src="http://js.feiliu.com/static/ttdqy/web/images/photo1.jpg" alt="">
+						<span>官方漫画第XX期</span>
+					</li>
+					<li class="photo-item">
+						<img src="http://js.feiliu.com/static/ttdqy/web/images/photo1.jpg" alt="">
+						<span>官方漫画第XX期</span>
+					</li>
+					<li class="photo-item">
+						<img src="http://js.feiliu.com/static/ttdqy/web/images/photo1.jpg" alt="">
+						<span>官方漫画第XX期</span>
+					</li>
+					<li class="photo-item">
+						<img src="http://js.feiliu.com/static/ttdqy/web/images/photo1.jpg" alt="">
+						<span>官方漫画第XX期</span>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/js.js"></script>
+</html>

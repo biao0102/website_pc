@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="战魂西游,战魂西游官网, 战魂西游下载,战魂西游攻略,战魂西游礼包,战魂西游安卓版, 战魂西游ios版" />
+    <meta name="description" content="战魂西游官网提供战魂西游下载,战魂西游攻略,ios安卓礼包发放。战魂西游是以西游记为题材的ARPG游戏,街机手动操作战斗,超爽快的动作打击效果,无限的动作连击以及角色多样化养成,在工作、学习的短暂闲暇中即可畅快游戏。" />
+    <meta name="baidu-site-verification" content="i2T25XFo44" />
+    <title>《战魂西游》_战魂西游官网_下载_攻略_安卓iOS战魂西游礼包</title>
+    <link href="http://js.feiliu.com/static/zhxy/web/css/guide.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery1.6.4.js"></script>
+</head>
+
+<body>
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/zhxy/images/top.jpg" alt="" />
+        </div>
+    </div>
+    <div id="wrap" class="wrap">
+        <div class="content">
+            <div class="nav">
+                <ul class="">
+                    <li class="btn01"><a href="http://zhxy.feiliu.com">官网首页</a></li>
+                    <li class="btn02"><a href="http://zhxy.feiliu.com/list/list_zhxy_zx.shtml" target="_blank">新闻公告</a></li>
+                    <li class="btn03"><a href="http://zhxy.feiliu.com/20140421/20415.shtml" target="_blank">游戏介绍</a></li>
+                    <li class="btn04"><a href="http://zhxy.feiliu.com/20140422/20450.shtml" target="_blank">游戏特色</a></li>
+                    <li class="btn05"><a href="http://bbs.8783.com/forum-90-1.html" target="_blank">游戏论坛</a></li>
+                </ul>
+                
+            </div>
+            <div class="header">
+                <img src="http://js.feiliu.com/static/zhxy/web/images/guide/img01.jpg?v=1029" alt="" />
+                <img src="http://js.feiliu.com/static/zhxy/web/images/guide/img02.jpg?v=1029" alt="" />
+                <img src="http://js.feiliu.com/static/zhxy/web/images/guide/img03.jpg?v=1030" alt="" />
+                
+            </div>
+            <div class="main main_bg clearfix">
+                <div class="down">
+                    <a href="javascript:alert('敬请期待')" target="_self" class="btn01" id="btn01">IOS版下载</a>
+                    <a href="javascript:alert('敬请期待')" target="_self" class="btn02" id="btn02">越狱版下载</a>
+                    <a href="http://zhxy.feiliu.com/count/download.php?pid=100155&cid=300021&type=5" class="btn03" id="btn03">安卓版下载</a>
+                </div>
+                <div class="main_m">
+                    <div class="main_ml">
+                        <a href="http://zhxy.feiliu.com/20140421/20415.shtml" target="_blank" class="btn04" id="btn04">游戏介绍</a>
+                        <a href="http://zhxy.feiliu.com/20140422/20450.shtml" target="_blank" class="btn06" id="btn06">游戏特色</a>
+                        <a href="http://bbs.8783.com/forum-90-1.html" target="_blank"  class="btn05" id="btn05">游戏论坛</a>
+                    </div>
+                    <div class="news">
+                        <div class="news_nav" id="news_nav">
+                            <a href="javascript:;" class="current">最新</a>
+                            <a href="javascript:;">新闻</a>
+                            <a href="javascript:;">公告</a>
+                            <a href="javascript:;">活动</a>
+                        </div>
+                        <span class="news_more"><a href="http://zhxy.feiliu.com/list/list_zhxy_latest.shtml" target="_blank" class="more"></a></span>
+                        <div class="news_panes" id="news_panes">
+                        <!--引导页最新栏目模板start-->
+                            <!--#include virtual="/list/guide_zhxy_zx.shtml"-->
+                        <!--引导页最新栏目模板end-->
+
+                        <!--引导页新闻栏目模板start-->
+                            <!--#include virtual="/list/guide_zhxy_news.shtml"-->
+                        <!--引导页新闻栏目模板end-->
+
+                        <!--引导页公告栏目模板start-->
+                            <!--#include virtual="/list/guide_zhxy_gg.shtml"-->
+                        <!--引导页公告栏目模板end-->
+
+                        <!--引导页活动栏目模板start-->
+                            <!--#include virtual="/list/guide_zhxy_hd.shtml"-->
+                        <!--引导页活动栏目模板end--> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="main_b">
+                    <div class="main_bl">
+                        <p>官网交流群：234643062</p>
+                        <p>客服QQ：800032234</p>
+                        <p>邮箱：800032234@b.qq.com</p>
+                    </div>
+                    <div class="hz_box">
+    <ul class="hz_list" id="hz_list">
+        <li><a href="http://www.shouyou.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/173.jpg" alt="173" /></a></li>
+        <li><a href="http://games.qq.com/mobile/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/QQ.jpg" alt="QQ" /></a></li>
+        <li><a href="http://www.ptbus.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/ptbus.jpg" alt="ptbus" /></a></li>
+        <li><a href="http://www.178.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/178.png" alt="" /></a></li>
+        <li><a href="http://www.mofang.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/mofang.jpg" alt="" /></a></li>
+        <li><a href="http://www.gao7.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/gq.jpg" alt="" /></a></li>
+        <li><a href="http://www.gamedog.cn/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/yxg.png" alt="" /></a></li>
+        <li><a href="http://www.15666.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/yzz.jpg" alt="" /></a></li>
+        <li><a href="http://ol.tgbus.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/dwbs.jpg" alt="" /></a></li>
+        <li><a href="http://g.uuu9.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/U9.jpg" alt="" /></a></li>
+        <li><a href="http://www.5253.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/5253.jpg" alt="" /></a></li>
+        <li><a href="http://www.52pk.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/52PK.jpg" alt="" /></a></li>
+        <li><a href="http://news.7k7k.com/m/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/7k7k.jpg" alt="" /></a></li>
+        <li><a href="http://sy.766.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/766.jpg" alt="" /></a></li>
+        <li><a href="www.youxiduo.com
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/yxd.png" alt="" /></a></li>
+        <li><a href="http://www.bufan.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/bufan.jpg" alt="" /></a></li>
+        <li><a href="http://www.daogame.cn/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/sdw.jpg" alt="" /></a></li>
+        <li><a href="http://www.candou.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/cdw.jpg" alt="" /></a></li>
+        <li><a href="http://www.18183.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/18183.png" alt="" /></a></li>
+        <li><a href="http://i.china.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/zhw.jpg" alt="" /></a></li>
+        <li><a href="http://www.18touch.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/chaohw.jpg" alt="" /></a></li>
+        <li><a href="http://game.163.com/shouyou/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/wysy.gif" alt="" /></a></li>
+        <li><a href="http://game.91.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/91.jpg" alt="" /></a></li>
+        <li><a href="http://www.61166.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/ww.jpg" alt="" /></a></li>
+        <li><a href="http://www.pipaw.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/ppw.jpg" alt="" /></a></li>
+        <li><a href="http://sy.pcgames.com.cn/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/tpyyx.jpg" alt="" /></a></li>
+        <li><a href="http://game.pchome.net/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/pchome.jpg" alt="" /></a></li>
+        <li><a href="http://www.yxzoo.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/yxy.jpg" alt="" /></a></li>
+        <li><a href="http://www.91weile.com/
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/wlw.jpg" alt="" /></a></li>
+        <li><a href="www.banma.com
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/bmw.jpg" alt="" /></a></li>
+        <li><a href="www.shouyoubus.com
+" target="_blank"><img src="http://js.feiliu.com/static/zhxy/images/hzmt/sybs.jpg" alt="" /></a></li>
+    </ul>
+</div>
+                </div>
+                <div class="bottom clearfix">
+                    <p>About.us | Copy right@北京飞流九天科技有限公司</p>
+                    <p>爱游戏，爱生活，也爱美女。</p>
+                    <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+                    <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+                    <p>Love is love!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+<div id="fix">
+    <img src="http://js.feiliu.com/static/zhxy/web/images/guide/bgfixed.png" alt="" width="240px" height="420px">
+    <img class="ercode" src="http://js.feiliu.com/static/zhxy/web/images/guide/qrcode.png?v=2" alt="" width="180px" height="180px">
+    <a href="#top" title="回到顶部"></a>
+</div>
+<div style="display:none;">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fb3799e49c6ba0236a9983ae3f30837b1' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+</body>
+<script> 
+    $(function(){
+        newsTab();
+        gundong();
+    //  mthztab();
+    });
+
+    function newsTab(){
+        var navs = $("#news_nav > a");
+        var panes = $("#news_panes > ul");
+        navs.each(function (i) {
+            $(this).click(function () {
+                navs.removeClass("current").eq(i).addClass("current");
+                panes.hide().eq(i).show();
+            });
+        });
+    }
+        
+    function mthztab(){
+        var tabs = $("#mtbox_tab a");
+        var panes = $("#mtbox_panes > div.mtbox_item");
+        tabs.each(function (i) {
+        $(this).click(function () {
+            tabs.removeClass("current").eq(i).addClass("current");
+            panes.hide().eq(i).show();
+        });
+        });
+    }
+           
+    function gundong(){
+        var box = $("#hz_list");
+        var owidth = box.children("li").eq(0).outerWidth();
+        var num = box.children("li").length;
+        var i = 0;
+        var timer = null;
+        var time = 20;
+
+        if (num > 5) {
+            box.append(box.html());
+            box.css("width", 2 * owidth * num + "px");
+            timer = setInterval(gdAnimate, time);
+            box.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(gdAnimate, time);
+            });
+        }
+        function gdAnimate() {
+            i = i > owidth * num ? 0 : i + 1;
+            box.css("left", -i + "px");
+        }
+    }
+</script>
+
+
+</html>

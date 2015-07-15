@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>主界面功能介绍_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">游戏资料</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">主界面功能介绍</div>
+              <p><p class="MsoTitle">
+	主界面功能介绍<br /><img src="http://i0.feiliu.com/image/20140804/20140804182514_99353.png" alt="" />
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<h3>
+	2.1天魔殿
+</h3>
+<p class="MsoNormal" style="text-indent:26.25pt;">
+	1）查看英雄
+</p>
+<p class="MsoNormal" style="text-indent:26.25pt;">
+	天魔殿罗列出玩家拥有所有的英雄，玩家方便对自己的英雄进行管理和操作。<br /><img src="http://i0.feiliu.com/image/20140804/20140804182521_84360.png" alt="" />
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	2）英雄升级
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	在天魔殿玩家可以使用其他的英雄来给一指定英雄传授经验值，升级过后，被升级英雄经验值大幅提升（不能给玩家主角进行传功操作）。
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140804/20140804182650_45755.png" alt="" />
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	3）英雄进阶
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	当玩家角色满足进阶条件时，玩家可以消耗相应进阶道具对英雄进行进阶突破，进阶突破后的英雄拥有翻倍的属性和能力，是玩家增强自己英雄最有效的方法。<br /><img src="http://i0.feiliu.com/image/20140804/20140804182706_84928.png" alt="" />
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	4）主角升阶
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	主角的升阶需要有相同颜色的卡牌进行升阶。如当主角是绿色时，使用绿色卡升阶，蓝色时，使用蓝色卡升阶。当每阶达到<span>5</span>星后，则进阶下一颜色，如绿色升为蓝色。<br /><img src="http://i0.feiliu.com/image/20140804/20140804182714_44025.png" alt="" />
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<h3>
+	2.3藏经阁
+</h3>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;
+1）查看
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;">
+	藏经阁罗列出玩家所有拥有的武功，并可以对武功进行一系列操作，包括武功进阶合成以及出售。藏经阁武功的进阶，与英雄完全一样。
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;"><img src="http://i0.feiliu.com/image/20140804/20140804182734_15291.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	2）武功合成
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家在游戏过程中有几率获取武功碎片，当满足条件后可将武功碎片合成一个完整的武功。<br /><img src="http://i0.feiliu.com/image/20140804/20140804182742_12284.png" alt="" />
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	3）武功出售
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	在此界面可对武功进行出售。<br /><img src="http://i0.feiliu.com/image/20140804/20140804182749_96046.png" alt="" /><span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	<br />
+</p>
+<h3>
+	2.4赌坊
+</h3>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;
+征收
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	用来征收游戏内的银子，银子可用来升级武功、武功、建筑等。<br /><img src="http://i0.feiliu.com/image/20140804/20140804182757_53723.png" alt="" /><span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<br />
+</p>
+<h3>
+	2.5万剑冢
+</h3>
+<p class="MsoNormal">
+	&nbsp;&nbsp;
+&nbsp;1)查看
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	万剑冢罗列出玩家所有拥有的武器，并可以对武器进行一系列操作，包括武器进阶合成以及出售。万剑冢武器的进阶，与英雄完全一样。<br /><img src="http://i0.feiliu.com/image/20140804/20140804182808_74288.png" alt="" /><span></span>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	2）出售<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	在此界面可对武器进行出售。<br /><img src="http://i0.feiliu.com/image/20140804/20140804182817_47181.png" alt="" /><span></span>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<h3>
+	<span>2.6</span>论剑
+</h3>
+<p class="MsoNormal">
+	<span>&nbsp; </span>游戏内玩家与玩家进行战斗的<span>PVP</span>玩法<br /><img src="http://i0.feiliu.com/image/20140804/20140804182916_59322.png" alt="" />
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp; </span>玩家可以使用论剑获得的声望与战绩兑换相应的侠名与奖励
+</p>
+<p class="MsoNormal">
+	&nbsp; 侠名
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140804/20140804182925_38449.png" alt="" />
+</p>
+<p class="MsoNormal">
+	战绩<br /><img src="http://i0.feiliu.com/image/20140804/20140804182935_71671.png" alt="" /><span></span>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<h3>
+	<span>2.7</span>地牢
+</h3>
+<p class="MsoNormal">
+	&nbsp; 玩家可在此处刷到自己想要的英雄卡或积分，用来英雄升星或者兑换相应的奖励<br /><img src="http://i0.feiliu.com/image/20140804/20140804182946_49449.png" alt="" /><span></span>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	&nbsp;
+奖励<br /><img src="http://i0.feiliu.com/image/20140804/20140804182956_70898.png" alt="" /><span></span>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<h3>
+	<span>2.8</span>战斗
+</h3>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	游戏采用自动回合制战斗模式，英雄在自己阵位上会依照战斗规则轮流进行攻击，直到一方被消灭或者战斗回合数满。
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	回合数满，无论是何种类型战斗均是玩家失败。<br /><img src="http://i0.feiliu.com/image/20140804/20140804183004_97588.png" alt="" />
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p>
+<h3>
+	<span>2.9</span>战斗结算
+</h3>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	战斗结束后系统会对玩家战斗进行评价与奖励。<br /><img src="http://i0.feiliu.com/image/20140804/20140804183014_12531.png" alt="" /><br /><img src="http://i0.feiliu.com/image/20140804/20140804183022_30927.png" alt="" /><img src="http://i0.feiliu.com/image/20140804/20140804183028_99145.png" alt="" />
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p>
+<h3>
+	<span>3.0</span>家园
+</h3>
+<p class="MsoNormal">
+	<span>&nbsp; </span>1)查看
+</p>
+<p class="MsoNormal" style="text-indent:10.5pt;">
+	一种交互性玩法，玩家可在家园系统中种植会产出各种消耗品的植物，并且可对植物进行浇水、加速、收获等操作，也可到好友家为好友植物浇水。
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140804/20140804183048_39568.png" alt="" />
+</p>
+<p class="MsoNormal">
+	2)种植<span></span>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140804/20140804183057_16048.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:10.5pt;">
+	<br />
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal" align="left" >
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

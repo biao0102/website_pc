@@ -1,0 +1,82 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+<title>龙骑战歌官方网站</title> 
+<meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+<meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="http://js.feiliu.com/static/lqzg/wap0525/css/news.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/wap0525/js/jquery-1.11.2.min.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="content">
+            <div class="nav">
+                <h3>内容</h3>
+                <a href="javascript:history.go(-1);">返回&gt;&gt;</a>
+            </div>
+            <div class="news">
+                    <h1 class="title">远古巨龙血统 《龙骑战歌》龙人伙伴原画曝光</h1>
+                    <div class="news_con">
+                    <p>骑上巨龙横行陆地，驾上飞龙驰骋天空，《龙骑战歌》作为由墨麟倾力研发、飞流（FL Mobile）全平台独家代理发行的次世代骑乘新纪元手游，让玩家可以史无前例地体验到立体化战斗的激情。同时，小伙伴系统的推出，更是让玩家可以瞬间切换不同种族职业参战，体验双职业战斗方式的畅快。在众多小伙伴中，龙人萨奎尔·长尾则能让玩家全面组成龙族军团，横扫战场！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416192908.jpg" title="20150416192908.jpg" alt="图1：骑战新纪元《龙骑战歌》龙人小伙伴原画曝光.jpg"/></p><p><br/></p><p>【远古巨龙后裔 天生的战士】</p><p><br/></p><p>&nbsp; 萨奎尔·长尾是一名龙人部族的成员。龙人是一个人数稀少的种族，他们分散聚居在大陆的各个角落。他们据说有着远古巨龙的血统，事实上，龙人的外表也确实跟巨龙十分相像，巨大布满利齿的嘴巴和粗大坚硬的尾巴，使得他们比别的战士更多出两件致命的武器。龙人天生对所有类型的魔法元素具有很高的抵抗力，同样的攻击法术对龙人战士而言，威胁性要小得多。然而与此相对的是，整个龙人部族几乎没有可以学习任何类别魔法的人，龙人特殊的身体构造使得他们必须以完全不同的方式来运用元素的力量。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416192919.jpg" title="20150416192919.jpg" alt="图2：龙人小伙伴-萨奎尔·长尾.jpg"/></p><p><br/></p><p>【以龙族之名起誓 化身仇恨使者】</p><p><br/></p><p>&nbsp; 萨奎尔居住的龙人村庄本来过着与世无争的生活，然而在灰烬神教开始亡灵袭击的时候，他的村子很不幸地遭到了袭击。村子遭到了屠杀，连尸体也被作为亡灵法师们的研究素材被运走，这其中也包括了萨奎尔的妻子和两个孩子。全村仅有遍体鳞伤杀出重围的萨奎尔一人，侥幸捡回了性命。经过数月的休养，萨奎尔重新拿起了他的战斧。他发誓要为自己的家人复仇，让灰烬神教从琳妮茵世界彻底地消失。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416192929.jpg" title="20150416192929.jpg" alt="图3：小伙伴轮番出击 享受多重职业战斗快感.jpg"/></p><p><br/></p><p>&nbsp; 龙人萨奎尔·长尾作为《龙骑战歌》所有小伙伴中造型最为酷炫的小伙伴，一柄长斧将把所有敌人轰碎成渣，战斗效果最为惊人。《龙骑战歌》即将封测，现在进入官网便可提前享受预约大礼包，抢先拥有先发优势！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416192936.jpg" title="20150416192936.jpg" alt="图4：进入官网 享受预约大礼包.jpg"/></p><p><br/></p>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+<script>
+    function getArgs()
+    {
+        var argsArr = new Object();
+        var query = window.location.search;  
+        query = query.substring(1);
+        var pairs = query.split("&");
+        for(var i=0;i<pairs.length;i++)
+        {
+            var sign = pairs[i].indexOf("="); 
+            if(sign == -1)
+            {
+                continue; 
+            }
+            var aKey = pairs[i].substring(0,sign);
+            var aValue = pairs[i].substring(sign+1);         
+            argsArr[aKey] = unescape(aValue);
+
+        }
+        return argsArr;
+    }
+
+    var param = new Object();
+    param = getArgs();
+    var source = param.s;
+
+    if(!source)
+    {
+        source = '300021';
+    }
+    $('a').click(function(e){
+        var url = $(this).attr('href');
+        if(url != 'javascript:void(0);' && url != "javascript:alert('敬请期待！');" && url != 'javascript:history.go(-1);');
+        {
+            e.preventDefault();
+            var url = $(this).attr('href');
+            if(url.indexOf('?') > -1)
+            {
+                var tourl = url + '&s='+source;
+            } else {
+                var tourl = url + '?s='+source;
+            }
+            window.location.href = tourl;   
+        }
+    });   
+
+</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>
+
+

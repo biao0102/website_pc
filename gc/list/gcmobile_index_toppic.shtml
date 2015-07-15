@@ -1,0 +1,9 @@
+           <img src="http://js.feiliu.com/static/gcwap/images/img01.jpg" alt="" />
+            <img src="http://js.feiliu.com/static/gcwap/images/img02.jpg" alt="" />
+            <img src="http://js.feiliu.com/static/gcwap/images/img03.jpg" alt="" />
+            <div class="nav">
+                <a href="http://gc.feiliu.com/wap/index.php?v=1">官网首页</a>
+                <a href="http://gc.feiliu.com/wap/list_zxzx.php?v=2">最新资讯</a>
+                <a href="#tese">特色玩法</a>
+                <a href="http://gc.feiliu.com/wap/list_yxzl.php?v=1">游戏资料</a>
+            </div>

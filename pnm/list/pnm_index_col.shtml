@@ -1,0 +1,21 @@
+      		<div class="news">
+				<ul class="tab">
+					<li class="tab_li_current"><a href="http://pnm.feiliu.com/list/pnm_list_allcol.shtml" target="_blank">全部</a></li>
+					<li><a href="http://pnm.feiliu.com/list/pnm_list_news.shtml" target="_blank">新闻</a></li>
+					<li><a href="http://pnm.feiliu.com/list/pnm_list_hd.shtml" target="_blank">活动</a></li>
+					<li><a href="http://pnm.feiliu.com/list/pnm_list_gg.shtml" target="_blank">公告</a></li>
+				</ul>
+				<!--首页全部栏目模板开始--> 
+			        <!--#include virtual="/list/pnm_index_allcol.shtml"-->
+			    <!--首页全部栏目模板结束-->
+				<!--首页新闻栏目模板开始--> 
+			        <!--#include virtual="/list/pnm_index_newscol.shtml"-->
+			    <!--首页新闻栏目模板结束-->
+				<!--首页活动栏目模板开始--> 
+			        <!--#include virtual="/list/pnm_index_hdcol.shtml"-->
+			    <!--首页活动栏目模板结束-->
+				<!--首页公告栏目模板开始--> 
+			        <!--#include virtual="/list/pnm_index_ggcol.shtml"-->
+			    <!--首页公告栏目模板结束-->
+				<a class="more" href="http://pnm.feiliu.com/list/pnm_list_allcol.shtml" class="more">更多>></a>
+			</div>

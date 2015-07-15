@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网 角色专题列表页</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/zhuanti.css">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		  <div class="headerT1">
+    <nav>
+      <ul>
+        <li><a href="http://zs.feiliu.com/list/index_zs.shtml" target="_blank">首页</a></li>
+        <li><a href="http://zs.feiliu.com/list/list_zs_allzx.shtml" target="_blank">资讯中心</a></li>
+        <li><a href="http://zs.feiliu.com/list/down_zs.shtml" target="_blank">下载专区</a></li>
+        <li class="sub"><a href="http://zs.feiliu.com/list/list_zs_zl.shtml">资料大全</a>
+        	<div class="sub-forbg"></div>
+        	<div class="sub-box">
+            	<a href="http://zs.feiliu.com/list/list_zs_zl.shtml">资料站</a>
+                <a href="#">新手指南</a>
+                <a href="http://zs.feiliu.com/list/focus_zs_list.shtml">职业专题</a>
+                <a href="http://zs.feiliu.com/list/video_zs_yxsp.shtml" class="nobor">游戏视频</a>
+            </div>
+        </li>
+        <li><a href="#" target="_blank">服务中心</a></li>
+        <li><a href="http://bbs.8783.com/forum-70-1.html" target="_blank">社区中心</a></li>
+      </ul>
+    </nav>
+  </div>
+	<!--首页头部导航模板结束-->
+          <div id="content">
+          	<div id="roleShow">
+          	<a class="zs-rw1" href="http://zs.feiliu.com/list/focus_zs_tj.shtml" target="_blank"><img src="http://js.feiliu.com/static/zs/images/ztrw_tianji.jpg"></a>
+            <a class="zs-rw2" href="http://zs.feiliu.com/list/focus_zs_hj.shtml" target="_blank"><img src="http://js.feiliu.com/static/zs/images/ztrw_haojie.jpg"></a>
+            <a class="zs-rw3" href="http://zs.feiliu.com/list/focus_zs_yl.shtml" target="_blank"><img src="http://js.feiliu.com/static/zs/images/ztrw_yueling.jpg?v=2"></a>
+            </div>
+          </div>
+		<!--公共底部开始--> 	
+			  <footer id="footer">
+    <p> About.us | Copyright@北京飞流九天科技有限公司<br>
+      地址：北京市东城区和平里东街11号雍和航星科技园2号楼北侧3层  联系电话：010-84229729<br>
+      爱游戏，爱生活，也爱美女。<br>
+      飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！<br>
+      我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！<br>
+      Love is love!<br>
+    </p>
+  </footer>
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5915744'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5915744' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+		<!--公共底部结束-->
+    </div>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global.js?v=0527"></script>
+</body>
+
+</html>

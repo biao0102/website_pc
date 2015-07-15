@@ -1,0 +1,32 @@
+<!--
+<div id="fl">
+  <div id="fl_wrap"> <img style="position: absolute;left: 200px;top: 1px;" src="http://cdnpush.feiliu.com/uploadimage/papasanguostatic/images/papapa.jpg" />
+    <div id="fl_logo"><img src="http://cdnpush.feiliu.com/uploadimage/public/logo.png" /></div>
+    <div id="flgame">
+      <div id="fl_head">飞流游戏</div>
+      <div id="flgame_list_area">
+        <table id="flgame_list">
+          <tr>
+            <td><a href="http://dsg.feiliu.com" target="_blank" class="hot">斗三国</a></td>
+            <td><a href="http://papasg.feiliu.com" target="_blank" class="hot">啪啪三国</a></td>
+            <td><a href="http://xyq.feiliu.com" target="_blank" class="hot">悟空去哪儿</a></td>
+            <td><a href="http://woqu.feiliu.com" target="_blank" class="hot">我去西游</a></td>
+            <td><a href="http://ds.feiliu.com" target="_blank" >龙之召唤</a></td>
+            <td><a href="http://hlqk.feiliu.com" target="_blank" >火力全开</a></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+    window.onload = function(){
+        var $list = $('#flgame_list_area');
+        $('#flgame').hover(function(){
+            $list.stop(true,true).show();
+        },function(){
+            $list.stop(true,true).hide();
+        });
+    }
+</script>
+-->

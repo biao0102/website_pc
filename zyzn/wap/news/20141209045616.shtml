@@ -1,0 +1,79 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">葵花宝典之┏竞技场攻略┓</div>
+			<div class="news-con">
+				<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	竞技场攻略<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	竞技场是提供给不同种族和职业的玩家进行公平竞技、<span >PK</span><span >的竞赛场。参与其中的玩家，不仅可以体验到</span>击败其他离线玩家的刺激，获得丰富奖励的喜悦，还能享受到在排行榜上高高在上，唯我独尊的成就感。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;竞技场的玩法非常简单，通过界面上的玩法按钮进入玩法界面后，点击竞技场，进入竞技场选择界面。此时选择界面上会有六个实力排名相近的离线玩家可供选择，点击选择对手就可以开始比赛了。<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:26pt;margin-top:0pt;margin-bottom:0pt;">
+	竞技场中通过击杀对手获胜可以提升你在排行榜中的排名，若被其他玩家挑战成功则会排名下降。但是要想在竞技场中脱颖而出赢得最终的胜利也不是那么容易。除了出类拔萃的操作和强悍的装备，合理运用竞技场的规则和相关的功能也是非常重要的。比如在竞技场的选择对手界面寻找对自己最有利的对手，尽量避免与自己很难对付的职业对抗；熟悉竞技场的地图结构。掌握天时地利，可以在激烈的对抗中做到来去自如。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	竞技场中根据胜负各获得不同额度声望奖励，而奖励的声望是可以在商店中购买各种你喜欢的装备和宝石等游戏中高价值道具。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	另外根据排名每30分钟获得不同额度声望奖励。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	第1名:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15声望<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	第2-10名:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12声望<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	第11-50名:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10声望<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	第51-200名:&nbsp;&nbsp;&nbsp;&nbsp;8声望<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	第201-500名:&nbsp;&nbsp;&nbsp;7声望<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	第501-1000名:&nbsp;&nbsp;5声望<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	第1001-3000名:&nbsp;3声望<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	第3001名以后:&nbsp;&nbsp;&nbsp;2声望<o:p></o:p>
+</p>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

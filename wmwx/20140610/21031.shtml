@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>游戏简介 完美武侠_公告</title>
+<link href="http://js.feiliu.com/static/wmwx/css/main.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/wmwx/js/jquery1.6.4.js"></script>
+</head>
+<body class="inner">
+<div class="header">
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img src="http://js.feiliu.com/static/wmwx/images/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>
+<div class="sec1">
+
+	<!--首页头部导航模板开始-->	
+		<!--#include virtual="/list/index_wmwx_nav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+</div>
+<div class="sec2">
+	<div class="wrap-main main">
+	
+		<!--首页左侧边栏模板开始-->	
+			<!--#include virtual="/list/index_wmwx_leftbar.shtml"-->
+		<!--首页左侧边栏模板结束-->
+		
+        <div class="content">
+        	<div class="article-header">
+            	<h1>游戏简介</h1>
+                <time>2014-06-10</time>
+            </div>
+            <div class="article-content">
+            	　　《完美武侠》是一款迭代原创武侠卡牌游戏。<br />
+<br />
+　　卡牌完美进化，百变组合，带你感受真正的江湖！强大的全球排行榜，完美的情节安排，完整的章节故事，不仅可以让玩家酣畅淋漓的战斗，更能领略一个个江湖柔情的精美故事。<br />
+<br />
+　　《完美武侠》讲述的是一个江湖小角色，带领江湖各路豪杰，经历艰难万阻，取回武林至宝的故事。<br />
+<br />
+　　各种江湖事件贯穿整个故事，你的指尖掌控的绝世武功、武林豪杰、江湖动态。你可以是豪情万丈的大侠，也可以是独霸一方的绿林豪杰，也可以是让别人闻风丧胆的绝世恶霸。<br />
+			</div>
+        </div>
+	</div>
+</div>
+<div class="sec3">
+
+	<!--首页底部版权模板开始-->	
+        <!--#include virtual="/list/index_wmwx_footer.shtml"-->
+	<!--首页底部版权模板结束-->
+	
+</div>
+
+	<!--首页右侧浮动下载框模板开始-->	
+        <!--#include virtual="/list/index_wmwx_down.shtml"-->
+	<!--首页右侧浮动下载框模板结束-->
+	
+<script type="text/javascript">
+$(function(){
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+});
+</script>
+</body>
+</html>

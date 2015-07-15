@@ -1,0 +1,21 @@
+                <div class="news short420 mg05 center">
+                    <ul class="newswrap short420">
+                        <li class="news-tab2 nt-curr">职业</li>
+                        <li class="news-tab2 nt">技能</li>
+                        <li class="news-tab2 nt">血脉</li>
+                        <a class="more" href="">MORE</a>
+                        <a class="more disN" href="">MORE</a>
+                        <a class="more disN" href="">MORE</a>
+                    </ul>
+
+                    <ul class="newslist short404">
+              
+             
+                    </ul>
+<!--技能start-->
+<!--#include virtual="/list/shenpu_list_yxzl_jn.shtml"-->
+<!--技能end-->
+<!--血脉start-->
+<!--#include virtual="/list/shenpu_list_yxzl_xm.shtml"-->
+<!--血脉end-->
+                </div>

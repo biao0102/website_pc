@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">《三国战神》1.3.0 神兵降世版本更新公告</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-10-28 13:49:11</span>
+																			</div>
+									<div class="w-d">
+										尊敬的IOS玩家；<br />
+&nbsp; &nbsp; 感谢大家对《三国战神》的关注和支持，作为产品的研发商“成都掌沃无限”和IOS版的发行商“飞流九天”，我们秉承“精品研发”、“服务质尚”的一贯宗旨，广大为手机游戏用户提供最优秀的产品和最专业的服务。<br />
+<br />
+<span>&nbsp; &nbsp;&nbsp;</span>《三国战神》“神兵降世”IOS版本在产品封版时，由于新增内容较多而出现了系统耦合BUG，目前我们已知的BUG包括客户端闪退、装备属性丢失、副本卡死、上马按钮与挖宝按钮重叠、帮会领地战奖励配置错误、领地战最强帮会积分计算错误等，为了让大家能够体验到最优质的产品，我们特决定将原定于10月31日的更新时间推迟至11月，目前产品的研发团队正在对版本中存在的BUG进行紧急修复。<br />
+<br />
+<span>&nbsp; &nbsp;&nbsp;</span>为了让正版玩家能够体验到更加优质的游戏和更好的服务，1.3.0版本将开放游戏内论坛功能，现在大家查询游戏资料和进行经验交流将更加方便和快捷；<br /><img src="http://i0.feiliu.com/image/20141028/20141028133615_22162.jpg" alt="" /><br />
+<br />
+<br />
+<span>&nbsp; &nbsp;&nbsp;</span>不仅如此，大家期待已久的礼包系统也将于这个版本开放，解释，官方Q群、微信、官网，均会放出大量礼包供玩家进行领取，不仅如此，我们还为广大玩家准备了丰富多彩的论坛活动，让大家体验到不一样的《三国战神》；<br /><img src="http://i0.feiliu.com/image/20141028/20141028134825_14731.jpg" alt="" /><br />
+<br />
+<span>&nbsp; &nbsp;&nbsp;</span>最后，我们还有一个好消息，《三国战神》“账号管理”也将在新版本中开放，届时，大家可以通过该系统对游戏账号进行密码修改、手机绑定和邮箱绑定等操作；<br /><img src="http://i0.feiliu.com/image/20141028/20141028133723_85495.jpg" alt="" /><br /><img src="http://i0.feiliu.com/image/20141028/20141028134203_67518.jpg" alt="" /><br /><img src="http://i0.feiliu.com/image/20141028/20141028134218_97828.jpg" alt="" /><br />
+<br />
+<span>&nbsp; &nbsp;&nbsp;</span>《三国战神》1.3.0版本新功能一览：<br />
+<span>&nbsp; &nbsp;1.&nbsp;</span>全新时装功能，让你秀出中国风<br />
+<br /><img src="http://i0.feiliu.com/image/20141028/20141028133814_31017.jpg" alt="" /><img src="http://i0.feiliu.com/image/20141028/20141028133815_41342.jpg" alt="" /><br />
+<br />
+<span>&nbsp; &nbsp; 2.</span>神兵在手，遇神杀神，遇魔除魔<br /><img src="http://i0.feiliu.com/image/20141028/20141028133830_63011.jpg" alt="" /><img src="http://i0.feiliu.com/image/20141028/20141028133830_91614.jpg" alt="" /><br />
+<br />
+<span>&nbsp; &nbsp;3.&nbsp;</span>“祭剑池”，剑冢之地，神兵利器再现世间；<br /><img src="http://i0.feiliu.com/image/20141028/20141028133907_11764.jpg" alt="" /><br /><img src="http://i0.feiliu.com/image/20141028/20141028133844_51805.jpg" alt="" /><img src="http://i0.feiliu.com/image/20141028/20141028133845_12695.jpg" alt="" /><br /><img src="http://i0.feiliu.com/image/20141028/20141028133924_47604.jpg" alt="" /><br />
+<br />
+<span>&nbsp; &nbsp;&nbsp;</span>4.增加了一个小时钟，方便用户查看时间；<br />
+<br />
+<span>&nbsp; &nbsp;&nbsp;</span>《三国战神》1.3.0版本优化内容：<br />
+<span>&nbsp; &nbsp;&nbsp;</span>调整了边境BOSS，现在BOSS的等级随玩家等级成长；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>调整了领地战规则，现在领地旗帜将根据时间恢复生命值；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>优化了“蛮族入侵”活动；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>优化了聊天系统中的私聊功能；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>调整了活跃度系统的内容，完成游戏活动可以增加活跃度数值；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>修正了客户端闪退的问题；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>修正了装备属性丢失的问题；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>修正了副本卡死的问题；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>修正了上马按钮与挖宝按钮重叠的问题；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>修正了帮会领地战奖励配置错误的问题；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>修正开了领地战最强帮会积分计算错误的问题；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>修复群英会组队界面不显示主界面聊天消息的BUG；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>修复部分属性界面可穿透点击的问题；<br />
+<span>&nbsp; &nbsp;&nbsp;</span>优化御前比武机制，避免选拔赛排名前16的玩家无法进入淘汰赛的情况发生；<br />
+<br />
+<br />
+<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2014.10.28<br />
+<br />
+<div>
+	<br />
+</div>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

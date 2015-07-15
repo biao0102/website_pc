@@ -1,0 +1,72 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">跨服多人组队！《众妖之怒》PVE、PVP热血战不停</div>
+			<div class="news-con">
+				妖行三界，怒战九天！东方奇幻3D动作手游《众妖之怒》将于1月6日开启越狱内测！《众妖之怒》不仅以Q萌的3D人物造型吸引了很多女性玩家的关注，更以独特的跨服多人组队战斗赢得了许多男性玩家的热爱。在手机游戏里，能像《众妖之怒》这样PVE、PVP都支持跨服多人联机的可不多呦！<br />
+<br />
+<br />
+《众妖之怒》预约活动页面：http://zyzn.feiliu.com/list/zyzn_activity.shtml<br />
+《众妖之怒》官方网站：http://zyzn.feiliu.com<br />
+《众妖之怒》官方QQ群：263683777　　<br />
+《众妖之怒》客服 QQ：800032234<br />
+<br />
+<br /><img src="http://js.feiliu.com/gameimg/zyzn/20141222154350.jpg" alt="" /><br />
+<br />
+<br />
+【激情热血！跨服战斗燃起来】<br />
+<br />
+<br />
+&nbsp; 多样化的跨服联机作战系统是《众妖之怒》的一大亮点，玩家在游戏中可以进行跨服组队，挑战团队副本、击杀凶猛的BOSS，又可以参加跨服单人、团队PK，感受最激情的热血战斗。而且，《众妖之怒》的跨服系统并不是传统手游中让电脑控制其他玩家离线人物的模式，而是实时与真人玩家联机战斗。这一创新性的系统让玩家的战斗更加激情，拥有无比畅爽的全新游戏体验。<br />
+<br />
+<br /><img src="http://js.feiliu.com/gameimg/zyzn/20141222154408.jpg" alt="" /><br />
+<br />
+<br />
+【打击感强！技能符文自由搭配】<br />
+<br />
+<br />
+&nbsp; 《众妖之怒》为玩家提供了自由搭配技能、自由选择符文的权力，让玩家可以亲手打造属于自己的战斗风格，拥有最畅爽的战斗快感！游戏中每个人物都拥有独特的技能，而玩家则可以选择技能进行组合搭配，让技能无缝连接，拥有持续的强力打击感；符文是《众妖之怒》增强战力的焦点，每个技能都拥有效果不同的多个符文，玩家可以自由选择符文来强化技能效果，亲手打造与众不同的职业特点。<br />
+<br />
+<br /><img src="http://js.feiliu.com/gameimg/zyzn/20141222154426.jpg" alt="" /><br />
+<br />
+<br />
+【预约内测资格 送iPhone6大奖】<br />
+<br />
+<br />
+&nbsp; 像很多大作一样，《众妖之怒》凭借自身优秀的品质赢得了无数玩家的追捧。为了迎接即将到来的内测，《众妖之怒》特别推出了“内测预约初体验”活动来回馈玩家们的热情。参与活动的玩家只需打开页面，填写自己的手机号码，然后点击“点击预约”，就能获得《众妖之怒》的内测激活码一枚，同时还将获得38个元宝、5万金币、100个高级强化石、2个低级体力丹，更有机会参加iPhone6手机、iPad mini3、京东500元购物卡等实物大奖的抽取。<br />
+<br />
+<br /><img src="http://js.feiliu.com/gameimg/zyzn/20141222154442.jpg" alt="" /><br />
+<br />
+&nbsp; 《众妖之怒》领衔2015动作手游，史上最为精彩的“西游”即将于1月6日开启越狱内测！快来跟所有玩家一起身临其境地体验超级好玩的《众妖之怒》吧！<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

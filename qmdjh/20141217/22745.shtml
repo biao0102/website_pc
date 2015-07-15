@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title> 六大开服活动惊现顶级橙卡 《全民逗江湖》_新闻</title>
+<link href="http://js.feiliu.com/static/qmdjh/css/main.css?v=2" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/qmdjh/js/jquery1.6.4.js"></script>
+</head>
+<body class="inner">
+<div class="header">
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img src="http://js.feiliu.com/static/qmdjh/images/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>
+<div class="sec1">
+
+	<!--首页头部导航模板开始-->	
+		<!--#include virtual="/list/index_qmdjh_nav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+</div>
+<div class="sec2">
+	<div class="wrap-main main">
+	
+		<!--首页左侧边栏模板开始-->	
+			<!--#include virtual="/list/index_qmdjh_leftbar.shtml"-->
+		<!--首页左侧边栏模板结束-->
+		
+        <div class="content">
+        	<div class="article-header">
+            	<h1> 六大开服活动惊现顶级橙卡</h1>
+                <time>2014-12-17</time>
+            </div>
+            <div class="article-content">
+            	&nbsp; &nbsp; &nbsp; 作为2014年度最新型武侠卡牌手游，《全民斗江湖》通过画面、剧情以及诸多独创的玩法系统，为玩家呈现出了一个纯正的武侠世界。全新服务器的开启，让所有新老玩家可以重新开始自己的江湖生涯。为了让玩家能尽情感受游戏的精彩，《完美武侠》同步开启六大活动，为玩家派送多重大礼，甚至是顶级橙色卡牌也可以轻松收获！<br />
+&nbsp; &nbsp;&nbsp;【开服领壕礼 连登得大奖】<br />
+&nbsp; &nbsp; 《全民斗江湖》在新服开启的7天内，推出“开服领壕礼”、“连登得大奖”两大活动。所有玩家只要进入游戏便可领取开服礼包，连续登陆游戏7天更可获得惊喜大奖。400多元宝、5万银两、紫色武器、大还丹、千年人参、银招募令……从元宝到装备，从银两到道具，多重轻松领取的开服大礼仅限7天。<br />
+&nbsp; &nbsp;&nbsp;【冲级抢礼包 限量大礼抢先拿】<br />
+&nbsp; &nbsp; &nbsp; 等级代表玩家可以开启更多玩法、拥有更多大侠、拥有更强战力，也代表玩家可以拥有更多奖励！《完美武侠》新服开启7天内举办“冲级抢礼包”活动，15级、20级、35级、45级、50级、55级、60级，七重等级礼包将为玩家派送元宝、紫色大侠、紫色装备、珍贵道具等等应有尽有的奖励。但是，各个等级礼包可是有数量限制的，只有抢先达到等级的玩家才能获得重重大礼哦！<br />
+&nbsp; &nbsp; &nbsp;【充值额外送 橙卡轻松拿】<br />
+&nbsp; &nbsp; &nbsp; 每个服务器仅有一次的新服充值活动绝对是玩家瞩目的焦点，此次《完美武侠》更是劲爆地在新服开启“充值送传奇”活动。累计充值5元便可额外获得金招募令、充值30元便可额外获得大还丹、人参……累计充值越多，玩家所能获得的额外奖励也就愈加丰厚，甚至是橙色卡牌“张三丰”也将派送给玩家。但是，此次新服充值活动仅持续7天，想要拿到橙卡的玩家一定要把握好机会！<br />
+&nbsp; &nbsp; &nbsp;《全民斗江湖》新服活动盛宴除了以上限时活动之外，还将长期开启“首充拿神武”、“累登送好礼”活动，不论金额只要充值便能获得价值288元豪华礼包；累计登陆游戏更为玩家持续派送大量紫色大侠 ，让玩家轻松组建超强阵容。纯正的武侠世界，劲爆的多重大礼，《全民斗江湖》新服双开，快来体验冒险江湖的快感！<br />
+<br />
+			</div>
+        </div>
+	</div>
+</div>
+<div class="sec3">
+
+	<!--首页底部版权模板开始-->	
+        <!--#include virtual="/list/index_qmdjh_footer.shtml"-->
+	<!--首页底部版权模板结束-->
+	
+</div>
+
+	<!--首页右侧浮动下载框模板开始-->	
+        <!--#include virtual="/list/index_qmdjh_down.shtml"-->
+	<!--首页右侧浮动下载框模板结束-->
+	
+<script type="text/javascript">
+$(function(){
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+});
+</script>
+</body>
+</html>

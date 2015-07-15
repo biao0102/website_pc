@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>攻城掠地 话费领取</title>
+    <meta name="keywords" content="攻城掠地官网,攻城掠地攻略,攻城掠地游戏下载,攻城掠地礼包,攻城掠地官方网站">
+    <meta name="description" content="《攻城掠地》是飞流旗下一款强调国战的战争策略网页游戏。实景还原三国战图，开创24小时全景即时国战！文臣武将云集，打破“重武轻文”的桎梏。内政、军师、计策等系统演绎文官本色！其次，新颖的掩杀式战斗模式、战术、皇城官职战等特色玩法，足以让你尽享开疆扩土、统一天下的激情！">
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/gcact/css/act_huafei.css?v=2" />
+<script type="text/javascript" src="http://js.feiliu.com/static/gcact/js/jquery-1.4.2.min.js"></script>
+</head>
+
+<body>
+
+
+    
+        <div class="submit">
+			<form action="http://act.feiliu.com/gc/hf/login" method="POST" name="loginform" id="loginform">
+				<input type="text" class="input_box" id="userid" name="userid" required="required" placeholder="在此输入用户ID" value="">
+				<input class="submit_box" type="submit" value="" />
+			</form>
+        </div>
+        
+        <div class="nav">
+            <img src="http://js.feiliu.com/static/gcact/images/huafei/liucheng.jpg" >
+        </div>
+        <div class="nei2">
+            <div class="ge2"></div>
+            <div class="nei4">
+				<b style="color:red;">奖励：随即获得1-50元话费</b><br>
+                一：活动期间内，只要您在“安智市场”下载攻城掠地，并成功创建角色即可参加本次活动。<br>
+                二：每个角色ID和手机号只能领取一次话费奖励。<br>
+                三：话费将在72小时内充值到手机中。<br><br>
+                <b style="color:red;">PS：</b>游戏内点击人物头像查看角色ID，角色ID格式为：anzhi_XX_XXXX<br>
+            </div>
+            <div class="ge2"></div>
+            <div class="nei5">
+				<br>
+                广东，陕西，四川以上三个区域的“联通用户”无法参加本次活动，敬请谅解!
+            </div>
+        </div>
+</body>
+</html>

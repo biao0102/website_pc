@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_活动</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">庆新版上线送祝福得豪礼</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-07-28 18:33:06</span>
+																			</div>
+									<div class="w-d">
+										&nbsp; 《三国战神》全新版本1.1.6版本即将重磅登场，超多新玩法，新内容等待着大家。为了感谢新老玩家对《三国战神》一直以来的支持和厚爱，我们特别推出“庆新版上线送祝福得豪礼”活动，参与活动，就有超级豪礼相送，还等什么？快来参加吧！<br />
+&nbsp;<br />
+【活动时间】：即日起—8月4日<br />
+&nbsp;<br />
+【活动规则】：玩家在自己《三国战神》游戏所下载的渠道，给《三国战神》送出庆新版上线祝福语，并按照规定格式写下自己的角色名，区服等信息，即可获得超级豪礼。<br />
+&nbsp;<br />
+【回复格式】：衷心希望《三国战神》新版能够越做越好。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 祝《三国战神》1.1.6新版人气爆棚。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 期待《三国战神》1.1.6新版早日上线。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; （以上祝福语任选一条即可）<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 角色名：XXX<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 区服：XXX<br />
+&nbsp;<br />
+【奖励内容】：我们将依据活动期间所有越狱渠道（91，PP，同步推，快用，itools，海马，XY助手，苹果园）好评数之和，来给参与活动的玩家发放奖励。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 规则如下：全渠道好评数小于1000，我们将安按照全渠道好评总数为参与评论的玩家发放元宝，若好评数之和大于1000，参与评论的玩家将获得1000元宝的奖励。<br />
+&nbsp;<br />
+【注意事项】：1.每位玩家只能获得1次奖励。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2.未按照活动时间参与活动或者回复格式不正确者，无法获得奖励。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.本活动最终解释权，归《三国战神》运营团队所有。<br />
+<br />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

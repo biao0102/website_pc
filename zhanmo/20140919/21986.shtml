@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>战魔删档测试9月25日10：00等你来战_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>战魔删档测试9月25日10：00等你来战</h2>
+          <p><span>&nbsp; &nbsp; &nbsp; 号外号外，各位兄弟姐妹父老乡亲，“中国风的时空”最新一代横版格斗网游《战魔》将于9月25日10：00进行删档封测，本次封测历时8天，超越真实的打击体验,已震、顿、退、飞为基础，辅以振动带给玩家最华丽的感受。各位大侠将置身其中，体验三大职业、数十种技能、数百关卡，淋漓战斗，领略超畅快打击感。激情四溢的战场让我们一战到底，演绎一段逆天东方的玄幻之旅。纵横驰骋，笑傲三国！</span><br /><img src="http://i0.feiliu.com/image/20140919/20140919142049_22510.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140919/20140919142100_68382.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140919/20140919142113_59817.png" alt="" /><br />
+<span>【客户端下载】</span><br />
+<span>9月24日前会放出客户端下载的哦！</span><br />
+<br />
+<br />
+<span>【相关信息】</span><br />
+<span>1.本次测试为删档测试，不需要激活码。</span><br />
+<span>2.本次测试不开放充值，每天会赠予大家货币，让大家在游戏中尽情的消费。</span><br /><img src="http://i0.feiliu.com/image/20140919/20140919142129_67351.png" alt="" /></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

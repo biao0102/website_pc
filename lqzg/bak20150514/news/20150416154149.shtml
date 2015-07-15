@@ -1,0 +1,146 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head> 
+	<meta charset="UTF-8">
+	<title>龙骑战歌_首页</title> 
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="keywords">
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="description">
+	<meta name="format-detection" content="telephone=no"/>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/lqzg/notice/css/style.css?v=3">
+</head>
+<body>
+<div class="wrap">
+	 	<div class="left">
+		<a class="logo" href="javascript:void(0);" title="龙骑战歌"><img src="http://js.feiliu.com/static/lqzg/notice/images/logo.jpg" alt=""></a>
+		<!-- 	
+			<a href="http://lqzg.feiliu.com" class="shouye " title="龙骑战歌首页">
+					<span class="shouye-btn"></span>
+			</a> 
+		-->
+		<div class="zhiye " title="龙骑战歌人物职业">
+			<a href="http://lqzg.feiliu.com/list/notice.shtml"><span class="zhiye-btn"></span></a>
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/hero01.shtml" class="">圣武士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero02.shtml" class="">狂战士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero03.shtml" class="">刺客</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero04.shtml" class="">法师</a></p>
+			</div>
+		</div>
+
+		<div class="tese " title="龙骑战歌特色">
+			<a href="javascript:alert('敬请期待！');"><span class="tese-btn"></span></a>
+		<!-- 			
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/tese01.shtml">成长</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese02.shtml">空间</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese03.shtml">操控</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese04.shtml">生命</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese05.shtml">战法</a></p>
+			</div> 
+		-->
+		</div> 
+		<div class="gift" id="focus" href="javascript:void(0);">
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185352.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415184358.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185257.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://gwadmin.feiliu.com/static/js/ueditor/themes/default/images/spacer.gif" alt=""></a>
+						<div class="focus-tab-bg">
+				<span class="focus-tab focus-tab-curr"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+			</div>
+		</div>
+		<!-- <a class="download op" href="http://lqzg.feiliu.com" title="龙骑战歌官网"></a> -->
+		<a class="enter op" href="javascript:alert('敬请期待！');" title="龙骑战歌下载"></a>
+		<div class="code" title="扫描二维码下载">
+			<h4>扫描二维码 下载游戏</h4>
+			<span><img src="http://js.feiliu.com/static/lqzg/notice/images/lqzg_qrcode.png?v=1" style="height:152px;width:152px;margin:10px auto 0;"></span>
+		</div>
+<!-- 		
+		<div class="share">
+			<a class="weixin op" href=""></a>
+			<a class="weibo op" href=""></a>
+		</div> 
+-->
+	</div>
+	<div class="right">
+		<div class="news-bg">
+			<div class="news-map">新闻公告<span>news</span></div>
+			<div class="list-wrap">
+				<h2><a href="javascript:void(0);">《龙骑战歌》BOSS原画曝光 堕落王子霸气侧漏</a></h2>
+				<div class="news-info">
+					<span class="news-publish">发布于 2015-04-16</span>
+					<!-- <span class="news-share">分享到：</span> -->
+				</div>
+				<div class="content">
+					<p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">《龙骑战歌》，骑战新纪元！《龙骑战歌》是由国内著名游戏研发商墨麟倾力打造，飞流（FL Mobile）代理发行的ARPG骑乘新纪元手游。在《龙骑战歌》中玩家将化身狂战士、圣武士、刺客、法师四大勇士展开冒险，并能骑乘于充满魔幻色彩的飞龙之上翱翔于天际之间！今日《龙骑战歌》BOSS原画首次曝光，他们是拉风帅气的精灵亲王、霸气侧漏的塔洛斯城主以及黑暗堕落的圣雷因斯王子。</span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><img src="http://js.feiliu.com/gameimg/lqzg/20150416154111.jpg" title="20150416154111.jpg" alt="图1：《龙骑战歌》BOSS原画曝光 黑暗王子霸气侧漏.jpg"/></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">【堕落英雄 疯狂的圣雷因斯王子】</span><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;圣雷因斯教国的王子，曾经是雷因斯的英雄，立下许多战功。但后来被灰烬神教的邪恶魔法所控制，开始杀戮自己的人民。主角受王子的妹妹所托，不得已只好杀死王子，阻止他继续杀戮。</span></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><img src="http://js.feiliu.com/gameimg/lqzg/20150416154118.jpg" title="20150416154118.jpg" alt="图2：堕落英雄 疯狂的圣雷因斯王子.jpg"/></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">【因爱生恨 悲情的精灵亲王】</span><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;男精灵，仰慕精灵王国的女国王，后来因爱生恨，成为了迪兰妮亚的野心家，与灰烬神教勾结，阴谋颠覆现在的女王统治，煽动了兽人奴隶的叛乱。阴谋暴露后使用了从灰烬神教得到的邪恶魔法器具，变身成魔龙与主角战斗。</span></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><img src="http://js.feiliu.com/gameimg/lqzg/20150416154126.jpg" title="20150416154126.jpg" alt="图3：因爱生恨 悲情的精灵亲王.jpg"/></span></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">【黑色杀手 无情的塔洛斯城主】</span><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;塔洛斯的城主，想要跟灰烬神教合作，将主角灭口。身穿防护严密的黑色战铠，武器为双手长剑，并且能使用黑暗魔法。</span></span></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><img src="http://js.feiliu.com/gameimg/lqzg/20150416154137.jpg" title="20150416154137.jpg" alt="图4：黑色杀手 无情的塔洛斯城主.jpg"/></span></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">&nbsp;《龙骑战歌》三大BOSS首次曝光，你是不是已经按耐不住自己手中的利剑，想要推倒他们了！先别着急，我们将会在下周继续爆出其他BOSS的原画，敬请期待！</span></span></span></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	 	<div class="news-wrap">
+		<div class="news-tab">
+			最新
+			<div class="newslist">
+				<div class="news-top">最新<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=1">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150416161203.shtml">专业决定未来：从飞流与墨麟合作看<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416155612.shtml">《龙骑战歌》世界四大种族介绍<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416154149.shtml">《龙骑战歌》BOSS原画曝光<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415182705.shtml">身临其境<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415181959.shtml">《龙骑战歌》超炫人物壁纸下载<span>04/15</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			新闻
+			<div class="newslist">
+				<div class="news-top">新闻<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=2">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150415181503.shtml">《龙骑战歌》探秘系列一：墨麟CE<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415181959.shtml">《龙骑战歌》超炫人物壁纸下载<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415182705.shtml">身临其境<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416154149.shtml">《龙骑战歌》BOSS原画曝光<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416155612.shtml">《龙骑战歌》世界四大种族介绍<span>04/16</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			公告
+			<div class="newslist">
+				<div class="news-top">公告<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=3">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150415175240.shtml">《龙骑战歌》探秘系列三：创亿计划<span>04/15</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			资讯
+			<div class="newslist">
+				<div class="news-top">资讯<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=4">+</a></div>
+				<div class="news-bot">
+										<a href=""><span></span></a>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<p>About.us | Copy right@北京飞流九天科技有限公司</p>
+	<p>爱游戏，爱生活，也爱美女。</p>
+	<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+	<p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+	<p>Love is love!</p>
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/js.js?x=3"></script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

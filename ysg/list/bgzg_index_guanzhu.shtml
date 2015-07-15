@@ -1,0 +1,12 @@
+<div class="guanzhu">
+	<div class="flu">
+		<a href="#" class="gzbtn01"></a>
+		<span class="gzcode asb" id="gcode01">
+			<img src="http://js.feiliu.com/gameimg/bgzg/20150109141742.png"  alt="官方微博" />
+		</span>
+		<a href="#" class="gzbtn02"></a>
+		<span class="gzcode asb"  id="gcode02">
+			<img src="http://js.feiliu.com/gameimg/bgzg/20150109141742.png"  alt="官方微信" />
+		</span>
+	</div>
+</div>

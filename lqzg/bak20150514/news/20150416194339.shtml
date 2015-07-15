@@ -1,0 +1,149 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head> 
+	<meta charset="UTF-8">
+	<title>龙骑战歌_首页</title> 
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="keywords">
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="description">
+	<meta name="format-detection" content="telephone=no"/>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/lqzg/notice/css/style.css?v=5">
+</head>
+<body>
+<div class="wrap">
+	 	<div class="left">
+		<a class="logo" href="javascript:void(0);" title="龙骑战歌"><img src="http://js.feiliu.com/static/lqzg/notice/images/logo.jpg" alt=""></a>
+		<!-- 	
+			<a href="http://lqzg.feiliu.com" class="shouye " title="龙骑战歌首页">
+					<span class="shouye-btn"></span>
+			</a> 
+		-->
+		<div class="zhiye " title="龙骑战歌人物职业">
+			<a href="http://lqzg.feiliu.com/list/notice.shtml"><span class="zhiye-btn"></span></a>
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/hero01.shtml" class="">圣武士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero02.shtml" class="">狂战士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero03.shtml" class="">刺客</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero04.shtml" class="">法师</a></p>
+			</div>
+		</div>
+
+		<div class="tese " title="龙骑战歌特色">
+			<a href="javascript:alert('敬请期待！');"><span class="tese-btn"></span></a>
+		<!-- 			
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/tese01.shtml">成长</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese02.shtml">空间</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese03.shtml">操控</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese04.shtml">生命</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese05.shtml">战法</a></p>
+			</div> 
+		-->
+		</div> 
+		<div class="gift" id="focus" href="javascript:void(0);">
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185352.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415184358.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185257.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://gwadmin.feiliu.com/static/js/ueditor/themes/default/images/spacer.gif" alt=""></a>
+							<a class="disN" href="http://lqzg.feiliu.com/news/20150416185926.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150416185923.jpg" alt=""></a>
+						<div class="focus-tab-bg">
+				<span class="focus-tab focus-tab-curr"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+			</div>
+		</div>
+		<!-- <a class="download op" href="http://lqzg.feiliu.com" title="龙骑战歌官网"></a> -->
+		<a class="enter op" href="javascript:alert('敬请期待！');" title="龙骑战歌下载"></a>
+		<div class="code" title="扫描二维码下载">
+			<h4>扫描二维码 下载游戏</h4>
+			<span><img src="http://js.feiliu.com/static/lqzg/notice/images/lqzg_qrcode.png?v=1" style="height:152px;width:152px;margin:10px auto 0;"></span>
+		</div>
+<!-- 		
+		<div class="share">
+			<a class="weixin op" href=""></a>
+			<a class="weibo op" href=""></a>
+		</div> 
+-->
+	</div>
+	<div class="right">
+		<div class="news-bg">
+			<div class="news-map">新闻公告<span>news</span></div>
+			<div class="list-wrap">
+				<h2><a href="javascript:void(0);">轻松90连斩！《龙骑战歌》高清游戏截图抢先看</a></h2>
+				<div class="news-info">
+					<span class="news-publish">发布于 2015-04-16</span>
+					<!-- <span class="news-share">分享到：</span> -->
+				</div>
+				<div class="content">
+					<p>随着《龙骑战歌》首次测试时间的临近，代理发行商飞流（FL Mobile）正式公布了数张游戏截图。这款由墨麟倾力研发的ARPG骑战新纪元手游在曝光后便备受瞩目，更是在2014年屡获多项大奖。但究竟这款游戏会有什么样的精彩表现呢？让我们通过《龙骑战歌》游戏截图来亲眼领略吧！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194303.jpg" title="20150416194303.jpg" alt="图1：狂战士.jpg"/></p><p><br/></p><p>&nbsp; 狂战士是《龙骑战歌》中的四大职业之一，在5维属性上看这一职业侧重防御，是肉盾型近战物理职业。在图中最吸引人的是他的装备，酷炫、个性的装备造型、耀眼的光影特效，这种视觉体现足以媲美顶级端游，想必在战斗中的视觉表现会更加惊人。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194310.jpg" title="20150416194310.jpg" alt="图2：宠物冰火奇美拉.jpg"/></p><p>&nbsp; 自此前曝光的资料中可以得知，伙伴、坐骑、宠物是三大玩家战斗助手。此次公开的是一张达到九阶10级的宠物“冰火奇美拉”，狰狞的造型、酷炫的火焰特效，绝对是游戏中拉风和战斗的利器。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194316.jpg" title="20150416194316.jpg" alt="图3：伙伴赫尔曼.jpg"/></p><p><br/></p><p>&nbsp; 在战斗中，玩家可以选择一名小伙伴进行交替战斗。图中的圣武士赫尔曼则是众多小伙伴中的一员，从图中的“青铜”字样，可以了解到伙伴拥有不同等阶划分，还可以进行进阶、技能升级，跟主角的属性极为相似。小伙伴轮番战斗，不同职业的战斗感也会让玩家的游戏体验更加丰富吧！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194322.jpg" title="20150416194322.jpg" alt="图4：骑乘冰龙.jpg"/></p><p><br/></p><p>&nbsp; 骑乘巨龙在空中战斗是《龙骑战歌》在国内手游的首创，图中是刺客骑乘骨龙飞翔在天空。骨龙充斥着冰霜的能量，身后也会挥洒出冰晶，视觉冲击力一流。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194330.jpg" title="20150416194330.jpg" alt="图5：法师91连斩.jpg"/></p><p><br/></p><p>&nbsp; 全屏震撼的冰系技能、91连斩，这张图淋漓尽致地展现出了游戏中卓越的视觉表现，单凭这点便在国内手游中无出其右。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416194337.jpg" title="20150416194337.jpg" alt="图6：《龙骑战歌》即将封测 进入官网抢先预约.jpg"/></p><p>&nbsp; 《龙骑战歌》即将正式开启封测，如果被游戏精美的截图震撼到的话，就快去官方网站进行预约，抢先获得封测资格吧！ &nbsp;</p><p><br/></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	 	<div class="news-wrap">
+		<div class="news-tab">
+			最新
+			<div class="newslist">
+				<div class="news-top">最新<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=1">+</a></div>
+				<div class="news-bot">
+										<a href="">《龙骑战歌》先锋体验北京站将启<span>04/16</span></a>
+										<a href="">轻松90连斩！《龙骑战歌》高清游<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416194215.shtml">强强联手！《龙骑战歌》再掀201<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416194051.shtml">《龙骑战歌》蛇女曝光<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416193934.shtml">隐藏种族曝光<span>04/16</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			新闻
+			<div class="newslist">
+				<div class="news-top">新闻<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=2">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150415181503.shtml">《龙骑战歌》探秘系列一：墨麟CE<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415181959.shtml">《龙骑战歌》超炫人物壁纸下载<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415182705.shtml">身临其境<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416154149.shtml">《龙骑战歌》BOSS原画曝光<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416155612.shtml">《龙骑战歌》世界四大种族介绍<span>04/16</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			公告
+			<div class="newslist">
+				<div class="news-top">公告<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=3">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150415175240.shtml">《龙骑战歌》探秘系列三：创亿计划<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416192349.shtml">《龙骑战歌》种族猜想：人兽大战到<span>04/16</span></a>
+										<a href="">《龙骑战歌》先锋体验北京站将启<span>04/16</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			资讯
+			<div class="newslist">
+				<div class="news-top">资讯<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=4">+</a></div>
+				<div class="news-bot">
+										<a href=""><span></span></a>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<p>About.us | Copy right@北京飞流九天科技有限公司</p>
+	<p>爱游戏，爱生活，也爱美女。</p>
+	<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+	<p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+	<p>Love is love!</p>
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/js.js?x=3"></script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

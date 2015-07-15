@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="UTF-8">
+<title>《众妖之怒》东方奇幻动作手游__众妖之怒官网</title>
+<meta name="keywords" content="众妖之怒,众妖之怒官网, 众妖之怒下载,众妖之怒礼包,众妖之怒攻略,众妖之怒安卓版, 众妖之怒ios版,东方奇幻动作手游." />
+<meta name="description" content="《众妖之怒》是一款Q版东方魔幻的3D大型动作RPG手机网游，拥有高品质的美术水准、创新的符文技能系统、炫爆眼球的跨服竞技，通过装备强化、技能升级、宠物养成以及参星悟道等创新玩法，提升自身的实力，体验到丰富多样的单人、多人副本挑战，更有单人轮回之塔等玩法，挑战你的自身极限，傲视群雄。" />
+<meta name="format-detection" content="telephone=no"/>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web/home/js/ismobile.js"></script>
+<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/web/home/css/style.css?v=3">
+<!--[if IE 6]>
+<script src="http://js.feiliu.com/static/zyzn/web/home/js/png.js"></script>
+<script>
+	PNG.fix('http://js.feiliu.com/static/zyzn/web/home/images/sprite.png');
+</script>
+<![endif]--> 
+</head>
+<body>
+<div id="cover-wrap">
+	<div id="cover-main">
+		<a class="cover-logo" href="http://zyzn.feiliu.com/list/zyzn_home.shtml"></a>
+		<div class="cover-slogan"></div>
+		<div class="cover-all">
+			<div class="cover-left">
+				<div class="cover-dl">
+					<a href="http://zyzn.feiliu.com/download?cid=300021&type=2" class="dl-ios1"></a>
+					<a href="javascript:alert('敬请期待！');" class="dl-ios2"></a>
+					<a href="http://zyzn.feiliu.com/download?cid=300021&type=5" class="dl-android"></a>
+				</div>
+				<h2 class="cover-title"></h2>
+			<!--众妖之怒引导页公告模板start-->
+				<!--#include virtual="/list/zyzn_guide_news.shtml"-->
+			<!--众妖之怒引导页公告模板end-->
+			</div>
+			<a class="cover-right"></a>
+		</div>
+		<div class="fixed">
+			<div class="fixed-wrap">
+				<span class="fixed-code"></span>
+				<a class="fixed-ios1" href="javascript:alert('敬请期待！');"></a>
+				<a class="fixed-ios2" href="http://zyzn.feiliu.com/download?cid=300021&type=2"></a>
+				<a class="fixed-android" href="http://zyzn.feiliu.com/download?cid=300021&type=5"></a>
+				<a class="fixed-gift" href="javascript:alert('敬请期待！');"></a>
+				<a class="fixed-goback" href="http://zyzn.feiliu.com/list/zyzn_home.shtml"></a>
+			</div>
+		</div>
+		<div id="cover-footer" class="footer-pl">
+			<p>About.us | Copy right@北京飞流九天科技有限公司</p>
+			<p>官方QQ群：263683777　　客服 QQ：800032234</p>
+			<p>爱游戏，爱生活，也爱美女。</p>
+			<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+			<p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+			<p>Love is love!</p>
+		</div>
+	</div>
+
+</div>
+
+<!--video-->
+<div class="video-sourse disN">
+	<div class="video-sourse-wrap">		
+		<div class="videoback">X</div>
+	</div>	
+</div>
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web/home/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web/home/js/js.js"></script>
+</html>

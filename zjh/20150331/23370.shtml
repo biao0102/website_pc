@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>根骨系统_游戏攻略_最江湖官方网站</title>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/stop.jpg"  alt="新闻"/></h2>
+          </div>
+          <div class="clear"></div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle" style="color:#704e33;">根骨系统</div>
+              <div class="textTime"><span style="float:left; color:#393939; width:80px; padding-left:90px;">2015-03-31 21:56:43</span><span style="width:380px; float:right; padding-top:10px">
+                <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span></div>
+                <p></p>
+                &nbsp;<span style="text-indent:24pt;">当到达</span><span style="text-indent:24pt;">50</span><span style="text-indent:24pt;">级之后根骨系统就将开启。</span><span style="text-indent:24pt;">各侠客可以通过与很多天地齐物的融合，改善自己的根骨，获得更强的属性。</span><span style="text-indent:24pt;">根骨分三个部分：分别为力量根</span><span style="text-indent:24pt;">骨，敏捷根骨和体力根骨，可使用灵芝、首乌、雪莲来提升相应根骨。<br />
+<br />
+<div style="text-align:center;">
+	<span style="text-indent:24pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331215559_82675.jpg" width="400" height="225" alt="" style="text-indent:24pt;" /><br />
+	<div style="text-align:center;">
+		<span style="text-indent:24pt;"><img src="http://i0.feiliu.com/image/20150331/20150331215620_40842.jpg" width="400" height="225" alt="" /><br />
+</span><span style="text-indent:24pt;">每个侠客的力、体、敏属性都很重要，通过服用这些奇药即可加强这些属性。而通过天山探宝可以寻得大量这些奇药。</span><span style="text-indent:24pt;">
+		<p class="MsoNormal" style="text-indent:24.0pt;">
+			<span></span>
+		</p>
+</span>
+	</div>
+</div>
+</span>
+<p class="MsoNormal" style="text-indent:24.0pt;">
+	<span></span>
+</p> 
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>好友邀请_游戏攻略_最江湖官方网站</title>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/stop.jpg"  alt="新闻"/></h2>
+          </div>
+          <div class="clear"></div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle" style="color:#704e33;">好友邀请</div>
+              <div class="textTime"><span style="float:left; color:#393939; width:80px; padding-left:90px;">2014-09-24 16:40:08</span><span style="width:380px; float:right; padding-top:10px">
+                <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span></div>
+                <p></p>
+                <h1 style="text-align:center;">
+	好友邀请
+</h1>
+<p class="p0" style="text-indent:21.0000pt;">
+	分享是一种美德！【最江湖】这么好玩的游戏一个人玩多没意思，拉上三五个好友一起玩才是王道！
+</p>
+<p class="p0" style="text-indent:21.0000pt;">
+	每个玩家均有一个邀请码，通过微博分享或者其他任何方式告知好友，好友进入【最江湖】并绑定您的邀请码即可成为您的下家。
+</p>
+<p class="p0"><img src="http://i0.feiliu.com/image/20140924/20140924163454_87630.jpg" width="360" height="240" alt="" />&nbsp;
+</p>
+<p class="p0" style="text-indent:21.0000pt;">
+	下家绑定激活码后立即获得288银票和18万银两。
+</p>
+<p class="p0"><img src="http://i0.feiliu.com/image/20140924/20140924163503_40922.jpg" width="360" height="240" alt="" />&nbsp;
+</p>
+<p class="p0" style="text-indent:21.0000pt;">
+	下家达到指定等级，您可以获得相应的礼包奖励
+</p>
+<p class="p15" style="margin-left:39.0000pt;text-indent:-18.0000pt;">
+	-&nbsp;30级礼箱，内含3级龙吟宝石*1、38元宝、188银票及50000银两。
+</p>
+<p class="p15" style="margin-left:39.0000pt;text-indent:-18.0000pt;">
+	-&nbsp;50级礼箱，内含4级龙吟宝石*1、88元宝、288银票及200000银两。
+</p>
+<p class="p15" style="margin-left:39.0000pt;text-indent:-18.0000pt;">
+	-&nbsp;70级礼箱，内含5级龙吟宝石*1、188元宝、388银票及500000银两。
+</p>
+<p class="p15" style="margin-left:39.0000pt;text-indent:-18.0000pt;">
+	-&nbsp;100级礼箱，内含6级龙吟宝石*1、588元宝、888银票及1000000银两。
+</p>
+<p class="p0" style="margin-left:21.0000pt;">
+	下家达到充值您还可以获得10%的元宝返还！！
+</p>
+<p class="p0"><img src="http://i0.feiliu.com/image/20140924/20140924163515_19481.jpg" width="360" height="240" alt="" />&nbsp;
+</p>
+<p class="p0" style="text-indent:21.0000pt;">
+	&nbsp;
+</p>
+<p class="p0" style="text-indent:21.0000pt;">
+	&nbsp;
+</p>
+<p class="p0" style="text-indent:21.0000pt;">
+	&nbsp;
+</p>
+<p class="p0">
+	&nbsp;
+</p> 
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

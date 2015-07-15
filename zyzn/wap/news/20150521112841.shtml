@@ -1,0 +1,38 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">#版本前瞻#帮会挑战赛系统</div>
+			<div class="news-con">
+				<p>参赛规则:</p><p>n &nbsp;帮派等级≥2，并且帮派人数≥20人</p><p>n &nbsp;每周5,6,7日18:00~24:00结束</p><p>n &nbsp;每周1的01:00结算</p><p><br/></p><p>匹配机制：</p><p>n &nbsp;每周第一天所有的满足条件的帮派随机匹配；</p><p>n &nbsp;后面天数就按照胜率来匹配（一胜一负，两胜，零胜两负…）</p><p>n &nbsp;如果匹配完是单数，有剩余的帮派，则扩大胜率范围，在+1或-1的范围查找</p><p>n &nbsp;如果还没有，就再扩大范围</p><p>n &nbsp;仍没有的情况下推送玩家直接胜利，当天不需要战斗，后一天直接匹配</p><p><br/></p><p>参赛规则：</p><p>n &nbsp;玩家进入地图后看到对方帮派的所有帮众，玩家可以自己选择打那个电脑</p><p>n &nbsp;每个对手都有三个难度级别可以选择对战</p><p>u &nbsp;一星：80%的真实数据</p><p>u &nbsp;二星：100%的真实数据</p><p>u &nbsp;三星：150%的真实数据</p><p>n &nbsp;敌人是AI控制</p><p>n &nbsp;被打过的星级敌人不能再打，同时低于被打过的星级的该对手也不能再次被打（例如，玩家a击败了二星的对手b，则该对手B的一星和二星都不能被挑战了）</p><p>n &nbsp;战胜1星玩家获得1个积分，2星玩家获得2个积分，3星玩家获得3个积分，失败不获得积分</p><p>n &nbsp;挑战赛采取比分制，比赛结束最终积分高的帮派获胜</p><p>n &nbsp;若轮空则直接胜出</p><p>n &nbsp;每个玩家每天只有2次挑战的机会，不能由其他方式增加次数、</p><p>n &nbsp;战斗中退出，直接失败</p><p><br/></p><p>结算奖励</p><p>n &nbsp;单场战斗奖励</p><p>u &nbsp;选择的星级不同，战斗胜利获得的奖励不同，星级越高奖励越好（帮贡和金币）</p><p>u &nbsp;若是失败，无论星级，同样的奖励（帮贡和金币）</p><p>u &nbsp;若该帮派被轮空，则奖励给参加者战斗2星奖励*2</p><p>n &nbsp;帮派积分总结算</p><p>u &nbsp;获胜的帮派获得帮派资金</p><p>u &nbsp;失败的帮派获得部分帮派资金</p><p>u &nbsp;帮战奖励直接加到帮派资金中</p><p>u &nbsp;结算结果后通过邮件告知所有帮派成员（只胜利方）</p><p>u &nbsp;结算结果在帮派频道中广播：</p><p><br/></p><p><br/></p><p>&nbsp; 胜方：“本帮以300:126的比分战胜了XXX帮派，帮派资金增加XXXXX”</p><p>&nbsp; 败方：“本帮以100:126的比分败给了XXX帮派，帮派资金增加XXXXX”</p><p>&nbsp; 平局：“本帮以100:100的比分和XXX帮派握手言合，帮派资金增加XXXXX”</p><p>l &nbsp;0:0平局：“本帮和XXX帮派的比分0:0，均未参与挑战赛，帮派资金增加0。请下次积极参加，为帮派做贡献”</p><p>u &nbsp;若两个帮派最终比分战平（不包括0:0），则判为平局，给予奖励与失败奖励相同</p><p>u &nbsp;若两个帮派最终比分为0:0，则视为均没有参加，不给于帮派奖励</p><p><br/></p>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

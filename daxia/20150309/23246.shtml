@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>3月11日更新公告_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">公告</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">3月11日更新公告</div>
+              <p><p class="MsoNormal">
+	尊敬的各位玩家：<br />
+&nbsp; &nbsp; 我们将于<span >2015.3.1</span>1上午<span >11</span><span >：</span><span >00</span><span >至</span><span >12:00</span><span >进行</span>安卓和越狱全部服务器的更新，届时您将无法登陆游戏，请您合理安排时间，期待新内容的到来。<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	1.5.030<span >的更新内容：</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	————————————————————————<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	新增内容：<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	1.<span >新增大侠紫杉圣女、天鹰老人、金发狂狮、九天蝙蝠。</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	新大侠会在运营活动中产出，敬请期待。<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	优化内容：<o:p></o:p>
+</p>
+<p class="MsoNormal">
+	1.<span >邮件支持发送礼包</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	2.<span >优化宝石镶嵌界面，按钮灰化</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	3.<span >大侠、装备、武功满级经验显示为</span><span >max</span><span >。</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	4.<span >家园给自己浇水时不影响其他操作。</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	5.<span >万剑冢没有宝石时提示宝石获取方式</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	6.<span >阵容对比显示装备和武功名称</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	7.<span >大侠、装备详情加产出地点</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	修正<span >bug</span><span >：</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	1.<span >优化累消活动界面的内存泄漏</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	2.<span >修复了秘宝有时会崩溃的</span><span >bug</span><span >。</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	3.<span >角色改名后，论剑战斗界面，名字错误</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	4.<span >修复任务栏中帮派捐献任务显示不正确的</span><span >bug</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	5.<span >修复走马灯中的一些文字显示</span><span >BUG</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	6.<span >月卡点击会出金锁铃</span><o:p></o:p>
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

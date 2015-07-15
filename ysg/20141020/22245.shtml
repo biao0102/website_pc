@@ -1,0 +1,37 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        		</div>
+	    			<div class="infotitle">策略玩法摒弃常规 全由玩家掌控</div>
+		        	<div class="textTime">2014-10-20</div>
+		    		<div class="article">
+						<p style="text-indent:2em;">
+	相对于传统SLG手游对于玩家策略方面做出的诸多限制以及繁琐，《<span >就是要三国</span>》将游戏的策略部分完全体现在玩家的主动思考，在领地城池发展、武将培养、玩家操纵性等方面做出简化，并让玩家在领取发展大局上亲自掌控，而不仅仅将策略体现在战斗中，力求让玩家可以通过自己理念打造完全不同风格的发展方向。将领组合搭配、进攻路线选择、城防科技、攻城掠地方向等等策略的体现，相信将让人拥有不同的体验。
+</p>
+<div style="text-align:center;">
+	<span style="text-indent:2em;"></span><br />
+</div>
+<p>
+	<br />
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

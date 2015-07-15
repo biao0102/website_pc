@@ -1,0 +1,36 @@
+	<div class="ribtcon02"> 
+		<h2><img src="http://js.feiliu.com/static/zjh/web/images/h02.jpg" /></h2>
+		<a href="javascript:void(0);" class="more02">更多>></a>
+		<div class="item">
+			<span class="lt"></span><span class="gt"></span>
+			<div class="listArea">
+				<ul class="itemList">
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/194x150-1.jpg" /></a></li>
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/194x150-2.jpg" /></a></li>
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/194x150-3.jpg" /></a></li>
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/gpics.jpg" /></a></li>
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/gpics.jpg" /></a></li>
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/gpics.jpg" /></a></li>
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/gpics.jpg" /></a></li>
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/gpics.jpg" /></a></li>
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/gpics.jpg" /></a></li>
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/gpics.jpg" /></a></li>
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/gpics.jpg" /></a></li>
+					<li><a href=""><img src="http://js.feiliu.com/static/zjh/web/images/gpics.jpg" /></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>  
+
+
+<!--
+         <div class="ribtcon02"> 
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/h02.jpg" /></h2>
+            <a href="" class="more02">更多>></a>
+            <ul>
+            <li><a href=""><img src="http://js.feiliu.com/gameimg/zjh/20140924112625.png" /></a></li>
+            <li><a href=""><img src="http://js.feiliu.com/gameimg/zjh/20140924112819.jpg" /></a></li>
+            <li><a href=""><img src="http://js.feiliu.com/gameimg/zjh/20140925172943.jpg" /></a></li>
+            </ul>
+            </div>
+-->

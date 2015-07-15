@@ -1,0 +1,60 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">新手小妖精必看！《众妖之怒》游戏主界面详解</div>
+			<div class="news-con">
+				<br />
+<br />
+&nbsp; 东方奇幻动作手游《众妖之怒》已将正式开启越狱删档付费内测，无比新颖的东方神话世界正式呈现在玩家面前。对于新手玩家，虽然游戏指引已经非常详细，但如果能一览了解所有游戏主界面功能，是不是非常贴心并且值得保存呢？现在，让我们一起详细了解《众妖之怒》主界面功能，快速掌握所有游戏玩法吧！<br />
+<br />
+<br />
+《众妖之怒》官方网站：http://zyzn.feiliu.com<br />
+《众妖之怒》越狱下载地址：http://js.feiliu.com/ipa/zyzn/zyzn_300021.ipa?v=10<br />
+《众妖之怒》官方QQ群：263683777　　<br />
+《众妖之怒》客服 QQ：800032234<br />
+<br /><img src="http://i0.feiliu.com/image/20150108/20150108101326_59792.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 《众妖之怒》主界面分为：角色基本信息、任务栏、聊天界面、基础系统、特色活动系统等五大方面。下面，让我们一一了解他们都有什么样的功能吧！<br /><img src="http://i0.feiliu.com/image/20150108/20150108101336_87736.jpg" alt="" /><br />
+<br />
+&nbsp; 角色基本信息：等级、金币、元宝、体力、战力、参战宠物，玩家可以在此了解到角色的详细资料。<br />
+<br /><img src="http://i0.feiliu.com/image/20150108/20150108101345_65807.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 任务栏：主线任务、支线任务。系统会自动显示当前任务，点击任务便可自动寻路完成主线任务会推进游戏进程，并获得经验、装备、金币等奖励。&nbsp;<br />
+<br /><img src="http://i0.feiliu.com/image/20150108/20150108101421_53238.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 社交界面：聊天、好友。点击聊天便可以查看最近聊天信息，并发出自己的信息；好友系统则可以让玩家进行加好友、查看好友信息等功能。<br /><img src="http://i0.feiliu.com/image/20150108/20150108101409_97002.jpg" alt="" /><br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

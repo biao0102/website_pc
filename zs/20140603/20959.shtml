@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_进阶攻略</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">简单介绍下《三国战神》中的打造系统</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-06-03 10:26:37</span>
+																			</div>
+									<div class="w-d">
+										　　打造系统，《三国战神》中比较特色的一种玩法，我们可以通过打造系统不断的强化自己的装备，提高自己的战力，具体的有4玩法~<br />
+　　<br />
+　　我们可以在人物等级5级的时候开启装备强化功能，需要的材料为强化石，不同等级的强化石之间可以在兑换商人那里进行兑换的。<br />
+　　<br />
+　　下面就是在任务等级到达15级的时候开启的进阶功能，这个时候我们需要的进阶符，1级进阶符可以在15级到35级之间剧情副本中随机掉落的~ 2级进阶符可以在35级到55级的剧情副本中掉落，3级进阶符需要55级之后的剧情副本掉落，由于进阶符的获得方式是随机掉落的，因此只能祝愿大家想什么得到什么吧^.^<br />
+　<br />
+　　只有当装备进阶之后才能够使用锻造石进行锻造，而锻造之后武器可以产生一些比较不错的闪光效果，很是好看啊~同时装备颜色也会随着锻造次数进行变化，希望打架尽快的都能够得到金色装备^.^<br />
+<br />
+这个时候以上的的功能开启后，也有个对应的装备全属性提高效果。<br />
+●在所有装备强化到15级并且装备品质达到绿色的时候可以激活1%的全属性加成<br />
+<span style="display:none;" id="__kindeditor_bookmark_start_22__"></span>●在所有装备强化到25级并且装备品质达到蓝色的时候可以激活2%的全属性加成<br />
+●在所有装备强化到45级并且装备品质达到紫色的时候可以激活3%的全属性加成<br />
+●在所有装备强化到75级并且装备品质达到橙色的时候可以激活5%的全属性加成<br />
+●在所有装备强化到95级并且装备品质达到金色的时候可以激活10%的全属性加成<br />
+<br />
+　　这个属性激活简直太好了~~<br />
+　　装备的洗炼是在人物等级打到45级的时候开启，这个时候所有的玩法都已开启，做为最后的压轴开启的玩法，对于战斗力的提升帮助还是比较大的。<br />
+　　<br />
+　　通过洗炼，我们可以给每件装备获得额外的三种属性，如生命值，普通攻击力，属性攻击力，属性抗性等所有属性。<br />
+<br />
+　　洗炼获得的属性数值随机的，因此要获得好的属性，路漫漫其修远兮啊~~~~<br />
+&nbsp;<br />
+　　以上就是的《三国战神》打造系统的大概的玩法，最大的变动还是在装备的洗炼上，希望所有的小伙伴可以洗出自己想要的属性~
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>新手FAQ</h1>
+                        <span>2014-07-08</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：铜钱怎么获得？<span lang="EN-US"><br />
+</span>答：铜钱是游戏内主要消耗的货币，可以通过通关副本、参与各种活动、日常任务、使用炼金、灵药园种植、卖给商店的各类装备材料等方式获得。<span lang="EN-US"><br />
+<!--[if !supportLineBreakNewLine]--><br />
+<!--[endif]--><o:p></o:p></span>
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：玄铁怎么获得？用做什么？<span lang="EN-US"><br />
+</span>答：玄铁可以通过日常活动中的仙门斗法获得，用于和珍宝商人换取金色装备，金色装备能大幅提升玩家实力。<span lang="EN-US"><br />
+<!--[if !supportLineBreakNewLine]--><br />
+<!--[endif]--><o:p></o:p></span>
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：宝石如何获得，有什么作用？<span lang="EN-US"><br />
+</span>答：宝石是装备额外获得大幅属性提升的最好方式，通过精英副本通关后的打开箱子可以获得，某些活动中也能获得宝石箱子开出宝石。将宝石镶嵌到装备上可提升人物属性。<span lang="EN-US"><br />
+<!--[if !supportLineBreakNewLine]--><br />
+<!--[endif]--><o:p></o:p></span>
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：装备怎么强化，有什么用？<span lang="EN-US"><br />
+</span>答：装备可通过强化按钮进行强化升级，强化等级越高，增加的属性越大，品质从低到高分别为白——绿<span lang="EN-US">——</span>蓝<span lang="EN-US">——</span>紫<span lang="EN-US">——</span>金。装备强化将获得各项基础属性的提升！<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：星力有什么用？星力怎么得？<span lang="EN-US"><br />
+</span>答：星力可以提升玩家技能，也可以点亮星宿获取额外属性加成。星力可以通过每日福利中的星力召唤以及副本通关后翻箱子可以获得。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：精英副本怎么打？精英副本可以获得什么？<span lang="EN-US"><br />
+</span>答：挑战精英副本需要消耗体力，消耗精英副本进入，次数消耗完毕后可以进行购买，每日单个精英副本购买次数上限为<span lang="EN-US">3</span>次，可采用单人或者组队方式进行挑战。精英副本中可获得符箓卷轴、星力、紫色装备图纸、蓝色装备等物品。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：门派是什么，门派有什么用处？<span lang="EN-US"><br />
+</span>答：门派是玩家达到<span lang="EN-US">13</span>级才可以创建的游戏内组织，可以招收其他玩家加入门派共同游戏。门派初始可以招收<span lang="EN-US">30</span>人，等级每提升<span lang="EN-US">1</span>级增加相应上限。门派内可通过门派贡献学习门派技能提升战力，后期还会开放较多大型的门派活动供玩家参与。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：游戏中哪些玩法可以组队玩？<span lang="EN-US"><br />
+</span>答：游戏中目前有三个可以多人参与的活动玩法，日常活动中的仙门斗法、精英副本以及后期门派中会开启的门派活动。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：怎么加别人好友？<span lang="EN-US"><br />
+</span>答：点击右下角收缩功能，点击好友，再选择附近或门派，即可添加你当前地图内附近或一个门派的玩家进行添加。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-bottom:.0001pt;">
+	问：如何挂机托管？怎么才能开启托管功能？<span lang="EN-US"><br />
+</span>答：玩家在副本中点击左上角的托管按钮，系统会对玩家当前角色进行自动操作，在单人副本、精英副本、挑战心魔、三十六重天中可开启托管功能。<span lang="EN-US"><o:p></o:p></span>
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

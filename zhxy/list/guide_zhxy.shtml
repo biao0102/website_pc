@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="战魂西游,战魂西游官网, 战魂西游下载,战魂西游攻略,战魂西游礼包,战魂西游安卓版, 战魂西游ios版" />
+    <meta name="description" content="战魂西游官网提供战魂西游下载,战魂西游攻略,ios安卓礼包发放。战魂西游是以西游记为题材的ARPG游戏,街机手动操作战斗,超爽快的动作打击效果,无限的动作连击以及角色多样化养成,在工作、学习的短暂闲暇中即可畅快游戏。" />
+    <meta name="baidu-site-verification" content="i2T25XFo44" />
+    <title>《战魂西游》_战魂西游官网_下载_攻略_安卓iOS战魂西游礼包</title>
+    <link href="http://js.feiliu.com/static/zhxy/web/css/guide.css?v=12" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery1.6.4.js"></script>
+</head>
+
+<body>
+    <a id="home" href="http://zhxy.feiliu.com/main.shtml" target="_self" title="进入官网"> </a>
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/zhxy/web/images/guide/top.jpg" alt="" />
+        </div>
+    </div>
+    <div id="wrap" class="wrap">
+        <div class="content">
+            <div class="nav">
+                <ul class="">
+                    <li class="btn01"><a href="http://zhxy.feiliu.com/main.shtml">官网首页</a></li>
+                    <li class="btn02"><a href="http://zhxy.feiliu.com/list/list_zhxy_zx.shtml" target="_blank">新闻公告</a></li>
+                    <li class="btn03"><a href="http://zhxy.feiliu.com/list/list_zhxy_yxzl.shtml" target="_blank">游戏介绍</a></li>
+                    <li class="btn04"><a href="http://zhxy.feiliu.com/list/list_zhxy_yxzl.shtml" target="_blank">游戏特色</a></li>
+                    <li class="btn05"><a href="http://bbs.8783.com/forum-90-1.html" target="_blank">游戏论坛</a></li>
+                </ul>
+                
+            </div>
+            <div class="header">
+                <img src="http://js.feiliu.com/static/zhxy/web/images/guide/img01.jpg?v=1031" alt="" />
+                <img src="http://js.feiliu.com/static/zhxy/web/images/guide/img02.jpg?v=1031" alt="" />
+                <img src="http://js.feiliu.com/static/zhxy/web/images/guide/img03.jpg?v=1031" alt="" />
+                
+            </div>
+            <div class="main main_bg clearfix">
+                <div class="down">
+                    <a href="javascript:alert('敬请期待')" target="_self" class="btn01" id="btn01">IOS版下载</a>
+                    <a href="http://zhxy.feiliu.com/count/download.php?cid=300021&type=2" target="_blank" class="btn02" id="btn02">越狱版下载</a>
+                    <a href="http://zhxy.feiliu.com/count/download.php?cid=300021&type=5" target="_blank" class="btn03" id="btn03">安卓版下载</a>
+                </div>
+                <div class="main_m">
+                    <div class="main_ml">
+                        <a href="http://zhxy.feiliu.com/20140421/20415.shtml" target="_blank" class="btn04" id="btn04">游戏介绍</a>
+                        <a href="http://zhxy.feiliu.com/20140422/20450.shtml" target="_blank" class="btn06" id="btn06">游戏特色</a>
+                        <a href="http://bbs.8783.com/forum-90-1.html" target="_blank"  class="btn05" id="btn05">游戏论坛</a>
+                    </div>
+                    <div class="news">
+                        <div class="news_nav" id="news_nav">
+                            <a href="javascript:;" class="current">最新</a>
+                            <a href="javascript:;">新闻</a>
+                            <a href="javascript:;">公告</a>
+                            <a href="javascript:;">活动</a>
+                        </div>
+                        <span class="news_more"><a href="http://zhxy.feiliu.com/list/list_zhxy_zx.shtml" target="_blank" class="more"></a></span>
+                        <div class="news_panes" id="news_panes">
+                        <!--引导页最新栏目模板start-->
+                            <!--#include virtual="/list/guide_zhxy_zx.shtml"-->
+                        <!--引导页最新栏目模板end-->
+
+                        <!--引导页新闻栏目模板start-->
+                            <!--#include virtual="/list/guide_zhxy_news.shtml"-->
+                        <!--引导页新闻栏目模板end-->
+
+                        <!--引导页公告栏目模板start-->
+                            <!--#include virtual="/list/guide_zhxy_gg.shtml"-->
+                        <!--引导页公告栏目模板end-->
+
+                        <!--引导页活动栏目模板start-->
+                            <!--#include virtual="/list/guide_zhxy_hd.shtml"-->
+                        <!--引导页活动栏目模板end--> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="main_b">
+                    <div class="main_bl">
+                        <p>官网交流群：234643062</p>
+                        <p>客服QQ：800032234</p>
+                        <p>邮箱：800032234@b.qq.com</p>
+                    </div>
+                    <!--首页合作媒体模板start-->
+                            <!--#include virtual="/list/index_zhxy_hzmt.shtml"-->
+                    <!--首页合作媒体模板end--> 
+                </div>
+                <div class="bottom clearfix">
+                    <p>About.us | Copy right@北京飞流九天科技有限公司</p>
+                    <p>爱游戏，爱生活，也爱美女。</p>
+                    <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+                    <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+                    <p>Love is love!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--首页浮动二维码下载模板start-->
+        <!--#include virtual="/list/index_zhxy_floatdown.shtml"-->
+    <!--首页浮动二维码下载模板end--> 	
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5957486'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D5957486' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+<script> 
+    $(function(){
+        newsTab();
+        gundong();
+    //  mthztab();
+    });
+
+    function newsTab(){
+        var navs = $("#news_nav > a");
+        var panes = $("#news_panes > ul");
+        navs.each(function (i) {
+            $(this).click(function () {
+                navs.removeClass("current").eq(i).addClass("current");
+                panes.hide().eq(i).show();
+            });
+        });
+    }
+        
+    function mthztab(){
+        var tabs = $("#mtbox_tab a");
+        var panes = $("#mtbox_panes > div.mtbox_item");
+        tabs.each(function (i) {
+        $(this).click(function () {
+            tabs.removeClass("current").eq(i).addClass("current");
+            panes.hide().eq(i).show();
+        });
+        });
+    }
+           
+    function gundong(){
+        var box = $("#hz_list");
+        var owidth = box.children("li").eq(0).outerWidth();
+        var num = box.children("li").length;
+        var i = 0;
+        var timer = null;
+        var time = 20;
+
+        if (num > 5) {
+            box.append(box.html());
+            box.css("width", 2 * owidth * num + "px");
+            timer = setInterval(gdAnimate, time);
+            box.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(gdAnimate, time);
+            });
+        }
+        function gdAnimate() {
+            i = i > owidth * num ? 0 : i + 1;
+            box.css("left", -i + "px");
+        }
+    }
+</script>
+
+
+</html>

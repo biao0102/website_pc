@@ -1,0 +1,168 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>龙骑战歌官方网站</title> 
+    <meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+    <meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<link href="http://js.feiliu.com/static/lqzg/web0525/css/index.css?v=4" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/slides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/index.js?v=1"></script>
+<script>
+        function getArgs()
+        {
+            var argsArr = new Object();
+            var query = window.location.search;  
+            query = query.substring(1);
+            var pairs = query.split("&");
+            for(var i=0;i<pairs.length;i++)
+            {
+                var sign = pairs[i].indexOf("="); 
+                if(sign == -1)
+                {
+                    continue; 
+                }
+                var aKey = pairs[i].substring(0,sign);
+                var aValue = pairs[i].substring(sign+1);         
+                argsArr[aKey] = unescape(aValue);
+
+            }
+            return argsArr;
+        }
+
+        var param = new Object();
+        param = getArgs();
+        var source = param.s;
+
+        if(!source)
+        {
+            source = '300021';
+        }
+
+
+		function isMobile(args) {
+			var sUserAgent= navigator.userAgent.toLowerCase();
+			var bIsIpad= sUserAgent.match(/ipad/i) == "ipad";
+			var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsMidp= sUserAgent.match(/midp/i) == "midp";
+			var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+			var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb";
+			var bIsAndroid= sUserAgent.match(/android/i) == "android";
+			var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce";
+			var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile";
+			if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) 
+			{
+				window.location.href= 'http://lqzg.feiliu.com/wap/list/index.shtml?s='+source;
+			}
+		}
+		isMobile();
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
+<body>
+<div class="page">
+    <div class="nav">
+    <div class="nav-con">
+        <a href="http://lqzg.feiliu.com/index.shtml"><img src="http://js.feiliu.com/static/lqzg/web0525/images/logo.png" alt="logo" class="logo" /></a>
+        <ul>
+            <li><a href="http://lqzg.feiliu.com/web/list/home.shtml">首页</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml">新闻公告</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/index.shtml">玩法特色</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/notice.shtml">职业介绍</a></li>
+            <li><a href="javascript:alert('敬请期待');">游戏活动</a></li>
+            <li><a href="http://bbs.8783.com/forum-178-1.html">论坛</a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="public-top"></div>
+    <div class="public-con">
+        <div class="public-box">
+            <div class="public-left">
+    <div class="public-code">
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="ios-link"></a>
+        <a href="http://lqzg.feiliu.com/download?cid=300021&type=5" class="android-link"></a>
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="raiders-link"></a>
+        <div>
+            <p>扫一扫关注龙骑战歌</p>
+            <img src="http://js.feiliu.com/static/lqzg/web0525/images/public-code.jpg" />
+        </div>
+    </div>
+    <ul class="public-adv">
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114758.jpg" alt="" /></a></li>
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114939.jpg" alt="" /></a></li>
+        <li><a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150526115157.jpg" alt="" /></a></li>
+    </ul>
+</div>
+            <div class="public-right">
+                <div class="public-title">
+                    <h5>新闻公告</h5>
+                    <a href="http://lqzg.feiliu.com/web/list/newslist.shtml"><<返回</a>
+                </div>
+                <div class="newsDetail">
+                    <h5>隐藏种族曝光 《龙骑战歌》四大伙伴原画赏</h5>
+                    <dl>
+                        <dt>发布于<span>2015-03-11 19:39:34</span></dt>
+                        <dd><span>分享到</span><div><a href="javascript:void(0);" class="weixin"></a><a href="javascript:void(0);" class="qzone"></a><a href="javascript:void(0);" class="tsina"></a><a href="javascript:void(0);" class="tqq"></a><a href="javascript:void(0);" class="renren"></a></div></dd>
+                    </dl>
+                    <div class="newsDetail-con">
+                        <p>由墨麟倾力研发、飞流（FL Mobile）全平台代理发行的《龙骑战歌》即将亮相，这款2015年国内手游的开年巨作，自去年下半年便持续受到了无数玩家的关注，近期不断曝光出的伙伴原画更是备受热捧。游戏为玩家提供的，可以在战斗中自由切换主角与伙伴，操纵双职业战斗的独创模式，超脱了现有传统手游局限。那些神秘种族的伙伴，那些具有独特职业的伙伴究竟是什么样子呢？现在，让我们一起亲眼欣赏四大伙伴的独特形象吧！</p><p><br/></p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193858.jpg" title="20150416193858.jpg" alt="图1：《龙骑战歌》四大伙伴原画.jpg"/></p><p><br/></p><p>【狂躁的复仇者 萨奎尔·长尾】</p><p><br/></p><p>&nbsp; 萨奎尔·长尾是一名龙人部族的成员。他们据说有着远古巨龙的血统，像鳄鱼一样巨大布满利齿的嘴巴和粗大坚硬的尾巴，使得他们比别的战士更多出两件致命的武器，而且龙人天生对所有类型的魔法元素具有很高的抵抗力。萨奎尔居住的龙人村庄本来过着与世无争的生活，但灰烬神教却屠杀了整个村子的人，连尸体也被作为亡灵法师们的研究素材被运走，这其中也包括了萨奎尔的妻子和两个孩子。全村仅有遍体鳞伤杀出重围的萨奎尔一人，侥幸捡回了性命。经过数月的休养，萨奎尔重新拿起了他的战斧，加入了主角队伍。他发誓要为自己的家人复仇，让灰烬神教从琳妮茵世界彻底地消失。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193906.jpg" title="20150416193906.jpg" alt="图2：龙人伙伴： 萨奎尔·长尾.jpg"/></p><p><br/></p><p>【圣洁的羽族 布里萨妮】</p><p><br/></p><p>&nbsp; 布里萨妮是一名神秘莫测的羽族人，这个种族很少在大陆上出现，也没有任何人发现过羽族的聚居地。她们自称为神族，是侍奉雷霆与公正之神多恩的忠实使者。羽族人的身后长有一双白色的羽翼，这与传说中的多恩神使的形象吻合。羽族与生俱来的骄傲，使得她们与大多数种族关系紧张。但在席卷大陆的战火中，羽族仍然投入了军队来对抗大陆共同的敌人，灰烬神教。与主角队伍相遇后的布里萨妮认可了主角的实力，并认为主角的行动对于击败灰烬神教而言十分关键，于是便加入了主角队伍，协助主角完成任务。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193913.jpg" title="20150416193913.jpg" alt="图3：羽族伙伴： 布里萨妮.jpg"/></p><p><br/></p><p>【兵器少女 夏洛特·阿德冈德】</p><p><br/></p><p>&nbsp; 夏洛特·阿德冈德是由灰烬神教和塔洛斯公国秘密合作研究的魔法机械人偶。这项名为“夏洛特”的邪恶研究的本质是把被杀害的战士灵魂注入战斗用的机械人偶中，使人偶能够发挥真人一般的战斗力，并且不受恐惧等情绪影响。然而这台落入主角手中的试作品似乎并不符合完成标准，还残留着一些性格和记忆碎片。因此，在被主角启动以后，她决定帮助主角阻止灰烬神教，并试图找回自己的过去。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193921.jpg" title="20150416193921.jpg" alt="图4：机械人偶：夏洛特·阿德冈德.jpg"/></p><p><br/></p><p>【星空来的刺客 图瑞根·泽拉瑞尔】</p><p><br/></p><p>&nbsp; 图瑞根·泽拉瑞尔是一名来自外星的神秘战士，他的部族被琳妮茵世界上的生物们称为“星灵”。星灵是一个强大的战斗种族，他们从远古时代开始就开始在宇宙中流浪，寻找着任何邪恶的生物，并毫不留情地将其作为猎物加以猎杀。 一个偶然的机会，图瑞根所在的部族发现了琳妮茵世界的存在。从琳妮茵世界中感知到的邪恶力量使得星灵们将琳妮茵星球定为下一个狩猎场。按照惯例，几名刚成年的星灵武士前往琳妮茵世界猎杀邪恶生物，作为他们的成年仪式。但是这几名年轻的武士经过一段时间的艰苦战斗，全部失手被杀。意识到低估了邪恶力量的族长，立刻下令禁止年轻武士降落琳妮茵星球，并且派遣身经百战的图瑞根，带领一队经验丰富的星灵武士，前去彻底铲除这颗星球上的邪恶力量。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416193929.jpg" title="20150416193929.jpg" alt="图5：星灵伙伴：图瑞根·泽拉瑞尔.jpg"/></p><p><br/></p><p>&nbsp; 酷炫的造型、独特的职业、神秘并且庞大的背景、超强的战力，《龙骑战歌》中的伙伴无论从哪一方面都堪称震撼人心。亲手招募到这些小伙伴，培养他们成长，在战斗中召唤他们出现，是不是想想就会令人热血沸腾呢？《龙骑战歌》即将震撼来袭，现在进入官方网站进行预约，便可抢先收获预约大礼包！</p><p><br/></p>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-con">
+            <p>About.us | Copy right@北京飞流九天科技有限公司</p>
+            <p>爱游戏，爱生活，也爱美女。</p>
+            <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+            <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+            <p>Love is love!</p>
+        </div>
+    </div>
+</div>
+    <script>
+        var link = $('.android-link').attr('href');
+        if(!link)
+        {
+        	$('.android-link a').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }else{
+        	$('.android-link').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }
+        
+        $('a').click(function(e){
+            var url = $(this).attr('href');
+            if(url != 'javascript:void(0);' && url != "javascript:;");
+            {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                if(url.indexOf('?') > -1)
+                {
+                    var tourl = url + '&s='+source;
+                } else {
+                    var tourl = url + '?s='+source;
+                }
+                window.location.href = tourl;   
+            }
+        });
+
+
+    </script>
+    <script>$.ajax({ url:"http://gameapi.feiliu.com/game/netlog",type:'GET',dataType:'jsonp',success: function(data){}});</script>
+    <div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

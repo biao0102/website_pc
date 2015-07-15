@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>三国艳义 -《三国艳义》官方网站</title>
+	<meta name="keywords" content="三国艳义，女体养成手游，三国群英，三国热，三国艳义官网"/>
+	<meta name="description" content="当刘备化身为双马尾的电眼萌萝莉，曹操变身为豪乳霸气御姐，孙权变成身着华丽礼服的少女，不要惊讶，三国群英已全面化身为日系萌娘，倾情演绎女体三国卡牌策略对战手游——《三国艳义》已正式上线！《三国艳义》是上海慕和网络研发开年之作，是日漫与三国的结合体，超高水平的绝美日系画风，三国背景下的全女体后宫盛宴，精美的画面、丰富的玩法、多种多样的卡牌组合，几百款风味各异的妹纸一定有您喜好的类型。"/>
+	<link rel="stylesheet" type="text/css" href="http://js.8783.com/static/sgyy/css/style.css?v=.1" />
+
+</head>
+
+<body>
+	<div class="bg">
+		<div class="nei">
+			<div style="display:none">三国艳义 - 绝色倾国，逐鹿天下</div>
+			<div>
+				<img src="http://js.8783.com/static/sgyy/images/sanguo_1.jpg" width="1280" height="116" />
+			</div>
+			<div>
+				<img src="http://js.8783.com/static/sgyy/images/sanguo_2.jpg" width="1280" height="96" />
+			</div>
+			<div>
+				<img src="http://js.8783.com/static/sgyy/images/sanguo_3.jpg" width="1280" height="82" />
+			</div>
+			<div>
+				<img src="http://js.8783.com/static/sgyy/images/sanguo_4.jpg" width="1280" height="99" border="0" usemap="#Map2" />
+				<map name="Map2" id="Map2">
+					<area id="intro" title="游戏介绍" shape="rect" coords="718,5,752,94" href="javascript:void(0);" />
+					<area id="forum" title="游戏论坛" shape="rect" coords="755,5,788,96" href="http://bbs.maoren8.com/thread-htm-fid-199.html" />
+				</map>
+			</div>  
+			<div>
+				<img src="http://js.8783.com/static/sgyy/images/sanguo_5.jpg" width="1280" height="110" />
+			</div>
+			<div>
+				<img src="http://js.8783.com/static/sgyy/images/sanguo_6.jpg" width="1280" height="125" />
+			</div>
+			<div>
+				<img src="http://js.8783.com/static/sgyy/images/sanguo_7.jpg" width="1280" height="125" />
+			</div>
+			<div>
+				<img src="http://js.8783.com/static/sgyy/images/sanguo_8.jpg" width="1280" height="167" border="0" usemap="#Map" />
+				<map name="Map" id="Map">
+					<area id="down_ky" title="iOS越狱版本下载 - 快用下载" shape="poly" coords="634,53,860,30,872,112,642,134" href="http://iphone.7659.com/spread_links.php?appid=com.timetoplay.ssyyKY" />
+					<area id="down_pp" title="iOS越狱版本下载 - PP下载" shape="poly" coords="900,25,1133,3,1143,83,911,105" href="http://www.25pp.com/ipad/game/info_1185181.html" />
+				</map>
+			</div>
+			<div class="footer">
+				<p><a href="http://www.feiliu.com/aboutus.html" title="About us" target="_blank">About us</a> | Copy right@飞流iPhone 2013</p>
+				<p>爱游戏，爱生活，也爱美女。</p>
+				<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+				<p>版权所有  北京飞流九天科技有限公司 2009-2013 京ICP证101164号 京ICP备09095411号</p>
+			</div>
+		</div>
+
+	</div>
+    <div id="dialog" class="dialog" style="display:none;">
+        <a id="dialog_close" title="关闭" class="dialog_close" href="javascript:void(0);">close</a>
+        <div class="dialog_con">
+            <p>《三国艳义》是首款中日联合开发卡牌策略对战游戏，日漫版 “娘化”姿态的女体三国题材养成手游。超高水平的绝美日系画风， 为玩家呈现豪华视觉盛宴，玩家将置身于一个可爱型、妖艳型、清新型、气势型各色美少女武将的世界。天马行空的剧情，带你穿越至异次元的三国时代。游历三国故事、收集美女武将、探索迷宫副本体验无穷乐趣。</p>
+            <p>千张女体武将卡牌、百种超炫技能、锦囊、四大势力的循环克制，糅合出无限可能的超丰富的战略组合，试问谁可问鼎中原，天下制霸！</p>
+            <p>玩家通过收集、强化、进化、突破界限来不断增强武将的品质，吞噬卡牌大幅提升实力并可进化成不同形态，亲自探索究极少女猛将养成之路。凭借自己的智慧来排兵布阵，挑战一个个关卡，逐步突破自身实力，最终拥有一支强大战力的豪华美女战将兵团，与你一起征战三国天下。</p>
+        </div>
+    </div>
+	<script type="text/javascript">
+		document.getElementById("intro").onclick = function(){
+			document.getElementById("dialog").style.display = "block";
+		}
+		document.getElementById("dialog_close").onclick = function(){
+			document.getElementById("dialog").style.display = "none";
+		}
+		var ky = document.getElementById("down_ky"),
+			pp = document.getElementById("down_pp");
+		if((/iPhone|iPad|iPod/i).test(navigator.userAgent) || (/Mac68K|MacPPC|Macintosh|MacIntel/i).test(navigator.platform)){
+			//ky.setAttribute("href","http://iphone.7659.com/v/com.timetoplay.ssyyKY");
+			//pp.setAttribute("href", "itms-services://?action=download-manifest&url=http://cdnpush.feiliu.com/game_package/sanguoyanyi/sgyy_pp_plist_2014010917123300.plist");
+			ky.setAttribute("href","#");
+			pp.setAttribute("href", "#");
+		}else{
+			ky.setAttribute("href","#");
+			pp.setAttribute("href", "#");
+		}
+		ky.onclick = function(){
+			_hmt.push(['_trackEvent', 'down_ky', 'downclick', '', '']);   
+		}
+		pp.onclick = function(){
+			_hmt.push(['_trackEvent', 'down_pp', 'downclick', '', '']);   
+		}
+	</script>
+	<div class="statistics" style="display:none;">
+		<script src="http://s13.cnzz.com/stat.php?id=5791879&web_id=5791879" language="JavaScript"></script>
+		<script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F81d025bb0cd92dbeefe82f44155f3163' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+	</div>
+</body>
+</html>

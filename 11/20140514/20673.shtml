@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="《足球》官方网站" />
+    <meta name="description" content="《足球》官方网站" />
+    <title>《冠军11人》之豪门盛宴 《足球》官方网站_新闻</title>
+    <link href="http://js.feiliu.com/static/11/style/master.css?v=10" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/11/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://www.wanmei.com/public/js/swfobject.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/11/js/11.js"></script>
+</head>
+<body>
+    <!--公共头部导航开始-->
+		<!--#include virtual="/list/index_11_nav.shtml"-->
+	<!--公共头部导航结束-->
+    <div class="wrap news_wrap">
+        <div class="content">
+            <div class="content_kong news_kong">
+                <div id="flash_box"></div>
+            </div>
+            <div class="main clearfix">
+                <div class="main_l">
+                    <!--公共下载开始-->	
+						<!--#include virtual="/list/index_11_down.shtml"-->
+					<!--公共下载结束-->
+                    <div class="left_box">
+                        <!--列表页左侧公共微信开始-->	
+							<!--#include virtual="/list/list_11_weixin.shtml"-->
+						<!--列表页左侧公共微信结束-->
+						
+						<!--公共左侧客服媒体开始-->	
+							<!--#include virtual="/list/index_11_kfmt.shtml"-->
+						<!--公共左侧客服媒体开始-->
+                    </div>
+                </div>
+                <div class="main_r">
+                    <div class="news_box">
+                        <h2>《冠军11人》之豪门盛宴</h2>
+                        <div class="news_share"></div>
+                        <div class="news_content">
+							<p class="MsoNormal" style="text-indent:21pt;">
+	<span>豪门盛宴是一个多人</span><span>PVE</span><span>游戏玩法。在这里你会遇到强大的“</span><span>NPC</span><span>明星队”，战胜他们后，会得到奖励，下次如果再次遇到同一支队伍，则他们会变得更强，而战胜他们的奖励也会变得更丰厚，当你无法战胜某支队伍时，服务器内其他的玩家也可以协助你一起挑战，每损耗一点</span><span>NPC</span><span>明星队的血量，其他玩家也可以获得一次奖励。<br />
+</span><span></span> 
+</p>
+<span>【豪门盛宴玩法】</span><span>:<br />
+<br />
+</span><span>1</span><span>、在进行世界巡回赛时有几率触发豪门盛宴，<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514160108_57664.png" /><br />
+<br />
+</span><span>2</span><span>、点击“挑战”按钮进入豪门盛宴</span><span>:<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514160133_99777.png" /><br />
+<br />
+</span><span>3</span><span>、挑战会消耗</span><span>GP</span><span>值，首次挑战不消耗</span><span>GP</span><span>值，点击绿色的“挑战”按钮会进入比赛<span>，每个明星都有自己的血量，消耗至</span></span><span>0</span><span>则挑战成功，成功会领取一定的奖励，如果挑战失败则会进入另外一个界面，<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514160205_21222.png" /><br />
+</span><span>你可以继续消耗</span><span>GP</span><span>来挑战，直到完全消耗掉该明星余下的血量则挑战成功。<span>同时系统会把这条挑战的消息推到世界上，其他玩家在“豪门盛宴”玩法内可以看到你需要挑战的明星，来协助你一起挑战。</span></span><span></span><span><br />
+<br />
+4</span><span>、挑战成功后，会根据击杀的血量获得相应的贡献奖励，同时</span><span>发现</span><span>BOSS</span><span>的人，终结</span><span>BOSS</span><span>的人（就是补刀的人）和累计伤害最高的人会获得额外的奖励。<br />
+<br />
+</span><span></span><span>5</span><span>、豪门盛宴主要奖励球员强化卡和金币。<br />
+<br />
+</span><span>【小贴士】：</span><br />
+<br />
+<span><span>1、<span>&nbsp; </span></span></span><span>只有参加世界巡回赛才有几率触发自己的挑战明星。<br />
+<br />
+</span><span></span><span><span>2、<span>&nbsp; </span></span></span><span>通过查看完成奖励可以知道具体的奖励内容。</span><span></span><span><span><br />
+<br />
+3、<span>&nbsp; </span></span></span><span>通过查看参加情况可以了解到当前有几个人挑战过该明星。<br />
+<br />
+</span><span></span><span><span>4、<span>&nbsp; </span></span></span><span>每个挑战的明星都有血量的提示。</span><br />
+<span></span><br />
+<span><span>5、<span>&nbsp; </span></span></span><span>“预测发挥”代表着每次挑战该明星时会消耗他的血量。</span><span></span>
+						</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<!--公共底部开始-->
+        <!--#include virtual="/list/index_11_footer.shtml"-->
+	<!--公共底部结束-->
+</body>
+</html>

@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">四月月中活动 总有一款适合你</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2015-04-13 15:18:39</span>
+																			</div>
+									<div class="w-d">
+										<span>活动一：天天登陆送好礼</span><br />
+<span>【活动时间】：永久</span><br />
+<br />
+<span>【活动区服】：APP正版/IOS越狱 全区全服</span><br />
+<br />
+<span>【活动形式】：活动期间内每天登陆，即可领取丰厚奖励。</span><br />
+<br />
+<span>【活动奖励】：元宝100，以及随机材料奖励（有机会获得高级材料哦！）。</span><br />
+<span>&nbsp; &nbsp;&nbsp;</span><br />
+<span>【奖励发放】：奖励将以全服补偿的形式进行发放，奖励有效期为24小时。</span><br />
+<br />
+<span>活动二：小充值，大返礼&nbsp;</span><br />
+<span>【活动时间】：永久</span><br />
+<br />
+<span>【活动区服】：APP正版/IOS越狱 全区全服</span><br />
+<br />
+<span>【活动规则】：每天累计充值满30元，即得价值60元道具礼包。</span><br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 每天累计充值满50元，即得价值100元道具礼包。</span><br />
+<br />
+<span>【活动奖励】：价值60元道具礼包（包含：二级强化石15个，二级占星灵石15个，二级锻造石11个。）</span><br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 价值100元道具礼包（包含：二级强化石15个，二级占星灵石15个，二级锻造石11个，二级进阶丹20个，二级汗血晶石80个。）</span><br />
+<br />
+<span>活动三：充值送战魂灵石</span><br />
+<span>【活动时间】：4月13日</span><br />
+<br />
+<span>【活动区服】：APP正版/IOS越狱 全区全服</span><br />
+<br />
+<span>【活动规则】：活动期间内每天累计充值达到活动档位要求，即可领取该档位的奖励。</span><br />
+<br />
+<span>【活动奖励】：累计充值100元，返还二级战魂灵石18个。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 累计充值200元，返还二级战魂灵石48个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值500元，返还二级战魂灵石138个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值1000元，返还二级战魂灵石318个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值2000元，返还二级战魂灵石728个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值5000元，返还二级战魂灵石2048个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值10000元，返还二级战魂灵石4548个。<br />
+</span><br />
+<span>活动四：充值送锻造石</span><br />
+<span>【活动时间】：4月14日</span><br />
+<br />
+<span>【活动区服】：APP正版/IOS越狱 全区全服</span><br />
+<br />
+<span>【活动形式】：活动期间内每天累计充值达到活动档位要求，即可领取该档位的奖励。</span><br />
+<br />
+<span>【活动奖励】：累计充值100元，返还二级锻造石14个。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 累计充值200元，返还二级锻造石36个。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 累计充值500元，返还二级锻造石107个。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 累计充值1000元，返还二级锻造石249个。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 累计充值2000元，返还二级锻造石571个。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;累计充值5000元，返还二级锻造石1607个。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;累计充值10000元，返还二级锻造石3571个。<br />
+</span><br />
+<span>活动五：魂玉宝箱赠不停</span><br />
+<span>【活动时间】：4月15日</span><br />
+<br />
+<span>【活动区服】：APP正版/IOS越狱 全区全服</span><br />
+<br />
+<span>【活动形式】：活动期间内每天累计充值达到活动档位要求，即可领取该档位的奖励。</span><br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br />
+<span>【活动奖励】：4月15日当日，充值即送3个二级水晶宝箱。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 累计充值100元，额外赠送白银魂玉礼包1个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值200元，额外赠送白银魂玉礼包3个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值500元，额外赠送黄金魂玉礼包5个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值1000元，额外赠送白银魂玉礼包3个，黄金魂玉礼包10个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值2000元，额外赠送白银魂玉礼包5个，黄金魂玉礼包25个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值5000元，额外赠送白银魂玉礼包30个，黄金魂玉礼包55个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值10000元，额外赠送白银魂玉礼包80个，黄金魂玉礼包120个。<br />
+</span><br />
+<span>活动六：充值送锻造石</span><br />
+<span>【活动时间】：4月16日</span><br />
+<br />
+<span>【活动区服】：APP正版/IOS越狱 全区全服</span><br />
+<br />
+<span>【活动形式】：活动期间内每天累计充值达到活动档位要求，即可领取该档位的奖励。</span><br />
+<br />
+<span>【活动奖励】：4月16日当日，充值即送3个二级水晶宝箱。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 累计充值100元，返还二级锻造石14个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值200元，返还二级锻造石36个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值500元，返还二级锻造石107个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值1000元，返还二级锻造石249个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值2000元，返还二级锻造石571个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值5000元，返还二级锻造石1607个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值10000元，返还二级锻造石3571个。<br />
+</span><br />
+<span>活动七：充值送占星石</span><br />
+<span>【活动时间】：4月17日</span><br />
+<br />
+<span>【活动区服】：APP正版/IOS越狱 全区全服</span><br />
+<br />
+<span>【活动规则】：活动期间内每天累计充值达到活动档位要求，即可领取该档位的奖励。</span><br />
+<br />
+<span>【活动奖励】：4月17日当日，充值即送3个二级水晶宝箱。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 累计充值100元，返还二级占星石18个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值200元，返还二级占星石48个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值500元，返还二级占星石138个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值1000元，返还二级占星石318个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值2000元，返还二级占星石728个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值5000元，返还二级占星石2048个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值10000元，返还二级占星石4548个。<br />
+</span><br />
+<span>活动八：充值送锻造石</span><br />
+<span>【活动时间】：4月18日</span><br />
+<br />
+<span>【活动区服】：APP正版/IOS越狱 全区全服</span><br />
+<br />
+<span>【活动形式】：活动期间内每天累计充值达到活动档位要求，即可领取该档位的奖励。</span><br />
+<br />
+<span>【活动奖励】：4月18日当日，充值即送3个二级水晶宝箱。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 累计充值100元，返还二级锻造石14个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值200元，返还二级锻造石36个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值500元，返还二级锻造石107个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值1000元，返还二级锻造石249个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值2000元，返还二级锻造石571个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值5000元，返还二级锻造石1607个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值10000元，返还二级锻造石3571个。<br />
+</span><br />
+<span>活动九：充值送战魂灵石</span><br />
+<span>【活动时间】：4月19日</span><br />
+<br />
+<span>【活动区服】：APP正版/IOS越狱 全区全服</span><br />
+<br />
+<span>【活动规则】：活动期间内每天累计充值达到活动档位要求，即可领取该档位的奖励。</span><br />
+<br />
+<span>【活动奖励】：4月19日当日，充值即送3个二级水晶宝箱。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 累计充值100元，返还二级战魂灵石18个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值200元，返还二级战魂灵石48个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值500元，返还二级战魂灵石138个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值1000元，返还二级战魂灵石318个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值2000元，返还二级战魂灵石728个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值5000元，返还二级战魂灵石2048个。<br />
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>累计充值10000元，返还二级战魂灵石4548个。<br />
+<br />
+</span><span></span><br />
+<br />
+<br />
+<span>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组</span><br />
+<span>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2015.4.13</span>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

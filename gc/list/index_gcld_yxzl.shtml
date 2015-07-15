@@ -1,0 +1,104 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=GBK" http-equiv="Content-Type">
+<title>攻城掠地游戏攻略</title>
+<style type="text/css">
+<!--
+* {margin:0;padding:0}
+body {
+	margin:0;padding:0;
+	color:#}
+TABLE.cmsTable { 
+border:0px; 
+width:95%; 
+padding:0px; 
+spacing:1px; 
+} 
+TABLE.cmsTable TD 
+{ 
+line-height:22px; 
+font-family:宋体; 
+font-size:12px;
+color:#665e59;
+}
+#time{
+font-size:12px;
+}
+a {
+	margin: 0px;
+	padding:0px;
+	border: 0px;
+	text-decoration:none;
+	color:#;
+}
+a:link {
+	color:#cab798;
+	
+}
+a:visited {
+	color:#cab798;
+	text-decoration: none;
+}
+a:hover {
+ 	color:#cab798;
+	text-decoration: none;
+}
+
+
+-->
+</style></head><body style='background:#211f1d'>
+<table width="450" height="157" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+    <td valign="top" style='border:none'>
+	<table class="cmsTable">
+	<tbody>
+		<tr>
+			<td>
+				<img src="http://js.feiliu.com/static/flgc/images/arrow.gif" />                               
+				<a target="_blank" title="【攻城掠地】各等级开放的科技一览表" href="http://gcld.8783.com/20140108/5660.shtml">【攻城掠地】各等级开放的科技一览表</a>
+			</td>
+			<td id="time" align="right">[03-17]</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="http://js.feiliu.com/static/flgc/images/arrow.gif" />
+		        <a target="_blank" title="【攻城掠地】30级~60级攻略" href="http://gcld.8783.com/20140108/5659.shtml">【攻城掠地】30级~60级攻略</a>
+			</td>
+			<td id="time" align="right">[03-17]</td>	
+		</tr>
+		<tr>
+			<td>
+				<img src="http://js.feiliu.com/static/flgc/images/arrow.gif" />
+				<a target="_blank" title="【攻城掠地】初期必备游戏小技巧" href="http://gcld.8783.com/20140108/5656.shtml">【攻城掠地】初期必备游戏小技巧</a>
+			</td>
+			<td id="time" align="right">[03-17]</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="http://js.feiliu.com/static/flgc/images/arrow.gif" />                                
+				<a target="_blank" title="【攻城掠地】单人剧本过五关斩六将超全解析" href="http://gcld.8783.com/20140108/5654.shtml">【攻城掠地】单人剧本过五关斩六将超全解析</a>
+			</td>
+			<td id="time" align="right">[03-14]</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="http://js.feiliu.com/static/flgc/images/arrow.gif" />
+				<a target="_blank" title="【攻城掠地】每日必做的几件事" href="http://gcld.8783.com/20140108/5639.shtml">【攻城掠地】每日必做的几件事</a>
+			</td>
+			<td id="time" align="right">[03-14]</td>
+		</tr>
+		<tr>
+			<td align='right' colspan="2">
+				<div class="more">
+					<a style="display: ; color:#cab798" target="_blank" href="http://gcld.8783.com/">[进入专区]</a> 
+					<a style="color:#cab798" target="_blank" href="http://gcld.8783.com/list/gcldgl.shtml">[更多攻略]</a> 
+				</div>
+			</td>
+		</tr>
+	</tbody>
+	</table>
+	</td>
+  </tr>
+</tbody></table>
+<!--<script type="text/javascript" src="https://getfirebug.com/firebug-lite.js"></script>-->
+</body>
+</html> 

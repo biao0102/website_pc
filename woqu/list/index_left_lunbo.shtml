@@ -1,0 +1,27 @@
+<div class="lbimg" id="lbimg">
+	<a href="http://www.mofang.com/event/wqxy/" target="_blank" style="display: block;">
+		<img src="http://js.feiliu.com/gameimg/woqu/20141117153555.jpg" alt="" /></a>
+	<a href="http://woqu1.feiliu.com/help" target="_blank" >
+		<img src="http://js.feiliu.com/static/woqu/images/lunbo/1.jpg" alt="" /></a>
+	<a href="http://woqu1.feiliu.com/newsc/content/704/4" target="_blank">
+		<img src="http://js.feiliu.com/static/woqu/images/lunbo/2.jpg" alt="" /></a>
+	<a href="http://woqu1.feiliu.com/newsc/content/701/4" target="_blank">
+		<img src="http://js.feiliu.com/static/woqu/images/lunbo/3.jpg" alt="" /></a>
+	<a href="http://woqu1.feiliu.com/newsc/content/700/4" target="_blank">
+		<img src="http://js.feiliu.com/static/woqu/images/lunbo/4.jpg" alt="" /></a>
+<a href="http://www.xyzs.com/app/100000282.html" target="_blank">
+		<img src="http://i0.feiliu.com/201406/84/84af71d39f90c59b6bf868d6e451b718.jpg" alt="" /></a>
+
+	
+</div>
+<div class="lbnav">
+	<div class="lbnav_bg"></div>
+	<div class="lbnav_btn" id="lbnav_btn">
+		<a href="javascript:;" class="current">1</a>
+		<a href="javascript:;">2</a>
+		<a href="javascript:;">3</a>
+		<a href="javascript:;">4</a>
+		<a href="javascript:;">5</a>
+		<a href="javascript:;">6</a>
+</div>
+</div>

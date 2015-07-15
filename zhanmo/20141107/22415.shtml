@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》资料片首爆  炫酷特效等你体验_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》资料片首爆  炫酷特效等你体验</h2>
+          <p><span >&nbsp; &nbsp; &nbsp; 据全球移动游戏发行与运营服务商飞流（FL Mobile）最新消息，飞流即将于本月推出一款横版三国玄幻手游巨制《战魔》的二次删档测试。目前，游戏已经制作完成，处于对上线进行紧张的调试阶段。在《战魔》首次曝光了的战斗场景宣传片中，我们不难看出，《战魔》以“格斗”为游戏核心，精美绝伦的场景、 职业酷炫技能、顶级特效华丽战斗，在打击感及视觉冲击方面表现出了极高的水准。三大职业各具特色，拳拳入肉，打击感十足，再现完美街机格斗体验。支持多人在线PVP和副本。超多玩法乐不停，引领动作手游次时代！<br />
+<br />
+<br />
+&nbsp; &nbsp; &nbsp; &nbsp;请点击视频链接地址：http://v.youku.com/v_show/id_XODIwMjEzNjYw.html<br />
+<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20141107/20141107163430_69578.jpg" alt=""  />
+</div>
+</span></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

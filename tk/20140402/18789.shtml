@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">混编是王道！《坦克风云》最强阵型研究</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-04-02</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团对战手游《坦克风云》即将迎来铁血内测！在《坦克风云》中，不同种类的战车之间存在兵种相克的设定，使战斗更加真实。如何针对敌人的战车军团，调整自己的阵型，成了各位《坦克风云》指挥官们时常讨论的问题。今天，为大家带来《坦克风云》战车搭阵型详解，让你的钢铁雄狮从此所向披靡！<br />
+<br />
+<br />
+欢迎访问游戏官网：http://tk.feiliu.com/<br />
+点击下载ios版：http://tk.feiliu.com/count/download.php?type=8&amp;ismobile=1&amp;source=news<br />
+点击下载ios越狱版：http://tk.feiliu.com/count/download.php?type=2&amp;ismobile=1&amp;source=news<br /><img src="http://i0.feiliu.com/image/20140402/20140402134146_78424.jpg" alt="" /><br />
+【战车种类相生相克】<br />
+在《坦克风云》中并不意味着坦克主宰一切，游戏中各种战车都存在相生相克的适应性。因此当大家基地建设起来了、资源充足了，该开始大规模建造战车的时候，不要一味的只建造某一种战车，而是近战、远程、单体、群体类战车多样搭配，组建一支毫无死角的机械化混编军团，才能真正在战场上叱咤风云。<br /><img src="http://i0.feiliu.com/image/20140402/20140402134216_24886.jpg" alt="" /><br />
+战车适应性一览：<br />
+坦克：对火箭车造成125%的伤害;<br />
+歼击车：对坦克造成125%的伤害，对自行火炮造成80%的伤害;<br />
+自行火炮：对歼击车造成125%的伤害，对坦克炮造成80%的伤害;<br />
+火箭车：对自行火炮造成125%的伤害，对歼击车炮造成80%的伤害;<br />
+<br /><img src="http://i0.feiliu.com/image/20140402/20140402134246_59754.jpg" alt="" /><br />
+战车种类的不同，不仅影响军团作战能力与作战适应性，更直接产生不同BUFF作用于全体出战军团——坦克能够增加全体友军伤害，歼击车可以增加全体友军爆击，自行火炮将有效减少受到的穿甲弹伤害，而火箭车则减少对方火箭的直接伤害。<br />
+<div ><img src="http://i0.feiliu.com/image/20140402/20140402134315_73744.jpg" alt="" /><br />
+<br />
+因此最为合理、高效的战车军团阵型，应该尽量保证战车种类齐全，坦克、歼击车、火箭车混编。这样才能同时配合进攻发动立体攻势——前排坦克压住阵脚防守住敌人第一轮炮火，火箭车范围攻击重创对手战车集团，突击战车趁势集中攻击点杀对面重要目标，自行火炮在后排对残存敌军发动致命一击清场……针对敌人随时调整自己的部队，才是王道。<br />
+	<div ><img src="http://i0.feiliu.com/image/20140402/20140402134356_97768.jpg" alt="" /><br />
+<br />
+《坦克风云》铁血内测，即将开启！指挥各国主战坦克集团撕裂对手防线，体验爽快硬派的机械化战争。更多详细情报欢迎访问游戏官网：http://tk.feiliu.com/<br /><img src="http://i0.feiliu.com/image/20140402/20140402134425_48406.jpg" alt="" /><br />
+<br />
+		<div >
+			<br />
+		</div>
+<br />
+	</div>
+<br />
+</div>
+<br />
+<br />
+<div >
+	<br />
+</div>
+<br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

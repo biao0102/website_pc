@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>战魔军团系统破晓测试，新鲜玩法邀你体验_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>战魔军团系统破晓测试，新鲜玩法邀你体验</h2>
+          <p>&nbsp; &nbsp; &nbsp; 各位战友期盼已久的军团玩法终于揭开了神秘面纱。军团是一个可以比玩家组队更进一步集合玩家的玩法，玩家们可以和其他好友一起创建军团来形成团体，共同闯荡令人热血沸腾的游戏世界。军团成员之间可以一起副本，一起聊天，一起PK，在这里你可以尽情的体现自己的价值!<br />
+<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20141106/20141106165541_33706.jpg" alt=""  /><span ></span>
+</div>
+&nbsp; &nbsp; &nbsp; &nbsp;当玩家自身等级大于等于20级且却没有加入军团，便可以花费一定的金币创建军团，而你便就是这个军团的主公，主公可以给其他成员任命职位，成员职位级别：主公&gt;将军&gt;士兵（注:被任职职位后,称号也会随着变化）。如玩家在达到相应等级后，不想创建军团，也可以进出军团界面申请加入自己喜欢的军团。<br />
+<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20141106/20141106165606_75109.jpg" alt=""  />
+</div>
+&nbsp; &nbsp; &nbsp; &nbsp;创建了军团，我们自然要发展军团，壮大军团实力。下面让我们一起来看一下加入军团后对我们自身有哪些好处吧！军团成员可以通过军团祭坛学习祭坛技能。祭坛技能是可以使军团成员的属性值在自身基础上额外提升的技能，学习祭坛技能可以提高自身在游戏中的生存能力。而军团成员可以捐助资金，称为军团的整体财富，可用于军团升级，祭坛技能升级。军团成员可学习1级~满级的祭坛技能，学习高阶技能需要提升军团等级才能开启，祭坛技能等级无法超越军团等级。<br />
+<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20141106/20141106165619_61854.jpg" alt=""  /><span ></span>
+</div>
+&nbsp; &nbsp; &nbsp; &nbsp;加入军团不只是可以学习祭坛技能，在闯关游戏副本时，当你独身一人不能顺利过关时，可以拉上军团中三五好友，有他们相助，通关副本轻而易举，坐享通关奖励。同时还有神秘的军团商店，只有强大的军团才能开启更加高级的商店，其中有大量世界未知的物品等你来发现，不容错过。加经验，得体力，享金币，让你游戏升级无困难。<br />
+<br />
+&nbsp; &nbsp; &nbsp; &nbsp;还等什么，来和朋友一起拼杀奋斗，创建属于自己的军团吧！<br /></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

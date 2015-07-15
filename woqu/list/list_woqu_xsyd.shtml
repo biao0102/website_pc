@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="我去西游,我去西游官网,我去西游兑换码,我去西游礼包,我去西游下载,我去西游攻略,我去西游飞流,3D手游,萌战卡牌,孙悟空,猪八戒,神卡,仙卡,二郎神,西天取经" />
+    <meta name="description" content="我去西游是乐卓网络科技（上海）有限公司开发，北京飞流九天独家代理的一款“萌系”西游卡牌RPG，玩家在游戏中扮演一位充满正义感的的神通人士，陪伴唐僧四人西行取经" />
+    <title>我去西游_新手引导页</title>
+    <link href="http://js.feiliu.com/static/woqu/style/xsyd.css?v=2344" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/woqu/images/index/top.jpg?v=1" alt="" />
+        </div>
+    </div>
+    <div id="wrap" class="wrap">
+        <div class="content">
+            <!--头部公共导航模板start-->
+				<!--#include virtual="/list/index_woqu_nav.shtml"-->
+			<!--右侧下载部分模板end-->
+			
+            <img src="http://js.feiliu.com/static/woqu/images/xsyd/img02.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/woqu/images/xsyd/img03.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/woqu/images/xsyd/img04.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/woqu/images/xsyd/img05.jpg?v=1" alt="" border="0" />
+            <div class="down down01">
+                <div class="down_weixin">
+                    <img src="http://js.feiliu.com/static/woqu/images/xsyd/2code.png?v=78" alt="" />
+                </div>
+                <div class="down_msg">根据设备系统，选择对应的客户端版本，通过数据线安装。所有用户都可以通过扫描右方二维码进行游戏下载。（微信扫描不支持本二维码）</div>
+            </div>
+            <img src="http://js.feiliu.com/static/woqu/images/xsyd/img07.jpg?v=2" alt="" border="0" />
+            <div class="down down02">
+                <div class="down_weixin down_weixin2">
+                    <img src="http://js.feiliu.com/static/woqu/images/xsyd/ss.jpg" alt="" />
+                </div>
+                <div class="down_msg down_msg2">当您顺利下载并安装完客户端后，点击游戏图标，请第一时间点击"账号登陆"，免费注册成为《我去西游》的永久会员，享受全方位的会员服务哦。一旦您拥有了《我去西游》账号，那么无论是更换设备、还是重装游戏，都能通过登陆账号来传承之前的存档，继续征程！</div>
+            </div>
+            <img src="http://js.feiliu.com/static/woqu/images/xsyd/img09.jpg?v=3" alt="" border="0" />
+            <div class="down down03">
+                <div class="down_weixin">
+                    <img src="http://js.feiliu.com/static/woqu/images/xsyd/ts.jpg" alt="" />
+                </div>
+                <div class="down_msg">创建完账号后，玩家就可进入创建角色界面，有人族、妖族、仙族三个种族以及性别供选择。这里种族及性别的选择不会影响到角色的属性，所以尽情选择自己喜欢的卡通人物做主角吧~！</div>
+            </div>
+            <img src="http://js.feiliu.com/static/woqu/images/xsyd/img11.jpg?v=4" alt="" border="0" />
+            <div class="down down04">
+                <div class="down_weixin down_weixin2">
+                    <img src="http://js.feiliu.com/static/woqu/images/xsyd/wk.jpg" alt="" />
+                </div>
+                <div class="down_msg down_msg2">创建完角色后， 您就可以进入《我去西游》的世界了！在这里将可以通过另类的西游剧情体验，来亲身参与到西游神话故事里，同时玩家还可以通过不断收集西游人物、培养人物实力，最终完成西游最强人物的梦想。</div>
+            </div>
+            <img src="http://js.feiliu.com/static/woqu/images/xsyd/img13.jpg?v=5" alt="" border="0" />
+            <div class="down down05">
+                <div class="down_weixin">
+                    <img src="http://js.feiliu.com/static/woqu/images/xsyd/xbl.jpg" alt="" />
+                </div>
+                <div class="down_msg" style="text-align:center;">天降异宝，灵气外泄……三界之中都陷入了混乱无序的状态。唐僧师徒四人在这场混乱的序幕中开始了西行旅途。而神通广大的你，则需要陪伴唐僧师徒同行，但你的责任更为重大：收回一切混乱的因果，揭开这场阴谋幕后的真凶！降妖伏魔，赚钱淘宝，向着三界最强前进吧！</div>
+            </div>
+            <img src="http://js.feiliu.com/static/woqu/images/xsyd/img15.jpg?v=6" alt="" border="0" />
+            <div class="down down06">
+                <div class="down_weixin down_weixin2">
+                    <img src="http://js.feiliu.com/static/woqu/images/xsyd/zbj.jpg?v=32" alt="" />
+                </div>
+                <div class="down_msg down_msg2">各玩法简介：排行榜，夺宝，偷菜，降魔，天王殿，凶兽讨伐，万妖试炼，铁匠铺，化身，翅膀，抽卡，商城。</div>
+            </div>
+            <img src="http://js.feiliu.com/static/woqu/images/xsyd/img17.jpg?v=7" alt="" border="0" />
+            
+			<!--我去西游底部版权公共模板start-->
+						<!--#include virtual="/list/index_woqu_foot.shtml"-->
+			<!--我去西游底部版权公共模板end-->
+			
+        </div>
+    </div>
+<div class="rigt_nav">
+	<!--头部公共导航模板start-->
+		<!--#include virtual="/list/index_right_download.shtml"-->
+	<!--右侧下载部分模板end-->
+</div>
+</body>
+</html>

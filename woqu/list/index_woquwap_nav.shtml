@@ -1,0 +1,18 @@
+<!-- header -->
+<div id="top">
+	<!--<a id="list" class="bt list"></a>
+	 <a href="" class="bt bbs"></a> -->
+	<div id="header">
+		<img src="http://js.feiliu.com/static/woquwap/images/banner.jpg">
+	</div>
+</div>
+
+<!-- menu  -->
+<div id="menu">
+	<ul>
+		<li><a href="http://woqu.feiliu.com/wap/index.php">官网首页</a></li>
+		<li><a href="http://woqu.feiliu.com/list/list_woquwap_zxzx.shtml">最新资讯</a></li>
+		<li><a href="#tswf">特色玩法</a></li>
+		<li><a href="http://woqu.feiliu.com/wap/content.php?i=20396">游戏介绍</a></li>
+	</ul>
+</div>

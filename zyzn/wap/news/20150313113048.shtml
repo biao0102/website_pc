@@ -1,0 +1,57 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">众妖装备强化攻略</div>
+			<div class="news-con">
+				在众妖之怒中，装备可以通过强化来提高属性，从而提高战斗力。不同于常规游戏的装备强化，众妖之怒强化的是装备的部位，而非装备本身！换句话说，强化获得的收益是永久性的，与更换装备无关下，下面就来为大家详细的介绍下众妖之怒装备强化攻略。<br />
+<br />
+<br />
+【开启等级】<br />
+玩家角色达到7级后，开启装备强化功能<br />
+。<br />
+【强化方式】<br />
+主界面—装备—强化，在强化界面下，选择角色/宠物装备，然后再决定强化/一键强化。<br />
+<br />
+<br />
+【强化介绍】<br />
+强化装备并不是强化装备本身，而是强化装备的部位，当装备穿在相应部位时，会自动继承该部位品阶和等级带来的属性加成。<br />
+部位每强化10级可升1阶，最高3阶。每个部位的强化等级不得超过人物等级，比如说，人物18级，则部位至多只能强化到1阶8级。<br />
+众妖之怒装备强化<br />
+【强化材料】<br />
+品阶------强化石&nbsp;<br />
+0阶-------1级强化石<br />
+1阶-------2级强化石<br />
+2阶-------3级强化石<br />
+3阶-------4级强化石<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

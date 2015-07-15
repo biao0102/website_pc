@@ -1,0 +1,30 @@
+<div class="news">
+                                <ul class="news_tab" id="news_tab">
+                                    <li class="btn01"><a href="javascript:;" class="current">热点</a></li>
+                                    <li class="btn02"><a href="javascript:;">新闻</a></li>
+                                    <li class="btn03"><a href="javascript:;">公告</a></li>
+                                    <li class="btn04"><a href="javascript:;">活动</a></li>
+                                    <li class="btn05"><a href="http://gc.feiliu.com/list/list_gcld_news.shtml" class="more">more</a></li>
+                                </ul>
+                                <div class="news_rd"><a href="http://gc.feiliu.com/20141028/22321.shtml" target="_blank">《攻城掠地》手游版第二届跨服争霸赛来袭！</a></div>
+                                
+								<div class="news_panes" id="news_panes">                                  
+									
+									<!--攻城掠地首页栏目热点模板start-->
+										<!--#include virtual="/list/index_col_rd.shtml"-->
+									<!--攻城掠地首页栏目热点模板end-->
+									
+									<!--攻城掠地首页栏目新闻模板start-->
+										<!--#include virtual="/list/index_col_news.shtml"-->
+									<!--攻城掠地首页栏目新闻模板end-->
+									
+									<!--攻城掠地首页栏目公告模板start-->
+										<!--#include virtual="/list/index_col_gg.shtml"-->
+									<!--攻城掠地首页栏目公告模板end-->
+									
+									<!--攻城掠地首页栏目活动模板start-->
+										<!--#include virtual="/list/index_col_hd.shtml"-->
+									<!--攻城掠地首页栏目活动模板end-->
+									
+                                </div>								
+                            </div>

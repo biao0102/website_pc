@@ -1,0 +1,63 @@
+<!--头部公共文件模块开始-->
+	<!--#include virtual="/list/abc_index_topfile.shtml"-->
+<!--头部公共文件模块结束-->
+<body>
+<div class="wrap minwidth rel">
+	<!--公共导航模块开始-->
+		<!--#include virtual="/list/abc_index_nav.shtml"-->
+	<!--公共导航模块结束-->
+	<div class="contain minwidth rel">
+		<div class="con920">
+			<div class="subtop rel">
+				<img src="http://js.feiliu.com/static/abc/web/images/zhu.png" alt="" class="zhu asb">
+			</div>
+			<div class="subline">
+				<div class="newstxt">
+					<div class="infotitle">明星也卖萌！盘点明星与《愤怒的小鸟嘉年华》不为人知的故事</div>
+					<div class="article">《愤怒的小鸟嘉年华》安卓版本已经正式亮相国内各大游戏下载平台。作为一款风靡全球的休闲手游，“小鸟”系列可是在全球超过25亿的下载，忠实粉丝里不乏一些对“小鸟”热衷的明星们。现在，就让我们一起悄悄盘点下明星们与愤怒的小鸟有趣的故事吧！<br />
+<br />
+<br />
+《愤怒的小鸟嘉年华》官网：http://abs.feiliu.com<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141642_28871.jpg" alt="" /><br />
+<br />
+&nbsp; 没想到连英国的威廉王子都是愤怒的小鸟粉丝，最近他还与愤怒的小鸟以及野生动物联盟共同发起了抵制非法野生捕猎交易的行动。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141652_44100.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 新晋人气小鲜肉吴亦凡也是小鸟的忠实粉丝，连参加签售会都带着小鸟。他在香港逛街时还拿起小鸟对着镜头嘟嘴卖萌，问大家他和小鸟像不像。<br />
+&nbsp;<br /><img src="http://i0.feiliu.com/image/20150401/20150401141703_63207.jpg" alt="" /><br />
+<br />
+&nbsp; 《爱情公寓4》里李金铭饰演的美嘉穿着绿猪的卫衣十分抢眼，主角们住的公寓里也摆满了各式各样的小鸟公仔。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141717_71912.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 小天后邓紫棋和她心爱的小鸟一起自拍，模仿“愤怒”的表情还真有几分神似。看来工作之余，抱抱小鸟发泄，是个不错的办法。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141729_75504.jpg" alt="" /><br />
+&nbsp; 李连杰拍戏的休息时候，穿着戏服玩愤怒的小鸟，这个场景看起来怎么那么穿越！真功夫用到玩小鸟上，猪猪一定是吓尿了。<br />
+<br />
+<br />
+&nbsp; 这么多演艺事业极为忙碌的明星们，也许把全部的休息时间都放在“小鸟”身上了吧！《愤怒的小鸟嘉年华》已华丽上线，“唐装春节”、“NBA灌篮”、“超时空马戏团”、“玛雅迷阵”、“樱花季”、“北极探险”、“礼物保卫战（圣诞节）”“整蛊万圣节”等等十几个全球性的节日都将一一呈现，是不是这些明星会更加“忙碌”呢？<br />
+<div>
+	<br />
+</div></div>
+				</div>
+			</div>
+			<div class="subbottom"></div>
+		</div>
+		<!--底部公共模块开始-->
+			<!--#include virtual="/list/abc_index_foot.shtml"-->
+		<!--底部公共模块结束-->
+	</div>
+</div>
+<!--右侧漂浮模块开始-->
+	<!--#include virtual="/list/abc_index_float.shtml"-->
+<!--右侧漂浮模块结束-->
+<!--底部公共js文件模块开始-->
+	<!--#include virtual="/list/abc_index_jsfile.shtml"-->
+<!--底部公共js文件模块结束-->
+</body>
+</html>

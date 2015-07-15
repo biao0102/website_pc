@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">年末活动季第五波--圣诞活动大放送</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-12-24 19:33:18</span>
+																			</div>
+									<div class="w-d">
+										活动一：天天登陆送好礼<br />
+【活动时间】：12月25日-12月28日<br />
+<br />
+【活动区服】：APP正版/IOS越狱 全区全服<br />
+<br />
+【活动形式】：活动期间内每天登陆，即可领取丰厚奖励。<br />
+<br />
+【活动奖励】：元宝66，以及随机材料奖励（有机会获得高级材料哦！）。<br />
+<br />
+【奖励发放】：奖励将以全服补偿的形式进行发放，奖励有效期为24小时。<br />
+<br />
+<br />
+活动二：小充值，大返礼&nbsp;<br />
+【活动时间】：12月25日-12月28日<br />
+<br />
+【活动区服】：APP正版/IOS越狱 全区全服<br />
+<br />
+【活动规则】：每天累计充值满30元，即得价值60元道具礼包。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 每天累计充值满50元，即得价值100元道具礼包。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+【活动奖励】：价值60元道具礼包（包含：二级强化石15个，二级占星灵石15个，二级锻造石11个。）<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 价值100元道具礼包（包含：二级强化石15个，二级占星灵石15个，二级锻造石11个，二级进阶丹20个，二级汗血晶石80个。）<br />
+<br />
+<br />
+【奖励发放】：每位充值玩家每天只能领取一种道具礼包并且只能领取1次。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 次日23:00前发放前一日奖励。例：25日23:00前发放24日奖励，26日23:00前发放25日奖励。奖励将以邮件的方式发放，请届时注意查收邮件。<br />
+<br />
+<br />
+圣诞狂欢活动：宝箱魂玉任务来袭<br />
+【活动时间】：12月25日-12月27日<br />
+<br />
+【活动区服】：APP正版/IOS越狱 全区全服<br />
+<br />
+【活动规则】：活动期间内每天按活动要求完成充值任务，即可于次日领取活动奖励，若每日都满足，则可获得大奖。<br />
+<br />
+【活动奖励】：任务一：12月25日-12月27日，每充值100元，即可获得灵石箱·秘1个。（例：充值600元可获得6个灵石箱·秘。）<br />
+&nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 任务二：12月25日，单日累计充值满200元，额外获得灵石箱·秘*1；<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12月26日，单日累计充值满500元，额外获得灵石箱·秘*1，白银魂玉礼包*2；<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12月27日，单日累计充值满1000元，额外获得灵石箱·秘*3，白银魂玉礼包*2；<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 单日充值任务全部完成，则可获得连续充值大奖，包括黄金魂玉礼包*2，白银魂玉礼包*3，灵石箱·秘*2；<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; （例：玩家在25、26、27号每日分别充值200、500、1000，则最终可获得：灵石箱·秘*24，白银魂玉礼包*6，黄金魂玉礼包*2） <br />
+&nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 任务三：12月25日-12月27日，累计充值满5000,额外获得灵石箱·秘*36，8星魂玉*6；<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; （灵石箱·秘：至少包含10个战魂灵石+5个化羽石，并有很高几率开出更多哦<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 白银魂玉礼包：随机开出6或7星魂玉，有较高几率出现3倍奖励<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 黄金魂玉礼包：随机开出7或8星魂玉，有较高几率出现3倍奖励）<br />
+<br />
+【奖励发放】：每位充值玩家每天只能领取一档奖励并且只能领取1次。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 次日23:00前发放前一日奖励。例：25日23:00前发放24日奖励，26日23:00前发放25日奖励。奖励将以邮件的方式发放，请届时注意查收邮件。<br />
+<br />
+<br />
+<br />
+<span>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组</span><br />
+<span>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2014.12.24</span><br />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

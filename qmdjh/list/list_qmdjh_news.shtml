@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>《全民斗江湖》_新闻列表页</title>
+    <meta name="keywords" content="全民斗江湖，全民斗江湖官网，全民斗江湖下载，全民斗江湖礼包，全民斗江湖攻略，全民斗江湖安卓版，全民斗江湖ios版，全民斗江湖手游" />
+    <meta name="description" content="飞流2014年度收官之作《全民斗江湖》震撼揭幕，相当大侠还是绿林豪杰，全自由化的游戏世界由你做主!作为一款将武侠元素纯正体现的全新卡牌手游，《全民都江湖》精美的画面、数百个风格迥异的大侠、完整的卡牌属性培养机制、丰富的团队策略、紧张而富有节奏的热血死斗、世界BOSS、试练塔活动……" />
+<link href="http://js.feiliu.com/static/qmdjh/css/main.css?v=2" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/qmdjh/js/jquery1.6.4.js"></script>
+</head>
+
+<body class="inner">
+<div class="header">
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img src="http://js.feiliu.com/static/qmdjh/images/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>
+<div class="sec1">
+	<!--首页头部导航模板开始-->	
+		<!--#include virtual="/list/qmdjh_wmwx_nav.shtml"-->
+	<!--首页头部导航模板结束-->
+</div>
+<div class="sec2">
+	<div class="wrap-main main">
+	
+		<!--首页左侧边栏模板开始-->	
+			<!--#include virtual="/list/qmdjh_wmwx_leftbar.shtml"-->
+		<!--首页左侧边栏模板结束-->
+		
+        <div class="content">
+        	<div class="list-header">
+            	<h1>新闻公告</h1>
+                <div class="pos">所在位置：<a href="#">首页</a> >> <a href="#">新闻</a></div>
+            </div>
+            <ul class="article-list">
+				
+									<li><a href="http://qmdjh.feiliu.com/20141217/22745.shtml"><i>·</i> 六大开服活动惊现顶级橙卡</a><span>2014-12-17</span></li>
+									<li><a href="http://qmdjh.feiliu.com/20141217/22744.shtml"><i>·</i>灭武当战少林 《全民斗江湖》全新版本震撼揭幕</a><span>2014-12-17</span></li>
+						
+            </ul>
+            <div class="pager">
+            	<a class="prev" href="#">首页</a>
+                <a class="current" href="#">[1]</a>
+                <a href="#">2</a>
+                <a href="#">3</a>
+                <a href="#">4</a>
+                <a href="#">5</a>
+                <a href="#">6</a>
+                <a class="next"  href="#">末页</a>
+            </div>
+        </div>
+	</div>
+</div>
+<div class="sec3">
+
+	<!--首页底部版权模板开始-->	
+        <!--#include virtual="/list/qmdjh_wmwx_footer.shtml"-->
+	<!--首页底部版权模板结束-->
+	
+</div>
+
+	<!--首页右侧浮动下载框模板开始-->	
+        <!--#include virtual="/list/qmdjh_wmwx_down.shtml"-->
+	<!--首页右侧浮动下载框模板结束-->
+	
+<script type="text/javascript">
+$(function(){
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+});
+</script>
+</body>
+</html>

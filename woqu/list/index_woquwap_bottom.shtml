@@ -1,0 +1,10 @@
+<!-- bottom -->
+<div class="bottom">
+  <div class="bottom_top"><a href="#top"><img src="http://js.feiliu.com/static/woquwap/images/fh_top.jpg" alt=""/></a></div>
+  <p class="bottom_01"></p>
+  <div class="bottom_sm">
+    <p>我去西游－触控板</p>
+    <p>Powered by dsg.feiliu.com  Certificate Copyright ©2011-2013 </p>
+  </div>
+</div>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5743369'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s6.cnzz.com/stat.php%3Fid%3D5743369' type='text/javascript'%3E%3C/script%3E"));</script>

@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">炽热的钢铁杀戮 《战地坦克》全新官网震撼上线</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2015-05-15</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              中国首款坦克军团策略手游《战地坦克》正式上线全新官网，钢铁的灰色与炮火的烈焰交织出无比热血的激昂画面。相较之原有官网，全新官网在整体风格、头图、宣传语、背景、UI界面、功能等等方面做出了颠覆性的改变，焕然一新的《战地坦克》官网无论是从视觉效果还是便利玩家的功能来说，都会让玩家充分领略坦克军团的极致精彩。<br />
+<br />
+<br />
+《战地坦克》游戏官网：http://tk.feiliu.com<br />
+《战地坦克》iOS正版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8<br />
+《战地坦克》iOS越狱版下载：http://js.feiliu.com/ipa/tk/tk_300021.ipa<br />
+<div ><img src="http://i0.feiliu.com/image/20150515/20150515110052_98740.jpg" alt="" /><br />
+【超震撼视觉冲击 钢铁与炮火的年代】<br />
+<br />
+<br />
+&nbsp; 进入《战地坦克》官网，巨大的坦克炮筒直入眼帘，灰色的烟和橙色火星完美彰显出了坦克的强悍，背景中飘飞的浓烟和爆燃的火焰，更是将钢铁战争的惨烈展现到极致。<br />
+配合“装甲集结 炽热杀戮”的宣言，无时无刻不在激发人们的战斗欲望。全新官方整体色调也都采用浓厚的灰黑色，间杂橙色、红色的火焰，进入其中便如置身炮火纷飞的战场<br />
+，震撼的视觉直接带来心灵的冲击。<br /><img src="http://i0.feiliu.com/image/20150515/20150515134517_25173.jpg" alt="" /><br />
+【UI界面整改 舒适的浏览体验】<br />
+<br />
+<br />
+&nbsp; 全新《战地坦克》官方对UI界面进行了颠覆性的调整。首屏置顶增加游戏介绍、游戏资料、VIP贵宾、飞流社区等功能按钮，让玩家可以进入官网便可迅速看到自己需求的内容。在布局方面，全新官网一改旧版本的竖形功能框，改而采用横版的功能框，更加彰显大气和恢弘，<br />
+玩家也可以轻松查找到更多的精彩内容。从视觉体验上的大气到设置上的便捷，全新官网的上线，让玩家的浏览变得更加舒适。<br />
+【全新功能 一键找到所有信息】<br />
+<br />
+在功能方面，新官网在文字信息框中除了原有的新闻、公告、活动三项外，还增加了攻略与新手指南，让新老玩家可以轻松找到最适合自己的信息，帮助自己在游戏中快速成长。而在游戏内容展示方面，新官网根据玩家反馈的建议，将“资源设施”替换为“将领展示”，充分满足玩家了解将领的需求。<br />
+<br />
+《战地坦克》全新官网的上线，在让玩家享受视觉的震撼之外，玩家往往一键点击便可寻找到自己需要的内容，便捷地帮助玩家体验更加精彩的游戏内容，让坦克军团的战争更富激情。<br />
+<br />
+	<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20150515/20150515134614_48768.png" alt=""  /><br />
+	</div>
+&nbsp;&nbsp;<br />
+	<div style="text-align:center;">
+		<span >《战地坦克》游戏官网：http://tk.feiliu.com</span>
+	</div>
+<span >
+	<div style="text-align:center;">
+		<span >《战地坦克》iOS正版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8</span>
+	</div>
+</span><span >
+	<div style="text-align:center;">
+		<span >《战地坦克》iOS越狱版下载：http://js.feiliu.com/ipa/tk/tk_300021.ipa</span><span ></span>
+	</div>
+</span><br />
+	<div >
+		<br />
+	</div>
+<br />
+<br />
+<br />
+</div>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

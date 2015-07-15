@@ -1,0 +1,202 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta  name="keywords" content="飞流游戏,飞流手机游戏,iOS 游戏,Android 游戏">
+<meta name="description" content="飞流游戏,飞流手机游戏,iOS 游戏,Android 游戏">
+<title>我爱皮卡丘</title>
+<link rel="stylesheet" type="text/css" href="/web/css/css.css">
+</head>
+<body>
+<div class="nav">
+    <div class="wrap pos_r">
+        <div class="logo"><a href="index.html"></a></div>
+        <div class="nav_top">
+            <span><img src="/web/images/icon_1.jpg" alt="" /></span>
+            <a href="/web/list/index.shtml" target="_blank" class="line">首页</a>
+            <span><img src="/web/images/icon_2.jpg" alt="" /></span>
+            <a href="/web/list/lists.shtml" target="_blank" class="line">游戏攻略</a>
+            <span><img src="/web/images/icon_3.jpg" alt="" /></span>
+            <a href="/web/list/petlists.shtml" target="_blank" class="line">宠物图鉴</a>
+            <span><img src="/web/images/icon_4.jpg" alt="" /></span>
+            <a href="javascript:;" target="_blank">论坛</a>
+        </div>
+    </div>
+</div>
+<div class="bg">
+<div class="wrap">
+    <div class="top1"></div>
+    <div class="top2">
+	<div class="top_d">
+	<a href="" target="_blank"><img src="/web/images/btn1.jpg" alt="" /></a><a href="" target="_blank"><img src="/web/images/btn2.jpg" alt="" /></a>
+	</div>
+	<div class="top_d"><img src="/web/images/code.jpg" alt="" /></div>
+</div>
+    <div class="mainbg">
+        <div class="cscenter_l">
+            <div class="cs_title"><span></span>客服信息</div>
+            <p>客服QQ：46552323</p>
+            <p>客服邮箱：46544654@163.com</p>
+            <p>客服电话：400-562-7891</p>
+        </div>
+        <div class="content">
+            <div class="subtitle">我爱皮卡丘 ＞ 资讯列表</div>
+            <ul id="lists">
+                <li><span>05/20</span><a href="" target="_blank">《我爱皮卡丘》手游2015年5月13日维护公告 </a></li>
+            </ul>
+            <div style="clear:both"></div>
+            <div class="listpage">
+				<div class="page" id="page"></div>
+			</div>
+            
+        </div>
+
+  
+    </div>
+</div>
+    <div style="clear:both"></div>
+</div>
+
+<div class="bot_bg">
+    <div class="bottom">
+    </div>
+</div>
+<script type="text/javascript" src="/web/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/web/js/mainscroll.js"></script><!--幻灯---->
+<script type="text/javascript" src="/web/js/jquery.scrollbox.js"></script><!--媒体---->
+<script type="text/javascript">
+//幻灯滚动效果
+if(document.getElementById("slide_01")){
+	var slide_01 = new ScrollPic();
+	slide_01.scrollContId   = "slide_01"; //内容容器ID
+	slide_01.dotListId      = "slide_01_dot";//点列表ID
+	slide_01.dotOnClassName = "selected";
+	slide_01.arrLeftId      = "sl_left"; //左箭头ID
+	slide_01.arrRightId     = "sl_right";//右箭头ID
+	slide_01.frameWidth     = 570;
+	slide_01.pageWidth      = 315;
+	slide_01.upright        = false;
+	slide_01.speed          = 5;
+	slide_01.space          = 30; 
+	slide_01.initialize(); //初始化
+}
+
+//新闻切换
+var subNav=$(".title_bg .t1");
+var showList=$(".news .cont");
+function delClass(){
+	for(var i=0; i<subNav.length; i++){
+		subNav.eq(i).removeClass("select");
+	}
+}
+function hideList(){
+	for(var i=0; i<showList.length; i++){
+		showList.eq(i).hide();
+	}
+}
+$.each(subNav,function(index){
+	$(this).mouseover(function(){
+		delClass();
+		$(this).addClass("select");
+		hideList()
+		showList.eq(index).show();
+		})
+})
+
+//合作媒体
+$('#media').scrollbox({
+  direction: 'h',
+  switchItems: 4,
+  distance: 644
+});
+
+</script>
+</body>
+<script>
+$(document).ready(function(){
+	var param = new Object();
+	param = getArgs();
+
+	var t = parseInt(param.t);
+	if(t != 7){
+		t = '2,3,4';
+	}
+
+	getlist(t,1);
+	
+	$("#page").on("click","a",function(e){
+        e.preventDefault();
+        page = $(this).attr('data-val');
+        if (page == '-1') return false;
+        getlist(t,page);
+    });
+});
+function getlist(type,page)
+{
+	$.ajax({
+		type : 'GET',
+		url : 'http://gameapi.feiliu.com/game/getlist',
+		dataType : 'jsonp',
+		data : {'gameid':'10008','type':type,'page':page,'num':20,'showpage':5},
+		success : function(data)
+		{
+			if(data.data)
+			{
+				var listhtml = '';
+				$.each(data.data,function(k,v) {
+					var timeArr = v.time.split(" ")[0].split("-");
+					if(v.outlink)
+					{
+						v.url = v.outlink;	
+					}
+					var domain= 'www.pokemon3d.cn';
+					if(location.host == domain)
+					{
+						v.url = v.url.replace('http://pkq.feiliu.com','http://'+domain)
+					}
+
+					listhtml += '<li><span>'+ timeArr[1] + '/' + timeArr[2] +'</span><a href="' + v.url + '">' + v.title  + '</a></li>';
+				}); 
+				$('#lists').html(listhtml);  
+			}
+			$('#page').html('');
+			if(data.page && data.page.totalpage > 1)
+			{
+				var pagehtml = '<a href="" data-val="1">首页</a><a href="javascript:void(0);" data-val="'+data.page.prev+'">上一页</a>';
+				$.each(data.page.num,function(k,v) {
+					if(v == '-1')
+					{
+					   pagehtml += '<a href="javascript:void(0);" data-val="'+v+'" class="disable">'+k+'</a>'; 
+					} else {
+					   pagehtml += '<a href="javascript:void(0);" data-val="'+v+'">'+k+'</a>';
+					}
+				}); 
+				pagehtml += '<a href="javascript:void(0);" data-val="'+data.page.next+'">下一页</a><a href="javascript:void(0);" data-val="'+data.page.totalpage+'">尾页</a>';
+				$('#page').html(pagehtml); 
+			}
+		}
+	});
+}
+
+function getArgs()
+{
+	var argsArr = new Object();
+	var query = window.location.search;  
+	query = query.substring(1);
+	var pairs = query.split("&");
+	for(var i=0;i<pairs.length;i++)
+	{
+		var sign = pairs[i].indexOf("="); 
+		if(sign == -1)
+		{
+			continue; 
+		}
+		var aKey = pairs[i].substring(0,sign);
+		var aValue = pairs[i].substring(sign+1);       	 
+		argsArr[aKey] = unescape(aValue);
+
+	}
+	return argsArr;
+}
+</script>
+</html>

@@ -1,0 +1,89 @@
+<!--
+<style type="text/css">
+    /*.get-gift{ width: 178px; height: 321px; background: url(http://js.feiliu.com/static/zyzn/images/getgift.png) no-repeat; position: absolute; right: 30px; top: 600px; z-index: 999;}*/
+    .float-bar{ width: 178px; height: 321px; background: url(http://js.feiliu.com/static/zyzn/images/getgift.png) no-repeat; margin-left: 460px;}
+    #mobi{ width: 134px; padding-left: 10px; height: 24px; line-height: 24px; font-size: 16px; margin: 128px 10px 0 17px; border: none; background: none; }
+    #myform{ width: 142px; margin-top: 34px; padding-left: 28px; display: block; }
+    #myform input{ width: 12px; margin-right: 26px; display: inline-block; cursor: pointer;}
+    #btn-gift{ width: 154px; height: 51px; margin: 3px 0 0 13px; background: none; border: none; cursor: pointer;}
+</style>
+<div class="float-bar">
+    <input type="text" id="mobi" />
+    <form name="myform" id="myform" > 
+        <input type="radio" name="plat" value="1" checked="checked">
+        <input type="radio" name="plat" value="3" >
+        <input type="radio" name="plat" value="2" >
+    </form>
+    <input type="submit" id="btn-gift" value="" />
+</div>
+<script>
+        var mobile = $.trim($("#mobi").val()),
+            mobitip = '请输入预约手机号',
+            type = $("input[name=plat]:checked").val();
+        $("#mobi").bind('focus', function(){
+            var val = $.trim($(this).val());
+            if(val == mobitip){
+                $(this).val("");
+            }else{
+                $(this).val(val);               
+            }
+        });
+        $("#btn-gift").bind("click", function(){
+            mobile = $.trim($("#mobi").val()),
+            type = $('input[name="plat"]:checked').val();
+            if(!mobile || mobile == mobitip){
+                alert("手机号码不能为空");
+                return false;
+            }else if(!/^(13[0-9]|1[4578][0-9])\d{8}$/i.test(mobile)){
+                alert("手机号码格式错误，请重新输入");
+                return false;
+            }
+            if(!type){
+                alert("请选择平台（ios正版/安卓/越狱版）！");
+                return false;
+            }
+            $.ajax({
+                type : 'GET',
+                url : 'http://act.feiliu.com/zyzn/gift/subscribe/',
+                dataType : 'jsonp',
+                data : {"mobile" : mobile, "type" : type},
+                success : function(data){
+                    if(data.status != 'undefined'){
+                        alert(data.chars);
+                    }
+                }
+            });         
+        });
+
+</script>
+-->
+<!--
+<div class="float-bar">
+	<div class="qrcode">
+		<img src="http://js.feiliu.com/qrcode/zyzn/yy_300021_100.png?v=1" />
+        <span>扫描下载越狱版</span>
+    </div>
+    <a class="float-yxbj" href="#yxbj"></a>
+    <a class="float-zjjs" href="#zjjs"></a>
+    <a class="float-yxts" href="#yxts"></a>
+    <a class="float-top" href="#top"></a>
+</div>
+<script type="text/javascript">
+$(function () {
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+});
+</script>
+-->

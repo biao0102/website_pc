@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网 资料页</title>
+    <meta name="keywords" content="三国战神，三国战神官网， 三国战神下载，三国战神礼包，三国战神攻略，三国战神安卓版， 三国战神ios版，三国战神手游" />
+    <meta name="description" content="《三国战神》基于U3D引擎开发，是一款真3D硬派PK网游，以大众熟知的三国题材为背景，通过国际化顶级标准的唯美中国风游戏画面，华丽的全屏3D绝技，随意变身三国名将“战魂”系统等特色，将每一个参与游戏的玩家深深带入其中，尤其对于曾经的剑侠、传奇、征途类游戏玩家来说，将深刻感受到相识的酷爽感觉。对于没有太多时间的端游老玩家来说，绝对能勾起美好的回忆，倍感惬意" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_list.css?v=422">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+  <div id="content">
+    <div class="cnt-box">
+      <div class="cnt-inner">
+        <h1 class="ctn-title">游戏资料</h1>
+        <div class="curLocation"> 你的位置：<a href="#" target="_blank" class="tohome">首页</a>><span>游戏资料</span> </div>
+        <div class="nrarea">
+          <h2 class="js-title mt10">职业介绍</h2>
+          <div class="mt10" id="zyjs">
+            <nav class="tabMenu">
+              <ul>
+               <li class="slp cur"><a href="javascript:;">豪杰</a></li>
+                                    <li class="slp"><a href="javascript:;">天机</a></li>
+                                     <li class="slp"><a href="javascript:;">月翎</a></li>	
+              </ul>
+            </nav>
+            <div class="tabContent clearfix" style="display:block;"> <img src="http://js.feiliu.com/static/zs/images/gbg/gbg1.jpg" class="pdes-img">
+				<div class="pdes"> <a class="pdes-more">查看详情>></a>
+					<p class="jianjie">吾等受火神祝融真传，上有定天之灵，下有维地之力，欲立吾等面前者，其必成天地之负受众生之苦，天火焚身，万念俱灰。</p>
+					<ul>
+						<li><b>职业特色：</b>防高、血厚，近程群攻</li>
+						<li><b>擅长兵器：</b>战戟</li>
+						<li><b>操作难度：</b><div class="nandu">★★★★☆</div></li>
+					</ul>
+				</div>
+            </div>
+            <div class="tabContent">
+<img src="http://js.feiliu.com/static/zs/images/gbg/gbg2.jpg?v=2" class="pdes-img">
+				<div class="pdes"> <a class="pdes-more">查看详情>></a>
+					<p class="jianjie">雷神之力为我所用，万物之灵为我所控，凭一己之思，敌千军万马，观阴阳善恶，断灾福生死，杀人于无形，弑灵于六道。</p>
+					<ul>
+						<li><b>职业特色：</b>高攻、高暴，远程群攻</li>
+						<li><b>擅长兵器：</b>羽扇</li>
+						<li><b>操作难度：</b><div class="nandu">★★★★☆</div></li>
+					</ul>
+				</div>
+            </div>
+            <div class="tabContent">
+<img src="http://js.feiliu.com/static/zs/images/gbg/gbg3.jpg?v=2" class="pdes-img">
+				<div class="pdes"> <a class="pdes-more">查看详情>></a>
+					<p class="jianjie">飞沙走石堪比千军，跋山涉水如履平地，我等风伯弟子虽无鼎负天地之神力，却可身姿轻灵御风而行，百步之外制敌非命，悠哉快哉。</p>
+					<ul>
+						<li><b>职业特色：</b>高闪、高血，远程点射</li>
+						<li><b>擅长兵器：</b>灵弓</li>
+						<li><b>操作难度：</b><div class="nandu">★★★★☆</div></li>
+					</ul>
+				</div>
+            </div>
+          </div>
+		<!--资料页系统资料模板开始-->
+			<!--#include virtual="/list/zl_zs_xtzl.shtml"-->
+		<!--资料页系统资料模板结束-->
+        </div>
+      </div>
+    </div>
+    <div class="cnt-zsr"></div>
+  </div>
+	<!--列表页侧边栏模板开始-->
+		<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+	<!--列表页侧边栏模板结束-->
+	<!--公共底部开始--> 	
+		<!--#include virtual="/list/index_zs_footer.shtml"-->
+	<!--公共底部结束-->
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+<script>
+$(".nrarea").tabMenu({tabMenuBox:".tabMenu",tabMenuSub:".slp",tabCtnSub:".tabContent",tabMenuCur:"cur",switchingMode:"click"});
+</script>
+</body>
+</html>

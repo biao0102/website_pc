@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网 礼包领取</title>
+    <meta name="keywords" content="三国战神，三国战神官网， 三国战神下载，三国战神礼包，三国战神攻略，三国战神安卓版， 三国战神ios版，三国战神手游" />
+    <meta name="description" content="《三国战神》基于U3D引擎开发，是一款真3D硬派PK网游，以大众熟知的三国题材为背景，通过国际化顶级标准的唯美中国风游戏画面，华丽的全屏3D绝技，随意变身三国名将“战魂”系统等特色，将每一个参与游戏的玩家深深带入其中，尤其对于曾经的剑侠、传奇、征途类游戏玩家来说，将深刻感受到相识的酷爽感觉。对于没有太多时间的端游老玩家来说，绝对能勾起美好的回忆，倍感惬意" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/daoda.css">
+
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time","section"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div id="fix">
+	<div class="wx">
+    	<img src="http://js.feiliu.com/static/zs/images/gbg/gbgwx.jpg">
+        <span>微信号:121212121</span>
+    </div>
+    <ul class="wj">
+    	<li>
+        	<b>玩家QQ群</b><br>
+            <span>122312121212</span>
+            
+        </li>
+        <li>
+        	<b>玩家QQ群</b><br>
+            <span>122312121212</span>
+            
+        </li>
+        <li>
+        	<b>玩家QQ群</b><br>
+            <span>122312121212</span>
+            
+        </li>
+    </ul>
+    <div class="weibo">
+    	<a href="#"><img src="http://js.feiliu.com/static/zs/images/wb_sinna.jpg"></a>
+        <a href="#"><img src="http://js.feiliu.com/static/zs/images/weibo_tx.jpg"></a>
+    </div>
+</div>
+
+
+<div class="warp">
+  <div class="showbg clearfix"> 
+  <img src="http://js.feiliu.com/static/zs/images/daoda_imgbg_01.jpg">
+   <img src="http://js.feiliu.com/static/zs/images/daoda_imgbg_02.jpg">
+    <img src="http://js.feiliu.com/static/zs/images/daoda_imgbg_03.jpg">
+     <img src="http://js.feiliu.com/static/zs/images/daoda_imgbg_04.jpg">
+     <img src="http://js.feiliu.com/static/zs/images/dd_return.jpg" usemap="#Map">
+     <map name="Map">
+       <area shape="rect" coords="421,37,579,87" href="#">
+     </map>
+  </div>
+ <div id="ddVideo">
+ 	<div class="vdbox">
+    	<img src="http://js.feiliu.com/static/zs/images/gbg/gbg-video.jpg">
+    </div>
+    <p class="vcontact">公共账号：XXXXXXXX 或扫描二维码添加关注    QQ：800032234    邮箱：800032234@qq.com    官方QQ群:3群：(1111111111)   2群：(2222222222) 满</p>
+ </div>
+ <div id="ddDownload">
+ 	<a href="#" class="dwdbtn-ios"></a>
+    <a href="#" class="dwdbtn-yueyu"></a>
+    <div class="dwd-ewm eios"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg9.jpg"></div>
+    <div class="dwd-ewm efyueyu"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg9.jpg"></div>
+ </div>
+ <div id="ddZhiye">
+ 	<div class="tabmenu">
+    	<div class="tb-hj">
+        	<a href="javascript:;" title="豪杰"></a>
+            <a href="javascript:;" title="天机"></a>
+            <a href="javascript:;" title="月灵"></a>
+        </div>
+    </div>
+    <div style="display:block;" class="tabContent clearfix"> <img class="pdes-img" src="http://js.feiliu.com/static/zs/images/zhdw_haojie.jpg">
+              <div class="pdes"> <a class="pdes-more">查看详情>></a>
+                <p class="jianjie">吾等受火神祝融真传，上有定天之灵，下有维地之力，欲立吾等面前者，其必成天地之负受众生之苦，天火焚身，万念俱灰。</p>
+                <ul>
+                  <li><b>职业特色：</b>这个职业很厉害怎么厉害呢。。。</li>
+                  <li><b>擅长兵器：</b>哎呦呦哎呦呦哎呦呦哎呦呦</li>
+                  <li><b>操作难度：</b>
+                    <div class="nandu">★★★★☆</div>
+                  </li>
+                </ul>
+              </div>
+     </div>
+     <div class="tabContent clearfix">
+     
+     	<h1>天机</h1>
+     </div>
+      <div class="tabContent clearfix">
+     
+     	<h1>月灵</h1>
+     </div>
+ </div>
+
+</div>
+
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/ie6fixed.js"></script>
+<script>
+	var ie6Fixed = FL.util.ie6Fixed;
+	ie6Fixed.fixed($(".fix"), "lt");
+	$(function(){
+		var narr=["tb-hj","tb-tj","tb-yl"];	
+		$('.tabmenu a').bind('click',function(){
+			var cur=$(this);
+			var index=cur.index();
+			var nbox=cur.parent();
+			var ctns=$('.tabContent');
+			ctns.eq(index).show().siblings('.tabContent').hide();
+			newClass=narr[index];
+			nbox.attr('class',newClass);
+		});
+	})
+</script>
+</body>
+</html>

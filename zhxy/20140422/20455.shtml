@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="《战魂西游》官方网站" />
+    <meta name="description" content="《战魂西游》官方网站" />
+    <title>《战魂西游》官方网站</title>
+    <link href="http://js.feiliu.com/static/zhxy/style/newsc.css?id=451120" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+	<div id="wrap" class="wrap">
+		<div class="inner">
+			<div class="content" >
+				<div class="nav">
+					<!--#include virtual="/list/index_nav_zhxy.shtml"-->
+				</div>
+				<img src="http://js.feiliu.com/static/zhxy/images/news/img01.jpg" alt="" />
+				<div class="main main_bg" style="clear:both;">
+					<div class="down">
+						<!--<a href="#">IOS版下载</a><a href="#">越狱版下载</a><a href="#">安卓版下载</a>-->
+						<!--#include virtual="/list/index_download_zhxy.shtml"-->
+					</div>
+					<div class="main_l" style="clear:both;">
+						<div class="main_lt">
+							<a href="http://zhxy.feiliu.com/20140421/20415.shtml" target="_blank" class="btn04" id="btn04">游戏介绍</a>
+							<a href="http://zhxy.feiliu.com/20140422/20450.shtml" target="_blank" class="btn06" id="btn06">游戏特色</a>
+							<a href="http://bbs.8783.com/forum-90-1.html" target="_blank"  class="btn05" id="btn05">游戏论坛</a>
+
+						</div>
+						<div class="main_lb">
+							<p>官网交流群：234643062</p>
+							<p>客服QQ：800032234</p>
+							<p>邮箱：800032234@b.qq.com</p>
+						</div>
+					</div>
+					<div class="news">
+						<div class="news_title">首次封测 劲爆活动</div>
+						
+						<div class="news_content" style="clear:both;">
+							 <p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<span>2014</span>年<span>04</span>月<span>23</span>日<span> - 2014</span>年<span>05</span>月<span>03</span>日<span></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】：活动期间，每日登录游戏，即可领取对应豪华大礼！
+</p>
+<p class="MsoNormal">
+	【活动奖励】：<span></span>
+</p>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border:none;">
+	<tbody>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >登录条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >奖励内容<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >04</span><span >月<span>23</span>日<span></span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >铜钱<span>*18888</span>；灵石<span>*10</span>；复活石<span>*5</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >04</span><span >月<span>24</span>日<span></span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >铜钱<span>*28888</span>；<b><span >金刚钻<span>*3</span>；玄铁<span>*5</span></span></b><span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >04</span><span >月<span>25</span>日<span></span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >1</span><span >级宝石箱<span>*5</span>；星力<span>*30000</span>；灵石<span>*20</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >04</span><span >月<span>26</span>日<span></span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >小符文经验<span>*5</span>；符箓卷轴<span>*2</span>；星力<span>*30000</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >04</span><span >月<span>27</span>日<span></span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >符箓卷轴<span>*3</span>；玄铁<span>*10</span>；太一元符<span>*5<span ></span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >04</span><span >月<span>28</span>日<span></span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<b><span >玄铁<span>*15</span>；朱砂笔<span>*5</span>；混沌元符<span>*3</span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >04</span><span >月<span>29</span>日<span></span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >灵石<span>*50</span>；星石<span>*50000</span>；<span>3</span>级宝石箱<span>*1</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >04</span><span >月<span>30</span>日<span></span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<b><span >4</span></b><b><span >级宝石箱<span>*3</span>；<span>3</span>级宝石箱<span>*1</span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >05</span><span >月<span>01</span>日<span></span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >铜钱<span>*58888</span>；灵石<span>*30</span>；玄铁<span>*15</span>；星石<span>*50000</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >05</span><span >月<span>02</span>日<span></span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >铜钱<span>*58888</span>；灵石<span>*30</span>；玄铁<span>*15</span>；星石<span>*50000<b></b></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >05</span><span >月<span>03</span>日<span></span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >铜钱<span>*58888</span>；灵石<span>*30</span>；玄铁<span>*15</span>；星石<span>*50000</span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	【温馨提示】：<span></span>
+</p>
+<p class="MsoNormal">
+	1.每日登录游戏，即可在【精彩活动】面板中领取相应奖励。<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<b>二、累计登录，大奖任拿<span></span></b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<span>2014</span>年<span>04</span>月<span>23</span>日<span> - 2014</span>年<span>05</span>月<span>03</span>日<span></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】：活动期间，连续登录游戏，即有海量元宝任你拿！
+</p>
+<p class="MsoNormal">
+	【活动奖励】：<span></span>
+</p>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border:none;">
+	<tbody>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >活动条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="175" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >奖励内容<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计登录<span>1</span>天<span></span></span>
+				</p>
+			</td>
+			<td width="175" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*108</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计登录<span>2</span>天<span></span></span>
+				</p>
+			</td>
+			<td width="175" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*188</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计登录<span>3</span>天<span></span></span>
+				</p>
+			</td>
+			<td width="175" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*208</span>；玄铁<span>*30</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计登录<span>4</span>天<span></span></span>
+				</p>
+			</td>
+			<td width="175" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*288</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计登录<span>5</span>天<span></span></span>
+				</p>
+			</td>
+			<td width="175" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*308</span>；玄铁<span>*50</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计登录<span>6</span>天<b><span></span></b></span>
+				</p>
+			</td>
+			<td width="175" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*388</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计登录<span>7</span>天<span></span></span>
+				</p>
+			</td>
+			<td width="175" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*588</span>；玄铁<span>*50</span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	【温馨提示】：<span></span>
+</p>
+<p class="MsoNormal">
+	1.每天登录游戏计为<span>1</span>次有效登录，最高累计<span>7</span>天获取最终大礼。<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<b>三、冲级达人，全民有奖</b><b></b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<span>2014</span>年<span>04</span>月<span>23</span>日<span> - 2014</span>年<span>05</span>月<span>03</span>日<span></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】：<span></span>
+</p>
+<p class="MsoNormal">
+	1.活动期间，玩家达到一定等级即可领取对应奖励。<span></span>
+</p>
+<p class="MsoNormal">
+	2.另截止<span>05</span>月<span>03</span>日<span>24</span>点，等级排名前<span>10</span>玩家更可获得游戏下次内测特殊大礼！<span></span>
+</p>
+<p class="MsoNormal">
+	【活动奖励】：<span></span>
+</p>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border:none;">
+	<tbody>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >活动条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="411" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >奖励内容<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >等级达到<span>20</span>级<span></span></span>
+				</p>
+			</td>
+			<td width="411" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >灵石<span>*20</span>；铜钱<span>*18888</span>；星石<span>*8888</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >等级达到<span>30</span>级<span></span></span>
+				</p>
+			</td>
+			<td width="411" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >灵石<span>*30</span>；<span>3</span>级宝石<span>*4</span>；星石<span>*18888</span>；<span>VIP</span>积分<span>*100</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >等级达到<span>35</span>级<span></span></span>
+				</p>
+			</td>
+			<td width="411" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >符箓（圣武·净衣）；小符箓经验<span>*10</span>；<span>VIP</span>积分<span>*400</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >等级达到<span>40</span>级<span></span></span>
+				</p>
+			</td>
+			<td width="411" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >铭文·灵；铭文·心；铭文·法；<span>VIP</span>积分<span>*500</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >等级达到<span>50</span>级<span></span></span>
+				</p>
+			</td>
+			<td width="411" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*3680</span>；<span>50</span>级橙色武器一件（三职业）；<span>VIP</span>积分<span>*4000</span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border:none;">
+	<tbody>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >活动条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >奖励内容<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >排名第<span>1</span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >4</span><span >级宝石箱<span>*1</span>；星石<span>*50000</span>；<b><span >称号：冲级王</span></b><span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >排名<span>2-3</span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >4</span><span >级宝石箱<span>*1</span>；星石<span>*30000</span>；<b><span >称号：冲级达人</span></b><span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >排名<span>4-6</span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >3</span><span >级宝石箱<span>*2</span>；星石<span>*20000</span>；<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >排名<span>7-10</span></span>
+				</p>
+			</td>
+			<td width="319" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >2</span><span >级宝石箱<span>*2</span>；星石<span>*15000</span>；<span></span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	【温馨提示】：<span></span>
+</p>
+<p class="MsoNormal">
+	1.玩家等级达成条件，即可在【精彩活动】面板中领取相应奖励。<span></span>
+</p>
+<p class="MsoNormal">
+	2.最终等级排名前<span>10</span>玩家，将在官网和论坛公布名单。<span></span>
+</p>
+<p class="MsoNormal">
+	3.称号只能在下次游戏开启中发放和使用<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<b>四、竞技王者，勇争第一</b><b></b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<span>2014</span>年<span>04</span>月<span>23</span>日<span> -2014</span>年<span>04</span>月<span>29</span>日<span></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】：截止<span>04</span>月<span>29</span>日<span>24</span>点，登天路排名前<span>10</span>玩家更可获得游戏下次内测特殊大礼以及<b>绝版称号！<span></span></b>
+</p>
+<p class="MsoNormal">
+	【活动奖励】：<span></span>
+</p>
+<p class="MsoNormal">
+	截止<span>04</span>月<span>29</span>日<span>24</span>点：<span></span>
+</p>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border:none;">
+	<tbody>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >活动条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="234" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >奖励内容<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >排名第<span>1</span></span>
+				</p>
+			</td>
+			<td width="234" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*1688</span>；<b><span >称号：天路至尊</span></b><span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >排名<span>2-3</span></span>
+				</p>
+			</td>
+			<td width="234" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*998</span>；<b><span >称号：天路王者</span></b><span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >排名<span>4-10</span></span>
+				</p>
+			</td>
+			<td width="234" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*688</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >排名<span>11-21</span></span>
+				</p>
+			</td>
+			<td width="234" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*588</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >排名<span>21-50</span></span>
+				</p>
+			</td>
+			<td width="234" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*388</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >排名<span>51-100</span></span>
+				</p>
+			</td>
+			<td width="234" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*188</span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	【温馨提示】：<span></span>
+</p>
+<p class="MsoNormal">
+	1.登天路排名奖励，系统将自动发放。<span></span>
+</p>
+<p class="MsoNormal">
+	2.截止<span>04</span>月<span>29</span>日<span>24</span>点最终登天路排名前<span>3</span>玩家，将在官网和论坛公布名单<span></span>
+</p>
+<p class="MsoNormal">
+	3.称号只能在下次游戏开启中发放和使用<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<b>五．大声说建议 好礼疯狂送（问题收集反馈）</b><b></b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<span>2014</span>年<span>04</span>月<span>23</span>日<span> - 2014</span>年<span>05</span>月<span>03</span>日<span></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】：活动期间，在游戏内或论坛提交相应的建议与<span>BUG</span>，一旦建议被采纳，<span>BUG</span>被验证有效即可获得丰厚奖励<span></span>
+</p>
+<p class="MsoNormal">
+	【活动奖励】：<span></span>
+</p>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border:none;">
+	<tbody>
+		<tr>
+			<td width="212" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<b><span >提交建议获奖条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="210" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<b><span >获得奖励<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="212" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<span >提交有效建议数量前<span>2</span>名<span></span></span>
+				</p>
+			</td>
+			<td width="210" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<b><span >称号：建议达人</span></b><span >、元宝<span>*500</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="212" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<span >每条成功被采纳的建议<span></span></span>
+				</p>
+			</td>
+			<td width="210" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<span >元宝<span>*100</span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border:none;">
+	<tbody>
+		<tr>
+			<td width="212" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<b><span >反馈<span>BUG</span>获奖条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="210" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<b><span >获得奖励<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="212" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<span >提交有效<span>BUG</span>数量前<span>2</span>名<span></span></span>
+				</p>
+			</td>
+			<td width="210" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<b><span >称号：找茬好手</span></b><span >、元宝<span>*500</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="212" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<span >每条成功被验证的有效<span>BUG</span></span>
+				</p>
+			</td>
+			<td width="210" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal">
+					<span >元宝<span>*100</span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	【温馨提示】：<span></span>
+</p>
+<p class="MsoNormal">
+	1.建议与<span>BUG</span>工作人员将每天审核，审核一旦通过，奖励将通过邮件发送给玩家<span></span>
+</p>
+<p class="MsoNormal">
+	2.在论坛提交建议或<span>BUG</span>的玩家，请留下您的角色名，否则无法发放奖励哦<span></span>
+</p>
+<p class="MsoNormal">
+	3.获奖的最终名单将在官网和论坛公布<span></span>
+</p>
+<p class="MsoNormal">
+	4.提交建议和<span>BUG</span>前两名的奖励将在内测时发放<span></span>
+</p>
+<p class="MsoNormal">
+	5.称号只能在下次内测时使用<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;<br />
+<b >六．Q群畅聊，送新手礼包</b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<span>2014</span>年<span>04</span>月<span>23</span>日<span> - 2014</span>年<span>05</span>月<span>03</span>日<span></span>
+</p>
+<p class="MsoNormal">
+	【活动奖励】<b>：</b>凡加入官方<span>Q</span>群联系群主：（烦请填写）的玩家，即可获得一份【新手礼包】兑换码一个；<span></span>
+</p>
+<p class="MsoNormal">
+	【礼包内容】<b>：</b>铜钱<span>*66666</span>；星石<span>*5888</span>；强化石<span>*18</span><span></span>
+</p>
+<p class="MsoNormal">
+	<b>&nbsp;<br />
+</b><b >七、在线好礼，奖励多多</b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<span>2014</span>年<span>04</span>月<span>23</span>日<span> - 2014</span>年<span>05</span>月<span>03</span>日<span></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】：活动期间，每个玩家每日游戏在线到达特定时长，即可在游戏主界面领取丰厚奖励，大量好礼免费领取！<span></span>
+</p>
+<table class="MsoNormalTable ke-zeroborder" border="0" cellspacing="0" cellpadding="0" width="330">
+	<tbody>
+		<tr>
+			<td width="148" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >活动条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="182" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >活动奖励<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="148" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >持续在线<span>2</span>分钟<span></span></span>
+				</p>
+			</td>
+			<td width="182" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >星石<span>*500</span>、铜钱<span>*8888</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="148" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >继续在线<span>3</span>分钟<span></span></span>
+				</p>
+			</td>
+			<td width="182" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >灵石<span>*5</span>、铜钱<span>*8888</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="148" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >继续在线<span>13</span>分钟<span></span></span>
+				</p>
+			</td>
+			<td width="182" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >复活石<span>*5</span>、铜钱<span>*8888</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="148" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >继续在线<span>15</span>分钟<span></span></span>
+				</p>
+			</td>
+			<td width="182" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >大喇叭<span>*5</span>、铜钱<span>*8888</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="148" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >继续在线<span>15</span>分钟<span></span></span>
+				</p>
+			</td>
+			<td width="182" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >金刚钻<span>*1</span>、铜钱<span>*8888</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="148" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >继续在线<span>15</span>分钟<span></span></span>
+				</p>
+			</td>
+			<td width="182" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >符箓卷轴、<span>1</span>级宝石箱<span></span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	<b ><br />
+八．在线抽奖赢元宝</b>
+</p>
+<p class="MsoNormal">
+	<b></b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<span>2014</span>年<span>04</span>月<span>23</span>日<span> - 2014</span>年<span>04</span>月<span>30</span>日<span></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】：活动期间，每天<span>21</span>：<span>00 </span>将进行抽奖活动，届时会从所有在线的玩家中抽出<span>6</span>名幸运儿，海量元宝每日送出！<span></span>
+</p>
+<table class="MsoNormalTable ke-zeroborder" border="0" cellspacing="0" cellpadding="0" width="319" style="width:191.65pt;">
+	<tbody>
+		<tr>
+			<td width="98" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >奖励档位<span></span></span></b>
+				</p>
+			</td>
+			<td width="103" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >奖励人数<span></span></span></b>
+				</p>
+			</td>
+			<td width="118" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >领取奖励<span></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="98" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >一等奖<span></span></span>
+				</p>
+			</td>
+			<td width="103" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >1</span><span >名<span></span></span>
+				</p>
+			</td>
+			<td width="118" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >元宝<span>*500</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="98" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >二等奖<span></span></span>
+				</p>
+			</td>
+			<td width="103" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >2</span><span >名<span></span></span>
+				</p>
+			</td>
+			<td width="118" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >元宝<span>*300</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="98" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >三等奖<span></span></span>
+				</p>
+			</td>
+			<td width="103" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >3</span><span >名<span></span></span>
+				</p>
+			</td>
+			<td width="118" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >元宝<span>*200</span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	<b>&nbsp;</b>
+</p>
+<p class="MsoNormal">
+	<b>九．准点签到赢大礼</b><b></b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<span>2014</span>年<span>04</span>月<span>23</span>日<span> - 2014</span>年<span>04</span>月<span>30</span>日<span></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】：活动期间，每日<span>12:00</span>、<span>18:00</span>固登陆游戏，保持角色在线，在线的用户即可领取神秘大礼一份！<span></span>
+</p>
+<p class="MsoNormal">
+	（神秘大礼包括：元宝、<span>VIP</span>积分、高级宝石、灵石、星石等等游戏内珍惜资源将免费进行海量赠送）<span></span>
+</p>
+<p class="MsoNormal">
+	<b>&nbsp;</b>
+</p>
+<p class="MsoNormal">
+	<b>十．我问你猜，元宝奉上</b><b></b>
+</p>
+<p class="MsoNormal" align="left">
+	【活动时间】：<span>2014</span>年<span>04</span>月<span>23</span>日<span> - 2014</span>年<span>04</span>月<span>30</span>日<span></span>
+</p>
+<p class="MsoNormal" align="left">
+	【活动内容】：活动期间，<span>GM</span>将会在每天<span>19:30</span>上线与广大玩家进行互动，届时将会随机提出各种游戏内的问题，问题发布后，前三名在聊天世界频道内发布正确答案的玩家，将会获得<span>100</span>元宝的奖励，每次<span>GM</span>发布的题目数量为<span>3-5</span>道题目。<span></span>
+</p>
+<p class="MsoNormal" align="left">
+	&nbsp;
+</p>
+						</div>
+						
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+
+		<div class="bottom">
+			<p>About.us | Copy right@北京飞流九天科技有限公司</p>
+			<p>爱游戏，爱生活，也爱美女。</p>
+			<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+			<p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+			<p>Love is love!</p>
+		</div>
+	</div>
+	
+</body>
+</html>

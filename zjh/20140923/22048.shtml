@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>装备升星_装备系统_最江湖官方网站</title>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/stop.jpg"  alt="新闻"/></h2>
+          </div>
+          <div class="clear"></div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle" style="color:#704e33;">装备升星</div>
+              <div class="textTime"><span style="float:left; color:#393939; width:80px; padding-left:90px;">2014-09-23 19:06:33</span><span style="width:380px; float:right; padding-top:10px">
+                <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span></div>
+                <p></p>
+                <h1 style="margin-bottom:0pt;margin-top:0pt;text-align:center;">
+	装备升星<o:p></o:p>
+</h1>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	装备升星/星级继承/星套<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	装备30级后即可进行升星，升星时需要消耗升星石或封星印。<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	<br />
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	使用升星石进行升星，需要消耗升星石和一定的银两，极品升星石可以自动升星。升星时成功概率是可见的哦，失败了可是会倒退星级的，所以务必保证升星时概率达到最高，不然可就得不偿失了。<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	<br />
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	使用封星印进行升星，可以直接将装备升至相应星级<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	<br />
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	星级继承<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	除了7件普通装备外，披风和110级开启的3件神兵都可以进行星级继承。继承时，请穿戴高星装备，可以将星级继承给给装备等级更高的同部位0星装备。继承时有几率出现星级损耗，传说装备在给其他装备继承时不会出现星级损耗<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	<br />
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	星套加成<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	单个侠客穿戴同一品质、同一等级的装备，可以获得套装加成效果。如果这些装备的星级超过3星，还可以获得一定的星套属性加成。下图中红框表示套装加成，等级越高的装备，套装加成越高；绿框表示星套加成，如令狐少侠穿戴的传说级超凡套装最低星级为5星办，则可以获得5星套装加成；底部紫色框表示星套的属性加成，点击详细可以查看不同星级的加成效果<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	<br />
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	星套压制<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	在每次战斗时，身穿高星星套装备的侠客可以压制装备星套星级低的侠客，建议各位在升星时，不要过于追求单件装备的星级。<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	<br />
+</p> 
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

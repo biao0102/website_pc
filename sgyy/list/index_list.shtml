@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>战神三国官网 礼包领取</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/sgyy3/css/style.css">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time","section"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div id="tarea">
+
+			<!--三国艳义列表页顶部导航模板start-->
+				<!--#include virtual="/list/index_sgyy_daohang.shtml"-->
+			<!--三国艳义列表页顶部导航模板end-->
+  <div id="main" class="warp">
+    <div id="ctnbox">
+      <div class="listtbg"></div>
+      <div class="inner">
+        <div id="listmain">
+          <div class="forbg"></div>
+          <div class="tab-menu"> <a href="javascript:;" class="cur">全部</a> <a href="">新闻</a> <a href="">媒体</a> <a href="">公告</a> </div>
+          <div class="tab-ctn" style="display:block;">
+            <ul class="i-lt1">
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+              <li><i>.</i><a>4月15日版本更新公告</a>
+                <time>04-17</time>
+              </li>
+            </ul>
+            <div class="pager"> <a class="frt prev">上一页</a><a class="num">1</a><a class="num">2</a><a class="num">3</a><a class="frt next">下一页</a> </div>
+          </div>
+
+        </div>
+      </div>
+      <div class="btmbg"></div>
+    </div>
+
+			<!--三国艳义列表页左侧下载模板start-->
+				<!--#include virtual="/list/index_list_down.shtml"-->
+			<!--三国艳义列表页左侧下载模板end-->
+  </div>
+  <div id="ibg"></div>
+</div>
+			<!--三国艳义列表页底部模板start-->
+				<!--#include virtual="/list/index_sgyy_footer.shtml"-->
+			<!--三国艳义列表页底部模板end-->
+<script type="text/javascript" src="http://js.feiliu.com/static/sgyy3/js/jquery-1.8.0.min.js"></script> 
+<script type="text/javascript" src="http://js.feiliu.com/static/sgyy3/js/global.js"></script> 
+</body>
+</html>

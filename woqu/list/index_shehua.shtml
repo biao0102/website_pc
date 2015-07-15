@@ -1,0 +1,37 @@
+<div class="shzb_title">
+    <!--<a href="#" target="_blank" class="more">more</a>-->
+</div>
+<div class="shzb_panes" id="shzb_panes">
+	<ul class="shzb_list" style="display: block;">
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/pljz.jpg" alt="" /><span>蟠龙戒指</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/shang.jpg" alt="" /><span>殇</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/xin.jpg" alt="" /><span>信</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/zrd.jpg" alt="" /><span>斩日刀</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/zr.jpg" alt="" /><span>自然</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/jie.jpg" alt="" /><span>劫</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/zl.jpg" alt="" /><span>紫露</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/zxj.jpg" alt="" /><span>紫湘竹</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/tlfm.jpg" alt="" /><span>天罗方帽</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/tzj.jpg" alt="" /><span>天之经</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/xzh.jpg" alt="" /><span>星之痕</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/yzh.jpg" alt="" /><span>月之华</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/yt.jpg" alt="" /><span>云腾</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/sheng.jpg" alt="" /><span>生</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/zbimg/ziwei.jpg" alt="" /><span>紫薇</span></li>
+	</ul>
+</div>

@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>三十六重天系统介绍</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <h1>
+	三十六重天系统介绍<span></span> 
+</h1>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	三十六重天是《战魂西游》中一个长期开放的日常活动，每一重天里都有很多凶残的怪物和怪物<span>BOSS</span>，随着层数增高，怪物的实力也会不断增强，只有战胜当前可挑战层数的敌人，才能进入到下一层的挑战。由于怪物的属性比普通副本略高，可能会给实力不济的新手玩家造成一些麻烦，但也是玩家们挑战自我，磨练实力的不二场所。有一定的难度同时也意味着三十六重天收益也是非常巨大的，除了掉落用作提升实力的经文和灵石，还有几率掉落合成神器装备的材料。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>三十六重天主界面<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421164829_85869.jpg" width="500" height="331" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>三十六重天战斗界面<span></span> 
+</p>
+<p class="MsoNormal">
+	<span><img src="http://i0.feiliu.com/image/20140421/20140421164854_11274.jpg" width="500" height="344" alt="" /></span> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

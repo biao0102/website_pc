@@ -1,0 +1,82 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+<title>龙骑战歌官方网站</title> 
+<meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+<meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="http://js.feiliu.com/static/lqzg/wap0525/css/news.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/wap0525/js/jquery-1.11.2.min.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="content">
+            <div class="nav">
+                <h3>内容</h3>
+                <a href="javascript:history.go(-1);">返回&gt;&gt;</a>
+            </div>
+            <div class="news">
+                    <h1 class="title">巫妖王冰霜巨龙复活？《龙骑战歌》骨龙原画曝光 </h1>
+                    <div class="news_con">
+                    <p>手游惊现冰霜巨龙，玩家可骑乘作战！作为全球首款魔幻骑战动作手游，《龙骑战歌》呈现了一个具有史诗级剧情背景的魔幻世界，在这个充满冒险激情的虚拟世界，玩家可以骑乘战马甚至是巨龙驰骋疆场，挥舞刀剑身临其境地体验前所未有的骑乘战斗激情。随着《龙骑战歌》发行日期的接近，让我们一同揭开游戏后期强悍无匹的坐骑——巨龙的真容！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416191227.jpg" title="20150416191227.jpg" alt="图1：《龙骑战歌》开创ARPG骑战新纪元.jpg"/></p><p><br/></p><p>【巫妖王的座驾——骨龙】</p><p><br/></p><p>&nbsp; 生前强大无比的龙族一生中都在不断杀戮，死后杀气冲天使其复活成为只留下骨架的邪龙。庞大的身体，狰狞恐怖的外形，浑身散发着幽蓝的冰霜气息，冰冻世间万物的吐息，骨龙自从出世便是一个纯粹的战争机器。玩家在《龙骑战歌》中可以化身骨龙骑士，骑乘骨龙驰骋疆场。驾驭着身躯庞大的骨龙，俯视渺小的敌人，毫不留情地冲锋杀敌，让无数对手闻风丧当。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416191234.jpg" title="20150416191234.jpg" alt="图2：《龙骑战歌》骨龙坐骑原画.jpg"/></p><p><br/></p><p>【超强属性加成 强悍特技杀戮万千】</p><p><br/></p><p>&nbsp; 骨龙在《龙骑战歌》中不仅仅拥有庞大的身体和狰狞恐怖的外形，其为玩家附加的超高攻击、防御、移动速度都让人可以肆无忌惮地横扫战场，而且即使在战斗外，坐骑附加属性也将一直存在。最令人惊叹的是，作为纯粹的杀戮机器，骨龙还拥有无比强悍的全屏坐骑特技，一击便可将无数敌人轰杀殆尽。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416191241.jpg" title="20150416191241.jpg" alt="图3：骑乘坐骑 感受畅爽刺激的战斗快感.jpg"/></p><p><br/></p><p>&nbsp; 为了英雄的荣耀，龙骑出击！全3D游戏场景、高清电影级画面、爽快的战斗感，《龙骑战歌》从视觉、操纵感、代入感、玩法等诸多方面打造代表中国最高手游水平的ARPG手游，开创骑战新纪元，让玩家拥有前所未有的骑乘战斗体验。《龙骑战歌》概念官网已震撼亮相，提前进入便可享受预约大礼包！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416191249.jpg" title="20150416191249.jpg" alt="图4：进入《龙骑战歌》官网 尊享预约大礼包.jpg"/></p><p><br/></p>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+<script>
+    function getArgs()
+    {
+        var argsArr = new Object();
+        var query = window.location.search;  
+        query = query.substring(1);
+        var pairs = query.split("&");
+        for(var i=0;i<pairs.length;i++)
+        {
+            var sign = pairs[i].indexOf("="); 
+            if(sign == -1)
+            {
+                continue; 
+            }
+            var aKey = pairs[i].substring(0,sign);
+            var aValue = pairs[i].substring(sign+1);         
+            argsArr[aKey] = unescape(aValue);
+
+        }
+        return argsArr;
+    }
+
+    var param = new Object();
+    param = getArgs();
+    var source = param.s;
+
+    if(!source)
+    {
+        source = '300021';
+    }
+    $('a').click(function(e){
+        var url = $(this).attr('href');
+        if(url != 'javascript:void(0);' && url != "javascript:alert('敬请期待！');" && url != 'javascript:history.go(-1);');
+        {
+            e.preventDefault();
+            var url = $(this).attr('href');
+            if(url.indexOf('?') > -1)
+            {
+                var tourl = url + '&s='+source;
+            } else {
+                var tourl = url + '?s='+source;
+            }
+            window.location.href = tourl;   
+        }
+    });   
+
+</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>
+
+

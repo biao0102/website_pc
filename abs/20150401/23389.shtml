@@ -1,0 +1,40 @@
+<!--头部公共文件模块开始-->
+	<!--#include virtual="/list/abc_index_topfile.shtml"-->
+<!--头部公共文件模块结束-->
+<body>
+<div class="wrap minwidth rel">
+	<!--公共导航模块开始-->
+		<!--#include virtual="/list/abc_index_nav.shtml"-->
+	<!--公共导航模块结束-->
+	<div class="contain minwidth rel">
+		<div class="con920">
+			<div class="subtop rel">
+				<img src="http://js.feiliu.com/static/abc/web/images/zhu.png" alt="" class="zhu asb">
+			</div>
+			<div class="subline">
+				<div class="newstxt">
+					<div class="infotitle">续写手游传奇《愤怒的小鸟嘉年华》重磅来袭</div>
+					<div class="article"><div >
+	&nbsp; &nbsp; &nbsp; 堪称是全球真正取得主流成功的手机游戏，愤怒的小鸟系列游戏层出不穷，几只小鸟和几只小猪就能完成一个非常有趣的游戏内容。现在愤怒的小鸟系列游戏出新啦!《愤怒的小鸟嘉年华》由芬兰著名游戏公司Rovio娱乐研发，飞流九天科技独家代理发行。不过加入了新元素的《愤怒的小鸟嘉年华》你肯定要玩玩看啦。<br />
+<br />
+魔方网评测地址：<img src="cid:F49679E6BCA64FB08E71AD28FA7CA128@song8f9b3277c9?4994978717810622328" style="margin:0px;padding:0px;max-width:100%;height:auto !important;" /><a href="http://www.mofang.com/xcty/1454-399217-1.html" title="http://www.mofang.com/xcty/1454-399217-1.html" style="text-decoration:none;-webkit-user-drag:none;">http://www.mofang.com/xcty/1454-399217-1.html</a>
+</div>
+<div ><img src="http://i0.feiliu.com/image/20150401/20150401143657_29880.jpg" alt="" />
+</div></div>
+				</div>
+			</div>
+			<div class="subbottom"></div>
+		</div>
+		<!--底部公共模块开始-->
+			<!--#include virtual="/list/abc_index_foot.shtml"-->
+		<!--底部公共模块结束-->
+	</div>
+</div>
+<!--右侧漂浮模块开始-->
+	<!--#include virtual="/list/abc_index_float.shtml"-->
+<!--右侧漂浮模块结束-->
+<!--底部公共js文件模块开始-->
+	<!--#include virtual="/list/abc_index_jsfile.shtml"-->
+<!--底部公共js文件模块结束-->
+</body>
+</html>

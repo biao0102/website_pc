@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+	<meta name="description" content="三国战神为首款三国写实风格的手机3D MMORPG游戏，并获得2013年“金玩奖”最佳新锐游戏称号。游戏以三国时代为背景，以装备养成、战魂武将、PVP为核心玩法，玩家不仅可以提升自身能力，还可以拥有三国时期的各种名将，召唤出来后威力无穷，让玩家体会到叱咤三国风云的真实快感，各种帮战、边境战更会让热爱PVP的玩家大呼过瘾。游戏采用中国风的写实风格，场景完全媲美端游品质，配以炫丽的技能特效，让玩家完全置身于三国时期的热血战斗之中！" />
+    <meta name="keywords" content="三国战神、三国、战神、神兵、魔神、妖魔、刘备、关羽、张飞、吕布、三国杀神、三国群英" />
+	<base target="_blank"></base>
+    <title>《三国战神》官方网站</title>
+    <link href="http://js.feiliu.com/static/sgzs/style/master.css?v=1" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <div class="wrap wrap_down">
+        <div class="content">
+            <img src="http://js.feiliu.com/static/sgzs/images/down01.jpg" alt="" usemap="#Map" />
+            <map name="Map" id="Map">
+                    <area shape="rect" coords="119,47,249,82" href="http://zs.feiliu.com" alt="官网首页" />
+                    <area shape="rect" coords="252,48,385,81" href="http://zs.feiliu.com/down.shtml" alt="游戏下载" />
+                    <area shape="rect" coords="620,47,753,84" href="http://bbs.8783.com/forum-70-1.html" alt="游戏论坛" />
+                    <area shape="rect" coords="757,47,886,82" href="http://bbs.8783.com/forum-72-1.html" alt="客服中心" />
+                    <area shape="rect" coords="396,4,605,177" href="http://zs.feiliu.com" alt="三国战神" />
+                </map>
+            <img src="http://js.feiliu.com/static/sgzs/images/down02.jpg" alt="" />
+            <img src="http://js.feiliu.com/static/sgzs/images/down03.jpg" alt="" />
+            <img src="http://js.feiliu.com/static/sgzs/images/down04.jpg" alt="" />
+            <img src="http://js.feiliu.com/static/sgzs/images/down05.jpg" alt="" usemap="#Map2" />
+            <map name="Map2" id="Map2">
+                <area shape="rect" coords="419,25,581,85" href="http://zs.feiliu.com" alt="返回官网" />
+            </map>
+            <img src="http://js.feiliu.com/static/sgzs/images/down06.jpg" alt="" usemap="#Map3" />
+            <map name="Map3" id="Map3">
+                <area id="ios_download" shape="rect" coords="53,20,341,130"  href="javaScript:alert('敬请期待')" target = "_self" alt="IOS版下载" />
+                <area id="yy_download" shape="rect" coords="357,21,646,131" href="http://zs.feiliu.com/download/yy.php"  alt="越狱版下载" />
+                <area id="android_download" shape="rect" coords="659,20,948,131"  href="javaScript:alert('敬请期待')" alt="安卓版下载" />
+				<!-- http://zs.feiliu.com/download/android.php-->
+            </map>
+            <div class="down_msg">
+                <div class="down_msg01">
+                    <p>·根据设备系统，选择对应择对应的客户端版本</p>
+                    <p>·使用安卓系统的用户，请点择对应击“安卓版</p>
+                    <p>·在WIFI环境下，也可用微择对应信、QQ等软件</p>
+                </div>
+                <div class="down_msg02">
+                    <p>·根据设备系统，选择对应择对应的客户端版本</p>
+                    <p>·使用安卓系统的用户，请点择对应击“安卓版</p>
+                    <p>·在WIFI环境下，也可用微择对应信、QQ等软件</p>
+                </div>
+                <div class="down_msg03">
+                    <p>·根据设备系统，选择对应择对应的客户端版本</p>
+                    <p>·使用安卓系统的用户，请点择对应击“安卓版</p>
+                    <p>·在WIFI环境下，也可用微择对应信、QQ等软件</p>
+                </div>
+            </div>
+            <img src="http://js.feiliu.com/static/sgzs/images/down08.jpg" alt="" />
+            <div class="erweima">
+                <div class="erweima01">
+                    <img src="http://js.feiliu.com/static/sgzs/images/qd.jpg" alt="" />
+                </div>
+					<!-- http://js.feiliu.com/static/sgzs/images/erweima.jpg-->
+                <div class="erweima02">
+                    <img src="http://js.feiliu.com/static/sgzs/images/yy.jpg?v=1" alt="" />
+                </div>
+                <div class="erweima03">
+                    <img src="http://js.feiliu.com/static/sgzs/images/qd.jpg" alt="" />
+                </div>
+					<!-- http://js.feiliu.com/static/sgzs/images/android.jpg-->
+            </div>
+            <div class="bottom">
+                <p>About.us | Copy right@飞流iPhone 2013</p>
+                <p>爱游戏，爱生活，也爱美女。</p>
+                <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+                <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+                <p>Love is love!</p>
+            </div>
+        </div>
+    </div>
+
+<script type="text/javascript">
+	var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+	document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F369e686bc0a3c6de900d5ed1c689a8dc' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</body>
+</html>

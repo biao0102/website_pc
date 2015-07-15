@@ -1,0 +1,31 @@
+				<div class="top001" id="_show1">
+					<ul class="buttonbg">
+						<li class="li01">
+							<a href="javascript:void(0);"><img src="http://js.feiliu.com/static/zyzn/web/images/p01.png" alt="">最新</a>
+						</li>
+						<li class="li02">
+							<a href="http://zyzn.feiliu.com/list/zyzn_list_news.shtml" onMouseMove="__show(2);"><img src="http://js.feiliu.com/static/zyzn/web/images/p02.png" alt="">新闻</a>
+						</li>
+						<li class="li02">
+							<a href="http://zyzn.feiliu.com/list/zyzn_list_hd.shtml" onMouseMove="__show(3);"><img src="http://js.feiliu.com/static/zyzn/web/images/p03.png" alt="">活动</a>
+						</li>
+						<li class="li02">
+							<a href="http://zyzn.feiliu.com/list/zyzn_list_gg.shtml" onMouseMove="__show(4);"><img src="http://js.feiliu.com/static/zyzn/web/images/p04.png" alt="">公告</a>
+						</li>
+					</ul>
+					<div class="news01">
+						<ul>
+      
+              
+              <li><a href="http://zyzn.feiliu.com/20150506/23548.shtml" target="_blank">【最新】5.6越狱三服开服活动</a><span class="date">2015-05-06</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150505/23543.shtml" target="_blank">【最新】小妖爆火 《众妖之怒》次留与付费率远超业界水平</a><span class="date">2015-05-05</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150429/23518.shtml" target="_blank">【最新】热依扎最爱手游《众妖之怒》今日越狱不删档   </a><span class="date">2015-04-29</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150428/23510.shtml" target="_blank">【最新】首充送大礼！《众妖之怒》明日越狱不删档内测</a><span class="date">2015-04-28</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150424/23495.shtml" target="_blank">【最新】《众妖》直追PC端大型Q萌西游</a><span class="date">2015-04-24</span></li>
+            						</ul>
+					</div>
+				</div>

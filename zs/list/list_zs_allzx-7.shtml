@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网全部资讯页</title>
+    <meta name="keywords" content="三国战神，三国战神官网， 三国战神下载，三国战神礼包，三国战神攻略，三国战神安卓版， 三国战神ios版，三国战神手游" />
+    <meta name="description" content="《三国战神》基于U3D引擎开发，是一款真3D硬派PK网游，以大众熟知的三国题材为背景，通过国际化顶级标准的唯美中国风游戏画面，华丽的全屏3D绝技，随意变身三国名将“战魂”系统等特色，将每一个参与游戏的玩家深深带入其中，尤其对于曾经的剑侠、传奇、征途类游戏玩家来说，将深刻感受到相识的酷爽感觉。对于没有太多时间的端游老玩家来说，绝对能勾起美好的回忆，倍感惬意" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_list.css?v=2">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+                    	<h1 class="ctn-title">全部资讯</h1>
+                        <div class="curLocation">
+                        	你的位置：<a href="#" target="_blank" class="tohome">首页</a>><span>全部列表</span>
+                        </div>
+                        <div class="nrarea">
+                        	<div id="newslist" class="mt10">
+								<nav class="tabMenu">
+									<ul>
+										<li class="slp cur"><a href="http://zs.feiliu.com/list/list_zs_allzx.shtml">全部</a></li>
+										<li class="slp"><a href="http://zs.feiliu.com/list/list_zs_news.shtml">新闻</a></li>
+										 <li class="slp"><a href="http://zs.feiliu.com/list/list_zs_hd.shtml">活动</a></li>	
+										  <li class="slp"><a href="http://zs.feiliu.com/list/list_zs_gg.shtml">公告</a></li>
+									</ul>
+								</nav>
+								<div class="tabContent" style="display:block;">
+									<ul class="newslist-item">
+										
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141216/22732.shtml" title="《三国战神》12月17日活动，天天登陆和消费活动">《三国战神》12月17日活动，天天登陆和消费活动</a><time>[2014-12-16]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141216/22723.shtml" title="12月17日新服【水淹七军】正式启动">12月17日新服【水淹七军】正式启动</a><time>[2014-12-16]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141215/22719.shtml" title="《三国战神》月中活动，天天登陆和小充值大返利">《三国战神》月中活动，天天登陆和小充值大返利</a><time>[2014-12-15]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141215/22713.shtml" title="12月15日新服【鼎足三分】正式启动">12月15日新服【鼎足三分】正式启动</a><time>[2014-12-15]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141212/22702.shtml" title="《三国战神》iOS1.4.0国战无双版本更新公告">《三国战神》iOS1.4.0国战无双版本更新公告</a><time>[2014-12-12]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141210/22674.shtml" title="12月11日新服【赤胆忠心】正式启动">12月11日新服【赤胆忠心】正式启动</a><time>[2014-12-10]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141209/22657.shtml" title="《三国战神》服务器维护延迟开服公告">《三国战神》服务器维护延迟开服公告</a><time>[2014-12-09]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141209/22656.shtml" title="《三国战神》服务器维护公告">《三国战神》服务器维护公告</a><time>[2014-12-09]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141208/22654.shtml" title="12月9日新服【文韬武略】正式启动">12月9日新服【文韬武略】正式启动</a><time>[2014-12-08]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141208/22649.shtml" title="年末活动季第四波--双十二来临，天天返利不重样！">年末活动季第四波--双十二来临，天天返利不重样！</a><time>[2014-12-08]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141206/22639.shtml" title=" 《三国战神》服务器维护公告"> 《三国战神》服务器维护公告</a><time>[2014-12-06]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141206/22638.shtml" title="2014最后一月 月初活动返惊喜">2014最后一月 月初活动返惊喜</a><time>[2014-12-06]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141205/22629.shtml" title="2014最后一月 月初活动返惊喜">2014最后一月 月初活动返惊喜</a><time>[2014-12-05]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141204/22627.shtml" title="12月5日新服【同生共死】正式启动">12月5日新服【同生共死】正式启动</a><time>[2014-12-04]</time></li>
+										  
+											<li><em>[新闻]</em><a href="http://zs.feiliu.com/20141204/22616.shtml" title="2014最后一月 月初活动返惊喜">2014最后一月 月初活动返惊喜</a><time>[2014-12-04]</time></li>
+																			</ul>
+									<div class="pager" id="paging"></div>
+								</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="cnt-zsr"></div>
+            </div>
+		<!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+	
+	<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+	<!--list分页-底部start--> 
+	<script language="javascript"> 
+	var f_pagecount = 17 
+	<!--#include virtual="/pub/page_ctrl.shtml"--> 
+	</script> 
+	<!--list分页-底部end-->
+</body>
+
+</html>

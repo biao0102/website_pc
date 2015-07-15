@@ -1,0 +1,187 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">越狱版本新服【前线黎明】火热开启</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-05-30</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <p class="MsoNormal">
+	各位坦克风云的指挥们，我们越狱版本新服【前线黎明】已经在<span lang="EN-US">2014</span>年<span lang="EN-US">5</span>月<span lang="EN-US">30</span>日<span lang="EN-US">10:00</span>准时开启。
+</p>
+<p class="MsoNormal">
+	服务器名称：【前线黎明】
+</p>
+<p class="MsoNormal">
+	欢迎各位指挥官前来进军<br /><img src="http://i0.feiliu.com/image/20140530/20140530114050_46155.jpg" alt="" />
+</p>
+<p class="MsoNormal">
+	活动一：新手冲级送礼
+</p>
+<p class="MsoNormal">
+	活动时间<span lang="EN-US">:</span>自开服日起<span lang="EN-US">7x24</span>小时以游戏内活动倒计时为准。
+</p>
+<p class="MsoNormal">
+	活动内容：活动期间内所有新服玩家指挥中心冲级，达到相应等级可获得相应奖励：<span lang="EN-US">lv3</span>可获得荣誉勋章一枚，<span lang="EN-US">lv5</span>可获得金币<span lang="EN-US">5</span>枚、荣誉勋章<span lang="EN-US">3</span>枚，<span lang="EN-US">lv10</span>可获得金币<span lang="EN-US">10</span>、枚荣誉勋章<span lang="EN-US">5</span>枚，<span lang="EN-US">lv15</span>可获得金币、<span lang="EN-US">15</span>枚荣誉勋章<span lang="EN-US">10</span>枚，<span lang="EN-US">lv16</span>可获得金币、<span lang="EN-US">20</span>枚统帅书<span lang="EN-US">1</span>本，<span lang="EN-US">lv17</span>可获得金币<span lang="EN-US">25</span>枚、统帅书<span lang="EN-US">1</span>本，<span lang="EN-US">lv18</span>可获得金币<span lang="EN-US">30</span>枚、统帅书<span lang="EN-US">2</span>本，<span lang="EN-US">lv19</span>可获得金币<span lang="EN-US">40</span>枚、统帅书<span lang="EN-US">3</span>本，<span lang="EN-US">lv20</span>可获得金币<span lang="EN-US">50</span>枚、统帅书<span lang="EN-US">5</span>本加速生产<span lang="EN-US">1</span>个。
+</p>
+<p class="MsoNormal">
+	活动规则：<span lang="EN-US">1</span>活动期间内所有新服玩家都可参与。
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2</span>本活动为越狱新服《黎明前线》服务器玩家可参与。
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3</span>活动期间内玩家达到相应等级可直接手动领取奖励。
+</p>
+<p class="MsoNormal">
+	活动二开服七天战力大比拼
+</p>
+<p class="MsoNormal">
+	活动时间：<span lang="EN-US">2014</span>年<span lang="EN-US">5</span>月<span lang="EN-US">30</span>日<span lang="EN-US">-2014</span>年<span lang="EN-US">6</span>月<span lang="EN-US">05</span>日<span lang="EN-US">23:59</span>
+</p>
+<p class="MsoNormal">
+	活动内容：活动期间内，各位指挥官通过不懈的努力提升战力，是自己的实力达到战力榜前<span lang="EN-US">30</span>名，即可在活动结束后，获得海量金币奖励。奖励如下：
+</p>
+<p class="MsoNormal">
+	第一名：金币<span lang="EN-US">x3888</span>
+</p>
+<p class="MsoNormal">
+	第二名：金币<span lang="EN-US">x1888</span>
+</p>
+<p class="MsoNormal">
+	第三名：金币<span lang="EN-US">x888</span>
+</p>
+<p class="MsoNormal">
+	第<span lang="EN-US">4-5</span>名：金币<span lang="EN-US">x588</span>
+</p>
+<p class="MsoNormal">
+	第<span lang="EN-US">6-10</span>名：金币<span lang="EN-US">x388</span>
+</p>
+<p class="MsoNormal">
+	第<span lang="EN-US">11-20</span>名：金币<span lang="EN-US">x188</span>
+</p>
+<p class="MsoNormal">
+	第<span lang="EN-US">20-30</span>名：金币<span lang="EN-US">x88</span>
+</p>
+<p class="MsoNormal">
+	活动规则：<span lang="EN-US">1</span>活动开启后战力榜会随时更新玩家通过保持优异的名次来赢取奖励。
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;2</span>本活动为越狱新服《黎明前线》服务器玩家可参与。
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3</span>活动奖励将在活动结束三个工作日内下发打各位指挥官的账号中。
+</p>
+<p class="MsoNormal">
+	活动三充值返利
+</p>
+<p class="MsoNormal">
+	活动时间：<span lang="EN-US">5</span>月<span lang="EN-US">30</span>日<span lang="EN-US">-6</span>月<span lang="EN-US">2</span>日<span lang="EN-US">23:59</span>
+</p>
+<p class="MsoNormal">
+	活动内容：活动期间内，首次充值将获得二外百分之<span lang="EN-US">20%</span>金币返利
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>例：第一笔充值<span lang="EN-US">8400</span>金币您可获得<span lang="EN-US">8400x2=16800+8400x20%=18480</span>金币
+</p>
+<p class="MsoNormal">
+	活动规则：<span lang="EN-US">1</span>返利奖励只能领取一次
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2</span>活动期间内首次充值将会获得额外百分之<span lang="EN-US">20</span>的金币
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3</span>活动结束后<span lang="EN-US">24</span>小时之后活动界面将自动消失请您及时手动领取奖励。
+</p>
+<p class="MsoNormal">
+	活动四：冲击副本赢豪礼
+</p>
+<p class="MsoNormal">
+	活动时间：<span lang="EN-US">5</span>月<span lang="EN-US">30</span>日<span lang="EN-US">-6</span>月<span lang="EN-US">8</span>日<span lang="EN-US">23</span>：<span lang="EN-US">59</span>
+</p>
+<p class="MsoNormal">
+	活动内容：活动期间，领取军团副本军需箱有概率获得“神秘宝箱”，并且关卡解锁最多的前三个军团将获得丰厚的奖品！
+</p>
+<p class="MsoNormal">
+	注：指挥中心达到<span lang="EN-US">5</span>级后可解锁“军团功能”
+</p>
+<p class="MsoNormal">
+	活动规则：<span lang="EN-US">1</span>活动结束后，加入军团的成员无法领取奖励
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2</span>如果解锁数量相同，则以解锁时间为判定基准，解锁焦躁的排名靠前
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3 </span>活动奖励将在活动解释后<span lang="EN-US">24</span>小时后小时，请及时领取奖励，以免曹成损失。<br /><img src="http://i0.feiliu.com/image/20140530/20140530113944_72415.jpg" alt="" />
+</p>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

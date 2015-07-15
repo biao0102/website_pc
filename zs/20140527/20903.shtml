@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_副本攻略</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">守卫汉帝技巧</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-27 21:22:59</span>
+																			</div>
+									<div class="w-d">
+										　　守卫汉地给占星石，也是经验很多的副本，一般都要多个玩家来一起守卫，但是往往屌丝很难过的了更高的层次。<br />
+在这里我用我自己的亲身体验来，讲讲我是如果闯过满10关的。<br />
+<br />
+　　第一要求，4个人 战斗力可以不高，但是必须有元宝（这个不是土豪篇。）<br />
+<br />
+　　前4层无压力，轻松通过，5~10关 一共6层，每一层18个元宝就是108个元宝=10.8元。仅10元就可以通关，加上每天送的元宝也就3~4元就可以通关，而且奖励丰厚。所以我说这个不是土豪篇。<br />
+4个人各站一处路口，但是不要距离汉帝太进。当敌方过来的时候购买一个天神下凡。人物撤离在天神下凡后面。这样就会利用天神下凡。将小怪挡住。<br />
+<br />
+　　需要注意的就是天神下凡的CD时间。如果打太快下一轮的天神下凡CD时间还没有回来。那么注定要失败。所以每层到最后都要留一个小怪，等待CD时间。这样能确保下一轮怪物攻击时你还能召唤出天神下凡。大家可以找几个兄弟试试。因为守卫汉帝的奖励是很丰厚的。可以试试看~！<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">三国战神官方客服：800032234</span><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">三国战神客服邮箱：</span><a style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;text-decoration:none;-webkit-text-stroke-width:0px;" href="mailto:800032234@qq.com">800032234@qq.com</a><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">三国战神QQ群：275507160</span><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">三国战神新浪官方微博：</span><a style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;text-decoration:none;-webkit-text-stroke-width:0px;" href="http://weibo.com/sgzsios">http://weibo.com/sgzsios</a><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">三国战神官方微信：sgzsIOS</span>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,71 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">要想美露大腿！《众妖之怒》人物泳装造型曝光</div>
+			<div class="news-con">
+				&nbsp;《众妖之怒》中的时装系统作为游戏特色之一，让许多玩家都十分喜欢！现在正是冬季，大街上的美女、帅哥们裹得严严实实像企鹅一样，实在无法满足宅男腐女的追求。所以我们特地为玩家们举办了一场《众妖之怒》泳装秀，让你在游戏中看够瘾，要想美，露大腿，灵猴、妖狐、玉兔，it's show time！东方奇幻3D动作手游《众妖之怒》手游火热内测中，快来一起加入吧！<br />
+<br />
+<br />
+《众妖之怒》官方网站：http://zyzn.feiliu.com<br />
+《众妖之怒》越狱下载地址：http://js.feiliu.com/ipa/zyzn/zyzn_300021.ipa?v=10<br />
+《众妖之怒》官方QQ群：263683777　　<br />
+《众妖之怒》客服 QQ：800032234<br />
+<br /><img src="http://i0.feiliu.com/image/20150116/20150116104334_42872.jpg" alt="" /><br />
+&nbsp;<br />
+【灵猴鲨鱼套装】<br />
+<br />
+<br />
+&nbsp; 西游记原著中，齐天大圣孙悟空的水战能力可真是不高，遇到像灵感大王、九头虫这样的水中妖怪，每次都打的很吃力。在《众妖之怒》中，灵猴身着鲨鱼套装，变身水中杀手。无论天上天下再无对手。另外，那两条白白的小腿是否能勾起你的欲望呢？<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150116/20150116104344_33046.jpg" alt="" /><br />
+<br />
+<br />
+【妖狐海马套装】<br />
+<br />
+<br />
+&nbsp; 作为《众妖之怒》中最美的妖狐，这身海马套装，尽显妖狐性感妩媚的身材。猛然看上去，宛然像是西方神话中的美人鱼一般动人美丽。武器还海马琴也是十分可爱，绝对能满足宅男们无穷的想象。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150116/20150116104354_23239.jpg" alt="" /><br />
+<br />
+<br />
+【玉兔救生员套装】<br />
+<br />
+<br />
+&nbsp; 比起上面两位，玉兔的救生员套装略显现代。尤其是潜水镜的佩戴，简直萌翻了。本来了是呆萌范儿的玉兔，凭借这身装扮绝对可以虏获更多大叔级玩家的心。武器弓箭，也更现代了，能让人联想起《行尸走肉》中的弩哥。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150116/20150116104404_65022.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 《众妖之怒》中的服装多种多样，能充分满足玩家们的喜好，让你按照自己的个性尽情发挥！《众妖之怒》火爆内测中，妖行三界，怒战九天！这么好玩的西游，快来下一个体验一下吧！<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,59 @@
+  <div id="content"> 
+  	<div class="clearfix">
+    <!--主动技能-->
+    <div class="zgjn">
+      <h1><img src="http://js.feiliu.com/static/zs/images/zgjnbg.jpg"></h1>
+      <div class="zgjn_nr clearfix">
+        <div class="tab-menu"> <a href="javascript:;" class="cur"><img src="http://i0.feiliu.com/201405/cd/cd3165a06a65c5ec9aeb54a14965e6f6.png"><b>云龙击</b></a> <a href="javascript:;"><img src="http://i0.feiliu.com/201405/49/49150e2916a33064ccbf0de2bb080912.png"><b>雷动九霄</b></a> <a href="javascript:;"><img src="http://i0.feiliu.com/201405/2c/2c3c8074e415f29fe5df53778c527acb.png"><b>奔雷咒</b></a> <a href="javascript:;"><img src="http://i0.feiliu.com/201405/c4/c444e2f698efc2cf0d78d54f5d9a9081.png"><b>玄天无极</b></a> </div>
+        <div class="tab-ctn">
+          <p style="display:block;">云龙击：天机初级技能，云龙出海，势如破竹</br>　　冷却时间：4秒 所需等级：1级</br>　　技能效果：对周围固定范围内单个目标造成普通伤害以及雷系伤害；同时给自己添加雷</br>　　灵状态，提升自身普通攻击；技能伤害随技能等级提高而增加</p>
+          <p>雷动九霄：天机中级技能，雷厉风飞，鸣动九霄</br>　　冷却时间：7秒 所需等级：5级</br>　　技能效果：对周围固定范围内多个敌人造成普通伤害以及雷系伤害
+；技能伤害随技能等</br>　　级提高而增加</p>
+          <p>奔雷咒：天机高级技能，奔雷滚滚，若天罚</br>　　冷却时间：10.5秒 所需等级：20级</br>　　技能效果：对周围固定范围内单个目标造成普通伤害以及雷系伤害；同时有几率给目标</br>　　添加雷灭状态，造成麻痹效果；技能伤害随技能等级提高而增加</p>
+          <p>玄天无极：天机高级技能，玄天丹丘，无穷无极</br>　　冷却时间：15秒 所需等级：35级</br>　　技能效果：对周围固定范围内多个敌人造成普通伤害以及雷系伤害；同时给该目标添加</br>　　雷魅状态，降低移动速度；技能伤害随技能等级提高而增加</p>
+        </div>
+      </div>
+    </div>
+    <!--主动技能 end--> 
+    <!--被动技能-->
+    <div class="bdjn">
+      <h1><img src="http://js.feiliu.com/static/zs/images/dbjnbg.jpg"></h1>
+      <div class="bdjnList">
+        <dl class="bdjn-item">
+          <dt><img src="http://i0.feiliu.com/201405/6f/6f2e286c08f35849941a756ffb9ce132.png"></dt>
+          <dd>
+            <h4>五雷正法</h4>
+            <p>五雷轰顶，在劫难逃</br>攻击时有几率提升自身雷系攻击</p>
+          </dd>
+        </dl>
+        <dl class="bdjn-item even">
+          <dt><img src="http://i0.feiliu.com/201405/64/64cfb93664637c02a912a60d9459e51c.png"></dt>
+          <dd>
+            <h4>慑魂乱心</h4>
+            <p>勾魂摄魄，乱其所为</br>被攻击时有几率降低对方闪避值</p>
+          </dd>
+        </dl>
+        <dl class="bdjn-item">
+          <dt><img src="http://i0.feiliu.com/201405/7f/7ff73ce4edb413e0a0204f5a33ef5bd1.png"></dt>
+          <dd>
+            <h4>纯阳诀</h4>
+            <p>纯阳之气，舒经活脉</br>永久提升自身普通攻击</p>
+          </dd>
+        </dl>
+        <dl class="bdjn-item even">
+          <dt><img src="http://i0.feiliu.com/201405/49/49b995a5eb516fc0956713f6657049f8.png"></dt>
+          <dd>
+            <h4>御风术</h4>
+            <p>待时而动，风过无痕</br>永久提升自身风系抗性</p>
+          </dd>
+        </dl>
+      </div>
+    </div>
+    <!--被动技能 end-->
+    </div>
+    <div class="cb mt10"> 
+      <!--截图-->
+      <div class="jietu fl"> <img src="http://i0.feiliu.com/201405/c7/c762843a7dd65670499a53000e0200ea.jpg"> </div>
+      <div class="jietu fr"> <img src="http://i0.feiliu.com/201405/cd/cd651766b75dce7dcc9ceaa8926b13dc.jpg"> </div>
+    </div>
+  </div>

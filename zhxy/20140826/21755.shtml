@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>周末活动hi翻天【3服】</h1>
+                        <span>2014-08-26</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal">
+	<b>活动一：周末登录，好礼任拿<span></span></b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<b>2014年<span>8</span>月<span>23</span>日 <span>00:00 - 2014</span>年<span>8</span>月<span>25</span>日<span> 23:59</span></b><span></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】：周末登陆送大礼！快来一起周末狂欢吧！元宝灵石和星力，是不是很有动力呢！登陆游戏后即可在【精彩活动】界面领取奖励。<span></span>
+</p>
+<p class="MsoNormal">
+	【活动奖励】：<span></span>
+</p>
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="499" style="border:none;">
+	<tbody>
+		<tr>
+			<td width="119" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >活动条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="380" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >奖励内容<span ></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="119" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >周六登录<span></span></span>
+				</p>
+			</td>
+			<td width="380" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*10</span>、铜钱<span>*5W</span>、星力<span>*3W</span>、大喇叭<span>*1</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="119" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >周日登录<span></span></span>
+				</p>
+			</td>
+			<td width="380" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*20</span>、复活石<span>*3</span>、大喇叭<span>*1</span>、小三光神水<span>*1</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="119" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >周一登录<span></span></span>
+				</p>
+			</td>
+			<td width="380" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*20</span>、灵石<span>*10</span>、<span>2</span>级宝石箱子<span>*1</span>、双倍经验卡<span>*1</span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<b>活动二：每日充值，好礼相赠<span></span></b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<b>2014年<span>8</span>月<span>21</span>日 <span>00:00 - 2014</span>年<span>8</span>月<span>25</span>日<span> 23:59</span></b>
+</p>
+<p class="MsoNormal">
+	【活动内容】：活动期间，每天充值任意金额即可领取日进斗金大礼包一份！好礼相赠，不容错过！ <span></span>
+</p>
+<p class="MsoNormal">
+	【奖励内容】：玄铁<span>*8</span>、小三光神水<span>*2</span>、双倍经验卡<span>*1</span>、金刚钻<span>*1</span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<b>活动三：超级星力，限时低价<span></span></b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<b>2014年<span>8</span>月<span>21</span>日 <span>00:00 - 2014</span>年<span>8</span>月<span>25</span>日<span> 23:59</span></b><span></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】：活动期间，商城超级星力锦囊<span>7</span>折出售！限时五天，技能强化最需要！<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<b>活动四：累计消费，称号任拿<span></span></b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<b>2014年<span>8</span>月<span>21</span>日 <span>00:00 - 2014</span>年<span>8</span>月<span>25</span>日<span> 23:59</span></b><span><br />
+</span>【活动内容】：活动期间，累计消费元宝数量达到对应额度即可在【精彩活动】界面领取惊喜好礼。高级宝石、特殊称号、限量橙装通通都有哦！
+</p>
+<p class="MsoNormal">
+	【活动奖励】<span>:</span>
+</p>
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="542" style="border:none;">
+	<tbody>
+		<tr>
+			<td width="168" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >活动条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="374" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >奖励内容<span ></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="168" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计消费<span>500</span>元宝<span></span></span>
+				</p>
+			</td>
+			<td width="374" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >灵石<span>*5</span>、铜钱<span>*50000</span>、星力<span>*10000</span>、复活石<span>*3</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="168" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计消费<span>1000</span>元宝<span></span></span>
+				</p>
+			</td>
+			<td width="374" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >灵石<span>*10</span>、铜钱<span>*80000</span>、星力<span>*30000</span>、三光神水<span>*1</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="168" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计消费<span>2000</span>元宝<span></span></span>
+				</p>
+			</td>
+			<td width="374" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >称号【心心相印】、进阶石<span>*1</span>、铜钱<span>*100000</span>、星力<span>*50000</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="168" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计消费<span>3000</span>元宝<span></span></span>
+				</p>
+			</td>
+			<td width="374" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >3</span><span >级宝石箱<span>*1</span>、进阶石<span>*2</span>、玄铁<span>*10</span>、铜钱<span>*150000</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="168" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计消费<span>5000</span>元宝<span></span></span>
+				</p>
+			</td>
+			<td width="374" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >4</span><span >级宝石箱<span>*1</span>、玄铁<span>*20</span>、大符箓经验<span>*3</span>、铜钱<span>*200000</span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="168" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >累计消费<span>8000</span>元宝<span></span></span>
+				</p>
+			</td>
+			<td width="374" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >42</span><span >级橙装（鞋子）、<span>4</span>级宝石箱<span>*2</span>、进阶石<span>*3</span>、灵石<span>*20</span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<b></b>
+</p>
+<p class="MsoNormal">
+	<b>活动五：三十六重天，勇攀高峰</b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<b>2014年<span>8</span>月<span>21</span>日 <span>12:00 - 2014</span>年<span>8</span>月<span>25</span>日 <span>12:00</span></b>
+</p>
+<p class="MsoNormal">
+	【活动内容】：活动期间，勇闯三十六重天，达到对应要求即可领取丰厚好礼！快来挑战极限吧！<span></span>
+</p>
+<p class="MsoNormal">
+	【活动奖励】：<span></span>
+</p>
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="555" style="border:none;">
+	<tbody>
+		<tr>
+			<td width="149" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >活动条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="406" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >奖励内容<span ></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="149" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >三十六重天层数最高<span></span></span>
+				</p>
+			</td>
+			<td width="406" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >41</span><span >级橙装武器图纸、符箓卷轴<span>*5</span>、进阶石<span>*3</span>、灵石<span>*20<span style="background:yellow;"></span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="149" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >三十六重天层数<span>2-3</span></span>
+				</p>
+			</td>
+			<td width="406" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >4</span><span >级宝石箱子<span>*1</span>、铜钱<span>*25W</span>、星力<span>*10W</span>、玄铁<span>*20</span>、<span style="background:yellow;"></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="149" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >三十六重天层数<span>4-5</span></span>
+				</p>
+			</td>
+			<td width="406" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >3</span><span >级宝石箱子<span>*1</span>、铜钱<span>*20W</span>、星力<span>*5W</span>、三光神水<span>*2<span style="background:yellow;"></span></span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="11" style="text-indent:0cm;">
+	<b>&nbsp;</b>
+</p>
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="555" style="border:none;">
+	<tbody>
+		<tr>
+			<td width="168" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >活动条件<span></span></span></b>
+				</p>
+			</td>
+			<td width="387" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<b><span >奖励内容<span ></span></span></b>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="168" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >三十六重天上升层数第<span>1</span></span>
+				</p>
+			</td>
+			<td width="387" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*300</span>、<span>41</span>级紫装武器图纸、<span>4</span>级宝石箱子<span>*1</span>、灵石<span>*20<span style="background:yellow;"></span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="168" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >三十六重天上升层数第<span>2-3</span></span>
+				</p>
+			</td>
+			<td width="387" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >元宝<span>*100</span>、铜钱<span>*20W</span>、灵石<span>*10</span>、玄铁<span>*20<span style="background:yellow;"></span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="168" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >三十六重天上升层数第<span>4-5</span></span>
+				</p>
+			</td>
+			<td width="387" valign="top" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >3</span><span >级宝石箱子<span>*1</span>、铜钱<span>*10W</span>、星力<span>*5W</span>、三光神水<span>*2<span style="background:yellow;"></span></span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	【温馨提示】：<span></span>
+</p>
+<p class="11" style="text-indent:0cm;">
+	1.活动结果及奖励将在活动截止后三个工作日内公布并通过邮件发放。<span></span>
+</p>
+<p class="11" style="text-indent:0cm;">
+	2.<span> </span>登天路最高层数奖励及上升层数奖励不可同时获得，如同一人同时满足两个活动，则发放层数最高活动奖励，上升层数奖励顺延。<span></span>
+</p>
+<p class="11" style="text-indent:0cm;">
+	<b>&nbsp;</b>
+</p>
+<p class="MsoNormal">
+	<b>活动六：精英副本，限时挑战</b>
+</p>
+<p class="MsoNormal">
+	【活动时间】：<b>2014年<span>8</span>月<span>21</span>日 <span>- 2014</span>年<span>8</span>月<span>25</span>日 每天<span>12:00-14:00</span>；<span>21:00-23:00</span></b><span></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】：活动期间，通关指定副本即可在【精彩活动】领取额外奖励，通关副本等级越高获得的奖励越丰厚！<span></span>
+</p>
+<p class="MsoNormal">
+	【活动奖励】：<span></span>
+</p>
+<p class="MsoNormal">
+	1、每天活动期间通关“<span>25</span>级精英主持”副本可获得奖励：<span></span>
+</p>
+<p class="MsoNormal">
+	灵石<span>*2</span>、小号铜钱锦囊<span>*5</span>、小号星力锦囊<span>*5</span>、大喇叭<span>*1</span>
+</p>
+<p class="MsoNormal">
+	2、每天活动期间通关“<span>36</span>级精英沙僧”副本可获得奖励：<span></span>
+</p>
+<p class="MsoNormal">
+	神镜碎片<span>*2</span>、小号铜钱锦囊<span>*10</span>、小号星力锦囊<span>*10</span>、符箓卷轴<span>*2</span>
+</p>
+<p class="MsoNormal">
+	3、每天活动期间通关“<span>46</span>级精英公主”副本可获得奖励：<span></span>
+</p>
+<p class="MsoNormal">
+	太极符印<span>*2</span>、小号铜钱锦囊<span>*20</span>、小号星力锦囊<span>*20</span>、玄铁<span>*3</span>
+</p>
+<p class="MsoNormal">
+	【温馨提示】：<span></span>
+</p>
+<p class="MsoNormal">
+	奖励结算以通关时间为准，每个活动时间段通关不同活动副本均可获得一次奖励。<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	用心做好游戏，用心对待玩家！<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal" align="right" style="text-align:right;">
+	《战魂西游》运营团队<span></span>
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

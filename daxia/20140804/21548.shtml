@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>论剑_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">游戏资料</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">论剑</div>
+              <p><p class="MsoNormal" align="left" >
+	游戏内玩家与玩家<span>PVP</span>玩法，争夺排名。<span></span>
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140804/20140804171100_32266.png" alt="" />
+</p>
+<p class="MsoNormal">
+	&nbsp;
+	<p class="MsoNormal">
+		&nbsp;玩家可以使用论剑获得的声望与战绩兑换相应的侠名与奖励
+	</p>
+	<p class="MsoNormal">
+		论剑开启后，点击主界面的论剑可进入论剑峰。左侧为玩家自己，右侧为可挑战的玩家，并且可上下滑动。顶峰为论剑前十名的玩家；论剑战斗不消耗体力；玩家每日有五次免费挑战的机会，免费次数用完后想继续挑战需使用“论剑帖”进行补充，第十名之下的那位玩家为本次可挑战的最高名次，玩家必须在前十五名内才能挑战第十名；战斗胜利可获得经验、声望与一定的论剑战绩或经验道具，战斗失败仅消耗次数，不扣除战绩等。<br />
+<br />
+侠名<br /><img src="http://i0.feiliu.com/image/20140804/20140804171110_13717.png" alt="" />
+	</p>
+</p>
+<p class="MsoNormal">
+	战绩<span></span>
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140804/20140804171119_31729.png" alt="" />
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

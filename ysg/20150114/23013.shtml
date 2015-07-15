@@ -1,0 +1,67 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			新闻中心
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			新闻中心
+	        				        		</div>
+	    			<div class="infotitle">《就是要三国》名将录 三公主公孙权最帅</div>
+		        	<div class="textTime">2015-01-14</div>
+		    		<div class="article">
+						&nbsp;&nbsp;&nbsp;&nbsp;新概念策略对战手游《<span>就是要三国</span>》已经于1月13日正式开启越狱封测。作为一款以创新为亮点的全新三国题材手游，《<span>就是要三国</span>》真实还原三国历史，游戏中宏大的三国地图、数之不尽的城池关隘、历史地貌天气环境、上百位三国名将等等都为玩家带来身临其境的感受。作为游戏核心要素的三国名将，通过名画师的手绘，将个人独特的气质表现得淋漓尽致。而魏蜀吴的主公在《<span>就是要三国</span>》中都是一副什么面貌？为什么很多玩家都会说孙权是最帅的呢？<br />
+<br />
+<span>《<span>就是要三国</span>》官方网站：http://ysg.feiliu.com/</span><br />
+<br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;【魏国主公 霸气四溢曹操】<br />
+<br />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;曹操，魏国主公。历史文学作品记载他的形象为：“身长七尺，细眼长须”、“神明英发”，可见曹操是一位虽然不帅但是非常威武的人物。《<span>就是要三国</span>》根据历史，将曹操描绘为：头戴翎羽冠、手抚长须表情严肃、胯下绝影马奔驰、手中长剑遥指前方，如此霸气四溢也就是“枭雄”曹操才能具备的气质。</span><br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;【蜀国主公 青衫儒将刘备】<br />
+<br />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;刘备，蜀国主公。陈寿《三国志》记载，刘备外貌为“身长七尺五寸，两耳垂肩，双手过膝，目能自顾其耳，面如冠玉，唇若涂脂”，可以说刘备的外貌符合中国传统的有“福”之人，而刘备也是一个性宽厚、知人待士的儒生。《就是要三国》结合人们的审美观和刘备的形象，将他在游戏中塑造为一个，一身青衫、头戴儒生巾、表情威武、双手挥动双股剑、骑乘卢马飞奔的造型，完美结合刘备性情的形象，相比会让玩家在游戏中直观了解刘备这位蜀国君主。</span><br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;【吴国主公 帝王风范孙权】</span><br />
+<br />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;孙权，吴国主公。《三国演义》描述他“紫髯碧眼，目有精光，方颐大口，形貌奇伟”，即是说孙权是一个紫红色头发、碧色眼睛、面容俊朗、身材魁伟的“混血儿”形象。相对于其他两位主公的重新塑造，《<span>就是要三国</span>》则原貌呈现了孙权的形象，长带头冠、紫红色头发、碧绿眼睛、古朴的长袍、右手笏板象征权力、左手长剑象征武力，嫣然一副开创霸业的威武形象。</span><br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;总览上述描述，魏蜀吴三国主公们的外貌评比是不是非常清楚了呢？他们可都是可以在《<span>就是要三国</span>》中招募到手的，而且游戏中还有上百位名将可都各个威武不凡哦！现在就拿起手机，在91助手、PP助手、快用苹果助手、iTools、同步推、XY苹果助手、海马苹果助手、爱思助手以及《<span>就是要三国</span>》官方网站下载游戏，将三国名将统统收归麾下吧！</span><br />
+<div>
+	<br />
+</div>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

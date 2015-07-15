@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="坦克风云" />
+    <meta name="keywords" content="坦克风云" />
+    <title>《坦克风云》官方网站</title>
+    <link href="http://js.feiliu.com/static/tkdz/style/master.css?v=3" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/tkdz/js/jquery-1.7.2.min.js?v=1"></script>
+	
+    <script type="text/javascript">
+        $(function () {
+            newsTab();
+            lb();
+            $("#btn01").hover(function () {
+                $("#erweima01").show();
+            }, function () {
+                $("#erweima01").hide();
+            });
+            $("#btn02").hover(function () {
+                $("#erweima02").show();
+            }, function () {
+                $("#erweima02").hide();
+            });
+            $("#btn03").hover(function () {
+                $("#erweima03").show();
+            }, function () {
+                $("#erweima03").hide();
+            });
+        });
+
+        function newsTab() {
+            var navs = $("#news_nav > a");
+            var panes = $("#news_panes > ul");
+            navs.each(function (i) {
+                $(this).click(function () {
+                    navs.removeClass("current").eq(i).addClass("current");
+                    panes.hide().eq(i).show();
+                });
+            });
+        }
+
+        function lb() {
+            var lbbox = $("#lbbox");
+            var lbimgs = $("#lb_img > a");
+            var lbnavs = $("#lb_nav_btn > a");
+            var i = 0;
+            var time = 3000;
+            var timer = null;
+
+            lbnavs.each(function (x) {
+                $(this).click(function () {
+                    i = x;
+                    lbAnimate();
+                });
+            });
+
+            timer = setInterval(lbzd, time);
+
+            lbbox.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(lbzd, time);
+            });
+
+            function lbzd() {
+                i = i >= lbimgs.length - 1 ? i = 0 : i + 1;
+                lbAnimate();
+            }
+
+            function lbAnimate() {
+                lbimgs.hide().eq(i).show();
+                lbnavs.removeClass("current").eq(i).addClass("current");
+            }
+        }
+
+    </script>
+
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="content">
+            <!--坦克风云头部模板start-->
+			<!--#include virtual="/list/index_tk_top1.shtml"-->
+	 <!--坦克风云头部模板end-->
+           <script type="text/javascript" src="http://js.feiliu.com/static/tkdz/js/is_mobile.js?v=1"></script>
+           <script type="text/javascript" src="http://js.feiliu.com/static/tkdz/js/count.js?v=3"></script>    
+            <div class="news clearfix">
+                 <div class="lbbox" id="lbbox">
+                    <div class="lb_img" id="lb_img">
+                        <a href="#" target="_blank" style="display: block;">
+                            <img src="http://js.feiliu.com/static/tkdz/images/306181a.jpg" alt="" /></a>
+                        <a href="#" target="_blank">
+                            <img src="http://js.feiliu.com/static/tkdz/images/306181b.jpg" alt="" /></a>
+                        <a href="#" target="_blank">
+                            <img src="http://js.feiliu.com/static/tkdz/images/306181c.jpg" alt="" /></a>
+                    </div>
+                    <div class="lb_nav">
+                        <div class="lb_nav_bg"></div>
+                        <div class="lb_nav_btn" id="lb_nav_btn">
+                            <a href="javascript:;" class="current"></a>
+                            <a href="javascript:;"></a>
+                            <a href="javascript:;"></a>
+                        </div>
+                    </div>
+                </div>
+                
+				<!--坦克风云首页媒体栏目模板start-->
+							<!--#include virtual="/list/index_tk_right1.shtml"-->
+				<!--坦克风云首页媒体栏目模板end-->
+				
+            </div>
+            <div class="bottom">
+                <p>About.us | Copy right@北京飞流九天科技有限公司 2014 &nbsp;&nbsp;企业QQ : 800032234</p>
+                <p>爱游戏，爱生活，也爱美女。</p>
+                <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+                <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+                <p>Love is love!</p>
+            </div>
+        </div>
+    </div>
+
+<div style="display:none;"><script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fa1509c1de8c19dc46bc06d2b18b0a96b' type='text/javascript'%3E%3C/script%3E"));
+</script></div>
+
+</body>
+</html>

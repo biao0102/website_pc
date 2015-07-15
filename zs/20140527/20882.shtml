@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_精美壁纸</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">精美壁纸</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>精美壁纸</span>
+							</div>
+							<div class="nrarea" id="videoT">
+								<article id="article">
+									<h1 class="w-t">曹仁壁纸</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-27 14:01:25</span>
+																			</div>
+									<div class="w-d">
+										<!--图片播放区 end-->
+										<div id="videoBox">
+											<img src="http://i0.feiliu.com/201405/99/996c23dd648ad8a316f9c168aed1906c.jpg">
+											<style>
+												#videoBox img{margin-left:65px;}
+											</style>
+										</div>
+										<!--图片播放区 end-->
+										<p id="videoDes">
+											<b>图片介绍：</b>曹仁壁纸<br />
+　　下载地址：<a href="http://i0.feiliu.com/201405/75/75614f1db29c7e35934ae35030d1a6fe.jpg">http://i0.feiliu.com/201405/75/75614f1db29c7e35934ae35030d1a6fe.jpg</a>
+										</p>
+									</div>
+								</article>
+							</div>	
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

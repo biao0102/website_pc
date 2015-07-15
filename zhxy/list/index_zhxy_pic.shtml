@@ -1,0 +1,20 @@
+            <div class="image-sec">
+                <ul class="image-list active">
+                    <li><img src="http://i0.feiliu.com/201407/6d/6d2d99c7e9ccc0a959a6e3608bca7095.jpg" /></li>
+                    <li><img src="http://i0.feiliu.com/201407/f8/f8e228e6edb9ba1a9a56e3669afb61ed.jpg" /></li>
+                    <li><img src="http://i0.feiliu.com/201407/9b/9b1e65cdfe86f2b6838303a5bf22de2f.jpg" /></li>
+                    <li><img src="http://i0.feiliu.com/201407/42/42426d1ef90745e4162d1f69165508fa.jpg" /></li>
+                </ul>
+                <ul class="image-list">
+                 <li><img src="http://i0.feiliu.com/201407/6d/6d2d99c7e9ccc0a959a6e3608bca7095.jpg" /></li>
+                </ul>
+                <ul class="image-list">
+                  <li><img src="http://i0.feiliu.com/201407/db/db783454a806bde6262027358d198286.jpg" /></li>
+                </ul>
+
+                <ul class="image-tab">
+                    <li class="yxjt"><a class="active" href="javascript:void(0);"></a></li>
+                    <li class="wjzp"><a href="javascript:void(0);"></a></li>
+                    <li class="wjty"><a href="javascript:void(0);"></a></li>
+                </ul>
+            </div>

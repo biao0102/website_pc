@@ -1,0 +1,11 @@
+<div class="nav">
+                <ul class="nav_list">
+                    <li class="btn01"><a href="http://mojie.feiliu.com/">官网首页</a></li>
+                    <li class="btn02"><a href="#">游戏资讯</a></li>
+                    <li class="btn03"><a href="#">资料站</a></li>
+                    <li class="btn04"><a href="#">VIP专属</a></li>
+                    <li class="btn05"><a href="#">视听盛宴</a></li>
+                    <li class="btn06"><a href="#">官方论坛</a></li>
+                </ul>
+                <h1 class="logo"><a href="#">《魔戒》官方网站</a></h1>
+            </div>

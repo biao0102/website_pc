@@ -1,0 +1,28 @@
+<div id="news">
+			<ul class="newswrap">
+				<li class="news-tab news-tab-curr">最新</li>
+				<li class="news-tab">新闻</li>
+				<li class="news-tab">活动</li>
+				<li class="news-tab">公告</li>
+				<li class="more"><a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">more</a></li>
+				<li class="more disN"><a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">more</a></li>
+				<li class="more disN"><a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">more</a></li>
+				<li class="more disN"><a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">more</a></li>
+			</ul>
+			
+		<!--新闻栏目最新模板start-->
+			<!--#include virtual="/list/index_ttdqy_colzx.shtml"-->
+		<!--新闻栏目最新模板end-->
+
+		<!--新闻栏目新闻模板start-->
+			<!--#include virtual="/list/index_ttdqy_colnews.shtml"-->
+		<!--新闻栏目新闻模板end-->
+
+		<!--新闻栏目活动模板start-->
+			<!--#include virtual="/list/index_ttdqy_colhd.shtml"-->
+		<!--新闻栏目活动模板end-->
+
+		<!--新闻栏目公告模板start-->
+			<!--#include virtual="/list/index_ttdqy_colgg.shtml"-->
+		<!--新闻栏目公告模板end-->
+</div>

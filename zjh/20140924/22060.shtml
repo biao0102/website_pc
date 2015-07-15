@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>门客系统_游戏攻略_最江湖官方网站</title>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/stop.jpg"  alt="新闻"/></h2>
+          </div>
+          <div class="clear"></div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle" style="color:#704e33;">门客系统</div>
+              <div class="textTime"><span style="float:left; color:#393939; width:80px; padding-left:90px;">2014-09-24 15:41:56</span><span style="width:380px; float:right; padding-top:10px">
+                <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span></div>
+                <p></p>
+                <h1 style="margin-bottom:0pt;margin-top:0pt;text-align:center;">
+	门客系统<o:p></o:p>
+</h1>
+<p class="p0" style="text-indent:24.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	27级开启门客系统后，可以抓捕之前在华山论剑中击败的玩家，抓捕后让其为你打扫庭院，为您贡献经验。<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;"><img src="http://i0.feiliu.com/image/20140924/20140924154044_18629.png" width="360" height="240" alt="" />&nbsp;
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;抓捕门客时，只能抓捕最近在华山论剑中击败的玩家，最多只能同时抓捕3名侠客。成功抓捕的侠客，会为您打工24小时。期间被抓捕的侠客可以反抗或者请求其他侠客解救。<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;"><img src="http://i0.feiliu.com/image/20140924/20140924154055_67327.png" width="360" height="270" alt="" />&nbsp;
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;若您意欲抓捕的门客易被其他侠客抓捕，您可以击败对方抢夺门客，为保护新手不得抢夺低于您10级以上玩家的门客。<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	抓捕门客后，除了可以让其在24小时内为您贡献经验外，还可与门客进行面壁、教训、施舍、赏赐等互动，每次互动均可以获得大量经验。每天可以进行5次互动（所有门客共计5次）<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	&nbsp;
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	<o:p></o:p>
+</p> 
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

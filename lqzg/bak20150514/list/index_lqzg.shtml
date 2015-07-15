@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="keywords" content="龙骑战歌，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" />
+<meta name="description" content=" 《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。"/>
+<title>龙骑战歌_龙骑战歌官网 _下载_攻略_安卓_龙骑战歌概念站</title>
+<link href="http://js.feiliu.com/static/lqzg/web/css/concept.css?v=8" rel="stylesheet">
+<script src="http://js.feiliu.com/static/lqzg/web/js/is_mobile.js"  type="text/javascript"></script>
+<script type="text/javascript"  src="http://js.feiliu.com/static/public/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript"  src="http://js.feiliu.com/static/public/js/swfobject.js"></script>
+<script src="http://js.feiliu.com/static/lqzg/web/js/character.js?v=1"  type="text/javascript"></script>
+</head>
+
+<body>
+	<!--首页浮动窗口start-->
+	  <!--#include virtual="/list/index_lqzg_float.shtml"-->
+	<!--首页浮动窗口end--> 
+
+
+	<div class="index" id="canvas" >
+		<div class="canvas">
+			<div data-src="http://js.feiliu.com/static/lqzg/web/images/long1qi.swf?v=5" id="flash" class="flash"></div>
+		</div>
+	</div>
+
+	<!--底部版权模板start-->
+	  <!--#include virtual="/list/index_lqzg_foot.shtml"-->
+	<!--底部版权模板end--> 
+<script>
+	$(function(){
+		$(window).load(function(){
+				setTimeout(function(){$("#dialog_right").css("display", "block");}, 5000);
+		});
+            $("#dialog_close").click(function () {
+                $("#dialog_right").animate({ right: "-135px" }, 500, function () {
+                    $("#dialog_box").hide();
+                    $("#dialog_btn").show();
+                });
+            });
+            $("#dialog_btn").click(function () {
+                $("#dialog_btn").hide();
+                $("#dialog_box").show();
+                $("#dialog_right").animate({ right: "0px" }, 500);
+            });
+		var mobile = $.trim($("#mobi").val()),
+			mobitip = '--- 请输入预约手机号 ---',
+			type = $("input[name=r]:checked").val();
+		$("#mobi").bind('focus', function(){
+			var val = $.trim($(this).val());
+			if(val == mobitip){
+				$(this).val("");
+			}else{
+				$(this).val(val);				
+			}
+		});
+		$("#subscribe").bind("click", function(){
+ 			mobile = $.trim($("#mobi").val()),
+ 			type = $('input[name="r"]:checked').val();
+			if(!mobile || mobile == mobitip){
+				alert("手机号码不能为空");
+				return false;
+			}else if(!/^(13[0-9]|1[4578][0-9])\d{8}$/i.test(mobile)){
+				alert("手机号码格式错误，请重新输入");
+				return false;
+			}
+			if(!type){
+				alert("请选择平台（ios正版/安卓/越狱版）！");
+				return false;
+			}
+
+			$.ajax({
+				type : 'GET',
+				url : 'http://act.feiliu.com/lqzg/gift/subscribe',
+				dataType : 'jsonp',
+				data : {"mobile" : mobile, "type" : type},
+				success : function(data){
+					if(data.status != 'undefined'){
+						alert(data.chars);
+					}
+				}
+			});			
+		});
+
+		$("#radiolist label").bind('click', function(){
+			$(this).addClass("hRadio_Checked").siblings("label").removeClass("hRadio_Checked").siblings("input").attr("checked", false);
+			$(this).prev().attr("checked", "checked");
+		});
+	})
+</script>
+</body>
+</html>

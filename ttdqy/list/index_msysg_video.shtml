@@ -1,0 +1,20 @@
+          <div class="topright"> 
+            <span><img src="http://js.feiliu.com/gameimg/ttdqy/20141223182700.jpg" /></span>
+            <div  class="video">
+              <div id="easyhtml5video" style="width:261px;height:119px; background:#000000;">
+                <video controls="controls"   poster=" http://js.feiliu.com/gameimg/ttdqy/20141223182700.jpg" width="261" height="119" title="zjh">
+                  <source src="video/mssg.mp4" type="video/mp4" />
+                  <source src="video/mssg.webm" type="video/webm" />
+                  <source src="video/mssg.ogv" type="video/ogg" />
+                  <object type="application/x-shockwave-flash" data="http://js.feiliu.com/static/zyzn/video/flashfox.swf"  width="261" height="119" style="position:relative;">
+                    <param name="movie" value="http://js.feiliu.com/static/zyzn/video/flashfox.swf" />
+                    <param name="allowFullScreen" value="true" />
+                    <param name="flashVars" value="autoplay=true&controls=true&fullScreenEnabled=true&posterOnEnd=true&loop=false&poster=images/post.jpg&src=video/mssg.mp4" />
+                    <embed src="http://js.feiliu.com/static/zyzn/video/flashfox.swf" width="697" height="365" style="position:relative;"  flashvars="autoplay=false&controls=true&fullScreenEnabled=true&posterOnEnd=true&loop=false&poster= http://js.feiliu.com/static/msysg/web/images/post.jpg&src=video/mssg.mp4"	allowfullscreen="true" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer_en" />
+                    <img alt="天天逗群英" src="http://js.feiliu.com/static/msysg/web/images/post.jpg" width="261" height="119" title="您的浏览器版本已过时，不支持视频播放" />
+                  </object>
+                </video>
+                <script src="http://js.feiliu.com/static/msysg/web/scripts/html5ext.js" type="text/javascript"></script>
+              </div>
+            </div>
+          </div>

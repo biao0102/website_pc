@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">喀秋莎再次响起！《战地坦克》火箭车原型一览</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-11-26</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              &nbsp; 《战地坦克》是国内首款坦克军团策略手游，游戏根据现实世界的坦克发展史，将全球范围内的绝大多数经典坦克都一一原貌呈现在游戏中，并按照自身特性将其划分为自行火炮、火箭车、坦克、歼击车等。玩家可以在游戏中亲眼领略到全球经典坦克的雄姿，并可以亲手制造坦克，组间属于自己的坦克军团，率领它们驰骋疆场。在诸多坦克类型中，火箭车凭借其高额的伤害、对自行火炮的压制，以及各种强悍的De-Buff，成为玩家坦克军团必不可少的一份子。虽然玩家往往会对《战地坦克》中火箭车的造型、属性感到惊叹，但你真的知道它们的原型是什么吗？现在，就让我们一起揭秘火箭车原型——喀秋莎火箭炮！<br />
+<br />
+<br />
+《战地坦克》游戏官网：http://tk.feiliu.com<br />
+《战地坦克》iOS正版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8<br />
+《战地坦克》iOS越狱版下载：http://js.feiliu.com/ipa/tk/tk_300021.ipa<br />
+<br /><img src="http://i0.feiliu.com/image/20141126/20141126110329_25679.jpg" alt="" /><br />
+<br />
+&nbsp; 喀秋莎火箭炮全称喀秋莎多管火箭炮，是第一种被苏联于第二次世界大战大规模生产、投入使用的自走火箭炮。相较于其他的火炮，这些多管火箭炮能迅速地将大量的炸药倾泻于目标地。虽然相对于其他火炮来说在防御上堪称脆弱，但其强悍的范围攻击力以及极高的性价比，使得喀秋莎成为了第一种苏联在二战期间大量生产的自行火炮。而且，喀秋莎拥有其他自行火炮不可比拟的机动性，这样的机动性能使喀秋莎能一次投注大量火力，并在遭到反攻炮火前迅速离开。<br />
+<br /><img src="http://i0.feiliu.com/image/20141126/20141126110451_62790.jpg" alt="" /><br />
+&nbsp; 喀秋莎多管火箭炮的滑轨床共有8条发射滑轨，每条滑轨上下各悬挂一枚火箭弹，可发射口径为132毫米的火箭弹16发，最大射程8.5公里。火箭弹的战斗部分的弹体内是TNT炸药，由于在发射时所承受的过载和应力远低于身管火炮，所以火箭弹的炸药装填系数高于普通炮弹，因而一枚132mm火箭弹的爆炸威力和一枚152mm榴弹相当。药筒部分是由七根管状发射药筒组成。装填一次齐射的弹药约需5至10分钟，一次齐射仅需7至10秒。运载车时速90公里。该炮射击火力凶猛，杀伤范围大，轰炸范围达8000平方米，是一种大面积消灭敌人密集部队、压制敌火力配系和摧毁敌防御工事的有效武器。<br /><img src="http://i0.feiliu.com/image/20141126/20141126110616_89902.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 在令人望而生畏的武器系统下，喀秋莎创造了诸多令人难以置信的战绩。1939年5月9日，在诺门坎事件（俄方称哈拉哈河战役）中，噶秋莎击落了10架日军轰炸机。 1941年7月14日，苏军组建的第一个火箭炮连7辆BM-13向斯摩棱斯克附近的被德军占领奥尔沙火车站进行了一轮齐射。短时间内射出的一百多枚火箭弹致使驻守该地的德军第5步兵师损失惨重。由于炮击过于迅猛，以致于德军当时以为遭到了一个苏军炮兵师的攻击。<br /><img src="http://i0.feiliu.com/image/20141126/20141126110802_27719.jpg" alt="" /><br />
+&nbsp;喀秋莎在历史上的地位、强悍的武器系统、骄人的战绩等多方面都令人惊叹，但在《战地坦克》中它会有如何惊人的表现，则需要玩家亲自体验了！<br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》强化功能介绍_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》强化功能介绍</h2>
+          <p>&nbsp; &nbsp; &nbsp; 人靠衣装，佛靠金装。这是古人说的一句话。在《战魔》中，人物的装备不仅有绚丽的外表，同时具有很高的实用性，不同装备附加不同属性，想要提升装备属性，强化便是最主要的方式，玩家可以通过装备强化提升装备附加属性的数值，使人物角色变强最快捷的途径。&nbsp;<br />
+&nbsp; &nbsp; &nbsp; 装备的强化提升，是最有效的战斗力提升方式，任何武器，饰品都可以进行装备强化，但强化等级不可超过玩家等级。每当装备提升一个强化等级，其能力都将获得提升。能力提升取决于装备的等级和品质，当装备达到一定等级即可进行锻造，提升装备品级，装备的基础数值越大，强化获得的加成也越大。So，还等什么，赶快来锻造属于自己的装备吧！<br /><img src="http://i0.feiliu.com/image/20140919/20140919151635_80980.jpg" alt="" /><br />
+锻造所需材料由副本产出。<br />
+白色（青霜） 装备等级20级锻造后变绿色（逍遥）装备，此时 装备等级10级<br />
+绿色（逍遥） 装备等级40级锻造后变蓝色（贪狼）装备，此时 装备等级30级<br />
+蓝色（贪狼） 装备等级60级锻造后变紫色（破军） 装备，此时 装备等级50级<br />
+紫色 （破军）装备等级80级锻造后变橙色（神威） 装备，此时 装备等级70级<br />
+<div >
+	<br />
+</div></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

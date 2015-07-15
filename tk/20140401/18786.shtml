@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">2014年人气军事手游《坦克风云》4月铁血内测</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-04-01</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团对战手游《坦克风云》即将于4月铁血内测！《坦克风云》凭借真实还原百种二战主战坦克、操作轻松简单、百万玩家同地图军团PK等三大特色颠覆了传统手游的概念。《坦克风云》在内测期间不仅有六大活动等你参加，还有大量好礼相送！快来《坦克风云》实现你称霸世界的梦想，打造自己的坦克帝国吧！<br />
+<br />
+<br />
+欢迎访问游戏官网：http://tk.feiliu.com/<br />
+点击下载ios版：https://itunes.apple.com/cn/app/tan-ke-feng-yun-zhan-huo/id829509176?mt=8<br />
+点击下载ios越狱版：http://tk.feiliu.com/count/download.php?type=2&amp;ismobile=1&amp;source=tk<br />
+<div>
+	<br />
+<br /><img src="http://i0.feiliu.com/image/20140401/20140401110613_22569.jpg" alt="" /><br />
+<br />
+<br />
+【指挥装甲雄师 铁血大战一触即发】<br />
+<br />
+<br />
+德国山猫、英国百夫长、俄罗斯T90、法国凯撒自行火炮、苏联BM-21斯大林管风琴……现在都是你的了！《坦克风云》真实还原世界百种装甲战车，在手机上圆你指挥钢铁雄狮攻城掠地的元帅梦。游戏中不仅真实还原战车外貌，更通过逼真的细节演绎各国钢铁雄狮——激烈震撼的战场上，坦克全速冲锋扬起的烟尘、射击后弹出的弹壳和散去的硝烟、被后坐力影响的坦克车身和炮管，被车体弹飞的炮弹，各种情况都在游戏中得以展现，时刻提醒你铁血大战的惨烈。<br />
+<br /><img src="http://i0.feiliu.com/image/20140401/20140401110739_36742.jpg" alt="" /><br />
+【军团作战百万玩家同场PK】<br />
+<br />
+<br />
+无论是沙漠之狐隆美尔，还是坦克战之父古德里安都深知军团作战的重要性。《坦克风云》带来颠覆性军团玩法，玩家加入军团将深刻体会“人人为我，我为人人”的精髓——面对防守坚固的碉堡，快叫来军团战友轮番进攻吧！被身边的VIP打的喘不过气来？呼唤军团兄弟支援，一番车轮大战保证叫他跑得远远的。<br />
+	<div><img src="http://i0.feiliu.com/image/20140401/20140401110830_56580.jpg" alt="" /><br />
+	</div>
+此外，《坦克风云》更是为大家精心准备了热血过瘾的军团副本，你不仅可以组队挑战实力强悍的敌人，更能在广阔的世界地图上实时与世界各地的百万玩家同场一决雌雄，用鲜血与荣耀将对手踩在脚下，获取你应得的奖励！<br /><img src="http://i0.feiliu.com/image/20140401/20140401110919_84416.jpg" alt="" /><br />
+【抢夺资源金钱称霸全服】<br />
+<br />
+<br />
+打造庞大的装甲师团当然离不开源源不断的资源补给。在《坦克风云》中你能够指挥军团攻打玩家，疯狂掠夺他们的资源，让你感受征服的快感。此外除了传统COC类游戏玩法外，《坦克风云》更准备了庞大的世界地图供你探索与征服。<br /><img src="http://i0.feiliu.com/image/20140401/20140401111038_28744.jpg" alt="" /><br />
+世界地图上分布着各种等级的资源矿，玩家需要派出部队攻占等级不同的资源点（资源点等级越高收益越高，但相应守军实力也更高）——不同于COC式的一次性抢夺，《坦克风云》中占领者还需要在一定时间内守卫自己的战利品，否则不仅收益会受到损害，自己的部队更有可能遭到全歼。是继续坚守还是见好就收，这是作为指挥官的你需要考虑的问题。<br /><img src="http://i0.feiliu.com/image/20140401/20140401111142_88732.jpg" alt="" /><br />
+指挥各国主战坦克集团撕裂对手防线，体验爽快硬派的机械化战争。更多详细情报欢迎访问游戏官网：http://tk.feiliu.com/，《坦克风云》即将于4月开启铁血内测，坦克大战 一触即发！<br />
+</div>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

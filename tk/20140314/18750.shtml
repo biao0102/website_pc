@@ -1,0 +1,299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《坦克风云》玩家FAQ</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-03-14</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              我们根据广大玩家在游戏中遇到的问题以及需求，集中一些问题，在这里为玩家进行解答。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>前期怎么样升级更快？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>做主线任务获得经验最多，另外日常任务、战斗都会有经验奖励。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>资源达到上限还能获得资源吗？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>不能的，在使用资源包时，资源可以临时性的超出上限，但资源超过上限后，即会停止生产，采集和掠夺带回来的资源也不会超过上限，多出的部分会被扔掉<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>角色技能是否可以重置吗？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>可以，需要在技能界面点击重置按钮进行重新分配<span lang="EN-US">,</span>重置技能点，但是需要要消耗金币的。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何搜索其他玩家的坐标呢？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>点击界面左下角的图标可以切换区域，当您切换至<span lang="EN-US">"</span>世界<span lang="EN-US">"</span>的时候，在界面右上角会显示“坐标栏”按钮，输入坐标，点击“搜索”即可。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>在敌军来袭面板，为什么我看到敌军还有很长时间到达我基地，但中途突然就没有计时了，直接被掠夺了？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>亲，这是由于对方<b>使用金币</b>提速忽略行军时间，立即触发了战斗。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>怎么修建钛矿场？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>当您的<b>指挥中心</b>达到<span lang="EN-US">10</span>级后，然后把您的地图切换到<b>郊外地图</b>，在屏幕的左下方的<b>空地</b>可以建造钛矿场。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>资源不足怎么办？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>升级生产的资源建筑、抢占资源点、掠夺其他玩家和商店购买均可弥补资源的缺额。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>低级坦克在后期就无用了吗？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>您可以通过改装工长将低级坦克升级为高级坦克，资源的总消耗量不会有任何差距<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何加入军团？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>当您<span lang="EN-US">15</span>级建造军团建筑后，即可点击进入查询军团列表选择其中一个申请加入了。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何增加带兵量？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>在玩家信息中，升级您的统率等级可增加带兵量。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>怎么提高军衔？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>当您的等级提升到相应等级后，<b>花费</b>一定数量的水晶即可提升军衔。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>荣誉值有什么用？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>荣誉值是您与其他玩家发生战斗后获得的，目前用于排名。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>战斗力如何提升？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>保证您的坦克单位都是最高级别，提升您的统率等级和各种科技、技能等级。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何更换账号？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>在下方功能栏的设置点击进入里面会有，更换账号。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何更换服务器？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A: </span>在下方功能栏的设置点击进入里面会有，服务器列表。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何保护基地？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>点击下方功能栏的部队，最大战力，设置防御基地的部队，此处也受您的统率影响。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何增加行军队列？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>当您的<span lang="EN-US">VIP</span>等级提升后，您可以开启更多的行军队列。<span lang="EN-US">&nbsp; </span>可以建议玩家查看<span lang="EN-US">vip</span>列表<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何使用获得的道具？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>点击下方功能栏的物品，然后选择您想使用的道具即可。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>为什么地图看起来那么空？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>请稍稍等待一下，游戏正在读取这片地图上的建筑图片，这里的速度受限于您的网络速度。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何转移基地？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>使用迁徙令会随机迁徙到地图上任意一个空闲的坐标，而使用高级迁徙令会迁徙到地图上您指定的一个空闲的坐标。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何与他人私聊？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>聊天框内点击想要私聊的玩家名称即可选择与其进行私聊。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何给他人发邮件？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>聊天框内点击想要发送邮件的玩家名称即可给其发送邮件。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">Q:</span>如何完成日常任务？<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">A:</span>进入任务界面，点击右侧的日常任务，然后领取其中一项任务，完成后才能领取下一项任务。星数越多的任务奖励越多，难度也越大。<span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US">&nbsp;</span> 
+</p>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

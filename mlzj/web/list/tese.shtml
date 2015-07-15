@@ -1,0 +1,590 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta  name="keywords" content="FL game,FL Mobile,iOS game,Android game">
+<meta name="description" content="FL game,FL Mobile,iOS game,Android game">
+<title>魔界联盟官网</title>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/mlzj/web0525/css/css.css?v=1">
+<link href="http://js.feiliu.com/static/mlzj/web0525/css/jquery.mCustomScrollbar.css" rel="stylesheet" />
+</head>
+<body>
+<div class="w100 minwidth wrap_bg">
+    <div class="top">
+    <em><a href="http://mlzj.feiliu.com/web/list/index.shtml"><img src="http://js.feiliu.com/static/mlzj/web0525/images/nav_1.png" alt="" /></a></em>
+    <em><a href="http://mlzj.feiliu.com/web/list/news.shtml"><img src="http://js.feiliu.com/static/mlzj/web0525/images/nav_2.png" alt="" /></a></em>
+    <a href="http://mlzj.feiliu.com/index.shtml" class="logo"></a>
+    <em><a href="http://mlzj.feiliu.com/web/list/tese.shtml"><img src="http://js.feiliu.com/static/mlzj/web0525/images/nav_3.png" alt="" /></a></em>
+    <em><a href="" target="_blank"><img src="http://js.feiliu.com/static/mlzj/web0525/images/nav_4.png" alt="" /></a></em>
+</div>
+    <div class="banner">
+    <!--video-->
+    <div class="video" id="vbutton"><img src="http://js.feiliu.com/static/mlzj/web0525/images/video.png" alt="" /></div>
+    <div class="video1" style="display:none" id="video">
+        <div class="video_close" id="video_close">X</div>
+        <div id="viframe"></div>
+    </div>
+    <!--flash-->
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="1044" height="403"> 
+    <param name="movie" value="http://js.feiliu.com/static/mlzj/web0525/images/top.swf"> <!--swf是我的flash-->
+    <param name="quality" value="high">
+    <param name="wmode" value="transparent"> <!--这里代码可使Flash背景透明 -->
+    <embed src="http://js.feiliu.com/static/mlzj/web0525/images/top.swf" wmode="transparent" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="1044" height="403"></embed> 
+    </object> 
+</div>
+    <div class="content">
+        <div class="info">
+    <div class="button">
+        <a href="#" target="_blank"><img src="http://js.feiliu.com/static/mlzj/web0525/images/button_1.jpg" alt="" /></a>
+        <a href="#" target="_blank"><img src="http://js.feiliu.com/static/mlzj/web0525/images/button_2.jpg" alt="" /></a>
+        <a href="#" target="_blank"><img src="http://js.feiliu.com/static/mlzj/web0525/images/button_3.jpg" alt="" /></a>
+    </div>
+  <div class="info_bg Family_h">
+        <div class="ino_1">
+            <span class="textl"><a href="#" target="_blank">副本资料</a></span>
+            <span class="textc"><a href="#" target="_blank">地区介绍</a></span>
+            <span class="textr"><a href="#" target="_blank">好友系统</a></span>
+            <hr/>
+            <span class="textl"><a href="#" target="_blank">职业介绍</a></span>
+            <span class="textc"><a href="#" target="_blank">强化附魔</a></span>
+            <span class="textr"><a href="#" target="_blank">公会系统</a></span>
+        </div>
+        <div style="clear:both"></div>
+        <div class="ino_2">
+            <div class="r">
+                <span class="icon_1">80005555</span>
+            </div>
+            <div class="r">
+                <span class="icon_qq qq"></span>
+            </div>
+            <div class="h">
+             <span class="icon_2">80005555@qq.com</span>
+            </div>
+            <div style="clear:both"></div>
+            <div class="r">
+                <span class="icon_3">分享到微信</span>
+            </div>
+            <div class="r">
+                <span class="icon_4">分享到微博</span>
+            </div>
+        </div>
+        <div class="ino_3" id="media">
+            <ul>
+                                                                <li>
+                    <p class="r"><a href="http://www.15153.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15153.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://news.7k7k.com/m" target="_blank"><img src="http://js.feiliu.com/images/hzmt/7k7k.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.shouyou.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/shouyou.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://games.qq.com/mobile/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/qq.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.7xz.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/7xz.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.18touch.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/18touch.png" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://shouyou.52pk.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/52pk.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.91weile.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/91weile.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://game.163.com/shouyou" target="_blank"><img src="http://js.feiliu.com/images/hzmt/163.gif" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.178.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/178.png" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://sy.766.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/766.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.5253.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/5253.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.15666.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15666.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.18183.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/18183.png" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.61166.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/61166.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.97973.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/97973.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.anqu.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/anqu.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.appgame.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/appgame.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.banma.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/banma.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.bufan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/bufan.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.candou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/candou.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://i.china.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/china.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.d1758.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/d1758.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://games.enet.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/enet.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.ewoka.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/ewoka.png" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.g1080.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/g1080.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://game.91.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/game91.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.gamedog.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gamedog.png" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.gao7.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gao7.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.gm86.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gm86.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.joyme.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/joyme.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.maoren8.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/maoren8.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.mofang.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/mofang.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://sy.pcgames.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pcgames.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://game.pchome.net" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pchome.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.pipaw.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pipaw.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.play.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/play.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.ptbus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/ptbus.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.shouyoubus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/shouyoubus.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://games.sina.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/sina.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.smzdwan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/smzdwan.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.te6.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/te6.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://ol.tgbus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/tgbus.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://g.uuu9.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/uuu9.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.wankr.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/wankr.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.youxiduo.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/youxiduo.png" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.yoyou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yoyou.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.yxzoo.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yxzoo.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.7659.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/7659.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.4399.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/4399.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.66u.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/66u-logo.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.aiyou.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/爱游.png" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.1688wan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/1688wan.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.youxiniao.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/游戏鸟.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://mg.shunwang.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/顺网.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.kela001.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/克拉手游100-46.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.zhanggame.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/掌游网100-46.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.mkzoo.com/ " target="_blank"><img src="http://js.feiliu.com/images/hzmt/猿.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://ka.sina.com.cn/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/新浪游戏.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="" target="_blank"><img src="http://js.feiliu.com/images/hzmt/72G LOGO.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.72g.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/72G LOGO.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.87g.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/87G-logo.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.anfan.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/安锋网.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.benshouji.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/benshouji.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.bianwanjia.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/bianwanjia.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://sj.xiaopi.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/xiaopi.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.yoyojie.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yoyojie.png" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.zshouyou.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/zshouyou.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.15666.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15666.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.808w.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/100-46-808玩.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.xiaoyuzhongchou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/LOGO.jpg" alt="" /></a></p>
+                                                                                    <p class="r textr"><a href="http://www.xiaoyuzhongchou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/xyzc.jpg" alt="" /></a></p>
+                    <div  style="clear:both"></div>
+                </li>
+                                                                <li>
+                    <p class="r"><a href="http://www.47473.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/47473.jpg" alt="" /></a></p>
+                                    <div  style="clear:both"></div>
+                </li>
+                                                                            </ul>
+        </div>
+    </div>
+</div>
+        
+    <!--rightpart-->
+        <div class="main">
+            <div class="newslist_bg">
+                <div class="subnav">
+                    <i class="Family_h">游戏特色</i>
+                    <span>您所在的位置：<a href="index.html">首页></a><font>游戏特色><em id="title_te">游戏特色</em></font></span>
+                </div>
+                <div class="newsnav">
+                    <li><img src="http://js.feiliu.com/static/mlzj/web0525/images/gamenav1_01.jpg"  alt=""/></li>
+                    <li><img src="http://js.feiliu.com/static/mlzj/web0525/images/gamenav_02.jpg"  alt=""/></li>
+                    <li><img src="http://js.feiliu.com/static/mlzj/web0525/images/gamenav_03.jpg"  alt=""/></li>
+                    <li><img src="http://js.feiliu.com/static/mlzj/web0525/images/gamenav_04.jpg"  alt=""/></li>
+                </div>
+                <div  style="clear:both"></div>
+                <div class="newslist_c">
+                    <div class="newscontent">
+                        <h1 class="Family_h">《魔界联盟》本周封测 任性手游强势来袭</h1>
+                        <div class="newsarticle"  id="article1">
+                            <p>尊敬的玩家朋友们，大家好：</p>
+                            <p>　《就是要三国》自1月13日开启删档计费封测到现在有一周多时间，服务器也将于1月21日晚上24：00正式
+                            关闭，针对封测期间几项重要说明如下：</p>
+                            <p>1、 封测期间所有角色数据全部删除清档，玩家已注册的游戏账号信息在不删档测试时可继续使用，不删
+                            档测试时使用封测注册账号信息再次登录游戏将获得一份“感恩礼包”，作为对老朋友的回归大礼。</p>
+                            <p>2、 封测期间凡参与充值的用户，在不删档开启时需再次使用封测期间充值账号登录游戏将获得内测期间
+                              所充全部金额返还，同时在原基础上多返还100%，首次登录返还100%，登录第3天返还50%，登录第7天返还50%
+                              ，总计200%作为用户回馈。除此以外，已经获得的VIP等级也将如数返还。(注：请务必使用封测期间相同充值
+                            账号进行游戏登录)</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            坛说明http://bbs.8783.com/thread-83442-1-1.html。</p>
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            坛说明http://bbs.8783.com/thread-83442-1-1.html。</p>
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                          
+                        </div>
+                    </div>
+                </div>
+                <div class="newslist_c" style="display:none">
+                    <div class="newscontent">
+                        <h1 class="Family_h">《魔界联盟》本周封测 任性手游强势来袭</h1>
+                        <div class="newsarticle"  id="article2">
+                            <p>尊敬的玩家朋友们，大家好：</p>
+                            <p>　《就是要三国》自1月13日开启删档计费封测到现在有一周多时间，服务器也将于1月21日晚上24：00正式
+                            关闭，针对封测期间几项重要说明如下：</p>
+                            <p>1、 封测期间所有角色数据全部删除清档，玩家已注册的游戏账号信息在不删档测试时可继续使用，不删
+                            档测试时使用封测注册账号信息再次登录游戏将获得一份“感恩礼包”，作为对老朋友的回归大礼。</p>
+                            <p>2、 封测期间凡参与充值的用户，在不删档开启时需再次使用封测期间充值账号登录游戏将获得内测期间
+                              所充全部金额返还，同时在原基础上多返还100%，首次登录返还100%，登录第3天返还50%，登录第7天返还50%
+                              ，总计200%作为用户回馈。除此以外，已经获得的VIP等级也将如数返还。(注：请务必使用封测期间相同充值
+                            账号进行游戏登录)</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            坛说明http://bbs.8783.com/thread-83442-1-1.html。</p>
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            坛说明http://bbs.8783.com/thread-83442-1-1.html。</p>
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="newslist_c" style="display:none">
+                    <div class="newscontent">
+                        <h1 class="Family_h">《魔界联盟》本周封测 任性手游强势来袭</h1>
+                        <div class="newsarticle"  id="article3">
+                            <p>尊敬的玩家朋友们，大家好：</p>
+                            <p>　《就是要三国》自1月13日开启删档计费封测到现在有一周多时间，服务器也将于1月21日晚上24：00正式
+                            关闭，针对封测期间几项重要说明如下：</p>
+                            <p>1、 封测期间所有角色数据全部删除清档，玩家已注册的游戏账号信息在不删档测试时可继续使用，不删
+                            档测试时使用封测注册账号信息再次登录游戏将获得一份“感恩礼包”，作为对老朋友的回归大礼。</p>
+                            <p>2、 封测期间凡参与充值的用户，在不删档开启时需再次使用封测期间充值账号登录游戏将获得内测期间
+                              所充全部金额返还，同时在原基础上多返还100%，首次登录返还100%，登录第3天返还50%，登录第7天返还50%
+                              ，总计200%作为用户回馈。除此以外，已经获得的VIP等级也将如数返还。(注：请务必使用封测期间相同充值
+                            账号进行游戏登录)</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            坛说明http://bbs.8783.com/thread-83442-1-1.html。</p>
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                            <p>3、 封测期间参与排行榜活动的用户，我们将在封测结束后统计榜单中排名前十的信息，在下次不删档开
+                            启时进行奖励发放，请获奖用户在不删档期间务必使用相同账号进行登录。</p>
+                            <p>4、 参与了封测期间充值活动的玩家们请牢记账号密码，部分活动需要您提供信息核实后发奖，详见论
+                            坛说明http://bbs.8783.com/thread-83442-1-1.html。</p>
+                            <p>5、 想要了解游戏不删档测试的资讯及游戏最新开发动态请关注官方Q群：317065896。</p>
+                            <p>欢乐的时光总是在不经意间悄然而逝。《就是要三国》封测圆满结束，少不了玩家朋友的支持与喜爱。在
+                              这里首先我们要感谢玩家朋友们给予《就是要三国》在封测期间的理解、支持与鼓励。我们做的还远远不够，
+                              是玩家朋友们的每一条建议和意见，激励我们积极向上，大家对每一次事故和故障予以的包容和谅解，增强我
+                            们持续优化游戏的动力。在游戏成长的道路上是玩家朋友们的陪伴使得我们顺利完成测试。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="newslist_c" style="display:none">
+                    <ul>
+                       <div class="shootscreen_pic"><img src="http://js.feiliu.com/static/mlzj/web0525/images/pic1.jpg" alt="" /></div>
+                       <div class="shootscreen_pic"><img src="http://js.feiliu.com/static/mlzj/web0525/images/pic1.jpg"  alt=""/></div>
+                       <div class="shootscreen_pic"><img src="http://js.feiliu.com/static/mlzj/web0525/images/pic1.jpg"  alt=""/></div>
+                       <div class="shootscreen_pic"><img src="http://js.feiliu.com/static/mlzj/web0525/images/pic1.jpg"  alt=""/></div>
+                       <div class="shootscreen_pic"><img src="http://js.feiliu.com/static/mlzj/web0525/images/pic1.jpg"  alt=""/></div>
+                       <div class="shootscreen_pic"><img src="http://js.feiliu.com/static/mlzj/web0525/images/pic1.jpg"  alt=""/></div>
+                    </ul>
+                    <div style="clear:both"></div>
+                    <div class="listpage">
+                    <div class="page">
+                      <a href="">首页</a>
+                      <a href="">1</a>
+                      <a href="">2</a>
+                      <a href="">3</a>
+                      <a href="">4</a>
+                      <a href="">5</a>
+                      <a href="">尾页</a>
+                    </div>
+                    </div>
+                </div>
+            
+            </div>
+            <div><img src="http://js.feiliu.com/static/mlzj/web0525/images/bot_pic.jpg"  alt=""/></div>
+        </div>
+    <!--rightpart end-->
+    </div>
+    
+    <div style="clear:both"></div>
+    <div class="bottom">
+        <p align="center">爱游戏，爱生活，也爱美女。</p>
+        <p align="center">飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+        <p align="center">我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+        <p align="center">Love is love!</p>
+    </div>
+</div>
+
+<!--code-->
+<div class="code_1" id="code"><img src="http://js.feiliu.com/static/mlzj/web0525/images/code_1.png" id="popup" alt="" /></div>
+<div class="code_2" id="code1" style="display:none">
+    <div class="code_2_l"><img src="http://js.feiliu.com/static/mlzj/web0525/images/code_2.jpg" alt="" /><img src="http://js.feiliu.com/static/mlzj/web0525/images/code_back.png" class="close" style="cursor:pointer" alt="" /></div>
+    <div class="code_2_r"><img src="http://js.feiliu.com/static/mlzj/web0525/images/close.jpg" class="close" alt="" /></div>
+</div>
+
+<script type="text/javascript" src="http://js.feiliu.com/static/mlzj/web0525/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/mlzj/web0525/js/jquery.scrollbox.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/mlzj/web0525/js/jquery.effect.js"></script>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1255231794'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/stat.php%3Fid%3D1255231794' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript" src="http://js.feiliu.com/static/mlzj/web0525/js/jquery.mCustomScrollbar.js"></script>
+<script type="text/javascript">
+var titleNews={
+	1:"游戏特色",
+	2:"游戏资料",
+	3:"游戏攻略",
+	4:"游戏壁纸"
+	}
+
+//职业切换
+var actNav=$(".newsnav li");
+var actList=$(".newslist_c");
+function dClass(){
+	for(var i=0; i<actNav.length; i++){
+		var nUm=i+1;
+		var sTr="<img src='http://js.feiliu.com/static/mlzj/web0525/images/gamenav_0"+nUm+".jpg' />";
+		actNav.eq(i).html(sTr);
+	}
+}
+function actHide(){
+	for(var i=0; i<actList.length; i++){
+		actList.eq(i).hide();
+	}
+}
+$.each(actNav,function(index){
+	$(this).click(function(){
+		dClass();//删除所有高亮
+		var nUm=index+1;
+		var sTr="<img src='http://js.feiliu.com/static/mlzj/web0525/images/gamenav1_0"+nUm+".jpg' />";//更换当前选中图片
+		$(this).html(sTr);
+		$("#title_te").html(titleNews[nUm]);
+		actHide();
+		actList.eq($(this).index()).fadeIn();
+				if(nUm==2){
+					if($("#article2").find(".mCustomScrollBox").length<1){//只有图层显示的时候，滚动才能显
+					$("#article2").mCustomScrollbar({
+						scrollButtons:{
+							enable:true
+						}
+					});
+						}
+				}
+				
+				if(nUm==3){
+					if($("#article3").find(".mCustomScrollBox").length<1){//只有图层显示的时候，滚动才能显示
+					$("#article3").mCustomScrollbar({
+						scrollButtons:{
+							enable:true
+						}
+					});
+				}}
+				
+		})
+	})
+
+	$("#article1").mCustomScrollbar({//默认第一个滚动
+		scrollButtons:{
+			enable:true
+		}
+	});
+	
+</script>
+
+
+</body>
+</html>

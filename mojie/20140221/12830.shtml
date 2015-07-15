@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Design:Lu; Web Layout:Minghua.Shi" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="魔戒,魔戒官网," />
+    <meta name="description" content="《魔戒》装备系统介绍。装备" />   
+    <title>《魔戒》装备系统介绍 魔戒_新闻</title>
+    <link href="http://js.feiliu.com/static/mojie/style/news.css?v=1" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/mojie/js/jquery1.6.4.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            fnhzmt();
+        });
+
+        function fnhzmt() {
+            var mtbox = $("#hzmt_list");
+            var liwidth = 113;
+            var linum = mtbox.children().length;
+            var i = 0;
+            var timer = null;
+            var time = 20;
+            if (linum >= 8) {
+                mtbox.append(mtbox.html());
+                timer = setInterval(hzmtAnimate, time);
+                mtbox.hover(function () {
+                    clearInterval(timer);
+                    timer = null;
+                }, function () {
+                    timer = setInterval(hzmtAnimate, time);
+                });
+            }
+            function hzmtAnimate() {
+                i = i >= liwidth * linum ? 0 : i + 1;
+                mtbox.css("left", -i + "px");
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <div class="wrap03">
+        <div id="wrap" class="wrap">
+            <div class="wrap02">
+                <div class="content">
+                    <div class="nav">
+                        <ul class="nav_list">
+                            <li class="btn01"><a href="http://mojie.feiliu.com">官网首页</a></li>
+                            <li class="btn02"><a href="#">游戏资讯</a></li>
+                            <li class="btn03"><a href="#">资料站</a></li>
+                            <li class="btn04"><a href="#">VIP专属</a></li>
+                            <li class="btn05"><a href="#">视听盛宴</a></li>
+                            <li class="btn06"><a href="#">官方论坛</a></li>
+                        </ul>
+                        <h1 class="logo"><a href="#">《魔戒》官方网站</a></h1>
+                    </div>
+                    <img src="http://js.feiliu.com/static/mojie/images/news/img02.jpg" alt="" border="0" />
+                    <img src="http://js.feiliu.com/static/mojie/images/news/img03.jpg" alt="" border="0" />
+                    <div class="main clearfix">
+					
+                        <!--魔戒列表页左侧模板start-->
+							<!--#include virtual="/list/mojie_list_left.shtml"-->
+						<!--魔戒列表页左侧模板end-->
+						
+                        <div class="main_r">
+                            <div class="news_bg01">
+                                <div class="news_bg02">
+                                    <div class="news_title">《魔戒》装备系统介绍</div>
+                                    <div class="news_content">
+                                        <p class="MsoNormal" align="left" style="text-indent:21pt;background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >《魔戒》封测已正式开启，在这里我给大家介绍一下《魔戒》中的装备系统，让没有体验游戏的朋友们了解一下，为选择心中的英雄做准备。 </span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<br />
+</p>
+<p class="MsoListParagraph" align="left" style="margin-left:21pt;text-indent:-21pt;background-position:initial initial;background-repeat:initial initial;">
+	<!--[if !supportLists]--><strong><span >l&nbsp; </span></strong><!--[endif]--><strong><span >客服</span></strong><span lang="EN-US" ><strong>QQ</strong></span><strong><span >：</span></strong><span lang="EN-US"><strong><span >800032234</span></strong><o:p></o:p></span> 
+</p>
+<p class="MsoListParagraph" align="left" style="margin-left:21pt;text-indent:-21pt;background-position:initial initial;background-repeat:initial initial;">
+	<!--[if !supportLists]--><strong><span >l&nbsp; </span></strong><!--[endif]--><strong><span >客服邮箱：</span></strong><span lang="EN-US"><strong><span >800032234@b.qq.com</span></strong><o:p></o:p></span> 
+</p>
+<p class="MsoListParagraph" align="left" style="margin-left:21pt;text-indent:-21pt;background-position:initial initial;background-repeat:initial initial;">
+	<!--[if !supportLists]--><strong><span >l&nbsp; </span></strong><!--[endif]--><strong><span >PP助手下载地址：</span></strong><span lang="EN-US"><a href="http://www.25pp.com/ipad/game/info_1174851.html"><strong><span >http://www.25pp.com/ipad/game/info_1174851.html</span></strong></a></span><o:p></o:p>
+</p>
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<br />
+</p>
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >&nbsp;&nbsp;&nbsp; 装备作用</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >　　穿戴装备可以增强玩家属性，提升自身的战斗力。</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >　　装备种类</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >装备总共有</span></strong><span lang="EN-US" ><strong>11</strong></span><strong><span >个，分别是头盔、佩饰、肩部、项链、衣服、戒指、腰带、手镯、护手、武器、鞋子、十个防具加一个武器位。装备不同的装备，角色也会发生不同的外观变化。</span></strong><br /><img src="http://i0.8783.com/image/20140221/20140221142446_54328.jpg" alt="" /><br />
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >装备品质</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >　　装备品质是按颜色划分的，依次为白色、绿色、蓝色、紫色、 橙色、橙色为现阶段最高品质的装备。</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal" align="left" style="text-indent:21pt;background-position:initial initial;background-repeat:initial initial;">
+	<br />
+</p>
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<strong><span >　　装备强化系统介绍</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<strong><span >　　《魔戒》中存在着各种各样的装备，不同的品质与等级的装备有不同的穿戴效果。装备每</span></strong><span lang="EN-US" ><strong>10</strong></span><strong><span >级一个等级段，玩家可以和最初的装备一起成长，并且伴随外形的改变。下面我为大家介绍一下装备系统的相关功能的使用。</span></strong><span lang="EN-US"><o:p></o:p></span> 
+</p>
+<p class="MsoNormal">
+	<span lang="EN-US" ><strong>&nbsp;</strong></span> 
+</p>
+<p class="MsoNormal">
+	<strong><span >装备升级：消耗部分晶石能够直接提高装备的等级</span></strong><br /><img src="http://i0.8783.com/image/20140225/20140225172537_86633.jpg" alt="" /><br />
+</p>
+<p class="MsoNormal">
+	<p class="MsoNormal">
+		<strong><span >装备进阶：提升装备品质，提高装备基础属性。通关挑战本可获得图册，通关普通本可获得精铁进行进阶</span></strong><span lang="EN-US"><o:p></o:p></span>
+	</p>
+<br />
+<br /><img src="http://i0.8783.com/image/20140225/20140225173323_22363.jpg" alt="" /><br />
+</p>
+<p class="MsoNormal">
+	<strong><span >装备升星：提高星阶，加强装备基础属性。通关挑战本可获得星石进行升星</span></strong><br /><img src="http://i0.8783.com/image/20140225/20140225173336_65744.jpg" alt="" />
+</p>
+<p class="MsoNormal">
+	<strong><span >装备强化：强化提高装备的隐藏属性。通关挑战本、参与相关玩法可获得英灵石板，使用英灵石板可进行装备强化。</span></strong><br /><img src="http://i0.8783.com/image/20140225/20140225173445_18063.jpg" alt="" />
+</p>
+<span lang="EN-US"><o:p></o:p></span> 
+<p>
+	<br />
+</p>
+<span lang="EN-US"><o:p></o:p></span> 
+<p>
+	<br />
+</p>
+<span lang="EN-US"><o:p></o:p></span> 
+<p>
+	<br />
+</p>
+<span lang="EN-US"><o:p></o:p></span> 
+<p>
+	<br />
+</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hzmt">
+                        <div class="hzmtbox">
+                            <!--魔戒首页底部媒体模板start-->
+								<!--#include virtual="/list/index_mojie_mthz.shtml"-->
+							<!--魔戒首页底部媒体模板end--> 
+                        </div>
+                    </div>
+                    <div class="bottom">
+                        <p>About.us | Copy right@飞流iPhone 2013</p>
+                        <p>爱游戏，爱生活，也爱美女。</p>
+                        <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+                        <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+                        <p>Love is love!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

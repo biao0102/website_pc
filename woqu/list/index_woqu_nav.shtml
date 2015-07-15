@@ -1,0 +1,9 @@
+<div class="nav">
+                <ul class="nav_list">
+                    <li class="btn01"><a href="http://woqu.feiliu.com">官网首页</a></li>
+                    <li class="btn02"><a href="http://woqu.feiliu.com/20131126/20396.shtml">游戏介绍</a></li>
+                    <li class="btn03"><a href="http://woqu.feiliu.com/list/list_woqu_xsyd.shtml" target="_blank">新手引导</a></li>
+                    <li class="btn04"><a href="http://bbs.8783.com/forum-57-1.html" target="_blank">官方论坛</a></li>
+                </ul>
+                <h1 class="logo"><a href="http://woqu.feiliu.com">《我去西游》官方网站</a></h1>
+</div>

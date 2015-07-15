@@ -1,0 +1,7 @@
+		<div class="left_down">
+                        <!--<a href="http://11.feiliu.com/list/list_11_down.shtml">游戏下载</a>
+                        <div id="left_down_flash"></div>-->
+                   <a href="http://11.feiliu.com/count/download.php?cid=300021&type=8" class="appstore"></a>
+                  <a href="javascript:void(0);" onclick="alert('敬请期待！')" class="ipa"></a>
+                  <a href="javascript:void(0);"  onclick="alert('敬请期待！')" class="android"></a>
+                    </div>

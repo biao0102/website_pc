@@ -1,0 +1,132 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			游戏攻略
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			游戏攻略
+	        				        		</div>
+	    			<div class="infotitle">【就是要三国】攻略-进阶篇</div>
+		        	<div class="textTime">2014-10-17</div>
+		    		<div class="article">
+						<p class="MsoNormal" style="text-indent:2em;">
+	<b>进阶篇</b><b></b> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	1、武将、军团
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	1）武将分为甲乙丙三种，丙级蓝将，乙级紫将，甲级橙将。
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	2）游戏中获得武将的方法除了刚开始赠送的三个外，其他的是去战役副本中刷魂、搜索、功勋商店中兑换及任务奖励中获得， <span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	3）武将职业，武将在1级时只有一个初始职业，在军团中只能根据武将的职业进行摆放，武将升级到40级时可以解锁第二职业，50级时解锁第三职业。
+</p>
+<div style="text-align:center;text-indent:2em;">
+	<span></span><img src="http://i0.feiliu.com/image/20141017/20141017181352_86079.jpg" alt="" /> 
+</div>
+<p style="text-indent:2em;">
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	4）武将的强化：
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	（1）最简单直接的方式，升级，通过副本、攻城获得经验升级或通过道具酒来增加经验，酒分三类米酒、青梅酒、杜康酒，不过武将等级不超过玩家等级
+</p>
+<div style="text-align:center;text-indent:2em;">
+	<span></span><img src="http://i0.feiliu.com/image/20141017/20141017181405_87096.jpg" alt="" /> 
+</div>
+<p style="text-indent:2em;">
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	（2）增加装备，根据武将的职业不同，可以装备的武器不同，但总体分为三类，武器类分为帅用的剑，将用的刀，谋用的羽扇，书籍分为帅的经书，将的兵法，谋的天书，坐骑不分职业均可骑乘，道具的强弱也分为四类，甲乙丙丁，具体会在道具篇中提到
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	（3）职业说明：以于禁（乙级紫将）为例，帅：5～13，该数值代表在战斗过程中的rou点区间，最低5点，最高13点，在战斗中，双方主帅ROU点决定谁先攻击，我方大于对方则我方先出招，对方大于等于我方点数，则对方先攻击；将、谋11，该数值表示我方将领发必杀时所需要的点数，在战斗过程中，我方主帅第一回合ROU到5点，对方4点，我方先攻，但点数达不到出招要求的11点，则只能发起一场全军冲锋，将和谋均不会出招，不过不用担心，在战斗过程中这个点数是累加的，也就是说第二回合ROU到6点，两次相加满11点就可以出招了，不过根据将领技能的熟练度，一样有可能点数足够但不出招的情况喔。
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	职业强化，进入职业分栏中可以看到职业强化的道具数量，但集合三种道具后按要求可以晋升1级职业，帅每升一级会增加1个点数，先增加上限，再升1级增加1点下限，并增加一定百分比的血量，以于禁为例现在是5～13 血+0%，到2级职业帅时为5～14 血+5%，3级职业帅时为6～14 血+10%以此类推，而将、谋职业则是每升1级减少1点出招所需要的点数，如于禁到2级职业时，点数为10，武或智+5%，3级职业时，点数为9，武或智+10%
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	小贴示：职业道具在战役副本的部分关卡中掉落，但随着关卡的增多，你一时忘记在哪一关掉落相关道具的话，点击武将信息职业栏的职业道具图标，可以快速引导你去道具掉落的关卡，不过如果你没通过该副本的话……那就努力吧
+</p>
+<div style="text-align:center;text-indent:2em;">
+	<span></span><img src="http://i0.feiliu.com/image/20141017/20141017181417_74436.jpg" alt="" /> 
+</div>
+<p style="text-indent:2em;">
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	（4）技能强化：通过技能点强化技能的熟练度，每10分钟增加1点技能点，10点为满值，熟练度越高在战斗中出连招的几率越大，但熟练度的强化是不超过武将等级，如武将4级，训练度也只能强化到4级，增加一些群攻或群控技能的熟练度，在战斗中有意想不到的效果喔
+</p>
+<p class="MsoNormal" style="text-align:center;"><img src="http://i0.feiliu.com/image/20141017/20141017181431_34595.jpg" alt="" /> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	（5）升星强化：武将可以通过副本、搜索累积该武将的将魂，并达到一定数量后通过升阶达到升星，目前已知的是丙级蓝将需要30个合成该将，30个升1星，60个升2星，再往后……我连2星都没到，紫将则是80个合成该将，80个升1星，2星……，橙将150个合成该将，1星应该是150个吧。
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	小贴示：在一些副本中可以掉落武将的魂，当你获得该武将后，可以在武将信息栏点击“魂”这个图标，它也会快速引导你去掉落的关卡，但同样的如果你没通过该副本的话……那就继续努力吧。
+</p>
+<p class="MsoNormal" style="text-align:center;"><img src="http://i0.feiliu.com/image/20141017/20141017181442_34727.jpg" alt="" /> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	（6）军团，这是方便玩家在攻关时选择，但你有多个武将后，就可以创建多个军团，特别是在讨伐其他玩家时，方便玩家选择团队来攻击，我目前就已经有3个团队
+</p>
+<p class="MsoNormal" style="text-align:center;"><img src="http://i0.feiliu.com/image/20141017/20141017181453_66980.jpg" alt="" /> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	2、道具篇
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	道具分为武器、书籍、坐骑、碎片、消耗器
+</p>
+<p class="MsoNormal" style="text-align:center;"><img src="http://i0.feiliu.com/image/20141017/20141017181549_99562.jpg" alt="" /> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	1）武器：上面已经提到过相应的职业武器，且武器中分为甲（橙）乙（紫）丙（蓝）丁（绿）四种，可以精练升级，但等级不超过玩家等级，听说好像VIP精练会出现爆击，估计会超过玩家等级吧。每种武器可以向下一级吞噬增加自己武器的星级，游戏中称之为升阶，橙吃紫，紫吃蓝，蓝吃绿，绿什么都吃不到……（书籍基本与武器相同）
+</p>
+<p class="MsoNormal" style="text-align:center;"><img src="http://i0.feiliu.com/image/20141017/20141017181600_41893.jpg" alt="" /> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	2）坐骑，基本与武器、书籍相同，但不同的是只加血量，且不能强化和升阶
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	3）碎片，是每日刷山寨时掉落的，副本中也有少量的掉落，搜索中也有，但达到一定数量后可以合成对应的武器
+</p>
+<p class="MsoNormal" style="text-align:center;"><img src="http://i0.feiliu.com/image/20141017/20141017181915_77748.jpg" alt="" /> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	4）消耗品，就是放酒和一种叫扫荡令道具的地方，不过扫荡令的作用按介绍说是方便刷已通过的副本用的，但应该是VIP功能，至少我用不了……
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>&nbsp;</span> 
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

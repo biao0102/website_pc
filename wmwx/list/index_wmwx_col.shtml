@@ -1,0 +1,28 @@
+            <div class="content-main tab">
+            	<div class="header">
+                	<ul class="tab-header">
+                    	<li><a href="#" class="active">最新</a></li>
+                        <li><a href="#">公告</a></li>
+                        <li><a href="#">新闻</a></li>
+                        <li><a href="#">活动</a></li>
+                    </ul>
+                    <a class="more" href="http://wmwx.feiliu.com/list/list_wmwx_zx.shtml">更多</a>
+                </div>
+                <div class="tab-content">
+					<!--首页右侧新闻栏目最新模板开始-->	
+						<!--#include virtual="/list/index_wmwx_colzx.shtml"-->
+					<!--首页右侧新闻栏目最新模板结束-->
+					
+					<!--首页右侧新闻栏目公告模板开始-->	
+						<!--#include virtual="/list/index_wmwx_colgg.shtml"-->
+					<!--首页右侧新闻栏目公告模板结束-->
+					
+					<!--首页右侧新闻栏目新闻模板开始-->	
+						<!--#include virtual="/list/index_wmwx_colnews.shtml"-->
+					<!--首页右侧新闻栏目新闻模板结束-->
+					
+					<!--首页右侧新闻栏目活动模板开始-->	
+						<!--#include virtual="/list/index_wmwx_colhd.shtml"-->
+					<!--首页右侧新闻栏目活动模板结束-->
+            	</div>
+            </div>

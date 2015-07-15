@@ -1,0 +1,76 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			游戏资料
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			游戏资料
+	        				        		</div>
+	    			<div class="infotitle">《就是要三国》讨伐系统</div>
+		        	<div class="textTime">2015-01-13</div>
+		    		<div class="article">
+						<blockquote style="margin:0 0 0 40px;border:none;padding:0px;">
+	<p class="MsoNormal">
+		<b><span><img src="http://i0.feiliu.com/image/20150113/20150113111925_36392.jpg" alt="" /><br />
+开启条件：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>25级</span> 
+	</p>
+	<p class="MsoNormal">
+		<span>&nbsp;</span> 
+	</p>
+	<p class="MsoNormal" align="left">
+		<b><span>可获得奖励：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>功勋、声望、游戏币</span> 
+	</p>
+	<p class="MsoNormal">
+		<span>&nbsp;</span> 
+	</p>
+	<p class="MsoNormal">
+		<b><span>玩法介绍：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>讨伐系统是游戏中主要的</span><span>PvP</span><span>系统，通过讨伐可攻打其他玩家的城池，获得功勋值，掠夺该城池的游戏币，被他人攻下的城池，需要再次攻打夺回，或者邀请排行榜前十名的玩家军团援助夺回。</span> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>&nbsp;</span> 
+	</p>
+	<p class="MsoNormal">
+		<span>&nbsp;&nbsp;&nbsp;
+攻打小、中、大城，会获得不同的功勋值和声望，每天可讨伐</span><span>20</span><span>次，可使用充值币重置讨伐次数，在讨伐城池过程中，每个将领只能使用一次（不论胜利还是失败）。</span> 
+	</p>
+</blockquote>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal">
+	<span></span> 
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

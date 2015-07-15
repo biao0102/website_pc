@@ -1,0 +1,9 @@
+<ul class="jskp_tab" id="jskp_tab">
+                            <li class="btn01"><a href="javascript:;" class="current">金</a></li>
+                            <li class="btn02"><a href="javascript:;">木</a></li>
+                            <li class="btn03"><a href="javascript:;">水</a></li>
+                            <li class="btn04"><a href="javascript:;">火</a></li>
+                            <li class="btn05"><a href="javascript:;">土</a></li>
+                            <li class="btn06"><a href="javascript:;">光</a></li>
+                        </ul>
+                        <a href="#" target="_blank" class="more">more</a>

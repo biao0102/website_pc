@@ -1,0 +1,71 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			游戏资料
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			游戏资料
+	        				        		</div>
+	    			<div class="infotitle">《就是要三国》兵科系统</div>
+		        	<div class="textTime">2015-01-13</div>
+		    		<div class="article">
+						<blockquote style="margin:0 0 0 40px;border:none;padding:0px;">
+	<p class="MsoNormal">
+		<span><img src="http://i0.feiliu.com/image/20150113/20150113114704_78913.jpg" alt="" />&nbsp;</span> 
+	</p>
+	<p class="MsoNormal">
+		<b><span>开启条件：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>官位开启，消耗科技点</span> 
+	</p>
+	<p class="MsoNormal">
+		<span>&nbsp;</span> 
+	</p>
+	<p class="MsoNormal" align="left">
+		<b><span>可获得奖励：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>士兵升级</span> 
+	</p>
+	<p class="MsoNormal">
+		<span>&nbsp;</span> 
+	</p>
+	<p class="MsoNormal">
+		<b><span>玩法介绍：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>兵科系统是游戏中的军团士兵成长系统，通过官位获得科技点数，消耗科技点数按顺序升级盾、枪、骑三个兵种，增加战斗力。</span> 
+	</p>
+</blockquote>
+<p class="MsoNormal">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

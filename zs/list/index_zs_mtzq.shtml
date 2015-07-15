@@ -1,0 +1,59 @@
+      <section class="cb mt10">
+      <h1 class="i-xsgl"> <img src="http://js.feiliu.com/static/zs/images/i-mtzqbg.jpg">
+          
+        </h1>
+      <div id="i-mtzqtab">
+      	<div class="i-oybr">
+      		<ul class="tab-menu">
+<li class="cur">魔方网</li>
+<li>17173</li>
+<li>口袋巴士</li>
+<li>多玩手游</li>
+<li>178</li>
+<li>766</li>
+<li>新浪手游</li>
+<li>游戏多</li>
+<li>游戏狗</li>
+
+                 
+            </ul>
+            </div>
+                  <div class="tab-ctn"  style="display:block;">
+                    <iframe src="http://www.mofang.com/sgzs/list_6593_1.html" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+                  </div>
+            <div class="tab-ctn">
+                    <iframe src="http://news.shouyou.com/news/sgzs2014.shtml" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://www.ptbus.com/sanguozhanshen/show/" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://www.5253.com/article/gameArticleList4Company.do?gameId=15447" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://shouyou.178.com/sgzs/news/index.html" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://sy.766.com/block/block_110.html" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://www.97973.com/kb/13285.shtml" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://www.youxiduo.com/iframe/31190.shtml" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+            <div class="tab-ctn">
+                    <iframe src="http://pcapi.gamedog.cn/qianru/sanguozhanshen.html" height="210px" width="699px" frameborder="0" scrolling="auto">
+                    </iframe>
+            </div>
+
+      </div>
+      </section>

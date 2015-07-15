@@ -1,0 +1,15 @@
+	<div class="index-fixed">
+		<div class="fixed-wrap">
+			<p>二维码下载</p>
+			<img class="mb5" src="http://js.feiliu.com/gameimg/ttdqy/20150211180718.png" alt="">
+			<p>关注微信公共帐号</p>
+			<img src="http://js.feiliu.com/gameimg/ttdqy/20150211120845.jpg" alt="">
+			<p>微信号：TTDQY_feiliu</p>
+			<p class="baidu"><img src="http://js.feiliu.com/static/ttdqy/web/images/icon1.png" alt=""><a href="">官方百度贴吧</a></p>
+			<p class="qq"><img src="http://js.feiliu.com/static/ttdqy/web/images/icon2.png" alt="">官方客服</p>
+			<p class="qq"><a href="http://wpa.qq.com/msgrd?v=3&uin=800032234&site=qq&menu=yes"><img src="http://js.feiliu.com/static/ttdqy/web/images/qq.png" alt=""></a></p>
+			<p class="callus"><img src="http://js.feiliu.com/static/ttdqy/web/images/icon3.png" alt="">客服电话</p>
+			<p>4006609729</p>
+			<span class="toggle"></span>
+		</div>
+	</div>

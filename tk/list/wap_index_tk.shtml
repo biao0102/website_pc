@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="《坦克风云》官方网站" />
+    <meta name="description" content="《坦克风云》官方网站" />
+    <title>《坦克风云》官方网站</title>
+    <link href="http://js.feiliu.com/static/tkfywap/style/master.css?v=1" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/tkfywap/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript">
+
+        $(function () {
+            var navs = $("#ts_btn a");
+            var imgs = $("#ts_img a");
+            navs.each(function (i) {
+                $(this).click(function () {
+                    navs.removeClass("current").eq(i).addClass("current");
+                    imgs.hide().eq(i).show();
+                });
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="content">
+            <!--坦克风云wap首页头部模板start-->
+				<!--#include virtual="/list/wap_index_top.shtml"-->
+			<!--坦克风云wap首页头部模板end-->
+			
+			<!--坦克风云wap首页新闻模板start-->
+				<!--#include virtual="/list/wap_index_news.shtml"-->
+			<!--坦克风云wap首页新闻模板end-->
+            
+			<!--坦克风云wap首页游戏特色模板start-->
+				<!--#include virtual="/list/wap_index_yxts.shtml"-->
+			<!--坦克风云wap首页游戏特色模板end-->
+			
+            <div class="yxjs">
+                <div class="title03">
+                    <img src="http://js.feiliu.com/static/tkfywap/images/title03.jpg" alt="" />
+                </div>
+                <div class="yxjsbox">
+                    <p>《坦克风云》是一款基于传统军事策略思路进行创新的世界坦克大战策略手游。</p>
+                    <p>陆战之王家族四大分支系列的装甲坦克均涵盖其中。进入游戏后，玩家率领一支部队在广袤的大陆上开始建立全现代化的作战基地。组建作战部队并提升其实力，控制足够多的资源点，压制所有敌人的发展空间。</p>
+                    <p>真实的战场体验；轻松上手的操作；广袤的世界地图；支持同张地图万人PK畅爽厮杀；收集资源、升级军事和科技，布设牢不可破的防线，建立令人仰止的全现代化基地。</p>
+                    <p>组建一支由超强战斗力的坦克军队，扫平一切！</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- bottom -->
+    <div class="bottom">
+        <div class="bottom_top">
+            <a href="#top">
+                <img src="http://js.feiliu.com/static/tkfywap/images/top.jpg" alt="" /></a>
+        </div>
+        <p class="bottom_01"></p>
+        <div class="bottom_sm">
+            <p>坦克风云－触控板</p>
+            <p>Powered by dsg.feiliu.com  Certificate Copyright ?2011-2013 </p>
+        </div>
+    </div>
+<script type="text/javascript" src="http://js.feiliu.com/static/tkdz/js/count_web.js?v=1"></script>
+</body>
+</html>

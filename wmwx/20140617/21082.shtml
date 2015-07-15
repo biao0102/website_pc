@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>迎首测，十万话费大放送 完美武侠_活动</title>
+<link href="http://js.feiliu.com/static/wmwx/css/main.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/wmwx/js/jquery1.6.4.js"></script>
+</head>
+<body class="inner">
+<div class="header">
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img src="http://js.feiliu.com/static/wmwx/images/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>
+<div class="sec1">
+
+	<!--首页头部导航模板开始-->	
+		<!--#include virtual="/list/index_wmwx_nav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+</div>
+<div class="sec2">
+	<div class="wrap-main main">
+	
+		<!--首页左侧边栏模板开始-->	
+			<!--#include virtual="/list/index_wmwx_leftbar.shtml"-->
+		<!--首页左侧边栏模板结束-->
+		
+        <div class="content">
+        	<div class="article-header">
+            	<h1>迎首测，十万话费大放送</h1>
+                <time>2014-06-17</time>
+            </div>
+            <div class="article-content">
+            	<span >2014年首款可交易武侠卡牌手游来袭，武林豪杰齐聚“完美武侠”，体验不一样的卡牌盛宴！</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >《完美武侠》删档首测将于2014年6月17日11:00震撼开启，为了喜迎首测，《完美武侠》项目组特推出“迎首测，十</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >万话费大放送”大型活动，期待各位大侠的加入。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<ignore_js_op style="word-wrap:break-word;"><img src="http://i0.feiliu.com/image/20140617/20140617001627_82152.jpg" alt="" />&nbsp;</ignore_js_op><span ></span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >【活动规则】</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >各位大侠在活动期间连续登陆，可每日获得“话费招募令”，通过“招募”按钮进入活动专区进行话费抽取。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >【活动时间】</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >封测期间6月18日-6月27日</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >【活动内容】</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >海量充值卡，金/银呱呱（银两）、元气/精气（技能经验）</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >注：每位大侠活动期间未连续登陆将不可继续领取后续奖励，请各位记得每日来领取哦！</span>
+			</div>
+        </div>
+	</div>
+</div>
+<div class="sec3">
+
+	<!--首页底部版权模板开始-->	
+        <!--#include virtual="/list/index_wmwx_footer.shtml"-->
+	<!--首页底部版权模板结束-->
+	
+</div>
+
+	<!--首页右侧浮动下载框模板开始-->	
+        <!--#include virtual="/list/index_wmwx_down.shtml"-->
+	<!--首页右侧浮动下载框模板结束-->
+	
+<script type="text/javascript">
+$(function(){
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+});
+</script>
+</body>
+</html>

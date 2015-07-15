@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》宝石系统介绍_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》宝石系统介绍</h2>
+          <p>&nbsp; &nbsp; &nbsp; 装备这一设定几乎所有ARPG游戏中都会涉及，而获取装备、打造装备就成为了玩家们津津乐道的话题，在《战魔》中，装备有多种方式可以提升属性，有强化、锻造、宝石等，下面就和大家一起来看看《战魔》中的宝石系统。<br /><img src="http://i0.feiliu.com/image/20140919/20140919163505_60207.png" alt="" /><br />
+&nbsp; &nbsp; &nbsp; 当玩家自身等级达到20级，即开放宝石功能，宝石共分为红宝石、黄玛瑙、蓝水晶、绿翡翠、紫灵玉和白珊瑚6种，分别对应的属性就是就是攻击、防御、命中、气血、暴击和附伤。每种宝石分别有6个等级，品质越高，所附加的属性越好。<br /><img src="http://i0.feiliu.com/image/20140919/20140919165832_24810.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140919/20140919165840_73272.png" alt="" /><br />
+&nbsp; &nbsp; &nbsp; 在通关副本后有几率获得1级宝石礼包，可随机开出1颗属性不定的1级宝石，也可以通过寻宝功能，开启手中藏宝图进行寻宝，将会有机会获得更高等级的宝石哦~每天都会有4次免费的寻宝机会，别再犹豫，拿起手中的藏宝图去探寻更高级的宝石吧。<br /><img src="http://i0.feiliu.com/image/20140919/20140919165849_54948.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140919/20140919165857_91448.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140919/20140919165903_59276.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140919/20140919165909_22354.png" alt="" /><br />
+&nbsp; &nbsp; &nbsp; 宝石，是除了魂骨之外，又一种可以永久增加人物角色属性的物品。镶嵌高级宝石，可大幅度增加宝石对应的人物角色属性。想要获取高级宝石，除了在藏宝图中寻宝外，还可以在宝石合成界面进行宝石合成，1个及以上低级宝石可合成高级宝石，低级宝石数量越多，最多为4个，合成高级宝石的成功率越高，当然有成功就会有失败，如果失败，则合成所用宝石将会消失，所以为了成功合成高级宝石，多使用低级宝石自然是极好的！<br />
+<br />
+<br />
+&nbsp; &nbsp; &nbsp;&nbsp;<br /></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

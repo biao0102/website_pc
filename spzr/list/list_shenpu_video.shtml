@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《神谱》开场视频 _ 飞流官网</title>
+<meta name="keywords" content="神谱之刃官网,神谱之刃攻略,神谱之刃下载,2015年第一魔幻连击手游,史上最强魔幻连击手游,神谱之刃,神谱,飞流,飞流九天,游戏,手机游戏,网络游戏,动作游戏,游龙英雄,王者之剑,英雄之剑" />
+<meta name="description" content="2015年第一魔幻连击手游《神谱之刃》，是一款具备独特北欧魔幻风格的传统ARPG手游，有着超强的打击感、无限连击的超爽体验、独一无二的血脉系统、一环扣一环的冒险闯关及多元化的刻印系统、宝石系统、战魂系统、竞技系统、多人副本系统等等。更多有关神谱之刃官网,神谱之刃攻略,神谱之刃下载等资讯尽在神谱之刃官网。" />
+<link href="http://js.feiliu.com/static/shenpu/web/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/shenpu/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/shenpu/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/shenpu/web/scripts/public.js"></script>
+</head>
+<body>
+<div class="contain fltt">
+  <!--神谱公共浮动窗口模板start-->
+    <!--#include virtual="/list/index_shenpu_float.shtml"-->
+  <!--神谱公共浮动窗口模板end-->
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <div style="clear:both"></div>
+      <!--神谱公共导航模板start-->
+        <!--#include virtual="/list/index_shenpu_nav.shtml"-->
+      <!--神谱公共导航模板end-->
+      <div style="clear:both"></div>
+      <!--神谱首页轮播图模板start-->
+        <!--#include virtual="/list/index_shenpu_lb.shtml"-->
+      <!--神谱首页轮播图模板end-->
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2>
+          <span class="txt01">视频</span>
+        </h2>
+        <div class="subnewsccon">
+          <h2>《神谱》开场视频</h2>
+            <!--视频播放区 end-->
+            <div id="videoBox">
+              <embed class="videoembed" src="http://static.youku.com/v/swf/qplayer.swf?VideoIDS=XODE3ODc3NzQ0&winType=adshow&isAutoPlay=true" quality="high" width="600" height="500" type="application/x-shockwave-flash"></embed>
+              <style>
+                .subnewsccon{text-align: center;}
+                .videoembed{margin-left:45px;}
+              </style>
+            </div>
+            <!--视频播放区 end-->
+        </div>
+      </div>
+      <div class="kong fltt"></div>
+      <img src="http://js.feiliu.com/static/shenpu/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--神谱公共客服模板start-->
+        <!--#include virtual="/list/index_shenpu_kf.shtml"-->
+      <!--神谱公共客服模板end-->
+      <!--神谱公共媒体合作模板start-->
+        <!--#include virtual="/list/index_shenpu_mthz.shtml"-->
+      <!--神谱公共媒体合作模板end-->
+    </div>
+    <!--神谱公共底部模板start-->
+      <!--#include virtual="/list/index_shenpu_foot.shtml"-->
+    <!--神谱公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

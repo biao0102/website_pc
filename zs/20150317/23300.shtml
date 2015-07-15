@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">手拉手情系贫困小伙伴全国统一行动日圆满结束！</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2015-03-17 15:12:49</span>
+																			</div>
+									<div class="w-d">
+										3月16日，《三国战神》运营团队开放了“手拉手情系贫困小伙伴全国统一行动日活动”<br />
+<br />
+承诺将昨日每位充值玩家所充值金额其中的1元钱，捐助给贫困小伙伴。<br />
+<br />
+在此首先感谢广大玩家的支持与参与，《三国战神》运营团队也很荣幸代表贫困小伙伴们向大家表示衷心的感谢！<br />
+<br />
+其次，16日总共有95位玩家充值，大家的爱心已经通过“壹基金”传递到全国的各个角落。都来看看有哪些玩家为贫困小伙伴做出了贡献吧。<br />
+<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20150317/20150317151231_91635.png" width="650" height="280" alt="" /> 
+</div>
+<br />
+<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20150317/20150317151244_71470.jpg" width="420" height="630" alt="" /> 
+</div>
+运营团队也将不定期发布类似活动。<br />
+<br />
+~也许我们的力量并不算大，但是很高兴，至少努力改变了一点点这个世界。<br />
+<br />
+~这个春天，因为有你，开满了最艳丽最灿烂的迎春花。<br />
+<br />
+~有爱的人，运气总不会太差！<br />
+<br />
+~祝福所有小伙伴，祝福所有玩家朋友们！<br />
+<br />
+~再次，感谢！
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

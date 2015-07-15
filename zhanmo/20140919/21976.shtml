@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》职业-舞刃介绍_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》职业-舞刃介绍</h2>
+          <p>&nbsp; &nbsp; &nbsp; 舞刃是《战魔》中的敏捷性刺客类职业，拥有极速的攻击速度，在别人出手一下时，舞刃已攻击两次，其技能更是能够很好的体现其高连击的特性，连续不断的击打敌人，对敌人造成多次伤害。如想要更多的发挥其连击特性还需一番探索。<br /><img src="http://i0.feiliu.com/image/20140919/20140919144222_28111.jpg" alt="" /><br />
+1.职业背景：美人多娇，大隐于红尘，化身柔媚多姿的舞娘。羽扇藏锋芒，震慑四方，身轻动如光。刃起煞气寒，独行乱世莫能当!&nbsp;<br />
+2、职业特点：敏捷型近战刺客，出手精准，一击致命<br />
+3、武器：羽扇<br />
+4、属性：高攻击、高连击<br />
+5、操作难度：★★<br />
+6、职业技能：<br />
+◆回雪轻 学习等级：3级<br />
+技能描述：放出一个分身，对命中的所有敌人造成百分比的技能伤害<br />
+冷却时间：8秒&nbsp;<br />
+◆云欲生<br />
+学习等级：8级&nbsp;<br />
+技能描述：<br />
+挑起前方敌人，并造成百分比的技能伤害<br />
+冷却时间：10秒&nbsp;<br />
+◆霓裳舞<br />
+学习等级：12级&nbsp;<br />
+技能描述：舞动中暗藏杀机，对周围的敌人造成百分比的技能伤害&nbsp;<br />
+冷却时间：15秒<br />
+<br />
+<br /></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

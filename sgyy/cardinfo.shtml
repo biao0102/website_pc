@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8"/>
+<title>卡牌角色介绍 - 三国艳义卡牌资料库 三国艳义最权威游戏资料库</title>
+<meta name="Robots" contect="none">
+<meta name="keywords" content="三国艳义卡牌资料库, 三国艳义游戏资料, 三国艳义资料">
+<link href="http://js.feiliu.com/static/sgyy/cards/css/index.css?v=07281102" rel="stylesheet" type="text/css" />
+<script src="http://js.feiliu.com/static/public/js/jquery-1.7.1.min.js"></script>
+</head>
+<body>
+<!--顶部导航start-->
+<div class="warp">
+  <div class="headerT1">
+    <nav>
+      <ul>
+        <li><a href="http://sgyy.feiliu.com/" target="_blank">首页</a></li>
+        <li><a href="http://sgyy.feiliu.com/list/list_sgyy_all.shtml" 
+  target="_blank">资讯中心</a></li>
+        <li><a href="http://sgyy.feiliu.com/list/index_download.shtml" 
+  target="_blank">下载专区</a></li>
+        <li><a href="javascript:;">资料大全</A></li>
+        <li><a href="http://sgyy.feiliu.com/list/index_guide.shtml" 
+  target="_blank">服务中心</a></li>
+        <li><a href="http://bbs.8783.com/forum-69-1.html" 
+target="_blank">社区中心</a></li>
+      </ul>
+    </nav>
+  </div>
+</div>
+<!--顶部导航end-->
+<div class="contain">
+  <div class="containbg">
+    <div class="nhcon">
+      <div class="newhandcon">
+        <div class="topbg">
+          <div class="sjtop02">
+            <h2 class="zltitle" id="role"></h2>
+          </div>
+        </div>
+        <!--gmcon start -->
+        <div class="gmcon">
+          <div class="sjcon02">
+            <table border="0" cellspacing="0" cellpadding="0" class="tbcon02">
+              <tr>
+                <td rowspan="6" class="tb01"><img id="cardimg" width="274" height="385" src="http://js.feiliu.com/static/sgyy/cards/images/renwu.jpg" /></td>
+                <td class="tb02">国家</td>
+                <td class="tb04" id="country"></td>
+                <td class="tb02">星级</td>
+                <td class="tb05" id="stars"></td>
+              </tr>
+              <tr>
+                <td class="tb02">基础HP</td>
+                <td class="tb04" id="basehp"></td>
+                <td class="tb02">最高HP</td>
+                <td class="tb05" id="tophp"></td>
+              </tr>
+              <tr>
+                <td class="tb02">基础ATK</td>
+                <td class="tb04" id="baseatk"></td>
+                <td class="tb02">最高ATK</td>
+                <td class="tb05" id="topatk"></td>
+              </tr>
+              <tr>
+                <td class="tb02">cost</td>
+                <td colspan="3" class="tb06" id="cost"></td>
+              </tr>
+              <tr>
+                <td colspan="4" class="tb07" id="skill"><span class="htxt">技能1：<i id="skill1"></i></span><span class="htxt">技能2：<i id="skill2"></i></span><span class="htxt">技能3：<i id="skill3"></i></span></td>
+              </tr>
+              <tr>
+                <td class="tb03">武将背景介绍</td>
+                <td colspan="3" class="tb08" id="intro"></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <!--gmcon end -->
+        <div><img src="http://js.feiliu.com/static/sgyy/cards/images/bottombg.png" width="896" height="69" /></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
+<!--三国艳义新手引导页底部模板start-->
+<div id="footer">
+  <p>About.us | Copyright@北京飞流九天科技有限公司</p>
+  <p>地址：北京市东城区和平里东街11号雍和航星科技园2号楼北侧3层&nbsp;&nbsp;&nbsp;</p>
+  <p>爱游戏，爱生活，也爱美女。</p>
+  <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+  <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+  <p>Love is love!</p>
+</div>
+<script type="text/javascript">
+  $(function(){
+    var apihost = "http://act.feiliu.com/sgyy/api1/",
+        id = window.location.search.substr(4);
+    console.log(id);
+    getRes(apihost + 'role', {"id" : id}, function(res){
+      console.log(res);     
+      $.each(res, function(key, item){
+        if(key == 'cardimg'){
+          $("#" + key).attr("src", item);
+        }else{
+          $("#" + key).text(item);
+        }
+        
+      });
+      document.title = res.role + " - 三国艳义卡牌资料库, 游戏资料库";
+    });
+    function getRes(requrl, data, callback){
+      $.ajax({
+        type: 'GET',
+        async : false,
+        url: requrl,
+        dataType : 'jsonp',
+        data : data, 
+        // jsonp : "callback",
+        // jsonpCallback : "sucCallback",
+        success : callback
+      });
+    }
+  });
+</script>
+<div style="display: none;">
+  <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5791879'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s13.cnzz.com/stat.php%3Fid%3D5791879' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<!--三国艳义新手引导页底部模板end-->
+
+</body>
+</html>

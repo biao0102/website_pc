@@ -1,0 +1,45 @@
+<div class="kxfb_title">
+	<ul class="kxfb_tab" id="kxfb_tab">
+		<li class="btn01"><a href="javascript:;" class="current">主动技能</a></li>
+		<li class="btn02"><a href="javascript:;">被动技能</a></li>
+	</ul>
+	<!--<a href="#" target="_blank" class="more">more</a>-->
+</div>
+<div class="shzb_panes" id="kxfb_panes">
+	<ul class="shzb_list" style="display: block;">
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/bgl.jpg" alt="" /><span>八卦炉</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/bjs.jpg" alt="" /><span>芭蕉扇</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/dfz.jpg" alt="" /><span>定风珠</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/htd.jpg" alt="" /><span>后天袋</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/hjs.jpg" alt="" /><span>幌金绳</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/jgz.jpg" alt="" /><span>金刚琢</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/jr.jpg" alt="" /><span>金铙</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/jzdmz.jpg" alt="" /><span>卷轴：倒马桩</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/zjl.jpg" alt="" /><span>紫金铃</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/jplt.jpg" alt="" /><span>九品莲台</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/jnjs.jpg" alt="" /><span>锦囊袈裟</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/jzswzh.jpg" alt="" /><span>三味真火</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/yyeqp.jpg" alt="" /><span>阴阳二气瓶</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/jzgl.jpg" alt="" /><span>卷轴：甘霖</span></li>
+		<li>
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/yjp.jpg" alt="" /><span>玉净瓶</span></li>
+	</ul>
+	<ul class="shzb_list">
+		<li><a href="#" target="_blank">
+			<img src="http://js.feiliu.com/static/woqu/images/fbimg/zsxy.jpg" alt="" /></a><span>紫绶仙衣</span></li>
+	</ul>
+</div>

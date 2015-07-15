@@ -1,0 +1,5 @@
+<ul class="news_nav" id="news_nav">
+                            <li class="btn01" id="btna1"><a href="javascript:;" class="current">新闻</a></li>
+                            <li class="btn02" id="btna2"><a href="javascript:;">公告</a></li>
+                            <li class="btn03" id="btna3"><a href="javascript:;">活动</a></li>
+                </ul>

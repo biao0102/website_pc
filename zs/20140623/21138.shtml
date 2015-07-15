@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_其他新闻2</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">合服公告模版</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-06-23 18:38:02</span>
+																			</div>
+									<div class="w-d">
+										亲爱的玩家：<br />
+　　<br />
+<!--StartFragment -->
+<div>
+	　　大家好！感谢大家长久以来对《三国战神》的支持！为了给大家提供更加优质的游戏环境，感受更多的游戏乐趣，提高游戏的可玩性和互动性，应广大玩家的需求，我们将于2014年7月15日凌晨对全区进行例行维护，并对1~6区服进行合区操作，维护后玩家可通过原有账号登陆数据互通后的服务器，具体维护时间及维护时常请关注7月15日全区例行维护公告。
+</div>
+<br />
+【合服时间】<br />
+　　请留意官网2014.7.15日全区例行维护公告。<br />
+<br />
+【合服范围】<br />
+　　本次合区将对三国争锋、群雄逐鹿、百战沙场、金戈铁马、烽火连天、三足鼎立，6组服务器进行合区操作，其中三国争锋、群雄逐鹿、百战沙场、金戈铁马将进行合并，烽火连天和三足鼎立进行合并，合并后登陆接口保持不变，玩家可依旧通过原有服务器名称登录游戏！！<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140708/20140708185255_32653.jpg" /><br />
+<br />
+【合服规则】<br />
+<!--StartFragment -->
+<div>
+	　　1、合服之后，玩家在合并的服务器只能选择三名角色进行游戏，如果玩家在合服的两个服角色之和超过三个，将需要玩家进行选择，未被选择的角色将隐藏。<br />
+<br />
+　　2、合服重名的角色、帮派，将自动在名字后面加上原来服的标识，例如原来三国争锋服的重名角色，将加上后缀“(锋)”，没有重名的角色不加任何后缀。<br />
+<br />
+　　3、合服之后，所有的排行榜，竞技场，帮派领地都将重置。<br />
+<br />
+　　4、原有服务器入口不变，例如原来是三国争锋服的玩家，仍然从三国争锋进入。<br />
+<br />
+【合服补偿】<br />
+　　参与合服的区服补偿1000元宝！<br />
+<br />
+<br />
+<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<br />
+<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2014.07.08
+</div>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

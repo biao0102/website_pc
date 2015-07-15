@@ -1,0 +1,13 @@
+			<div class="dowloadcon"> 
+				<span class="scan01 fltt">
+					<img src="http://js.feiliu.com/gameimg/zyzn/20150429115119.png" alt="">
+				</span> 
+				<span class="overimg">
+					<a href="http://zyzn.feiliu.com/count/download.php?cid=300021&type=2" class="fltt" target="_blank"><img src="http://js.feiliu.com/static/zyzn/web/images/downloadbtn01.jpg" alt=""></a>
+					<i class="light"></i>
+				</span> 
+				<span class="overimg">
+					<a href="http://zyzn.feiliu.com/count/download.php?cid=300021&type=5" class="fltt"><img src="http://js.feiliu.com/static/zyzn/web/images/downloadbtn02.jpg" alt=""></a>
+					<i class="light"></i>
+				</span> 
+			</div>

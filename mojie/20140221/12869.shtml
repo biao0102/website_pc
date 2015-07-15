@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Design:Lu; Web Layout:Minghua.Shi" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="魔戒,魔戒官网," />
+    <meta name="description" content="魔戒图文快报 战士装备效果美图集 。" />   
+    <title>魔戒图文快报 战士装备效果美图集  魔戒_新闻</title>
+    <link href="http://js.feiliu.com/static/mojie/style/news.css?v=1" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/mojie/js/jquery1.6.4.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            fnhzmt();
+        });
+
+        function fnhzmt() {
+            var mtbox = $("#hzmt_list");
+            var liwidth = 113;
+            var linum = mtbox.children().length;
+            var i = 0;
+            var timer = null;
+            var time = 20;
+            if (linum >= 8) {
+                mtbox.append(mtbox.html());
+                timer = setInterval(hzmtAnimate, time);
+                mtbox.hover(function () {
+                    clearInterval(timer);
+                    timer = null;
+                }, function () {
+                    timer = setInterval(hzmtAnimate, time);
+                });
+            }
+            function hzmtAnimate() {
+                i = i >= liwidth * linum ? 0 : i + 1;
+                mtbox.css("left", -i + "px");
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <div class="wrap03">
+        <div id="wrap" class="wrap">
+            <div class="wrap02">
+                <div class="content">
+                    <div class="nav">
+                        <ul class="nav_list">
+                            <li class="btn01"><a href="http://mojie.feiliu.com">官网首页</a></li>
+                            <li class="btn02"><a href="#">游戏资讯</a></li>
+                            <li class="btn03"><a href="#">资料站</a></li>
+                            <li class="btn04"><a href="#">VIP专属</a></li>
+                            <li class="btn05"><a href="#">视听盛宴</a></li>
+                            <li class="btn06"><a href="#">官方论坛</a></li>
+                        </ul>
+                        <h1 class="logo"><a href="#">《魔戒》官方网站</a></h1>
+                    </div>
+                    <img src="http://js.feiliu.com/static/mojie/images/news/img02.jpg" alt="" border="0" />
+                    <img src="http://js.feiliu.com/static/mojie/images/news/img03.jpg" alt="" border="0" />
+                    <div class="main clearfix">
+					
+                        <!--魔戒列表页左侧模板start-->
+							<!--#include virtual="/list/mojie_list_left.shtml"-->
+						<!--魔戒列表页左侧模板end-->
+						
+                        <div class="main_r">
+                            <div class="news_bg01">
+                                <div class="news_bg02">
+                                    <div class="news_title">魔戒图文快报 战士装备效果美图集 </div>
+                                    <div class="news_content">
+                                        <table cellspacing="0" cellpadding="0" style="word-wrap:break-word;empty-cells:show;max-width:100%;table-layout:fixed;width:777px;">
+	<tbody style="word-wrap:break-word;">
+		<tr style="word-wrap:break-word;">
+			<td class="t_f" id="postmessage_67064999" style="word-wrap:break-word;">
+				<div align="left">
+					<span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;">魔戒中每个角色穿上不同装备后会有不同的显示效果，接下来小七给大家带来战士的装备显示效果美图，大家尽情欣赏吧。</span></span></span>
+				</div>
+				<div align="left">
+					<span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><strong>魔戒战士装备效果图：</strong></span></span></span>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221143341_72454.jpg" alt="" /><img src="http://i0.8783.com/image/20140221/20140221143341_76565.jpg" alt="" /><img src="http://i0.8783.com/image/20140221/20140221143341_86252.jpg" alt="" /><img src="http://i0.8783.com/image/20140221/20140221143341_24120.jpg" alt="" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hzmt">
+                        <div class="hzmtbox">
+                            <!--魔戒首页底部媒体模板start-->
+								<!--#include virtual="/list/index_mojie_mthz.shtml"-->
+							<!--魔戒首页底部媒体模板end--> 
+                        </div>
+                    </div>
+                    <div class="bottom">
+                        <p>About.us | Copy right@飞流iPhone 2013</p>
+                        <p>爱游戏，爱生活，也爱美女。</p>
+                        <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+                        <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+                        <p>Love is love!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

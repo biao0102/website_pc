@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="冠军11人最新资讯，冠军11人公告" />
+    <meta name="description" content="冠军11人官方资讯频道提供最新冠军11人官方资讯，冠军11人最新活动信息。" />
+    <title>《冠军11人》官方最新资讯公告</title>
+    <link href="http://js.feiliu.com/static/11/style/master.css?v=322" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/11/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://www.wanmei.com/public/js/swfobject.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/11/js/11.js"></script>
+</head>
+<body>
+	<!--公共头部导航开始-->
+		<!--#include virtual="/list/index_11_nav.shtml"-->
+	<!--公共头部导航结束-->
+    <div class="wrap news_wrap">
+        <div class="content">
+            <div class="content_kong news_kong">
+                <div id="flash_box"></div>
+            </div>
+            <div class="main clearfix">
+                <div class="main_l">
+                    <!--公共下载开始-->	
+						<!--#include virtual="/list/index_11_down.shtml"-->
+					<!--公共下载结束-->
+                    <div class="left_box">
+                        <!--列表页左侧公共微信开始-->	
+							<!--#include virtual="/list/list_11_weixin.shtml"-->
+						<!--列表页左侧公共微信结束-->
+						
+						<!--公共左侧客服媒体开始-->	
+							<!--#include virtual="/list/index_11_kfmt.shtml"-->
+						<!--公共左侧客服媒体开始-->
+                    </div>
+                </div>
+                <div class="main_r">
+                    <div class="news_box">
+                        <ul class="news_tab">
+                            <li><a href="http://11.feiliu.com/list/list_11_zl.shtml">全部</a></li>
+                            <li><a href="http://11.feiliu.com/list/list_11_gg.shtml">公告</a></li>
+                            <li><a href="http://11.feiliu.com/list/list_11_hd.shtml">活动</a></li>
+                            <li><a href="http://11.feiliu.com/list/list_11_news.shtml"   class="current">新闻</a></li>
+                        </ul>
+                        <ul class="news_list">
+                            
+							  
+								<li><a href="http://11.feiliu.com/20140514/20677.shtml" title="《冠军11人》之球员强化" class="fl">·《冠军11人》之球员强化</a> <span>[2014-05-14]</span></li>
+							  
+								<li><a href="http://11.feiliu.com/20140514/20673.shtml" title="《冠军11人》之豪门盛宴" class="fl">·《冠军11人》之豪门盛宴</a> <span>[2014-05-14]</span></li>
+							  
+								<li><a href="http://11.feiliu.com/20140514/20672.shtml" title="《冠军11人》高手秘籍" class="fl">·《冠军11人》高手秘籍</a> <span>[2014-05-14]</span></li>
+							  
+								<li><a href="http://11.feiliu.com/20140514/20671.shtml" title="《冠军11人》之杯赛玩法" class="fl">·《冠军11人》之杯赛玩法</a> <span>[2014-05-14]</span></li>
+							  
+								<li><a href="http://11.feiliu.com/20140514/20670.shtml" title="巴西世界杯手游《冠军11人》特色玩法曝光" class="fl">·巴西世界杯手游《冠军11人》特色玩法曝光</a> <span>[2014-05-14]</span></li>
+							  
+								<li><a href="http://11.feiliu.com/20140513/20659.shtml" title="最新新闻：落选世界杯最强阵容" class="fl">·最新新闻：落选世界杯最强阵容</a> <span>[2014-05-13]</span></li>
+							                        </ul>
+                        <div class="paging paddingb20" id="paging"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<!--公共底部开始-->
+        <!--#include virtual="/list/index_11_footer.shtml"-->
+	<!--公共底部结束-->
+
+	<!--list分页-底部start--> 
+	<script language="javascript"> 
+	var f_pagecount = 1 
+	<!--#include virtual="/pub/page_ctrl.shtml"--> 
+	</script> 
+	<!--list分页-底部end-->
+</body>
+</html>

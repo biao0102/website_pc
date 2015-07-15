@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>游戏界面介绍</h1>
+                        <span>2014-04-22</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal">
+	<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>《战魂西游》是一款横版动作类手游，游戏主要的两个界面为：①主界面
+②战斗界面<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<b>主界面：<br />
+<br /><img src="http://i0.feiliu.com/image/20140422/20140422143155_11742.jpg" width="500" height="284" alt="" /><span></span></b> 
+</p>
+<p class="MsoNormal">
+	<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>1． </span><b>角色基本信息查看：</b>角色基础信息、等级、元宝、货币、体力、<span>VIP</span>、充值界面<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>2． </span><b>精彩活动栏：</b>充值奖励、精彩活动、分享推广、消费指南<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>3． </span><b>聊天界面：</b>聊天面板、最近信息显示<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>4． </span><b>活动系统栏：</b>每日福利、日常活动、每日签到、商城<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>5． </span><b>任务指引：</b>时间显示，任务指引<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>6． </span><b>基础系统：</b>背包、技能、装备成长、任务、星宿、好友、门派、世界地图、排行榜、邮件、设置<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<b>战斗界面：<span></span></b> 
+</p><img src="http://i0.feiliu.com/image/20140422/20140422143217_15696.jpg" width="500" height="284" alt="" /><br />
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>1． </span><b>角色信息</b>：角色名、等级、人物血条<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<b><span>2． </span></b><b>托管<span></span></b> 
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<b><span>3． </span></b><b>移动摇杆<span></span></b> 
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>4． </span><b>怪物信息栏：</b>地图剩余怪物数量、<span>BOSS</span>血条、时间<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>5． </span><b>技能栏：</b>基础攻击按键、技能按键<span></span> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

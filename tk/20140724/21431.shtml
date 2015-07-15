@@ -1,0 +1,866 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《战地坦克》配件系统介绍</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-07-24</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <p>
+	l&nbsp; 配件是坦克单位的装备
+</p>
+<p>
+	l&nbsp; 配件类型对应单一类的坦克
+</p>
+<p>
+	²&nbsp; 坦克类：包括轻型/中型/重型坦克、豹式坦克和天启坦克。
+</p>
+<p>
+	²&nbsp; 歼击车类：包括轻型/中型/重型歼击车、追猎者歼击车、猛虎歼击车
+</p>
+<p>
+	²&nbsp; 自行火炮类：包括轻型/中型/重型自行火炮、野蜂自行火炮、黑豹自行火炮
+</p>
+<p>
+	²&nbsp; 火箭车类：包括轻型/中型/重型火箭车、冰雹火箭车、尖啸者火箭车
+</p>
+<table border="1">
+	<tbody>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;类型
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 序号
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;位置
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;名称
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 属性
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="8">
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 坦 &nbsp; &nbsp; 克
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 1
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;裙板位
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;陶瓷装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护，装备位解锁需用户等级10级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 2
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;火炮位
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;炮口制退器
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加攻击，装备位解锁需用户等级15级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 3
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;炮塔弹药架
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;钨芯弹头 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加击破 ，装备位解锁需用户等级20级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;4
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身后装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;记忆合金
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加生命，装备位解锁需用户等级25级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 5
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身前装甲&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;反应装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护&amp;生命，装备位解锁需用户等级30级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;6
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身驾驶位
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;仪表盘
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护&amp;击破，装备位解锁需用户等级35级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 7
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身侧装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;复合装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加生命&amp;攻击，装备位解锁需用户等级40级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;8
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;自动输弹机&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;火控装置
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加击破&amp;攻击，装备位解锁需用户等级45级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="8">
+				<p>
+					歼击车
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;1
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;裙板位
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;陶瓷装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护，装备位解锁需用户等级10级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 2
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;火炮位
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;炮口制退器&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加攻击，装备位解锁需用户等级15级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;3
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身弹药架
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;钨芯弹头&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加击破，装备位解锁需用户等级20级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 4
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身后装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;记忆合金
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加生命，装备位解锁需用户等级25级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;5
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身前装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;反应装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护&amp;生命，装备位解锁需用户等级30级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 6
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身驾驶位
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;仪表盘
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护&amp;击破，装备位解锁需用户等级35级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;7
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身侧装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;复合装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加生命&amp;攻击，装备位解锁需用户等级40级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 8
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;自动输弹机
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;火控装置&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加击破&amp;攻击，装备位解锁需用户等级45级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="8">
+				<p>
+					自行火炮
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;1&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;裙板位
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;陶瓷装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护，装备位解锁需用户等级10级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;2
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;火炮位
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;炮口制退器
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加攻击，装备位解锁需用户等级15级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 3
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身弹药架
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;钨芯弹头
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加击破，装备位解锁需用户等级20级.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 4
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身后装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;记忆合金
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加生命，装备位解锁需用户等级25级，效果为百分比
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;5
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身前装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;反应装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护&amp;生命，装备位解锁需用户等级30级，效果为实数值和百分比
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;6
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身驾驶位
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;仪表盘
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护&amp;击破，装备位解锁需用户等级35级，效果为实数值
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 7
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身侧装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;复合装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加生命&amp;攻击，装备位解锁需用户等级40级，效果为百分比
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 8
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;炮架
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;火控装置
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加击破&amp;攻击，装备位解锁需用户等级45级，效果为实数值和百分比
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="8">
+				<p>
+					&nbsp;火箭车
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;1
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;裙板位
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;陶瓷装甲&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护，装备位解锁需用户等级10级，效果为实数值
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 2
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;火箭发射器
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;发射制退器&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加攻击，装备位解锁需用户等级15级，效果为百分比
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;3
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;火箭
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;高爆弹头
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加击破，装备位解锁需用户等级20级，效果为实数值
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 4
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;履带
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;记忆合金
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加生命，装备位解锁需用户等级25级，效果为百分比
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;5
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身前装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;反应装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护&amp;生命，装备位解锁需用户等级30级，效果为实数值和百分比
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 6
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;驾驶室
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;仪表盘
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加防护&amp;击破，装备位解锁需用户等级35级，效果为实数值
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 7&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;车身侧装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;复合装甲
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加生命&amp;攻击，装备位解锁需用户等级40级，效果为百分比
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp; 8
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;火箭发射架
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;火控装置
+				</p>
+			</td>
+			<td>
+				<p>
+					&nbsp; &nbsp; &nbsp; &nbsp;增加击破&amp;攻击，装备位解锁需用户等级45级，效果为实数值和百分比
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<br />
+</p>
+<p>
+	<br />
+</p>
+ps：补分配件还未开放敬请期待哦<br />
+<br />
+1.以上各个配件都有自己独特的图标，并根据品质分为4种颜色——绿蓝紫橙，品质越高同等级属性越高哦。<br />
+2.击破和防护为新增属性，说明：<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⑴击破：提高攻击造成的<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⑵防护：减少击破造成的伤害<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⑶以上两种属性相互对冲抵消<br />
+关于补给线关卡的说明：<br />
+1.攻打补给线关卡不会损耗坦克<br />
+2.达到三星的补给线可扫荡<br />
+3.每日24时自动重置次数<br />
+4.每日首次扫荡会消耗能量<br />
+5.每日金币重置后，攻打或扫荡都无消耗<br />
+6.每日补给线可以重置的次数与VIP等级相关
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

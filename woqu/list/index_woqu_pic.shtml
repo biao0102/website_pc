@@ -1,0 +1,10 @@
+<img src="http://js.feiliu.com/static/woqu/images/index/img02.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/woqu/images/index/img03.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/woqu/images/index/img04.jpg" alt="" border="0" usemap="#Map2" />
+            <map name="Map2">
+              <area shape="rect" coords="399,19,557,121" href="#" onclick="lightbox.clockScreen('pop')"  id="vedio">
+            </map>
+            <img src="http://js.feiliu.com/static/woqu/images/index/img05.jpg" alt="" border="0" usemap="#Map" />
+            <map name="Map">
+              <area shape="rect" coords="247,59,422,121" href="#001">
+            </map>

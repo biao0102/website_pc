@@ -1,0 +1,61 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content"><p>
+	《天天逗群英》在12月23号公测之后，很多玩家都得到了自己想要的卡片。而在之后相信各位玩家都被一个严峻的问题困扰了——怎么才能将卡片升到满星，或者是突破到橙卡或是
+</p>
+<p>
+	红卡。今天小编就为大家详细解析一下《天天逗群英》升星的方法。
+</p>
+<p>
+	(图1)<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223171218.jpg" /><a href="http://js.feiliu.com/gameimg/ttdqy/20141223171218.jpg"></a><br />
+在玩家到达一定等级之后，主公身边的小助手香香会提示玩家出现了升星和突破两个图标，玩家点击升星的图标就会进入到下面的界面
+</p>
+<p>
+	(图2)<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223171233.jpg" /><a href="http://js.feiliu.com/gameimg/ttdqy/20141223171233.jpg"></a><br />
+然后玩家需要选择使用的材料卡，这里需要注意的是不只是红色材料卡可以使用，其他颜色的材料卡和武将卡也可以用来给自己喜爱的武将升星的
+</p>
+<p>
+	（图3）<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223171241.jpg" /><a href="http://js.feiliu.com/gameimg/ttdqy/20141223171241.jpg"></a><br />
+选完自己要使用的材料卡之后卡片会标记成已选，这里需要注意，在左边武将卡上会出现虚星，通过武将卡上显示的星星可以判断在此次升星完成之后武将卡会升到几颗星
+</p>
+<p>
+	（图4）<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223171248.jpg" /><a href="http://js.feiliu.com/gameimg/ttdqy/20141223171248.jpg"></a><br />
+一切就绪之后就可以点击左下角的武将升星来进行操作啦，点击之后如果玩家选择的材料卡中有橙色或红色的卡片就会出现提示是否确认，以防玩家点错了从而吃掉自己需要的卡片
+</p>
+<p>
+	(图5)<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141223171254.jpg" /><a href="http://js.feiliu.com/gameimg/ttdqy/20141223171254.jpg"></a><br />
+在点击确定之后就会出现上图的情况，武将也就升星成功了。怎么样，四星的关羽是不是比一星的要酷炫一些呢？不仅如此，武将的属性也会变强不少。而各位想要将自己心爱的武
+</p>
+<p>
+	将升星的玩家在积攒材料卡的同时，也要快快升级哦。
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<script src="http://js.feiliu.com/static/ttdqy/web/js/ismobile.js"></script>
+<body>
+<div id="index-wrap">
+		<!--右侧浮动框模板start-->
+			<!--#include virtual="/list/index_ttdqy_float.shtml"-->
+		<!--右侧浮动框模板end-->
+		<!--导航_视频_下载_礼包模板start-->
+			<!--#include virtual="/list/index_ttdqy_topleft.shtml"-->
+		<!--导航_视频_下载_礼包模板end-->
+
+	<div id="info">
+		<!--轮播图模板start-->
+			<!--#include virtual="/list/index_ttdqy_lb.shtml"-->
+		<!--轮播图模板end-->
+		<!--栏目模板start-->
+			<!--#include virtual="/list/index_ttdqy_col.shtml"-->
+		<!--栏目模板end-->
+		<!--右下侧模板start-->
+			<!--#include virtual="/list/index_ttdqy_guojia.shtml"-->
+		<!--右下侧模板end-->
+	</div>
+
+
+
+	<!--媒体合作模板start-->
+		<!--#include virtual="/list/index_ttdqy_mthz.shtml"-->
+	<!--底部模板end-->
+</div>
+</div>
+
+
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+
+<div class="video-sourse disN">
+	<div class="video-sourse-wrap">		
+		<div class="videoback">X</div>
+	</div>	
+</div>
+</body>
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/js.js?v=3"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/threeCanvas.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/snowCanvas.js?v=2"></script>
+</html>

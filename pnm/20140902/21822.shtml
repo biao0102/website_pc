@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>基本资料_游戏资料_碰你妹官方网站</title>
+<link href="http://js.feiliu.com/static/pnm/web/css/index.css?v=1359" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/public.js"></script>
+</head>
+<body>
+<div class="contain fltt">
+  <div id="ripiao"> <img src="http://js.feiliu.com/static/pnm/web/images/scan.jpg" /> </div>
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+    <!--碰你妹头部导航模板start-->
+      <!--#include virtual="/list/index_pnm_nav.shtml"-->
+    <!--碰你妹头部导航模板end-->
+      <div></div>
+    <!--碰你妹轮播图模板start-->
+      <!--#include virtual="/list/index_pnm_lb.shtml"-->
+    <!--碰你妹轮播图模板end-->
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+              <div class="subnewsccon">
+          <h2>基本资料</h2>
+          <span class="newdate">2014-09-02 17:13:40</span>
+          <br>
+          <div class="content">
+        	&nbsp;
+<p class="MsoNormal">
+	　　游戏以弹珠战斗为核心玩法，通过弹射碰撞攻击敌人。招募武将组建军团，跟最多3个好友一起联机攻打三国时期各方势力，收集珍贵的灵石和瑞兽，强化进化你的武将以获得更强大的力量，最终击败各路英豪。
+</p>
+<h3>
+	武将类型
+</h3>
+<p class="MsoNormal">
+	武将型态:每只武将可分为反射型 及贯穿型。
+</p>
+<p class="MsoNormal">
+	反射型:照物理原理反弹，要杀怪比较容易，调好角度可以弹他个好几下把怪杀死(特别是两只武将 间距小一次杀两只)当使用反射型武将时，箭头呈现橙色。
+</p>
+<p class="MsoNormal">
+	贯穿型:射出去直接穿透武将，不会反弹，并且会被减速很多，优点是在紧急状况可以无视武将冲去吃补血救命，或者冲去触发队友友情技把怪杀了。还有打王的时候可以直接戳王每回合变换的三角形弱点当使用贯穿型武将时，箭头呈现蓝色。
+</p>
+<h3>
+	<strong>武将星数</strong> 
+</h3>
+<p class="MsoNormal">
+	武将星数(稀有度)有1至6星，最强的是6星。6星卡由初始5星的卡进化得来，通过招募或降临副本可以获得。
+</p>
+<h3>
+	武将三围
+</h3>
+<p class="MsoNormal">
+	武将三围分别是:HP、攻击力及速度指数。速度指数好影响武将撞击的次数，愈高速度愈多撞击，换言之对敌人愈大伤害。<br />
+武将三围数字可透过加蛋宠增加其数字(该红色字)。<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140902/20140902171335_49993.png" /> 
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<h3>
+	主动技
+</h3>
+<p class="MsoNormal">
+	等待一定回合数数目后，可以使用出主动技。主动技最右边是回合数。
+</p>
+<h3>
+	友情技
+</h3>
+<p class="MsoNormal">
+	当你弹紧的武将撞到自己友怪时会潋发出友怪的友情技。友情技有４种，爆发、光束、追踪弹及扩散弹
+</p>
+<h3>
+	武将幸运
+</h3>
+<p class="MsoNormal">
+	武将运数数值越高当你打每完一个关，结算时那只宠物就有越高机率帮你再多拿一个宝箱。
+</p>
+<p class="MsoNormal">
+	记住，武将运数只有当队长才会发挥效果。提升方法是吃自己一模一样的宠，吃退化的自己也可以<br />
+建议!!如果想冲运，建议使用一开始的主宠，因为有关卡可以打出该宠然后吃掉增加运数，而且实力OK，放在队长时都不会失去一个战力。
+</p>
+<h3>
+	武将国籍
+</h3>
+<p class="MsoNormal">
+	某些被动技能会对武将国籍产生效果
+</p>
+<h3>
+	武将类型
+</h3>
+<p class="MsoNormal">
+	主要有四种:<br />
+谋士型：被撞的时候自身的友情技伤害提升成1.4倍
+</p>
+<p class="MsoNormal">
+	平衡型：友情技不变是一倍，三围数值与成长也很平均&nbsp;
+</p>
+<p class="MsoNormal">
+	速度型：友情技不变是一倍，三围中在速度方面有突出的数值与成长
+</p>
+<p class="MsoNormal">
+	攻击型：自身友情技伤害减为0.7倍，三围中在攻击方面有突出的数值与成长
+</p>
+<h3>
+	怪物特性
+</h3>
+<p class="MsoNormal">
+	使用其怪物的其他优势。例如 反重力、无视火墙、破盾、多重打击等等
+</p>
+<h3>
+	加蛋宠
+</h3>
+<p class="MsoNormal">
+	使用加蛋宠作强化合成之素材，可增加怪物三围数字(红色字)<br />
+但要注意， +蛋在普通情况并不继承，只有以下两种情况在合成后才会有继承，<br />
+1. 强化合成时，两种宠物是相同<br />
+2. 进化合成<br />
+非以上两种情况，+值会消失!!!
+</p>
+<p class="MsoNormal">
+	注意：每个武将都有自己的+值上限！
+</p>
+<h3>
+	朱雀玄武
+</h3>
+<p class="MsoNormal">
+	朱雀：出售时获得大量的银元宝
+</p>
+<p class="MsoNormal">
+	玄武：强化时获得大量的经验值
+</p>
+<p class="MsoNormal">
+	朱雀可以在周五的周常副本获得，玄武出现在每天中午和晚上限时副本里
+</p>
+<h3>
+	进化素材
+</h3>
+<p class="MsoNormal">
+	- 进化合成时必要的素材<br />
+- 每日都有不同属性的素材关卡（分中级、上级），时限为一整天。<br />
+- 星期一：暗光　星期二：火　星期三：水　星期四：木　星期五：朱雀<br />
+- 星期六：火、光&amp;水　星期日：木&amp;暗
+</p>
+<p class="MsoNormal">
+	值得注意的是，进化素材一般都可以往上合成
+</p>
+<h3>
+	背包扩充
+</h3>
+<p class="MsoNormal">
+	初始背包容量为40，使用金元宝可以扩充背包，60金元宝=5格背包
+</p>  
+          </div>	
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/pnm/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <!--box01 -->
+    <div class="box02 fltt">
+    <!--碰你妹公共客服模板start-->
+      <!--#include virtual="/list/index_pnm_kf.shtml"-->
+    <!--碰你妹公共客服模板end-->
+    <!--碰你妹公共合作媒体模板start-->
+      <!--#include virtual="/list/index_pnm_hzmt.shtml"-->
+    <!--碰你妹公共合作媒体模板end-->
+    </div>
+  <!--碰你妹公共底部模板start-->
+    <!--#include virtual="/list/index_pnm_foot.shtml"-->
+  <!--碰你妹公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

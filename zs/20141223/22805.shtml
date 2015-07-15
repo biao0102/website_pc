@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">【征召令】三国战神堂</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-12-23 19:47:35</span>
+																			</div>
+									<div class="w-d">
+										尊敬的战神：<br />
+　　为了更好的为各位主公服务，《三国战神》运营团队决定开启“三国战神堂”， 只要您累计元宝数量达到10万元宝，就来联系我们吧，只要您能满意，我们将全力付出！<br />
+<br />
+【申请流程】<br />
+1.符合条件需求：自开服以来累计元宝数达到10万的用户。<br />
+2.申请方式：联系客服妹纸QQ：800032234。说明自己要申请加入《三国战神》三国战神堂。<br />
+&nbsp; 并填写您的角色名称，下载渠道和区服以及您的累计元宝数量，我们将帮您审核。<br />
+&nbsp; 审核通过，工作人员会在3个工作日内与您主动取得联系（QQ方式），并主动邀请您加入三国战神堂当中。未审核通过者将会给您留言，告知审核的情况。<br />
+<br />
+【享有的特权】<br />
+1.专项1对1服务：不限建议咨询、牢骚抱怨，游戏内外话题均可畅聊。<br />
+2.快捷处理问题：第一时间处理游戏问题，实时跟进，高效便捷。<br />
+3.意见建议直通：您所提供的有效宝贵建议以及意见将会直通研发和高层。<br />
+4.专属用户福利：特权礼包码一份。重大节日更有礼包相送<br />
+<br />
+【特权礼包】<br />
+每位尊贵的用户自加入三国战神堂之日起将会有一分特殊礼品赠送。<br />
+礼品内容：铜币*40万，三级战魂灵石*10，三级占星石*10<br />
+（奖励直接通过游戏内邮箱发放）<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2014.12.23<br />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

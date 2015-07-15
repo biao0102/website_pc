@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="皇城官职_" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>皇城官职 攻城掠地_游戏资料</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+								
+								<div class="news_head news_head_zl">
+                                    <ul class="news_tab">
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_yxgl.shtml">攻略</a></li>
+                                        <li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_yxzl.shtml" class="current">资料</a></li>
+                                    </ul>
+                                    <p>所在位置： <a href="http://gc.feiliu.com">首页</a> >> 资料</p>
+                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">皇城官职</a></div>
+                                    <div class="news_date">发布时间：2014-01-10 13:35:10</div>
+                                    <div class="news_main">
+										【开启条件】<br />
+25级，完成击败高顺任务后开启。<br /><img src="http://i0.8783.com/image/20140110/20140110133355_13931.jpg" alt="" /><br />
+【系统介绍】<br />
+《攻城掠地》在玩家沙场称雄的同时也可在朝野中尽显自身实力，挑战争夺高官厚禄。官职对玩家自身的资源产量有增益效果，官职越高对自身资源的产出帮助越大，另外越高的官职每天可以领取的银币俸禄也相应增多。<br />
+国王和一品官员每人每天可以发布3次官员令，组织本国玩家攻打某个战场，接受官员令的玩家可以瞬间到达该战场，并获得粮食奖励。<br />
+<br /><img src="http://i0.8783.com/image/20140110/20140110133441_96713.jpg" alt="" /><br />
+<br />
+<table align="center" style="width:361pt;padding:0pt;">
+	<tbody>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >官职名称</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >品级</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >资源加成<span>/</span><span>小时</span></span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >镔铁加成<span>/</span><span>小时</span></span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >皇</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >王</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1500</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >150</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >内务总管</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >五品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >750</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >75</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >丞相</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >一品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1350</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >135</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >丞相长史</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >六品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >675</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >67</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >太尉</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >一品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1320</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >132</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >太尉使令</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >六品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >660</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >66</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >太师</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >一品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1290</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >129</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >太师从事</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >六品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >645</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >64</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >征东将军</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >一品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1260</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >126</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >征东护军</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >六品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >630</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >63</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >大司马</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >二品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1200</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >120</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >司马史</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >七品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >600</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >60</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >征南将军</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >二品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1170</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >117</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >征南护军</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >七品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >585</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >58</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >京兆尹</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >二品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1140</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >114</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >御史员</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >七品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >570</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >57</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >太常卿</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >二品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1110</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >110</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >长卿员</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >七品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >555</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >55</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >征西将军</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >三品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1050</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >105</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >征西护军</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >八品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >525</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >52</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >军议校尉</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >三品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1020</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >102</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >校尉军</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >八品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >510</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >51</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >尚书</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >三品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >990</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >99</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >尚书仆射</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >八品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >495</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >49</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >五官曹掾</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >三品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >960</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >96</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >曹掾小吏</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >八品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >480</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >48</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >征北将军</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >四品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >900</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >90</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >征北护军</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >九品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >450</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >45</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >五官曹史</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >四品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >870</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >87</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >曹史小吏</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >九品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >435</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >43</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >太史令</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >四品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >840</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >84</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >太史小吏</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >九品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >420</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >42</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >太官令</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >四品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >810</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >81</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >使官小吏</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >九品</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >405</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >40</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >左城卫</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >——</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >225</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >22</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >右城卫</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >——</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >150</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >15</span><span ></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="94" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >百姓</span><span ></span>
+				</p>
+			</td>
+			<td width="100" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >——</span><span ></span>
+				</p>
+			</td>
+			<td width="130" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >15</span><span ></span>
+				</p>
+			</td>
+			<td width="156" valign="center" style="border:0.5000pt solid #000000;">
+				<p class="p0" style="text-align:center;">
+					<span >1</span><span ></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="新手FAQ_希望可以多多帮助更多新玩家~" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>新手FAQ 攻城掠地_游戏资料</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+								
+								<div class="news_head news_head_zl">
+                                    <ul class="news_tab">
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_yxgl.shtml">攻略</a></li>
+                                        <li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_yxzl.shtml" class="current">资料</a></li>
+                                    </ul>
+                                    <p>所在位置： <a href="http://gc.feiliu.com">首页</a> >> 资料</p>
+                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">新手FAQ</a></div>
+                                    <div class="news_date">发布时间：2014-01-09 18:35:25</div>
+                                    <div class="news_main">
+										Q：无法登录服务器怎么办？<br />
+A：请查看服务器是否处于维护状态。（服务器维护公告在官网公告中查看）。<br />
+&nbsp;<br />
+Q：《攻城掠地》30级之前新手如何升级？<br />
+A：主要通过升级建筑、完成任务或者征战副本获得的经验值升级。<br />
+&nbsp;<br />
+Q：游戏中如何获得四大资源？<br />
+A：在《攻城掠地》中的基本资源分为银币、木材、粮食、镔铁，可通过自身的资源区建筑（民居、木场、农田、矿场）产出，亦可通过游戏内其他相关资源功能和活动获得。<br />
+&nbsp;<br />
+Q：武将如何招募？<br />
+A：击败特定武将后可以从酒馆中进行招募，点击酒馆界面右上角的问号按钮查看哪些武将可以招募。<br />
+<br />
+Q：如何出战更多武将？<br />
+A：研制科技，获得统率力科技之后就可以出战更多的武将。<br />
+<br />
+Q：如何领取礼包？<br />
+A：点击左上角“礼”可领取固定奖励，或输入礼品码换取奖励。<br />
+<br />
+Q：如何查看信件？<br />
+A：点击上方“信”图标可进入收发邮件界面。<br />
+<br />
+Q：如何显示消费提示框？<br />
+A：点选右上角“充”或“礼”，点选其中提示按钮，可勾选提示/去除消费提示框。<br />
+<br />
+Q：游戏中的装备有等级之分吗？如何获得好的装备？<br />
+A：装备可随着主将等级的提升而提升品级，装备品阶分为白、蓝、绿、黄、红、紫6个品级。商店刷新次数越多亲密度越高，亲密度高出现高品级装备的概率高。<br />
+<br />
+Q：装备分为那些品级，怎么提升？<br />
+A：随着主将等级的提升开启更好的品级，分为白、蓝、绿、黄、红、紫6个品级。<br />
+<br />
+Q：官职如何获得,有什么作用？<br />
+A：26级后可进入皇城击败皇城建筑中的NPC或玩家来获得对应官职，官职对玩<br />
+家自身的资源产量有增益效果，官职越高对自身资源的产出帮助越大，另外越高的官职每天可以领取的银币俸禄也相应增多。<br />
+<br />
+Q：文官有那些计策？<br />
+A：<br />
+● 火攻	平原地形中的敌方部队兵力微量减少<br />
+● 水攻	水域地形城池中的敌方部队兵力减少<br />
+● 落石	山地地形城池中的敌方部队兵力减少<br />
+● 陷阱	在地格中放置陷阱，敌方移动到该地格后兵力减少,陷阱持续300秒<br />
+● 空城	保护一座我方城池，使其3分钟内不可被攻打<br />
+● 谎报	阻止地格内敌方部队移动，持续2分钟<br />
+<br />
+Q：如何解雇文官？<br />
+A：世界界面直接点击文官头像右上角的关闭就可以解雇。<br />
+&nbsp;<br />
+Q：政务事件如何获得又怎么处理？<br />
+A：20级后主城各资源区中，每隔一段时间或升级建筑后会产生一个政务事件，玩家通过从2种方案中选择一种政务处理方法以获得相应政务奖励的资源或民忠。<br />
+&nbsp;<br />
+Q：民忠有什么作用？<br />
+A：民忠累积到100后奖励大量资源。<br />
+&nbsp;<br />
+Q：游戏中各大资源都有什么用处。<br />
+A：<br />
+银币：购买装备、招募武将、升级建筑、收买蛮族、投资任务等<br />
+木材：升级建筑、升级科技<br />
+粮食：募兵、副本推图、世界移动、战斗消耗<br />
+镔铁：升级兵器<br />
+&nbsp;<br />
+Q：游戏中如何免费获得金币？<br />
+A：玩家击败吕布后，开启每日登录奖励，可以获得金币和免费祭祀机会。<br />
+&nbsp;<br />
+Q：为什么我募兵消耗的粮草不一样？<br />
+A：兵种等级越高，募兵需要的粮草就越多。<br />
+&nbsp;<br />
+Q：副本推图升级太慢怎么办？<br />
+A：副本中有一些隐藏的NPC或副本，攻击他们可以掠夺大量资源或经验。击败之后消耗一定数量的金币还可以重新开启。<br />
+&nbsp;<br />
+Q：铁矿在哪里？<br />
+A：相关资源开启后，在世界地图上的主城附近会出现矿区。<br />
+&nbsp;<br />
+Q：为什么战斗中不能选择战法了？<br />
+A：请查看武将兵力是否补满了，不是满兵状态的武将无法施放战法。<br />
+&nbsp;<br />
+Q：选择国家以后还能更改吗？<br />
+A：不能。<br />
+&nbsp;<br />
+Q：国战中占领其他国家的城池有什么好处？<br />
+A：提升每小时领取的军资奖励。<br />
+&nbsp;<br />
+Q：募兵太慢了怎么办？<br />
+A：升级兵营区建筑，加快基础募兵速度。使用募兵令或者金币瞬间减少5分钟募兵时间同时获得兵力。宴会也能快速补充兵力。<br />
+&nbsp;<br />
+Q：为什么政务事件民忠领不了<br />
+A：看看是不是民忠值满了，领取民忠奖励后就能继续领取民忠了。<br />
+&nbsp;<br />
+Q：如何获得募兵令？<br />
+A：游戏每天赠送一定数量的募兵令，集市中也能买到募兵令，杀敌宝箱中也能随机获得。<br />
+&nbsp;<br />
+Q：如何获得宝物？<br />
+A：杀敌宝箱中随机获得。<br />
+&nbsp;<br />
+Q：怎么获得有技能的装备？<br />
+A：商店刷新，品级黄色以上的装备可能附带技能。<br />
+&nbsp;<br />
+Q：为什么我注资了科技但是没有效果？<br />
+A：科技要在注资全部完成并且研究结束以后才会生效。<br />
+&nbsp;<br />
+Q：为什么我的水攻放不了？<br />
+A：有的计策只能对特定地形施放，请查看你的武将四周有没有水域地形。<br />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

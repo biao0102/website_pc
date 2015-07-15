@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_其他<</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page.css?v=12267">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">管理权限</h1>
+									<div class="aside"><span class="time">2014-05-21 16:52:46</span><span class="share-l">分享到：</span><div class="share-t"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg2.jpg"></div></div>
+									<div class="w-d">
+										【职位设置】<br />
+●帮主1名，创建帮会或者被前任帮主委托&nbsp;<br />
+●副帮主初始2名，由帮主委任，可被帮主直接驱除&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br />
+●帮众多名，由帮会等级不同而定，可被帮主、副帮主驱除<br />
+<br />
+【职位权限】<br />
+<table style="width:361.45pt;border-collapse:collapse;">
+	<tbody>
+		<tr>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="151">
+				<p style="text-align:center;" class="p15">
+					<span></span>
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="103">
+				<p style="text-align:center;" class="p15">
+					<span>帮主</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span>副帮主</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span>帮众</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="151">
+				<p style="text-align:center;" class="p15">
+					<span>审批申请</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="103">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="151">
+				<p style="text-align:center;" class="p15">
+					<span>驱除帮众</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="103">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="151">
+				<p style="text-align:center;" class="p15">
+					<span>叛离帮会</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="103">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="151">
+				<p style="text-align:center;" class="p15">
+					<span>帮主禅让</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="103">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span></span>
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="151">
+				<p style="text-align:center;" class="p15">
+					<span>帮会任命</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="103">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span></span>
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="151">
+				<p style="text-align:center;" class="p15">
+					<span>修改帮会宗旨</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="103">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="151">
+				<p style="text-align:center;" class="p15">
+					<span>帮会升级</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="103">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span></span>
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="151">
+				<p style="text-align:center;" class="p15">
+					<span>报名帮会活动</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="103">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span>√</span><span></span> 
+				</p>
+			</td>
+			<td style="border-bottom:#000000 0.5pt solid;border-left:#000000 0.5pt solid;border-top:#000000 0.5pt solid;border-right:#000000 0.5pt solid;" valign="top" width="113">
+				<p style="text-align:center;" class="p15">
+					<span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+说明：<br />
+●玩家叛离、解散帮会后再24小时内无法创建、加入新帮会<br />
+●帮会中只剩下一人时，帮主才可叛离帮会即解散帮会
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <div class="cnt-zsr"></div>
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">《三国战神》1.11.0版本更新公告</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2015-06-01 11:49:19</span>
+																			</div>
+									<div class="w-d">
+										<span>亲爱的玩家们：</span><br />
+<span>&nbsp; &nbsp; 大家好！感谢大家长久以来对《三国战神》的支持！</span><br />
+<span>&nbsp; &nbsp; 我们定于2015年6月2日下午14:00-16:00进行游戏版本更新维护，维护期间将无法登陆游戏。<br />
+&nbsp; &nbsp;&nbsp;届时PP助手，同步推，91，快用，iTools，海马，爱思，XY，游龙，三国战神官网以及AppStore将同步进行游戏客户端更新。游戏更新维护结束后，大家可以下载最新版客户端进行游戏。（因各渠道缓存新版本客户端时间不一，还请玩家耐心等待各自渠道缓存完毕）<br />
+&nbsp; &nbsp;&nbsp;温馨提示：届时请大家完全删除旧版客户端，重新下载最新版客户端，以便正常进入游戏。<br />
+&nbsp; &nbsp;&nbsp;预祝各位游戏愉快！<br />
+&nbsp; &nbsp;&nbsp;百战沙场，唯我独尊！<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 2015.6.1</span>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>游戏介绍_游戏资料_碰你妹官方网站</title>
+<link href="http://js.feiliu.com/static/pnm/web/css/index.css?v=1356" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/web/scripts/public.js"></script>
+</head>
+<body>
+<div class="contain fltt">
+  <div id="ripiao"> <img src="http://js.feiliu.com/static/pnm/web/images/scan.jpg" /> </div>
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+    <!--碰你妹头部导航模板start-->
+      <!--#include virtual="/list/index_pnm_nav.shtml"-->
+    <!--碰你妹头部导航模板end-->
+      <div></div>
+    <!--碰你妹轮播图模板start-->
+      <!--#include virtual="/list/index_pnm_lb.shtml"-->
+    <!--碰你妹轮播图模板end-->
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+              <div class="subnewsccon">
+          <h2>游戏介绍</h2>
+          <br>
+        	<br />
+游戏介绍<br />
+<br />
+　　游戏以弹珠战斗为核心玩法，通过弹射碰撞攻击敌人。招募武将组建军团，跟最多3个好友一起联机攻打三国时期各方势力，收集珍贵的灵石和瑞兽，强化进化你的武将以获得更强大的力量，最终击败各路英豪。<br />
+<br />
+玩法介绍<br />
+<br />
+【单人副本】：玩家自己出战3个武将，好友或者陌生人提供1个协助者作战。适合独行侠、网络不稳定、只能断断续续的玩等情形。<br />
+【多人副本】：2-4人的联机战斗，奖励更为丰厚，适合网络稳定时间充裕的高玩。<br />
+【强化】：提升武将的等级，高等级的武将战斗能力更强大<br />
+【进化】：武将进化后，属性和技能都有所提升，等级上限也有所提高<br />
+【招募】：招募是快速获得武将的办法，友情招募有机会获得瑞兽玄武朱雀，元宝招募是获得稀有武将的捷径<br />
+【好友】：使用好友作为协助者出战可以获得双倍的友情点数奖励，也可以通过邮件功能聊天<br />
+<br />
+游戏技巧<br />
+1.武将分为反射和贯穿2种，反射的武将碰到怪物后会反弹，而贯穿的武将会直接穿透目标<br />
+2.buff分为恢复、加速、攻击、CD减少、路径展示5种<br />
+3.属性克制：火&gt;木&gt;水&gt;火,光暗互克,优势方会有伤害加成，同时弱势方伤害会减少<br />
+4.运势越高的宠物，在战斗胜利时，更容易获得额外的宝箱。吞噬同名的武将可以叠加运势值，每满15点运势，主动技能CD降低1回合<br />
+5.主将副将怪物都有弱点，攻击弱点可以造成巨大的伤害<br />
+6.4星以上的武将拥有被动技能，合理选择武将就能战胜强大的敌人<br />
+7.15回合之内击败敌方主将可以获得额外的宝箱奖励<br />
+8.强化和进化是提升武将实力的好方法，而虎、熊、马在强化的时候可以直接提升武将属性<br />
+9.武将有势力和类型之分，某些被动技能会依据它们产生效果<br />
+10.降临副本开放时间短，奖励丰厚<br />
+11.周常副本里掉落进化材料、银元宝<br />
+12.瑞兽玄武每天在中午和晚上出现2次，但时间不固定<br />
+13.敌人有时候会狂暴，有时优先击杀狂暴的敌人是个好主意<br />
+14.提升自身等级可以提升体力上限和好友上限<br />
+15.收藏你喜爱的武将，可以防止不小心出售<br />
+16.除了大灵石，进化材料是可以向上合成的，龙珠也可以通过合成获得<br />
+17.盾牌敌人很讨厌，但某些武将能轻易摆平它们，重力敌人同理<br />
+18.据说英明的君主都拥有多个将领以防不时之需<br />
+19.坚持连续登陆游戏可以获得不错的奖励<br />
+20.注意：只有同名的武将强化时才能转移"+"值<br />
+21.武将等级达到上限才能进化<br />
+<br />
+游戏攻略<br />
+【强化攻略】：强化的费用，主要取决于等级和运势、+值，而运势、+值的提升往往需要大致不变的次数，但如果+值和运势分散在好几个同名武将身上，再一次性合并在最终的武将(满级或者准满级最佳)身上，可以大幅节省强化费用。强化的经验，取决于材料武将和它的等级，除了少部分武将等级上限为1，大部分武将等级上限大于等于5，而前几级升级非常容易，所以一个可行的方法是1+1&gt;2，即2个1级的武将通过强化变成一个等级较高的武将(通常大于3)，这样一则可以增加总的经验值，二则可以减少高级武将强化时的费用, 强化时使用相同属性的武将可以多获得50%的经验值，利用好了这点真的会事半功倍！<br />
+【战斗攻略】：游戏中的buff，除了速度鞋子，其余的都是可以成长的。很多时候等待buff成长后再使用，往往能起到更好的效果。恢复buff的效果比较复杂：等级1,恢复该武将HP的一半；等级2，恢复该武将HP；等级3，恢复全体武将HP的80%(几乎完全恢复!)。快速击杀Boss(一般为15回合内)，会多获得一个宝箱，所以有时候，攒好技能的CD，再击杀Boss是明智之选。带有破盾、抗火墙、反重力圈三个被动技能的武将是相应Boss的克星，可以合理的搭配。<br />
+【进化攻略】：大部分进化材料可以合成为更高一级的材料。顶级的进化材料——龙珠极其稀有很难获得，但攒够100个某颜色的灵玉，可以直接合成为龙珠。所以靠谱的方法是大量攻打材料副本。同时25体力的材料本有几率直接掉落龙珠！<br />
+【银元宝攻略】：银元宝不够用的时候，有以下办法：<br />
+1. 出售一些不需要的武将<br />
+2. 蹭多人副本，记得努力划动拾取<br />
+3. 攻打周五的朱雀副本，获得朱雀后卖掉换取大量的银元宝<br />
+【招募攻略】：如果有中意的武将，可以耐心等待他的几率提升的时候抽奖，十连抽还能赠送1个武将。<br />
+<br />  
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/pnm/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <!--box01 -->
+    <div class="box02 fltt">
+    <!--碰你妹公共客服模板start-->
+      <!--#include virtual="/list/index_pnm_kf.shtml"-->
+    <!--碰你妹公共客服模板end-->
+    <!--碰你妹公共合作媒体模板start-->
+      <!--#include virtual="/list/index_pnm_hzmt.shtml"-->
+    <!--碰你妹公共合作媒体模板end-->
+    </div>
+  <!--碰你妹公共底部模板start-->
+    <!--#include virtual="/list/index_pnm_foot.shtml"-->
+  <!--碰你妹公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,273 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>装备系统简介_游戏攻略_最江湖官方网站</title>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/stop.jpg"  alt="新闻"/></h2>
+          </div>
+          <div class="clear"></div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle" style="color:#704e33;">装备系统简介</div>
+              <div class="textTime"><span style="float:left; color:#393939; width:80px; padding-left:90px;">2015-03-31 22:54:04</span><span style="width:380px; float:right; padding-top:10px">
+                <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span></div>
+                <p></p>
+                <p class="MsoNormal" style="text-indent:21.0pt;">
+	装备替换<span lang="EN-US">/</span>穿戴
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	每个侠客一共有<span lang="EN-US">7</span>个装备位，分别是：耳环、手镯、吊坠、戒指、腰带、战靴和胸甲。点击下图红框处，可以直接查看单件装备的属性，并可以进行洗练、升星等操作；点击下图绿框处，可以直接穿戴或替换装备
+</p>
+<div style="text-align:center;">
+	<span style="text-indent:21pt;"><img src="http://i0.feiliu.com/image/20150331/20150331222447_84944.jpg" width="400" height="267" alt="" /></span><br />
+	<p class="MsoNormal" style="text-align:left;text-indent:21pt;">
+		装备洗炼
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		30级之后的装备可以进行洗炼，点击装备界面下方的洗炼按钮即可进行。装备洗练分为银两洗炼、元宝洗炼、原属性洗炼和精确洗炼，其中银两洗炼和元宝洗炼均为随机洗<span lang="EN-US">3</span>个属性；原属性洗练是指仅会在当前的属性中洗出不同品质的属性；精确洗练则可以选择在下次洗练时不出现某些属性。<span lang="EN-US"><o:p></o:p></span>
+	</p>
+<span lang="EN-US"><o:p></o:p></span>
+	<p>
+		<br />
+	</p>
+<br /><img src="http://i0.feiliu.com/image/20150331/20150331223150_69947.jpg" width="400" height="267" alt="" /><br /><img src="http://i0.feiliu.com/image/20150331/20150331223216_89953.jpg" width="400" height="267" alt="" /><br />
+	<p class="MsoNormal" style="text-align:left;text-indent:21pt;">
+		装备淬炼<span lang="EN-US"><o:p></o:p></span>
+	</p>
+	<div style="text-align:left;">
+		<span style="text-indent:21pt;">
+		<p class="MsoNormal" style="text-indent:21.0pt;">
+			50级之后的装备可以进行淬炼，点击装备界面中间的淬炼按钮即可进行。<span lang="EN-US"><o:p></o:p></span>
+		</p>
+<br />
+		<div style="text-align:center;">
+			<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331223319_79023.jpg" width="400" height="267" alt="" style="text-indent:21pt;" /><span style="text-indent:21pt;"></span><span style="text-indent:21pt;"><br />
+			<div style="text-align:left;">
+				<span style="text-indent:21pt;"></span><span style="text-indent:21pt;">装备淬炼可以直接提升装备的原有属性的</span><span lang="EN-US" style="text-indent:21pt;">50%</span><span style="text-indent:21pt;">，淬炼时需要消耗玄铁，装备淬炼后升级为极品装备。</span><span style="text-indent:21pt;"><br />
+</span>
+			</div>
+</span>
+		</div>
+</span>
+	</div><img src="http://i0.feiliu.com/image/20150331/20150331223433_40052.jpg" width="400" height="267" alt="" /><br />
+	<div style="text-align:left;">
+		<span style="text-indent:21pt;"></span><span style="text-indent:21pt;">装备神炼<br />
+70级之后的装备可以进行神炼，点击装备界面中间的神炼按钮即可进行。<br />
+		<div style="text-align:center;">
+			<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331223637_87933.jpg" width="400" height="267" alt="" style="text-indent:21pt;" /><br />
+			<div style="text-align:left;">
+				<span style="text-indent:21pt;">
+				<p class="MsoNormal" style="text-indent:21.0pt;">
+					装备神炼可以直接提升装备的原有属性的<span lang="EN-US">50%</span>，神炼时需要消耗玄铁和精火石，装备神炼后升级为传说装备，传说装备在星级继承时将不会损耗装备星级。
+				</p>
+				<div style="text-align:center;">
+					<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331223742_75895.jpg" width="400" height="267" alt="" style="text-indent:21pt;" /><br />
+					<div style="text-align:left;">
+						<span style="text-indent:21pt;">装备锻造<span lang="EN-US">/</span>熔炼<br />
+&nbsp;</span><span style="text-indent:21pt;">天狼谷中产出的装备，一般足够大侠使用，但如果大侠没有那么多时间去天狼谷，也可以使用些许玄铁锻造装备。锻造时务必记得量需锻造，不然锻造出来用不到就浪费了。</span><span style="text-indent:21pt;"><br />
+						<div style="text-align:center;">
+							<span style="text-indent:21pt;"></span><span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331223856_25405.jpg" width="400" height="267" alt="" style="text-indent:21pt;" /><br />
+							<div style="text-align:left;">
+								<span style="text-indent:21pt;"></span><span style="text-indent:21pt;">随着游戏的进行，大侠可能会积累大量的无用装备，此时可以使用熔炼功能变废为宝，将无用装备熔炼为玄铁。熔炼时系统将会</span><span style="text-indent:21pt;">自动过滤目前穿戴的、或强化</span><span lang="EN-US" style="text-indent:21pt;">5</span><span style="text-indent:21pt;">星以上的装备。<br />
+								<div style="text-align:center;">
+									<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331223941_76933.jpg" width="400" height="267" alt="" style="text-indent:21pt;" /><br />
+									<p class="MsoNormal" style="text-align:left;text-indent:21pt;">
+										特殊装备<span lang="EN-US">—</span>披风
+									</p>
+								</div>
+</span>
+							</div>
+						</div>
+</span>
+					</div>
+				</div>
+				<p>
+					<br />
+				</p>
+				<p class="MsoNormal" style="text-indent:21.0pt;">
+					每个侠客都可以穿戴一件披风，主要增加敏捷。披风可以消耗其他披风进行升星，升星后将会获得力量、体力、敏捷属性加成，高星披风的属性可是相当强的哦！目前披风共分为江湖披风、混元披风和无极披风三种，无极披风的属性最好、江湖披风的属性最差。
+				</p>
+				<div style="text-align:center;">
+					<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331224029_34982.jpg" width="400" height="267" alt="" style="text-indent:21pt;" /><br />
+					<div style="text-align:left;">
+						<span style="text-indent:21pt;">装备升星<br />
+						<p class="MsoNormal" style="text-indent:21.0pt;">
+							装备升星<span lang="EN-US">/</span>星级继承<span lang="EN-US">/</span>星套
+						</p>
+						<p class="MsoNormal" style="text-indent:21.0pt;">
+							装备<span lang="EN-US">30</span>级后即可进行升星，升星时需要消耗升星石或封星印。
+						</p>
+						<div style="text-align:center;">
+							<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331224423_82653.jpg" width="400" height="267" alt="" style="text-indent:21pt;" />
+						</div>
+						<p class="MsoNormal" style="text-indent:21.0pt;">
+							使用升星石进行升星，需要消耗升星石和一定的银两，极品升星石可以自动升星。升星时成功概率是可见的哦，失败了可是会倒退星级的，所以务必保证升星时概率达到最高，不然可就得不偿失了。<span lang="EN-US"><o:p></o:p></span>
+						</p>
+						<p>
+							<br />
+						</p>
+<span lang="EN-US"><o:p></o:p></span>
+						<p>
+							<br />
+						</p>
+						<div style="text-align:center;">
+							<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331224334_88115.jpg" width="400" height="267" alt="" style="text-indent:21pt;" />
+						</div>
+						<p class="MsoNormal" style="text-indent:21.0pt;">
+							使用封星印进行升星，可以直接将装备升至相应星级<span lang="EN-US"><o:p></o:p></span>
+						</p>
+						<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20150331/20150331224500_85214.jpg" width="400" height="267" alt="" style="text-indent:21pt;" /><span style="text-indent:21pt;"><br />
+							<p class="MsoNormal" style="text-align:left;text-indent:21pt;">
+								星级继承
+							</p>
+							<div style="text-align:left;">
+								<span style="text-indent:21pt;">
+								<p class="MsoNormal" style="text-indent:21.0pt;">
+									除了<span lang="EN-US">7</span>件普通装备外，披风和<span lang="EN-US">110</span>级开启的<span lang="EN-US">3</span>件神兵都可以进行星级继承。继承时，请穿戴高星装备，可以将星级继承给给装备等级更高的同部位<span lang="EN-US">0</span>星装备。继承时有几率出现星级损耗，传说装备在给其他装备继承时不会出现星级损耗.
+								</p>
+								<p class="MsoNormal" style="text-indent:21.0pt;">
+									星套加成
+								</p>
+								<p>
+									<br />
+								</p>
+								<p class="MsoNormal" style="text-indent:21.0pt;">
+									单个侠客穿戴同一品质、同一等级的装备，可以获得套装加成效果。如果这些装备的星级超过<span lang="EN-US">3</span>星，还可以获得一定的星套属性加成。下图中红框表示套装加成，等级越高的装备，套装加成越高；绿框表示星套加成，如令狐少侠穿戴的传说级超凡套装最低星级为<span lang="EN-US">5</span>星办，则可以获得<span lang="EN-US">5</span>星套装加成；底部紫色框表示星套的属性加成，点击详细可以查看不同星级的加成效果.
+								</p>
+								<div style="text-align:center;">
+									<span style="text-indent:21pt;">&nbsp;</span><img src="http://i0.feiliu.com/image/20150331/20150331224837_14850.jpg" width="400" height="267" alt="" style="text-indent:21pt;" /><br />
+									<p class="MsoNormal" style="text-align:left;text-indent:21pt;">
+										星套压制<br />
+在每次战斗时，身穿高星星套装备的侠客可以压制装备星套星级低的侠客，建议各位在升星时，不要过于追求单件装备的星级.
+									</p>
+									<div style="text-align:center;">
+										<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331224926_20528.jpg" width="400" height="267" alt="" style="text-indent:21pt;" /><br />
+										<div style="text-align:left;">
+											<span style="text-indent:21pt;">神兵系统</span>
+										</div>
+									</div>
+									<p>
+										<br />
+									</p>
+								</div>
+								<p>
+									<br />
+								</p>
+</span>
+							</div>
+</span>
+						</div>
+</span>
+					</div>
+				</div>
+				<p>
+					<p class="MsoNormal" style="text-indent:21.0pt;">
+						当主角或侠客达到<span lang="EN-US">110</span>级时，可以穿戴兵器、鞋子和饰品神兵各一件<span lang="EN-US"><o:p></o:p></span>
+					</p>
+					<p class="MsoNormal" style="text-indent:21.0pt;">
+						按照品质划分，神兵可分为天、地、玄、黄四种品质，天级最强<span lang="EN-US"><o:p></o:p></span>
+					</p>
+					<p class="MsoNormal" style="text-indent:21.0pt;">
+						按照类型划分，神兵可分为兵器、鞋子和饰品三种，分别对应着力、敏、体三种属性<span lang="EN-US"><o:p></o:p></span>
+					</p>
+					<p class="MsoNormal" style="text-indent:21.0pt;">
+						按照升星后的成长潜力划分，神兵可分为成长型、平均型和强力型。成长型是指前面较差，后面越成长属性越高；强力型再是前面很强，后面潜力较差。由于神兵和普通装备一样都可以进行星级继承，所以建议您前期使用强力型，后面将星级继承给成长型神兵。<br />
+						<div style="text-align:center;">
+							<span style="text-indent:21pt;"></span><span style="text-indent:21pt;"><img src="http://i0.feiliu.com/image/20150331/20150331225134_36733.jpg" width="400" height="267" alt="" /><br />
+							<p class="MsoNormal" style="text-align:left;">
+								神兵的获得<br />
+<span></span>
+							</p>
+							<p class="MsoListParagraph" style="text-align:left;margin-left:39pt;text-indent:-18pt;">
+								&nbsp; 天狼谷中采集玄铁，有几率获得天、地、玄、黄四种类型的随机一件神兵<span></span>
+							</p>
+							<p class="MsoListParagraph" style="text-align:left;margin-left:39pt;text-indent:-18pt;">
+								&nbsp;击杀千机塔<span>BOSS</span>，有几率获得天、地、玄、黄四种类型的随机一种神兵的设计图<span></span>
+							</p>
+							<p class="MsoListParagraph" style="text-align:left;margin-left:39pt;text-indent:-18pt;">
+								不同类型的设计图与精火石可以打造相应品质的随机一件神兵<br />
+								<div style="text-align:left;">
+									<span style="text-indent:-18pt;"></span><span style="text-indent:21pt;">专属神兵<br />
+</span><span style="text-indent:21pt;">部分侠客会有其专属神兵，穿戴专属神兵可以获得额外属性加成</span>
+								</div>
+							</p>
+							<p class="MsoNormal" style="text-align:left;margin-left:21pt;">
+								<div style="text-align:center;">
+									<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331225257_29802.jpg" width="400" height="267" alt="" style="text-indent:21pt;" /><br />
+									<p class="MsoNormal" style="text-align:left;margin-left:21pt;">
+										神兵锤炼<span lang="EN-US"><o:p></o:p></span>
+									</p>
+									<p class="MsoNormal" style="text-align:left;text-indent:21pt;">
+										神兵可以消耗精火石进行锤炼提升星级，每次锤炼可以增加一定威力，中间的<span lang="EN-US">10</span>个球全部变为绿色后即表示提升一星。<span lang="EN-US">2</span>星以下神兵锤炼时，每次需要<span lang="EN-US">8</span>个精火石，随着星级提升，每次锤炼所需的精火石数量也在提升。<br />
+										<div style="text-align:center;">
+											<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331225349_91976.jpg" width="400" height="267" alt="" style="text-indent:21pt;" /><br />
+										</div>
+									</p>
+<br />
+								</div>
+<span></span>
+							</p>
+							<div style="text-align:left;">
+								<span style="text-indent:21pt;"></span>
+							</div>
+</span>
+						</div>
+					</p>
+				</p>
+<br />
+</span>
+			</div>
+		</div>
+</span>
+	</div>
+</div>
+<p>
+	<br />
+</p> 
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

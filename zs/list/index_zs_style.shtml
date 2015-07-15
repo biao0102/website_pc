@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+<style>
+*{ margin:0; padding:0;}
+ul { padding-top:5px;}
+ul li{height:29px; line-height:29px; color:#6f5f31; padding-left:15px; font-size:12px;}
+li.even{ background-color:#dbd5cf;}
+a{ color:#6f5f31; font-size:12px; cursor:pointer;}
+</style>
+</head>
+
+<body>
+	<ul>
+                     <li>&gt; <a>状态问题已解决《斗三国》头像怎么设置?主角头像怎么换?1111</a></li>
+                     <li class="even">&gt; <a>已解决斗三国功勋有什么作用?怎样才能获得功勋已解决斗三国下载最新客户端后为什么不能登陆游戏?</a></li>
+                      <li>&gt; <a>状态问题已解决《斗三国》头像怎么设置?主角头像怎么换?</a></li>
+                     <li class="even">&gt; <a>已解决斗三国功勋有什么作用?怎样才能获得功勋已解决斗三国下载最新客户端后为什么不能登陆游戏?</a></li>
+                      <li>&gt; <a>状态问题已解决《斗三国》头像怎么设置?主角头像怎么换?</a></li>
+                     <li class="even">&gt; <a>已解决斗三国功勋有什么作用?怎样才能获得功勋已解决斗三国下载最新客户端后为什么不能登陆游戏?</a></li>
+                      <li>&gt; <a>状态问题已解决《斗三国》头像怎么设置?主角头像怎么换?</a></li>
+                   
+                 </ul>
+</body>
+</html>

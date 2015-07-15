@@ -1,0 +1,37 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        		</div>
+	    			<div class="infotitle">融入三国时代 征战不休</div>
+		        	<div class="textTime">2014-10-20</div>
+		    		<div class="article">
+						<p style="text-indent:2em;">
+	既然以三国为主题，那么征战必然不休！《<span >就是要三国</span>》PVE、PVP两大战斗系统纯正还原了硝烟弥漫的三国杀场。PVE中，玩家可以穿越三国历史，亲手主导历史战役，挑战一个个对手；PVP系统中的出征、讨伐对方阵营城池来获取声望、功勋、经验和游戏币强大自身，参加官位战争夺官位称号来开启科技，冲刺更高排名。激烈、酷炫的战斗，玩家间智慧的博弈都将在《<span >就是要三国</span>》中一一呈现，让人体验到趣味无穷又激情的游戏快感！
+</p>
+<div style="text-align:center;">
+	<br />
+</div>
+<p>
+	<br />
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

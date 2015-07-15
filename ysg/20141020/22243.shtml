@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《报告主公》_【超可爱Q版造型 视觉不再疲劳】_新闻页</title>
+<link href="http://js.feiliu.com/static/bgzg/web/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/bgzg/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/bgzg/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/bgzg/web/scripts/public.js"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--首页左侧浮动框模板开始--> 
+        <!--#include virtual="/list/index_bgzg_float.shtml"-->
+      <!--首页左侧浮动框模板结束-->
+  <div class="head minwidth">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <div style="clear:both"></div>
+      <!--首页头部导航模板开始--> 
+        <!--#include virtual="/list/index_bgzg_nav.shtml"-->
+      <!--首页头部导航模板结束-->
+      <div style="clear:both"></div>
+      <!--首页轮播图模板开始--> 
+        <!--#include virtual="/list/index_bgzg_lb.shtml"-->
+      <!--首页轮播图模板结束-->
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>【超可爱Q版造型 视觉不再疲劳】</h2>
+          <p style="text-align:center;">2014-10-20</p>     
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;超可爱的Q版人设、卡牌式的武将展现！以三国历史为背景的《报告主公》力求让人们拥有轻松游戏的乐趣，在对三国时代诸多名望实力俱佳的名将、城池、士兵、装备等等视觉元素进行全新塑造时，采用了Q版这一卡通型的风格。清新的风格不止能大幅减低玩家长时间游戏的视觉疲劳，可爱的外形更会让心情愉悦。游戏的乐趣不就在于此吗？</p>     
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/bgzg/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--首页微信客服模板开始--> 
+        <!--#include virtual="/list/index_bgzg_kf.shtml"-->
+      <!--首页微信客服模板结束-->
+      <!--首页合作媒体模板开始--> 
+        <!--#include virtual="/list/index_bgzg_hzmt.shtml"-->
+      <!--首页合作媒体模板结束-->
+    </div>
+      <!--首页底部版权模板开始--> 
+        <!--#include virtual="/list/index_bgzg_foot.shtml"-->
+      <!--首页底部版权模板结束-->
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="实时国战_" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>实时国战 攻城掠地_游戏资料</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+								
+								<div class="news_head news_head_zl">
+                                    <ul class="news_tab">
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_yxgl.shtml">攻略</a></li>
+                                        <li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_yxzl.shtml" class="current">资料</a></li>
+                                    </ul>
+                                    <p>所在位置： <a href="http://gc.feiliu.com">首页</a> >> 资料</p>
+                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">实时国战</a></div>
+                                    <div class="news_date">发布时间：2014-01-10 11:05:11</div>
+                                    <div class="news_main">
+										【开放条件】<br />
+主将达到30级并拥有一件绿色武器后开放<br />
+&nbsp;<br />
+【系统介绍】<br />
+《攻城掠地》分魏、蜀、吴三个国家。三个国家的玩家，可以在拥有多达247个城池关隘3个蛮族城的世界地图上，自由地调兵遣将进行移动或攻击。当玩家移动到没有所属的城池时，攻击其中的NPC可占领城池；而移动到他国城池，就必须击败他国玩家才能占领城池。所占城池越多，则军资奖励越多，而在国战中击杀其他国家所属城市的玩家数量越多，就能跃居登上世界地图杀敌榜，尊享万人景仰的荣耀。<br />
+&nbsp;<br />
+【迷雾系统】<br />
+世界地图具有迷雾系统，在国战途中，探索世界迷雾和行军移动过程中，可获得奖励和宝箱。 未探索区域无法移动或攻击。<br /><img src="http://i0.8783.com/image/20140110/20140110110200_82387.jpg" alt="" /><br />
+<br />
+【特色城池】<br />
+4座特色城池：占领后可获得各种全新功能；<br /><img src="http://i0.8783.com/image/20140110/20140110110225_82051.jpg" alt="" />&nbsp;<br />
+<br />
+【国战规则】<br />
+a)三个国家的玩家在世界地图上（247个城池/地块）实时移动、对决。<br />
+b)探索世界迷雾获得资源奖励，未探索区域无法移动或攻击。<br />
+c)移动过程中获得宝箱。 移动到没有所属的城池，击败其中NPC占领城池。<br />
+d)城池被包围之后，所在城池中被包围国家玩家无法释放战法。<br /><img src="http://i0.8783.com/image/20140110/20140110110245_40597.jpg" alt="" /><br />
+e)移动到他国城池，击败城内他国玩家占领城池。&nbsp;<br />
+f)城池越多国力值越高，军资奖励越多。<br />
+g)世界地图杀敌榜，根据国战杀敌数排名，有银币奖励。<br />
+h)当战场上一方人数大于对方3倍时，人多的一方可以进行突进，直接攻击敌人后方城池，直到人数小于对方3倍。<br />
+i)当一国距离都城3格内的城池被占领后，系统将派遣出国家禁卫军参与国战<br />
+&nbsp;<br />
+每日三次国家任务时间：<br />
+10：00—12：00<br />
+15：00—17：00<br />
+20：00—22：00<br />
+&nbsp;<br />
+【6种国家任务】（完成之后既能活动海量经验及资源）：<br />
+1.占领城池<br /><img src="http://i0.8783.com/image/20140110/20140110110309_43052.jpg" alt="" /><br />
+2.蛮族入侵<br />
+<br />
+3.杀敌榜比拼<br /><img src="http://i0.8783.com/image/20140110/20140110110402_70495.jpg" alt="" /><br />
+4.富甲天下<br /><img src="http://i0.8783.com/image/20140110/20140110110336_42969.jpg" alt=""  /><br />
+<br /><img src="http://i0.8783.com/image/20140110/20140110110427_36463.jpg" alt="" /><br />
+5.比武积分赛<br /><img src="http://i0.8783.com/image/20140110/20140110110450_51740.jpg" alt="" /><br />
+6.开疆扩土<br />
+<br />
+【国家升级】<br />
+a)国家升级之后可以获得更丰厚的国家任务奖励<br />
+b)3级国家可以收买蛮族，入侵敌国<br />
+c)国家升级需完成“出征蛮族”任务<br /><img src="http://i0.8783.com/image/20140110/20140110110507_49252.jpg" alt="" /><br />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

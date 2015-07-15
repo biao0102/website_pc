@@ -1,0 +1,55 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			新闻中心
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			新闻中心
+	        				        		</div>
+	    			<div class="infotitle">新概念策略对战手游 《就是要三国》1月13日11点开启</div>
+		        	<div class="textTime">2015-01-13</div>
+		    		<div class="article">
+						&nbsp; &nbsp; &nbsp; 新概念策略对战手游《<span>就是要三国</span>》即将亮相。在万众期待之下，《<span>就是要三国</span>》删档计费封测于1月13日上午11点正式开启越狱版删档计费封测！<br />
+<br />
+&nbsp; &nbsp; &nbsp; 作为一款以创新为理念的三国题材手游，《<span>就是要三国</span>》打破传统，将RPG、SLG、卡牌三大手游主流类型经典元素完美结合，高清精美的画面、Q萌的人设、将帅谋随心切换的独特玩法、高度自由化的游戏体验等特色将让玩家享受到无限的新意冲击，而在封测开启时同步进行的十二<span>大劲爆活动更是将为玩家奉上极大的诚心和福利。</span><br />
+<br />
+<span>&nbsp; &nbsp; &nbsp;&nbsp;《<span>就是要三国</span>》下载渠道推荐：91、PP、快用、itools、同步推、XY、海马、爱思、以及<span>就是要三国</span>官方网站</span><br />
+<br />
+<span>&nbsp; &nbsp; &nbsp; 《<span>就是要三国</span>》安装指南：客户端下载完成之后直接安装，参与过首次测试的老玩家请先行卸载老版客户端，再重新下载新的客户端。安装完</span>成后启动客户端，服务器会自动将版本更新到最新，建议在WIFI环境下加载资源。<br />
+<br />
+&nbsp; &nbsp; &nbsp; 《<span>就是要三国</span>》1月13日开测指南：<br />
+<br />
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px;">
+	<span>Q：本次测试（以下均指1月13日删档付费封测）是否删档？<br />
+</span> A：删档。<br />
+<span>Q：本次测试是否可充值？删档后已充值的钱是否会返还？<br />
+</span> A：可以充值。在本次测试期间充值的游戏币均可在不删档开放测试时进行返还，返还额度为实际充值额度的200%。详情请查看相关活动说明。<br />
+<span>Q：我怎么充值？<br />
+</span> A：充值请点游戏界面上的“充值”按钮或“元宝”图标，点击选择适合的额度，（充值方式有支付宝，财付通，mo9，移动、联通、电信充值卡）。<br />
+<span>Q：VIP有什么用？<br />
+</span> A：成为VIP可以让角色获得更多的特权和奖励，等级越高奖励越多。<br />
+<span>Q：我手机里有《<span>就是要三国</span>》首测时的客户端，如何安装此次测试的游戏包?<br />
+</span> A：建议将老的客户端卸载后重新安装。<br />
+Q：《<span>就是要三国</span>》推荐的配置是什么?<br />
+A：iOS版本需要iPhone4S及以上设备，固件要求5.0版本以上，目前只支持越狱版本，若未越狱可以选择快用渠道进行下载安装。安卓版本暂未开放。<br />
+<span>友友们，还等什么？拿起手机加入主公队列，一起来探索Q萌三国吧！</span> 
+</blockquote>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

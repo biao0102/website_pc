@@ -1,0 +1,31 @@
+<div class="top004" id="_show4">
+					<ul class="buttonbg white">
+						<li class="li02">
+							<a href="javascript:void(0);" onMouseMove="__show(1);"><img src="http://js.feiliu.com/static/zyzn/web/images/p01.png" alt="">最新</a>
+						</li>
+						<li class="li02">
+							<a href="http://zyzn.feiliu.com/list/zyzn_list_news.shtml" onMouseMove="__show(2);"><img src="http://js.feiliu.com/static/zyzn/web/images/p02.png" alt="">新闻</a>
+						</li>
+						<li class="li02">
+							<a href="http://zyzn.feiliu.com/list/zyzn_list_hd.shtml" onMouseMove="__show(3);"><img src="http://js.feiliu.com/static/zyzn/web/images/p03.png" alt="">活动</a>
+						</li>
+						<li class="li01">
+							<a href="http://zyzn.feiliu.com/list/zyzn_list_gg.shtml" ><img src="http://js.feiliu.com/static/zyzn/web/images/p04.png" alt="">公告</a>
+						</li>
+					</ul>
+					<div class="news01">
+						<ul>
+            
+              
+              <li><a href="http://zyzn.feiliu.com/20150429/23518.shtml" target="_blank">【公告】热依扎最爱手游《众妖之怒》今日越狱不删档   </a><span class="date">2015-04-29</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150122/23055.shtml" target="_blank">【公告】众妖版本前瞻之#宠物养成#</a><span class="date">2015-01-22</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150116/23026.shtml" target="_blank">【公告】越狱和安卓测试停服公告</a><span class="date">2015-01-16</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150112/22982.shtml" target="_blank">【公告】#1月11日充值送周边活动获奖名单#</a><span class="date">2015-01-12</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150112/22981.shtml" target="_blank">【公告】#1月10日充值送周边活动获奖名单#</a><span class="date">2015-01-12</span></li>
+            						</ul>
+					</div>
+				</div>

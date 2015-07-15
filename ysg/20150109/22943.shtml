@@ -1,0 +1,63 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			特色媒体
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			特色媒体
+	        				        		</div>
+	    			<div class="infotitle">新三国手游《就是要三国》官网上线 乱世战火重燃</div>
+		        	<div class="textTime">2015-01-09</div>
+		    		<div class="article">
+						&nbsp;&nbsp;&nbsp;&nbsp;随着2015新一年的到来，新三国题材策略手游《<span >就是要三国</span>》也终于和大家见面了。《<span >就是要三国</span>》是由拥有十年以上游戏研发经验的好多龙研发、飞流（FL Mobile）代理发行的全新大作。《<span >就是要三国</span>》不仅结合了RPG、SLG、卡牌等三大手游主流类型的精华元素，在游戏表现力上也力求求呈现冷兵器时代战场韵味。今日《<span >就是要三国</span>》官网正式上线，快来一起重回战火纷飞的三国时代吧！<br />
+<br />
+《<span >就是要三国</span>》官方网站：http://bgzg.feiliu.com<br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+<span><strong>【官网上线资讯多 活动、攻略实时更新】</strong></span><br />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在这个快节奏的年代，光是工作、学习就已经搞得我们身心疲惫。闲下来玩个游戏，还要小心被反杀……《<span >就是要三国</span>》可以让你真真正正放松下来！不需要复杂的操作，也不需要高端的外设，简简单单点下手机屏幕，三国天下事，由你一手掌控！无论是调整阵容、更换武将，排兵布阵只需一瞬间！今日《<span >就是要三国</span>》官网上线，为你提供最新游戏资讯和活动公告，让你赢在第一时间。同时更有最全的游戏攻略，助你一统三国！</span><br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+<span><strong>【玩家一手掌控 策略成就乱世英杰】</strong></span><br />
+&nbsp;&nbsp;&nbsp;&nbsp;相对于传统SLG手游对于玩家策略方面做出的诸多限制，《<span >就是要三国</span>》将游戏的策略部分完全表现在玩家的主动思考上。在领地城池发展、武将培养、玩家操纵性等方面做出简化，并让玩家在领取发展大局上亲自掌控，而不仅仅将策略体现在战斗中，力求让玩家可以通过自己理念打造完全不同风格的发展方向。将领组合搭配、进攻路线选择、城防科技、攻城略地方向等等策略的体现，相信将让人拥有不同的体验。<br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+【三国名将齐助阵 武将职业自由切换】<br />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;三国时代的名将可是身兼数职，例如赵云就是武力、策略、智慧都超群的传奇。《<span >就是要三国</span>》纯正还原三国历史，创新性地赋予游戏中每位将领帅、将、谋三大职业让玩家可以自由切换。武将担任帅时，可以将行动点分配给将、谋，而将和谋则将使用行动点发出不同的技能。自由搭配将领阵容、自由选择将领职业，在给玩家更灵活丰富的游戏体验同时，也大幅提升游戏耐玩度。</span><br />
+<br />
+<div style="text-align:center;">
+	<br />
+</div>
+<br />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;全新概念策略对战手游《<span >就是要三国</span>》即将于1月13日震撼封测！你准备好了么？飞流2015年的头号三国手游--《<span >就是要三国</span>》邀你来战！</span><br />
+<div>
+	<br />
+</div>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

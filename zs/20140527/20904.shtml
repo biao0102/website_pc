@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_副本攻略</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">天机刷活动攻略</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-27 21:26:06</span>
+																			</div>
+									<div class="w-d">
+										【千里走单骑】<br />
+<br />
+千里是游戏里产出经验非常多的地方，每一层都奖励大量经验。这个活动要认真刷！<br />
+天机是输出最高的职业，高攻击，高暴击。只要不挨揍，比其他职业输出要高很多（花钱相同的情况下）<br />
+但是千里只能自己扛，所以需要手动控制刷，才能刷到更高的层数，获得更多的经验。<br />
+无压力的层数自动挂机就行<br />
+<br />
+遇到有挑战性的层数，则手动控制，每次只拉2-3个怪，杀死了再拉新的，这样你受到的伤害是最少的，不然自动挂机直接冲到怪中央，被一群揍死。<br />
+如果血瓶CD没有恢复，那么就跑到角落等CD，怪只会跟一段距离，不会跟你到角落的。<br />
+<br />
+【蛮族入侵】<br />
+<br />
+天机是补刀的高手，攻击高，暴击高，而且范围攻击不错，所以补刀是比其他职业占优势的。<br />
+蛮族入侵最里面的BOSS有好几万的经验，差不多一分钟刷一次。<br />
+人多的情况下，天机如果不挨揍，抢到BOSS的几率较大，因为伤害高，暴击高，最后一刀容易补刀。<br />
+所以建议天机直接进去抢大BOSS，BOSS刷完了刷高级怪。<br />
+<br />
+【守卫汉帝】<br />
+<br />
+守卫汉帝是天机的弱势，主要是不抗揍，所以天机一定要跟豪杰组队来刷，有钱的话就召唤守卫，守卫特别抗揍。<br />
+其他活动都八九不离十了，3个职业玩起来都差不多，就不多说了。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+三国战神官方客服：800032234<br />
+三国战神客服邮箱：<a href="mailto:800032234@qq.com">800032234@qq.com</a><br />
+三国战神QQ群：275507160<br />
+三国战神新浪官方微博：<a href="http://weibo.com/sgzsios">http://weibo.com/sgzsios</a><br />
+三国战神官方微信：sgzsIOS
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

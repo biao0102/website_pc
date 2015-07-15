@@ -1,0 +1,49 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+	<!--<div class="toptiao"></div>-->
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">新闻中心</div>
+			<div class="newsliecon">
+				<div class="subnewscon fltt th rel">
+					<div class="top001" id="_show1">
+						<ul class="subbuttonbg white">
+							<li class="li02"><a href="http://ysg.feiliu.com/list/bgzg_list_allcol.shtml">全部</a></li>
+							<li class="li02"><a href="http://ysg.feiliu.com/list/bgzg_list_ggcol.shtml">公告</a></li>
+							<li class="li02"><a href="http://ysg.feiliu.com/list/bgzg_list_hdcol.shtml">活动</a></li>
+							<li class="sli01"><a href="http://ysg.feiliu.com/list/bgzg_list_mtcol.shtml">媒体</a></li>
+						</ul>
+						<div class="sublie">
+							<ul>
+								  
+								  
+								<li>
+									<a href="http://ysg.feiliu.com/20150109/22943.shtml" target="_blank">[媒体] 新三国手游《就是要三国》官网上线 乱世战火重燃</a>
+									<span class="date">[01-09]</span>
+								</li>
+															</ul>
+						</div>
+					</div>
+				</div>
+			<!--
+				<div class="subpages fltt ">
+					1/8页
+					<a href="">首页</a> 
+					<a href="">上一页</a> 
+					<a href="">下一页</a>
+					<a href="">尾页</a>
+				</div>
+			-->
+			</div>
+		</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+	<script type=text/javascript src="http://js.feiliu.com/static/bgzg/pc/js/jquery.min.js"></script>
+	<script type=text/javascript src="http://js.feiliu.com/static/bgzg/pc/js/public.js?v=2"></script>
+</body>
+</html>

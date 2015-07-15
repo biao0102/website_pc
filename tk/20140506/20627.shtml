@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《坦克风云》配件系统曝光 打造个性战车</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-05-06</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              《坦克风云》是由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团对战手游。《坦克风云》真实还原了百种世界知名战车，引起了众多军事迷玩家的关注。《坦克风云》为了让各位指挥官能够拥有个性的战车军团，将推出全新的配件系统，全面强化你的钢铁雄狮！指挥各国主战坦克集团撕裂对手防线，体验爽快硬派的机械化战争，就在《坦克风云》！<br />
+欢迎访问游戏官网：http://tk.feiliu.com/<br />
+点击下载ios越狱版：http://tk.feiliu.com/count/download.php?type=2&amp;ismobile=1&amp;source=news<span ></span><br /><img src="http://i0.feiliu.com/image/20140506/20140506104919_91806.jpg" alt="" /><br />
+【全新配件系统 打造个性战车】<br />
+《坦克风云》全新配件系统带来最个性战车强化方案，游戏中坦克、歼击车、自行火炮以及火箭车四大种类战车都有各自相应的配件，供你分门别类进行强化——车身装甲提供额外的血量加成，让你的战车拥有更强的生存能力、炮口制退器带来更致命的杀伤力，让军团火力提升至更高境界；炮塔装甲带来更坚固的防弹保护，确保你的部队持续发挥战力，而弹药强化更是带来额外的击破加成，让你的军团轻易撕裂对手的防线。<br /><img src="http://i0.feiliu.com/image/20140506/20140506105001_15390.jpg" alt="" /><br />
+全新登场的配件系统虽然至关重要，但获得各种配件的方式却非常简单，玩家每天都能进入“配件”选项，挑战补给线上出现的地方部队，获得所有兵种的配件，根据难度的不同获得配件的等级也会相应提升。此外，还能获得改造配件所需的改造道具，让你能够随心所欲改造各个兵种攻击、防御等属性指标，打造出真正个性装甲兵团。<img src="http://i0.feiliu.com/image/20140506/20140506105019_92781.jpg" alt="" /><br /><img src="http://i0.feiliu.com/image/20140506/20140506105040_14328.jpg" alt="" /><br />
+【丰富科技研究 打造个性军团】<br />
+强大的装甲师团永远离不开科技的辅助，《坦克风云》不仅让你建造种类丰富的装甲坦克，更提供了从穿甲能力、防御能力、命中辅助，甚至爆击属性等一系列科技系统，全面提升你军队的实力。与其他同类游戏中笼统的升级概念不同，《坦克风云》还为各位指挥官准备了不同兵种的升级方案——喜欢冲锋陷阵那就建议你升级主战坦克的装甲、回避能力，喜欢用火炮蹂躏对手的自然就要强化命中和爆击，有针对性的研究科技是你称霸天下的关键!<br /><img src="http://i0.feiliu.com/image/20140506/20140506105105_11521.jpg" alt="" /><img src="http://i0.feiliu.com/image/20140506/20140506105114_37775.jpg" alt="" /><br />
+<div >
+	《坦克风云》已经准备好让你施展谋略的舞台，建造基地发展军备、火爆对战抢夺资源，在战火纷飞的世界中寻找激情与荣耀！更多详细情报欢迎访问游戏官网：http://tk.feiliu.com/，坦克大战 一触即发！<br />
+	<div >
+		<br />
+	</div>
+<br />
+</div>
+<br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

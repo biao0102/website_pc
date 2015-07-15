@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>战力比拼获奖名单</h1>
+                        <span>2014-07-28</span>
+                    </div>
+                    <div class="article-content">
+                        <span>亲爱的玩家</span><span>:</span><br />
+<p class="MsoNormal">
+	【战魂西游】震撼大奖<span>iPad Mini</span>获奖者现已出<a name="_GoBack"></a>炉，小伙伴们火速前来围观吧！最棒的奖品，给最强的英雄！获奖名单如下，快来看看有没有你的名字吧！<span></span> 
+</p>
+<p class="MsoNormal" align="left">
+	活动帖传送门：<span><a href="http://bbs.8783.com/forum.php?mod=viewthread&tid=55350&page=3#pid576479" target="_blank">http://bbs.8783.com/forum.php?mod=viewthread&amp;tid=55350&amp;page=3#pid576479</a></span> 
+</p>
+<p class="MsoNormal" align="left">
+	------------------------------------------------------------
+</p>
+<p class="MsoNormal">
+	<b>2014</b><b>格斗手游《战魂西游》现已火爆开测！还等什么，跟兄弟们一起上天入海，斩妖除魔！<span></span></b> 
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140728/20140728171027_94314.jpg" alt="" /> 
+</p>
+<p class="MsoNormal" align="left">
+	<b><br />
+【温馨提示】：</b> 
+</p>
+<p class="MsoNormal">
+	<b>1.</b><b>一等奖获奖用户请使用获奖账号主动私信论坛版主：战魂西游（<span>UID: 42218</span>），并提供寄送地址等信息。<span></span></b> 
+</p>
+<p class="MsoNormal">
+	<b>2</b><b>．其余获奖用户请使用获奖账号主动私信论坛版主：战魂西游（<span>UID: 42218</span>）；并提供手机号码。奖励将通过手机短信发放。<span></span></b> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

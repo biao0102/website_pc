@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>完美武侠官网</title>
+<meta name="keywords" content="完美武侠，完美武侠官网，完美武侠游戏官网，完美武侠游戏下载，完美武侠礼包" />
+<meta  name="description" content="《完美武侠》由国际一线研发团队开发的一款以东方武侠为题材的卡牌游戏。集卡牌、角色扮演于一体的迭代型卡牌游戏。游戏以卡牌收集、卡牌培养、战斗为核心玩法。游戏画面精致华丽，战斗打击感十足。"/>
+<link href="http://js.feiliu.com/static/wmwx/css/main.css?v=5" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/wmwx/js/jquery1.6.4.js"></script>
+</head>
+
+<body class="home">
+<div id="ripiao">
+<span><img src="http://js.feiliu.com/static/activity/sq/qrcode/gw_wmwx.png" /></span>
+<a href="http://game.feiliu.com/youxishequ/index.html?s=C08010000_App_shequ_908010000" class="downfl">下载游戏社区</a>
+</div>
+<div class="header">
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img src="http://js.feiliu.com/static/wmwx/images/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>
+<div class="sec1">
+		<!--首页头部导航模板开始-->	
+			<!--#include virtual="/list/index_wmwx_nav.shtml"-->
+		<!--首页头部导航模板结束-->
+</div>
+<div class="sec2">
+	<div class="wrap-main main">
+	
+		<!--首页左侧边栏模板开始-->	
+			<!--#include virtual="/list/index_wmwx_leftbar.shtml"-->
+		<!--首页左侧边栏模板结束-->
+		
+        <div class="content">
+
+			
+			
+			<!--首页右侧大图模板开始-->	
+				<!--#include virtual="/list/index_wmwx_pic.shtml"-->
+			<!--首页右侧大图模板结束-->
+			
+			<!--首页右侧新闻栏目模板开始-->	
+				<!--#include virtual="/list/index_wmwx_col.shtml"-->
+			<!--首页右侧新闻栏目模板结束-->
+        </div>
+    </div>
+</div>
+<div class="sec3">
+	<!--首页底部合作媒体模板开始-->	
+        <!--#include virtual="/list/index_wmwx_hzmt.shtml"-->
+	<!--首页底部合作媒体模板结束-->
+	
+	<!--首页底部版权模板开始-->	
+        <!--#include virtual="/list/index_wmwx_footer.shtml"-->
+	<!--首页底部版权模板结束-->	
+</div>
+
+	<!--首页右侧浮动下载框模板开始-->	
+        <!--#include virtual="/list/index_wmwx_down.shtml"-->
+	<!--首页右侧浮动下载框模板结束-->
+
+
+<script type="text/javascript">
+$(function () {
+	gundong();
+    function gundong() {
+        var box = $("#hz_list");
+        var owidth = box.children("li").eq(0).outerWidth();
+        var num = box.children("li").length;
+        var i = 0;
+        var timer = null;
+        var time = 20;
+
+        if (num > 7) {
+            box.append(box.html());
+            box.css("width", 2 * owidth * num + "px");
+            timer = setInterval(gdAnimate, time);
+            box.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(gdAnimate, time);
+            });
+        }
+        function gdAnimate() {
+            i = i > owidth * num ? 0 : i + 1;
+            box.css("left", -i + "px");
+        }
+    }
+	
+	$('.tab-header a').click(function(){
+		$('.tab-header a').removeClass('active');
+		$(this).addClass('active');
+		$('.article-list').removeClass('active');
+		var index = $(this).parent().index();
+		$($('.article-list')[index]).addClass('active');
+		return false;
+	});
+	
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+	$(".hero-nav a").click(function(){
+		$(this).addClass("cur").siblings().removeClass("cur");
+		$(".hero-images a").eq($(this).index()).addClass("cur").animate({"opacity": 1},500).siblings().removeClass("cur").css("opacity", "0");
+		return false;
+	})
+});
+</script>
+</body>
+</html>

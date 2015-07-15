@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>《众妖之怒》东方奇幻动作手游__众妖之怒官网</title>
+<meta name="keywords" content="众妖之怒,众妖之怒官网, 众妖之怒下载,众妖之怒礼包,众妖之怒攻略,众妖之怒安卓版, 众妖之怒ios版,东方奇幻动作手游." />
+<meta name="description" content="众妖之怒是一款Q版东方魔幻的3D大型动作RPG手机网游, 众妖之怒是以西游记人物为主的架空魔幻剧情,讲述灵猴、妖狐、玉兔、蛮牛为首的妖族反抗天庭阴谋的故事。众妖之怒拥有高品质的美术水准、创新的符文式战斗技能系统、跨服组队竞技的先进技术, 众妖之怒是一款拥有端游品质的ARPG大作，必将在今夏掀起移动平台动作游戏的热潮。众妖之怒官网提供众妖之怒下载,ios安卓礼包发放,众妖之怒攻略" />
+<link href="http://js.feiliu.com/static/zyzn/css/main.css?v=20140924" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/js/jquery1.6.4.js"></script>
+<!--<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/js/is_mobile.js"></script>-->
+</head>
+
+<body>
+            <!--众妖之怒首页顶部模板start-->
+                <!--#include virtual="/list/index_zyzn_header.shtml"-->
+            <!--众妖之怒首页顶部模板end-->
+<div class="hero">
+	<div class="wrap">
+    	<div class="game-logo"></div>
+        <div class="slogan"></div>
+            <!--众妖之怒首页中部下载模板start-->
+                <!--#include virtual="/list/index_zyzn_download.shtml"-->
+            <!--众妖之怒首页中部下载模板end-->
+        <div class="info">
+            <!--众妖之怒首页中部视频模板start-->
+                <!--#include virtual="/list/index_zyzn_video.shtml"-->
+            <!--众妖之怒首页中部视频模板end-->
+            <!--众妖之怒首页中部公告模板start-->
+                <!--#include virtual="/list/index_zyzn_gg.shtml"-->
+            <!--众妖之怒首页中部公告模板end-->
+        </div>
+            <!--众妖之怒首页中部加入我们模板start-->
+                <!--#include virtual="/list/index_zyzn_joinus.shtml"-->
+            <!--众妖之怒首页中部加入我们模板end-->
+    </div>
+</div>
+
+            <!--众妖之怒首页游戏背景模板start-->
+                <!--#include virtual="/list/index_zyzn_yxbj.shtml"-->
+            <!--众妖之怒首页游戏背景模板end-->
+<a id="zjjs" name="zjjs"></a>
+            <!--众妖之怒首页主角介绍模板start-->
+                <!--#include virtual="/list/index_zyzn_zjjs.shtml"-->
+            <!--众妖之怒首页主角介绍模板end-->
+<a id="yxts" name="yxts"></a>
+            <!--众妖之怒首页游戏特色模板start-->
+                <!--#include virtual="/list/index_zyzn_yxts.shtml"-->
+            <!--众妖之怒首页游戏特色模板end-->
+
+            <!--众妖之怒首页底部模板start-->
+                <!--#include virtual="/list/index_zyzn_footer.shtml"-->
+            <!--众妖之怒首页底部模板end-->
+
+            <!--众妖之怒首页右侧漂浮框模板start-->
+                <!--#include virtual="/list/index_zyzn_float.shtml"-->
+            <!--众妖之怒首页右侧漂浮框模板end-->
+</body>
+</html>

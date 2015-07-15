@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>第一条新闻 文章页 新闻 </title>
+<link href="http://js.feiliu.com/static/daxia/css/main.css?v=103" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+</head>
+
+<body class="inner">
+			<!--乱斗江湖内容页顶部模板start-->
+				<!--#include virtual="/list/index_daxia_header.shtml"-->
+			<!--乱斗江湖内容页顶部模板end-->
+<div class="bg1">
+			<!--乱斗江湖内容页顶部导航模板start-->
+				<!--#include virtual="/list/index_daxia_nav.shtml"-->
+			<!--乱斗江湖内容页顶部导航模板end-->
+</div>
+<div class="bg2">
+	<div class="wrap">
+			<!--乱斗江湖内容页左侧浮动框模板start-->
+				<!--#include virtual="/list/index_daxia_side.shtml"-->
+			<!--乱斗江湖内容页左侧浮动框模板end-->
+         <div class="main">
+         	<div class="tab-header">
+            	<a class="tab-news tab-news-active" href="#"></a>
+                <a class="tab-res" href="#"></a>
+                <a class="tab-more" href="#">更多>></a>
+            </div>
+         	<div class="article">
+        		<h1>第一条新闻</h1>
+                <p>第一条新闻第一条新闻第一条新闻第一条新闻第一条新闻</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="bg3">
+			<!--乱斗江湖内容页底部媒体合作模板start-->
+				<!--#include virtual="/list/index_daxia_mt.shtml"-->
+			<!--乱斗江湖内容页底部媒体合作模板end-->
+
+			<!--乱斗江湖内容页底部说明模板start-->
+				<!--#include virtual="/list/index_daxia_footer.shtml"-->
+			<!--乱斗江湖内容页底部说明模板end-->
+</div>
+</body>
+</html>

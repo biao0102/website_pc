@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>《战魂西游》2014最强动作手游来袭</h1>
+                        <span>2014-04-22</span>
+                    </div>
+                    <div class="article-content">
+                        《战魂西游》明日封测 2014最强动作手游来袭<br />
+<br />
+<br />
+2014什么最流行？手游！什么最时髦？动作手游！本年度最强动作手游震撼来袭，由精彩无限倾情奉献、FL Mobile（飞流）全平台独家代理发行的《战魂西游》明日即将开启安卓平台封测！三大职业铸就精彩传奇，门派协作共同降妖除魔，百余副本谱写创世神话，《战魂西游》就是这么牛！<br />
+<br /><img src="http://i0.feiliu.com/image/20140422/20140422093423_15125.jpg" alt="" /><br />
+<br />
+<br />
+【明日震撼封测 2014感受最强动作手游来袭】<br />
+<br />
+<br />
+以古典名著《西游记》为背景的《战魂西游》，是一款战斗爽快、招式华丽、打击感十足的ARPG手游。《战魂西游》不同于以往战斗闯关游戏，更注重玩家的体验和感受，即使在移动设备上也能给你带来舒适的手感。BOSS设置方面，每一个BOSS均拥有独特的技能，不会令人感到重复和乏味。此外，游戏还设有角色养成系统、装备系统，玩法十分多样。2014年最强动作手游《战魂西游》明日封测，快来感受一下吧！<br />
+<br /><img src="http://i0.feiliu.com/image/20140422/20140422093448_16784.jpg" alt="" /><br />
+<br />
+<br />
+【三大职业各具特色 招式华丽打击感强】<br />
+<br />
+<br />
+《战魂西游》拥有三大可选职业：石破天惊“灵猴”出世；勇猛无敌“神君”降临；运筹帷幄“玄女”诞生。这三种职业特点鲜明，灵猴以“重棍”为武器，力拔千钧，险中求胜，擅长贴身近战缠斗；神君持“长枪”一杆，枪法灵活多变；玄女以“仙扇”作兵器，操控五行之力，远程给予敌人致命打击。每个职业均拥有华丽的招式技能，且打击感超强！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140422/20140422093505_24626.jpg" alt="" /><br />
+<br />
+<br />
+【志同道合门派好友 切磋协作共同进步】<br />
+玩游戏，最重要的就是有一群志同道合的“道友”。《战魂西游》为玩家提供了“门派”这样一个交流平台，任何人都可以创建或加入门派，将同门师兄弟添加为好友，与他们切磋技艺，共同协作闯荡“精英副本”，参加PVP活动“仙门斗法”。有兄弟，才能将《战魂西游》进行到底！<br />
+<br /><img src="http://i0.feiliu.com/image/20140422/20140422093516_51917.jpg" alt="" /><br />
+<br />
+<br />
+【百余副本任你闯荡 装备道具信手拈来】<br />
+<br />
+<br />
+《战魂西游》的“单人副本”拥有百余关卡，是游戏中最重要的日常活动。与以往游戏中角色在副本中阵亡，必须重新开始的规则不同，《战魂西游》的角色可以在副本中免费复活，继续战斗。不超过10级的新人玩家，更可以享受无条件、无次数限制的复活。完成副本后，你将得到超多实用奖励，不管是道具还是装备，轻松入手不发愁！<br />
+<br /><img src="http://i0.feiliu.com/image/20140422/20140422093528_93742.jpg" alt="" /><br />
+<br />
+<br />
+2014年度最流行、最强的动作手游《战魂西游》明日震撼封测，灵猴、神君和玄女三大职业带领你闯荡副本，还有志同道合的门派兄弟携手合作，来感受一下吧！<br />
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

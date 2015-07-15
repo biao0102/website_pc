@@ -1,0 +1,61 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta  name="keywords" content="飞流游戏,飞流手机游戏,iOS 游戏,Android 游戏">
+<meta name="description" content="飞流游戏,飞流手机游戏,iOS 游戏,Android 游戏">
+<title>我爱皮卡丘</title>
+<link rel="stylesheet" type="text/css" href="/web/css/css.css">
+</head>
+<body>
+<div class="nav">
+    <div class="wrap pos_r">
+        <div class="logo"><a href="index.html"></a></div>
+        <div class="nav_top">
+            <span><img src="/web/images/icon_1.jpg" alt="" /></span>
+            <a href="/web/list/index.shtml" target="_blank" class="line">首页</a>
+            <span><img src="/web/images/icon_2.jpg" alt="" /></span>
+            <a href="/web/list/lists.shtml" target="_blank" class="line">游戏攻略</a>
+            <span><img src="/web/images/icon_3.jpg" alt="" /></span>
+            <a href="/web/list/petlists.shtml" target="_blank" class="line">宠物图鉴</a>
+            <span><img src="/web/images/icon_4.jpg" alt="" /></span>
+            <a href="javascript:;" target="_blank">论坛</a>
+        </div>
+    </div>
+</div>
+<div class="bg">
+<div class="wrap">
+    <div class="top1"></div>
+    <div class="top2">
+	<div class="top_d">
+	<a href="" target="_blank"><img src="/web/images/btn1.jpg" alt="" /></a><a href="" target="_blank"><img src="/web/images/btn2.jpg" alt="" /></a>
+	</div>
+	<div class="top_d"><img src="/web/images/code.jpg" alt="" /></div>
+</div>
+    <div class="mainbg">
+        <div class="cscenter_l">
+            <div class="cs_title"><span></span>客服信息</div>
+            <p>客服QQ：46552323</p>
+            <p>客服邮箱：46544654@163.com</p>
+            <p>客服电话：400-562-7891</p>
+        </div>
+        <div class="content">
+            <div class="subtitle">我爱皮卡丘 ＞ 新闻中心</div>
+                <div class="article">
+                    <h1>就决定是你了！《我爱皮卡丘》宠物轻松抓</h1>
+                    <div class="art">
+                        <p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">《我爱皮卡丘》精美精致的<span style="font-family: Times New Roman;">3D</span><span style="font-family: 宋体;">宠物模型给予玩家最强的代入感，想要成为最强的训练师？那少不了强大的宠物！今天就来和大家说说如何捕抓宠物！</span></span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">&nbsp;<img title="20150531174001.jpg" alt="图片12.jpg" src="/web/images/20150531174001.jpg"/></span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">超给力&nbsp;体验最正宗的“抓宠”</span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">《我爱皮卡丘》拥有最独特的“抓宠副本”玩家前往抓宠副本即可捕抓给力的宠物，比如：可以进化成快龙的迷你龙，抓宠副本最高可以获得<span style="font-family: Times New Roman;">10</span><span style="font-family: 宋体;">宠物碎片，集齐</span><span style="font-family: Times New Roman;">100</span><span style="font-family: 宋体;">碎片即可召唤</span><span style="font-family: Times New Roman;">3</span><span style="font-family: 宋体;">星迷你龙！除此之外，还可以在抓宠副本中捕抓小火龙、妙蛙种子、杰尼龟等等。更多宠物等着你来捕抓！</span></span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;"><img title="20150531175141.jpg" alt="QQ图片20150531174753.jpg" src="/web/images/20150531175141.jpg"/></span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">超有趣&nbsp;</span> <span style="font-family: 宋体; font-size: 14px;">趣味玩法轻松拿宠物碎片</span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">想要成为出色的训练师，没一点杀手锏怎么行，《我爱皮卡丘》有大量特色系统，比如：钓鱼、按摩、商店等等。玩家们只需要参加活动就可以获得大量宠物碎片。尤其是按摩系统，只需要连续三天帮萌萌哒的皮卡丘按摩，就可以获得大量的乘龙碎片！</span></p><p style="text-align: left;"><span style="font-family:;" new="" times="">&nbsp;<img title="20150531175335.png" alt="156.png" src="/web/images/20150531175335.png"/></span></p><p style="text-align: left;"><span style="font-family: 宋体; font-size: 14px;">《我爱皮卡》中有上百种萌宠等着你来捕抓！还不快快叫上好友，与小智和皮卡丘一起冒险！成为最强的训练师！</span></p><p></p>                   
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+    <div style="clear:both"></div>
+</div>
+<div class="bot_bg">
+    <div class="bottom">
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>战魔装备100%锻造成功_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>战魔装备100%锻造成功</h2>
+          <p>&nbsp; &nbsp; &nbsp; &nbsp;在《战魔》的角色界面内可以清楚查看到当前角色装备属性的强弱，以及战斗力的数值大小。通过合理的强化和锻造角色的装备可以让战斗力更加强大。<br />
+<br />
+<br />
+&nbsp; &nbsp; &nbsp; 《战魔》装备强化、锻造介绍：<br />
+<br />
+<br />
+&nbsp; &nbsp; &nbsp; &nbsp;强化装备可以提升装备的属性，在强化到一定程度后可以对装备进行锻造，锻造可以一次性增加装备大量的属性值。<br />
+<br />
+<br />
+&nbsp; &nbsp; &nbsp; 1.装备强化只需简单的消耗一定数量的金币。<br />
+<br />
+<br />
+&nbsp; &nbsp; &nbsp; 2.装备锻造后会改变装备的外观，还能提供非常可观的属性加成。<br />
+<br />
+<br />
+&nbsp; &nbsp; &nbsp; 3.装备强化、锻造成功率为100%<br />
+<br />
+<br />
+&nbsp; &nbsp; &nbsp; 4.初始装备经过4次锻造后编会成为橙色（神威）的终极武器。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;锻造所需材料由副本产出。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;白色（青霜） 装备等级20级锻造后变绿色（逍遥）装备，此时 装备等级10级<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;绿色（逍遥） 装备等级40级锻造后变蓝色（贪狼）装备，此时 装备等级30级<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;蓝色（贪狼） 装备等级60级锻造后变紫色（破军） 装备，此时 装备等级50级<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;紫色 （破军）装备等级80级锻造后变橙色（神威） 装备，此时 装备等级70级<br />
+<div >
+	<br />
+</div></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

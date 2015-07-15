@@ -1,0 +1,10 @@
+	<div class="wrap">
+        <ul class="nav">
+            <li><a class="home" href="http://daxia.feiliu.com"></a></li>
+            <li><a class="news" href="http://daxia.feiliu.com/list/list_daxia_news.shtml"></a></li>
+            <li class="gap"></li>
+            <li><a class="res" href="http://daxia.feiliu.com/list/list_daxia_yxzl.shtml"></a></li>
+            <li><a class="bbs" href="http://bbs.8783.com/forum-164-1.html"></a></li>
+        </ul>
+        <div class="game-logo"></div>
+	</div>

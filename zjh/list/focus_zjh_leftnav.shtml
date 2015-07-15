@@ -1,0 +1,11 @@
+  <div class="pc-left"> <a href="" class="backbtn"></a>
+    <ul class="pc-tabs">
+      <li class="one active"><a class="oo" href="#leOne" data-toggle="tab"></a></li>
+      <li class="two"><a class="tt" href="#leTwo" data-toggle="tab"></a></li>
+      <li class="three"><a class="rr" href="#leThree" data-toggle="tab"></a></li>
+      <li class="four"><a class="uu" href="#leFour" data-toggle="tab"></a></li>
+      <li class="five"><a class="vv" href="#leFive" data-toggle="tab"></a></li>
+      <li class="six"><a class="xx" href="#leSix" data-toggle="tab"></a></li>
+    </ul>
+    <a href="" class="luntan"></a> 
+  </div>

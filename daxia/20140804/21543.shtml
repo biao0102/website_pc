@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>故事背景_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">游戏资料</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">故事背景</div>
+              <p><p class="MsoNormal" style="text-indent:18.0pt;">
+	公元<span>768</span>年，摩尼教由波斯传入中土，历经大唐十一朝，教徒众多。唐僖宗乾符二年，摩尼教响应黄巢起义，率众攻陷洛阳、长安，声势一时无两。黄巢起义失败后，摩尼教元气大伤，江湖之中，朝堂之上，都将之视为邪魔外道，频频围剿。由唐至宋，数百年间，大小战役七十四场，双方死伤枕籍，却终究势均力敌，谁也奈何不了谁。<span></span>
+</p>
+<p class="MsoNormal">
+	宋神宗元丰六年，摩尼教与正道十五大门派在黄河之上订下‘天堑之盟’，约定恩仇旧事，一笔勾销，今后互不侵犯。<span></span>
+</p>
+<p class="MsoNormal">
+	宋徽宗宣和二年，摩尼教内讧，从此一分为三：皖南明教，河北日月神教，浙西天魔教。三教虽同宗枝叶，却再也没有任何瓜葛了。<span></span>
+</p>
+<p class="MsoNormal">
+	元惠宗至正十三年，十大门派围攻天魔教。天魔教告急，飞鸽传书致明教和日月神教，祈望驰援。奈何两教各有打算，拒不接应。半个月后，天魔教破灭，天魔教主自刎身亡，少主下落不明。我们的故事就从这里开始……<span></span>
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

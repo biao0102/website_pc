@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Design:Lu; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="魔戒,魔戒官网,至尊魔戒，魔戒越狱版下载，魔戒IOS版下载，魔戒安卓版下载，魔戒游戏" />
+    <meta name="description" content="《魔戒》是一款欧美魔幻题材、带魔戒世界观的即时战斗制手机网游。《魔戒》强大的魔族入侵人类，摧毁我们的家园，伟大的勇士们！拿起手中的长剑，为了守护魔戒，击退魔族而战吧！这是一款MMOARPG真3D酷爽战斗手游。在这里你可以驰骋西方魔幻世界，拯救人类！" />   
+    <title>《魔戒》官方网站_视频展示页</title>
+    <link href="http://js.feiliu.com/static/mojie/style/video.css?v=1" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/mojie/js/jquery1.6.4.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            fnhzmt();
+            zylb("prev", "next", "yh_list");
+            zylb("prev2", "next2", "yh_list2");
+        });
+
+        function fnhzmt() {
+            var mtbox = $("#hzmt_list");
+            var liwidth = 113;
+            var linum = mtbox.children().length;
+            var i = 0;
+            var timer = null;
+            var time = 20;
+            if (linum >= 8) {
+                mtbox.append(mtbox.html());
+                timer = setInterval(hzmtAnimate, time);
+                mtbox.hover(function () {
+                    clearInterval(timer);
+                    timer = null;
+                }, function () {
+                    timer = setInterval(hzmtAnimate, time);
+                });
+            }
+            function hzmtAnimate() {
+                i = i >= liwidth * linum ? 0 : i + 1;
+                mtbox.css("left", -i + "px");
+            }
+        }
+
+        function zylb(prev, next, box) {
+            var prev = $("#" + prev);
+            var next = $("#" + next);
+            var imgbox = $("#" + box);
+            var imgnum = imgbox.children().length / 2;
+            var i = 0;
+            var time = 500;
+            prev.click(function () {
+                i = i <= 0 ? imgnum - 1 : i - 1;
+                fnAnimate();
+            });
+            next.click(function () {
+                i = i >= imgnum - 1 ? 0 : i + 1;
+                fnAnimate();
+            });
+            function fnAnimate() {
+                imgbox.animate({ "left": -i * 368 + "px" }, time);
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <div id="wrap" class="wrap">
+        <div class="content">
+			<!--魔戒首页头部导航模板start-->
+				<!--#include virtual="/list/index_topnav.shtml"-->
+			<!--魔戒首页头部导航模板end--> 
+            <img src="http://js.feiliu.com/static/mojie/images/video/img02.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/mojie/images/video/img03.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/mojie/images/video/img04.jpg" alt="" border="0" />
+            <div class="video">
+                <div class="video_box">
+                    <!--在此放入视频代码-->
+                </div>
+            </div>
+            <img src="http://js.feiliu.com/static/mojie/images/video/img06.jpg" alt="" border="0" />
+            <div class="picbox clearfix">
+                <div class="yuanhua">
+                    <span class="prev" id="prev">上一页</span>
+                    <span class="next" id="next">下一页</span>
+                    <div class="yh_box">
+                        <ul class="yh_list" id="yh_list">
+                            <li><a href="#" target="_blank">
+                                <img src="http://js.feiliu.com/static/mojie/images/video/img02.jpg" alt="" /></a></li>
+                            <li><a href="#" target="_blank">
+                                <img src="http://js.feiliu.com/static/mojie/images/video/img01.jpg" alt="" /></a></li>
+                            <li><a href="#" target="_blank">
+                                <img src="http://js.feiliu.com/static/mojie/images/video/img03.jpg" alt="" /></a></li>
+                            <li><a href="#" target="_blank">
+                                <img src="http://js.feiliu.com/static/mojie/images/video/img03.jpg" alt="" /></a></li>
+                            <li><a href="#" target="_blank">
+                                <img src="http://js.feiliu.com/static/mojie/images/video/img03.jpg" alt="" /></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="kapai">
+                    <span class="prev" id="prev2">上一页</span>
+                    <span class="next" id="next2">下一页</span>
+                    <div class="yh_box">
+                        <ul class="yh_list" id="yh_list2">
+                            <li><a href="#" target="_blank">
+                                <img src="http://js.feiliu.com/static/mojie/images/video/img02.jpg" alt="" /></a></li>
+                            <li><a href="#" target="_blank">
+                                <img src="http://js.feiliu.com/static/mojie/images/video/img01.jpg" alt="" /></a></li>
+                            <li><a href="#" target="_blank">
+                                <img src="http://js.feiliu.com/static/mojie/images/video/img03.jpg" alt="" /></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="hzmt">
+                <div class="hzmtbox">
+                                               <!--魔戒首页底部媒体模板start-->
+								<!--#include virtual="/list/index_mojie_mthz.shtml"-->
+							<!--魔戒首页底部媒体模板end--> 
+                </div>
+            </div>
+            <!--魔戒首页底部模板start-->
+				<!--#include virtual="/list/index_bottom.shtml"-->
+			<!--魔戒首页底部模板end--> 
+        </div>
+    </div>
+</body>
+</html>

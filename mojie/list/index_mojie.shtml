@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="魔戒,魔戒官网,至尊魔戒，魔戒越狱版下载，魔戒IOS版下载，魔戒安卓版下载，魔戒游戏" />
+    <meta name="description" content="《魔戒》是一款欧美魔幻题材、带魔戒世界观的即时战斗制手机网游。《魔戒》强大的魔族入侵人类，摧毁我们的家园，伟大的勇士们！拿起手中的长剑，为了守护魔戒，击退魔族而战吧！这是一款MMOARPG真3D酷爽战斗手游。在这里你可以驰骋西方魔幻世界，拯救人类！" />   
+    <title>《魔戒》官方网站</title>
+    <link href="http://js.feiliu.com/static/mojie/style/master.css?v=2" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/mojie/js/jquery1.6.4.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            newstab();
+            zylb();
+            fndatulb();
+            mttab();
+            fnhzmt();
+        });
+
+        function newstab() {
+            var tabs = $("#news_nav a");
+            var panes = $("#news_panes > ul.news_list");
+            tabs.each(function (i) {
+                $(this).click(function () {
+                    tabs.removeClass("current").eq(i).addClass("current");
+                    panes.hide().eq(i).show();
+                });
+            });
+        }
+
+        function mttab() {
+            var tabs = $("#mt_nav a");
+            var panes = $("#iframebox > div.iframeitem");
+            tabs.each(function (i) {
+                $(this).click(function () {
+                    tabs.removeClass("current").eq(i).addClass("current");
+                    panes.hide().eq(i).show();
+                });
+            });
+        }
+
+        function zylb() {
+            var prev = $("#prev");
+            var next = $("#next");
+            var imgbox = $("#zyimg_list");
+            var imgnum = imgbox.children().length;
+            var i = 0;
+            var time = 500;
+            prev.click(function () {
+                i = i <= 0 ? imgnum - 1 : i - 1;
+                fnAnimate();
+            });
+            next.click(function () {
+                i = i >= imgnum - 1 ? 0 : i + 1;
+                fnAnimate();
+            });
+            function fnAnimate() {
+                imgbox.animate({ "left": -i * 265 + "px" }, time);
+            }
+        }
+
+        function fndatulb() {
+            var lbbox = $("#lbbox");
+            var imgs = $("#lbimg").children();
+            var btns = $("#lbnav_btn").children();
+            var timer = null;
+            var time = 3000;
+            var i = 0;
+            btns.each(function (x) {
+                $(this).click(function () {
+                    i = x;
+                    fnlb();
+                });
+            });
+            timer = setInterval(fnlbzd, time);
+            lbbox.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(fnlbzd, time);
+            });
+            function fnlbzd() {
+                i = i >= imgs.length - 1 ? 0 : i + 1;
+                fnlb();
+            }
+            function fnlb() {
+                imgs.hide().eq(i).show();
+                btns.removeClass("current").eq(i).addClass("current");
+            }
+        }
+
+        function fnhzmt() {
+            var mtbox = $("#hzmt_list");
+            var liwidth = 113;
+            var linum = mtbox.children().length;
+            var i = 0;
+            var timer = null;
+            var time = 20;
+            if (linum >= 8) {
+                mtbox.append(mtbox.html());
+                timer = setInterval(hzmtAnimate, time);
+                mtbox.hover(function () {
+                    clearInterval(timer);
+                    timer = null;
+                }, function () {
+                    timer = setInterval(hzmtAnimate, time);
+                });
+            }
+            function hzmtAnimate() {
+                i = i >= liwidth * linum ? 0 : i + 1;
+                mtbox.css("left", -i + "px");
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <div id="wrap" class="wrap">
+        <div class="content"> 	
+            
+			<!--魔戒首页头部导航模板start-->
+				<!--#include virtual="/list/index_topnav.shtml"-->
+			<!--魔戒首页头部导航模板end--> 
+
+            <img src="http://js.feiliu.com/static/mojie/images/index/img02.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/mojie/images/index/img03.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/mojie/images/index/img04.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/mojie/images/index/img05.jpg" alt="" border="0" />
+            <div class="down">
+                <div class="down_btn clearfix">
+                    <a href="#" class="btn01">IOS版下载</a>
+                    <a href="http://mojie.feiliu.com/count/download.php?pid=100125&cid=300021&type=2" class="btn02">越狱版下载</a>
+                    <a href="#" class="btn03">安卓版下载</a>
+                </div>
+            </div>
+            <img src="http://js.feiliu.com/static/mojie/images/index/img07.jpg" alt="" border="0" />
+            <div class="news clearfix">
+                <div class="lbbox" id="lbbox">
+                    <div class="lbimg" id="lbimg">
+                        <a href="#" target="_blank" style="display: block;">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/lbt1.jpg" alt="" /></a>
+                        <a href="#" target="_blank">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/lbt2.jpg" alt="" /></a>
+                        <a href="#" target="_blank">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/lbt3.jpg" alt="" /></a>
+                        <a href="#" target="_blank">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/lbt4.jpg" alt="" /></a>
+                        <a href="#" target="_blank">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/lbt5.jpg" alt="" /></a>
+                    </div>
+                    <div class="lbnav">
+                        <div class="lbnav_bg"></div>
+                        <div class="lbnav_btn" id="lbnav_btn">
+                            <a href="javascript:;" class="current">1</a>
+                            <a href="javascript:;">2</a>
+                            <a href="javascript:;">3</a>
+                            <a href="javascript:;">4</a>
+                            <a href="javascript:;">5</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news_box">
+                    <ul class="news_nav" id="news_nav">
+                        <li class="btn01"><a href="http://mojie.feiliu.com/list/mojie_list_news.shtml" class="current">新闻</a></li>
+                        <li class="btn02"><a href="http://mojie.feiliu.com/list/mojie_list_hd.shtml">活动</a></li>
+                        <li class="btn03"><a href="http://mojie.feiliu.com/list/mojie_list_gg.shtml">公告</a></li>
+                        <li class="btn04"><a href="http://mojie.feiliu.com/list/mojie_list_mt.shtml">媒体</a></li>
+                    </ul>
+                    <div class="news_panes" id="news_panes">
+                        <!--魔戒首页右侧栏目模板start-->
+							<!--#include virtual="/list/index_mojie_right.shtml"-->
+						<!--魔戒首页右侧栏目模板end--> 
+                    </div>
+                </div>
+            </div>
+            <div class="main clearfix"> 
+				<!--首页左侧推荐视频社区模板start-->
+					<!--#include virtual="/list/index_mojie_left.shtml"-->
+				<!--首页左侧推荐视频社区模板end--> 
+                
+				<!--首页右侧攻略图片媒体模板start-->
+					<!--#include virtual="/list/index_mojie_rightpic.shtml"-->
+				<!--首页右侧攻略图片媒体模板end--> 
+				
+				
+            </div>
+            <div class="hzmt">
+                <div class="hzmtbox">
+                    <!--魔戒首页底部媒体模板start-->
+						<!--#include virtual="/list/index_mojie_mthz.shtml"-->
+					<!--魔戒首页底部媒体模板end--> 
+                </div>
+            </div>
+<!--魔戒首页底部模板start-->
+						<!--#include virtual="/list/index_bottom.shtml"-->
+					<!--魔戒首页底部模板end--> 
+         
+        </div>
+    </div>
+	<div style="display:none;"><script src="http://s23.cnzz.com/stat.php?id=5817386&web_id=5817386" language="JavaScript"></script></div>
+</body>
+</html>

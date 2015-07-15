@@ -1,0 +1,123 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+<div class="wrap minwidth">
+	<div class="contain minwidth rel">
+		<div class="subcon1120">
+			<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+			<div class="conri fltt">
+				<div class="address">
+					<h2>新闻中心</h2>
+					<p>
+						当前位置：
+						<a href="http://tk.feiliu.com">首页</a>>>
+												<a href="http://tk.feiliu.com/web/list/newslist.shtml?a=2">新闻</a>
+											</p>
+				</div>
+				<div class="subnews">
+					<div class="infotitle">天时不如地利！《战地坦克》全新地形系统介绍</div>
+					<div class="article">&nbsp; &nbsp; &nbsp;由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团策略手游《战地坦克》火爆测试中！真实还原世界经典坦克战车、体验机械化战争乐趣的《战地坦克》今日隆重推出全新地形系统，借助地形影响战争走向，真正的坦克军团指挥官非你莫属！<br />
+<br />
+<br />
+《战地坦克》游戏官网：tk.feiliu.com<br />
+《战地坦克》ios版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140814/20140814101144_20228.jpg" alt="" /><br />
+&nbsp;首款坦克军团策略手游《战地坦克》<br />
+<br />
+<br />
+【天时不如地利 地形系统全解析】<br />
+&nbsp; &nbsp; &nbsp; 正所谓天时不如地利，只有在正确的地点才能发动一场正确的战争。《战地坦克》今日隆重推出全新地形系统，根据实际环境设计的多种地形不仅带来更加真实的战斗体验，更根据地形种类带来多种能够直接影响战斗的效果。游戏中玩家进入世界地图，会发现全新的地形系统已经全面覆盖《战地坦克》的世界，如同真是世界一样，玩家将遇到包括山地、沙漠、平原、森林、沼泽以及城市共6大类地形，玩家在进攻资源点以及玩家基地的时候，都会根据地形获得相应buff，在地形的掩护下拿下目标！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140814/20140814101604_33654.jpg" alt="" /><br />
+&nbsp;天时不如地利<br />
+<br />
+<br />
+【多兵种协同作战】<br />
+&nbsp; &nbsp; &nbsp;&nbsp;除了借助地形战胜对手外，《战地坦克》更能实现多兵种协同作战。在《战地坦克》中你同样需要协同指挥旗下种类功能各异的战车部队，相互配合发挥出军团真正的作战能力。无论进攻还是防守，都由坦克、火炮、歼击车、火箭车等多种装甲战车配合行动。游戏中只有近战、远程、单体、群体类战车多样搭配，才能真正在战场上叱咤风云。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140814/20140814101616_81478.jpg" alt="" /><br />
+&nbsp;多兵种协同作战<br />
+<br />
+<br />
+【真实还原 二战经典】<br />
+&nbsp; &nbsp; &nbsp; 《战地坦克》更为广大玩家奉上最真实军事战争题材手机游戏。《战地坦克》网罗二战经典战车、真实还原百余种坦克从外观性能到武器装备等一系列参数，让你在手机上指挥现实中的钢铁巨兽，成为媲美古德里安、隆美尔的坦克名将！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140814/20140814101629_72730.jpg" alt="" /><br />
+&nbsp;真实还原二战经典<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140814/20140814101641_62912.jpg" alt="" /><br />
+《战地坦克》火爆测试中，关注微信享好礼<br />
+<br />
+<br />
+&nbsp; &nbsp; &nbsp;真实再现世界经典坦克，策略战术演绎装甲军团战争艺术，攻城略地抢夺资源称霸战场，首款坦克军团策略手游《战地坦克》火爆测试中，坦克大战，一触即发，钢铁雄狮引擎已经发动，只等各位指挥官下达出击指令！<br />
+<div>
+	<br />
+</div></div>
+				</div>
+			</div>
+		</div>			
+	</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

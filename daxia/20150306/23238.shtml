@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>3月9日IOS正版更新公告_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">公告</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">3月9日IOS正版更新公告</div>
+              <p><p class="MsoNormal" style="text-align:center;">
+	<strong>3月9日IOS正版更新公告</strong> 
+</p>
+<p class="MsoNormal">
+	<strong>尊敬的玩家们：</strong> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0000pt;">
+	我们将于2015.3.9上午11：00进行IOS正版服务器更新，届时您需重新下载并安装游戏才能体验新版本。更新给您带来的不便敬请谅解。
+</p>
+<p class="MsoNormal">
+	<strong>&nbsp;更新内容：</strong> 
+</p>
+<p class="MsoNormal">
+	1、主角升星调整：更新后主角升星消耗武魂卡（紫色）或者仙魂卡（橙色），不再消耗紫色大侠或者橙色大侠。
+</p>
+<p class="MsoNormal">
+	2、天牢奖励调整：更新后天牢增加武魂卡掉落
+</p>
+<p class="MsoNormal">
+	3、新增套装合成系统：更新后通过套装合成系统可以合成套装。套装有额外的属性加成以及独有的技能。
+</p>
+<p class="MsoNormal">
+	4、新增噩梦江湖副本：更新后通过普通所有关卡，可以开启噩梦江湖。噩梦江湖会掉落套装所需材料。
+</p>
+<p class="MsoNormal">
+	5、新增鉴宝系统：更新后玩家到达37级将开启鉴宝系统，通过鉴宝可以获得稀有道具。
+</p>
+<p class="MsoNormal">
+	6、优化游戏中的文字描述及提示，优化后文字表达更加准确。
+</p>
+<p class="MsoNormal">
+	7、优化部分游戏界面，优化后操作更加流畅、美观。
+</p>
+<p class="MsoNormal">
+	8、更换部分图表，更换后其表达更加清晰明了。
+</p>
+<p class="MsoNormal">
+	9、修复了部分BUG，这些BUG涉及文字、显示、游戏功能等。
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

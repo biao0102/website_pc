@@ -1,0 +1,116 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content"><p>
+	<span><br />
+</span>
+</p>
+<p style="margin:0cm 0cm 0pt;">
+	<span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 现代多少热血男儿有过帝王梦？《天天逗群英》带您回到那个天下大乱，群雄逐鹿，天下苍生生灵涂炭，动荡不安的年代。但是这同样是一个英雄辈出的年代，在这里手持长枪一统中原，实现现代生活无法给与的爽快感！</span></span> 
+</p>
+<p>
+	<span><br />
+</span>
+</p>
+<p style="margin:0cm 0cm 0pt;">
+	<span lang="EN-US"><span><br />
+</span></span>
+</p>
+<p>
+	<span><br />
+</span>
+</p>
+<p style="margin:0cm 0cm 0pt;"><img style="height:579px;width:786px;" alt="" src="http://i0.feiliu.com/image/20141028/20141028120746_93130.jpg" width="900" height="636" />&nbsp;
+</p>
+<p>
+	<span><br />
+</span>
+</p>
+<p style="margin:0cm 0cm 0pt;">
+	<span lang="EN-US"><span>&nbsp;</span></span> 
+</p>
+<p>
+	<span><br />
+</span>
+</p>
+<p style="margin:0cm 0cm 0pt;">
+	<span><span>《天天逗群英》是新型的群战策略卡牌游戏，以武将带领百人军队进行群斗的群战模式为核心；面对敌人的千军万马，用群杀技能全屏杀敌，指挥士兵和武将前进、冲锋。在掌上调兵遣将，运筹帷幄之中，一声令下，万军齐发，在</span><span><span lang="EN-US">100VS100</span></span><span>的大场面战斗中体验万夫莫当君临天下的感觉。</span></span> 
+</p>
+<p>
+	<span><br />
+</span>
+</p>
+<p style="margin:0cm 0cm 0pt;">
+	<span lang="EN-US"><span>&nbsp;</span></span> 
+</p>
+<p>
+	<span><br />
+</span>
+</p>
+<p style="margin:0cm 0cm 0pt;">
+	<span lang="EN-US"><span>&nbsp;</span></span> 
+</p>
+<p>
+	<span><br />
+</span>
+</p>
+<p style="margin:0cm 0cm 0pt;">
+	<span lang="EN-US"><span>&nbsp;</span></span> 
+</p>
+<span> 
+<p align="right">
+	<br />
+</p>
+<p align="right">
+	</span>&nbsp;
+</p>
+<p class="MsoNormal" align="left">
+	<span></span>
+</p>
+<p class="MsoNormal" align="left">
+	<span>更多精彩内容，敬请关注官方信息：</span>&nbsp;<br />
+<span>官方</span><span>QQ</span><span>：</span><span>3131494764&nbsp;<br />
+</span><span>官方</span><span>QQ</span><span>群：</span><span>210206480&nbsp;</span> 
+</p>
+<p class="MsoNormal" align="left">
+	<span>官网：</span><span><a href="http://ttdqy.feiliu.com/"><span style="text-decoration:none;">http://ttdqy.feiliu.com/</span></a></span> 
+</p>
+<span><span >帅呆了的群战三国！</span></span> <span></span> 
+<p class="MsoNormal" align="left">
+	<span>&nbsp; </span>
+</p>
+<p class="MsoNormal" align="left">
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>《天天逗群英》运营团队</span> <span id="__kindeditor_bookmark_end_3__" style="display:none;"></span><span></span>
+</p>
+<p style="margin:0cm 0cm 0pt;">
+	<span><span><span lang="EN-US"><span style="mso-spacerun:yes;"></span></span></span></span>&nbsp;
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

@@ -1,0 +1,64 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			热门活动
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			热门活动
+	        				        		</div>
+	    			<div class="infotitle">英雄回归 豪礼相送！《就是要三国》1月13日老玩家回流活动</div>
+		        	<div class="textTime">2015-01-09</div>
+		    		<div class="article">
+						<h2>
+	<blockquote style="margin:0 0 0 40px;border:none;padding:0px;">
+		<h2>
+			<br />
+		</h2>
+		<h2 style="text-align:center;">
+			<span>英雄回归，豪礼相送！</span> 
+		</h2>
+		<p class="MsoNormal" align="left">
+			【活动时间】<span lang="EN-US">1</span>月<span lang="EN-US">13</span>日
+		</p>
+		<p class="MsoNormal" align="left">
+			【活动内容】参与过<span >就是要三国</span>首次测试的玩家，在本次<span lang="EN-US">1</span>月<span lang="EN-US">13</span>日测试开启时，都可凭账号，领取目前游戏中最高品质橙色将领吕布<span lang="EN-US">1</span>个。
+		</p>
+		<p class="MsoNormal" align="left">
+			【领取须知】
+		</p>
+		<p class="MsoNormal" align="left" style="text-indent:21pt;">
+			领取时间：<span lang="EN-US">1</span>月<span lang="EN-US">13</span>日上午<span lang="EN-US">11</span>点<span lang="EN-US">-</span>下午<span lang="EN-US">19</span>点。
+		</p>
+		<p class="MsoNormal" align="left" style="text-indent:21pt;">
+			1、提供上次测试账号
+		</p>
+		<p class="MsoNormal" align="left" style="text-indent:21pt;">
+			2、提供本次创建的新角色名称
+		</p>
+		<p class="MsoNormal">
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 将以上两个信息发送给官方<span lang="EN-US">Q</span>群<span lang="EN-US">(317065896)</span>管理员【<span >就是要三国</span>】，奖励在<span lang="EN-US">1</span>个工作日内审核发放到角色邮箱中。
+		</p>
+		<p class="MsoNormal">
+			<span lang="EN-US">&nbsp;</span> 
+		</p>
+	</blockquote>
+</h2>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>【大侠别嚣张】版本更新维护公告_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">新闻</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">【大侠别嚣张】版本更新维护公告</div>
+              <p><p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	尊敬的各位玩家：<br />
+　　《大侠别嚣张》将于8<span>月</span><span>2</span>9日11：<span>00-</span>13：<span>00</span>对全服进行更新维护，预计维护2小时，请各位玩家相互转告，并提前留意游戏时间，&nbsp;以免造成不必要的损失。<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:19.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	维护时间如有调整，我们将另行告知玩家。<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:19.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	在维护完毕之后为每位玩家发放补偿，补偿内容：<span>200</span><span>元宝</span><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;维护时间：8<span>月</span><span>2</span>9日11：<span>00-</span>13：<span>00</span><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>维护范围：</span>全服<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更新内容：<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:19.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	<o:p>&nbsp;</o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	1.<span>优化新手引导</span><span>--</span><span>新增剧情带入功能</span><o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	2.<span>优化战斗加速系统</span><span>--6</span><span>级既可以开启</span><span>3</span><span>倍加速</span><o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	3.<span>主角增加缘分系统</span><span>--</span><span>主角获得全新紫色套装匹配缘分</span><o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	4.<span>新增人物李莫愁</span><o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	5.钱庄规则修改<br />
+&nbsp; &nbsp; &nbsp;6.<span>修复已知</span><span>bug</span><o:p></o:p>
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

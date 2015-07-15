@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">二战经典坦克加盟！《战地坦克》新战车亮相</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-09-10</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              二战经典坦克震撼亮相，希特勒坦克动物园重振雄威！作为全球首款坦克军团策略手游，《战地坦克》将二战历史、著名游戏、动画中的坦克等比例原貌呈现在游戏中，让玩家可以身临其境地打造自己的坦克基地，指挥坦克加入炮火纷飞的战争。在即将上线的全新版本中，虎王坦克、斗狼歼击车等6级坦克将震撼亮相，下面让我们一起抢先领略6级坦克的威力！<br />
+<br />
+<br />
+《战地坦克》游戏官网：http://tk.feiliu.com<br />
+《战地坦克》iOS正版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8<br />
+《战地坦克》iOS越狱版下载：http://js.feiliu.com/ipa/tk/tk_300021.ipa<br />
+<br /><img src="http://i0.feiliu.com/image/20140910/20140910113909_24765.jpg" alt="" /><br />
+【希特勒动物园之首-虎王坦克】<br />
+<br />
+<br />
+&nbsp; 虎王坦克作为希特勒指定制造的战争机器，拥有强悍的火炮以及厚重的装甲，在战场上，虎王是一个无可匹敌的对手。《战地坦克》全新版本中6级的虎王坦克可通过天启坦克改装而成。虎王天生对火箭车有伤害加成。在命中目标后可令其攻击在1回合内减少10%，上阵后还可增加己方所有部队的伤害25%。<br />
+<br /><img src="http://i0.feiliu.com/image/20140910/20140910113943_50290.jpg" alt="" /><br />
+【坦克杀手-斗狼歼击车】<br />
+<br />
+<br />
+&nbsp; 斗狼歼击车是超越现代科技水平的科幻坦克，其天生对坦克有伤害加成，可通过猛虎歼击车改装图1：《战地坦克》 年度最刺激的坦克大战成。斗狼在命中目标后会根据自身攻击力的5%生成一个可吸收伤害的护盾，令其攻防兼备，在战斗中还可增加己方所有部队的暴击25%，是一个不折不扣的坦克杀手。<br />
+<br /><img src="http://i0.feiliu.com/image/20140910/20140910114011_81962.jpg" alt="" /><br />
+&nbsp;面对如此强悍的6级坦克，各位军团领袖是不是已经跃跃欲试却又觉得难以获得呢？游戏中升级6级坦克可是十分容易，活动、任务、PVP战斗、PVE关卡等很多方面都会产出6级坦克的升级材料，相信新战车上线便会有众多玩家指挥它们横扫战场！在虎王坦克、斗狼歼击车上线后，《战地坦克》将在此后上线另外两款6级坦克，神秘的新坦克究竟会有什么样的造型和威力，让我们拭目以待！而且，现在关注官方微信（flgames），即享游戏攻略、福利活动、新手礼包哦！<br /><img src="http://i0.feiliu.com/image/20140910/20140910114228_67938.jpg" alt="" />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

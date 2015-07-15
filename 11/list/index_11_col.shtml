@@ -1,0 +1,27 @@
+<div class="left_news">
+	<div class="left_news_tab" id="news_tab">
+		<span id="colbtn01" class="current">全部</span>
+		<span id="colbtn02">公告</span>
+		<span id="colbtn03">活动</span>
+		<span id="colbtn04">新闻</span>
+		<a href="http://11.feiliu.com/list/list_11_zl.shtml" target="_blank" id="more">more</a>
+	</div>
+	<div class="left_news_panes" id="news_panes">
+	<!--首页左侧栏目全部列表开始-->
+		<!--#include virtual="/list/index_11_colzl.shtml"-->
+	<!--首页左侧栏目全部列表结束-->
+
+	<!--首页左侧栏目公告列表开始-->
+		<!--#include virtual="/list/index_11_colgg.shtml"-->
+	<!--首页左侧栏目公告列表结束-->
+	
+	<!--首页左侧栏目活动列表开始-->
+		<!--#include virtual="/list/index_11_colhd.shtml"-->
+	<!--首页左侧栏目活动列表结束-->
+	
+	<!--首页左侧栏目新闻列表开始-->
+		<!--#include virtual="/list/index_11_colnews.shtml"-->
+	<!--首页左侧栏目新闻列表结束-->
+
+	</div>
+</div>

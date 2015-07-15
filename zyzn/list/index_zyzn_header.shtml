@@ -1,0 +1,7 @@
+<div class="header">
+	<a id="top" name="top"></a>
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img style="height:45px;padding:5px 0 0;" src="http://cdnpush.feiliu.com/uploadimage/public/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>

@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《坦克风云》即将登陆App Store 最强军事手游来袭</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-03-21</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              由雷尚科技研发、FL Mobile（飞流）发行的首款坦克军团对战手游《坦克风云》即将登陆App Store！《坦克风云》真实还原了二战中百种装甲坦克，让玩家指挥各国主战坦克集团撕裂对手防线，体验硬派的机械化战争。《坦克风云》更为玩家提供了施展谋略的舞台，建造基地发展军备、战略布阵抢夺资源，在战火纷飞的世界中寻找激情与荣耀。坦克大战，一触即发！<br />
+<br />
+<br />
+《坦克风云》游戏官网：http://tk.feiliu.com/<br />
+《坦克风云》ios越狱版下载：http://tk.feiliu.com/<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140321/20140321104608_52457.jpg" alt="" /><br />
+<br />
+<br />
+【真实还原 收录百款坦克】<br />
+不同于目前市面上大量的军事手游，《坦克风云》是一款最真实的军事战争题材手机游戏。《坦克风云》收录了大量二战时期的经典战车，无论外观性能还是武器装备都参照了历史上的真实数据，让你在手机上指挥现实中的钢铁巨兽，成为媲美古德里安、隆美尔的坦克名将！德国的豹式坦克、苏联的BM-21式火箭炮、中国的WS-2火箭炮……都会与你在《坦克风云》中相见。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140321/20140321104619_43119.jpg" alt="" /><br />
+<br />
+<br />
+【战术多样 超越沙漠之狐】<br />
+二战时期的坦克名将隆美尔所创造的“右肘弯攻击”战术，相信各位爱好军事的玩家一定不会陌生。以少数兵力牵制正面敌人，以主要力量迂回至敌纵深，回击或包围敌人。隆美尔用这一战术完美演绎了他的战争美学。而在首款坦克军团对战手游《坦克风云》中，作为指挥官的你，不仅可以再现沙漠之狐的必胜战术，更能发挥自己的创造力将集群冲锋、大纵深、闪电战、斜线突击、游击战等众多装甲战术综合应用，创造只属于自己的战术！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140321/20140321104629_29198.jpg" alt="" /><br />
+<br />
+【建设基地 打造坦克帝国】<br />
+正如隆美尔在北非所感悟到的，决定战争胜败的是后勤官。想要确保百万钢铁之师始终处于最佳作战状态，源源不断的后勤补给是必不可少的。《坦克风云》除了能建造各国经典坦克外，各位指挥官更要将一部分精力放在军事基地的建立以及设施的升级、物资的开采以及调配上。不仅如此，你还能够通过对其他玩家的掠夺，获取资源从而进一步提升自军的实力。同时也要发挥你的智慧，布置强大的防御阵地，引诱敌军进入你的埋伏圈。让他们知道什么才是牢不可破的城防。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140321/20140321104650_14500.jpg" alt="" /><br />
+<br />
+<br />
+真实再现百款经典坦克，策略战术演绎装甲军团战争艺术，冲破防线抢夺资源称霸战场，首款坦克军团对战手游《坦克风云》ios版即将火爆上线，坦克大战，一触即发，钢铁雄狮已经整装待发，只等各位指挥官下达出击指令！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140321/20140321104700_47082.jpg" alt="" /><br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

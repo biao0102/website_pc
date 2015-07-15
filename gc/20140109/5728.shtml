@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="特权VIP系统_" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>特权VIP系统 攻城掠地_游戏资料</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+								
+								<div class="news_head news_head_zl">
+                                    <ul class="news_tab">
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_yxgl.shtml">攻略</a></li>
+                                        <li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_yxzl.shtml" class="current">资料</a></li>
+                                    </ul>
+                                    <p>所在位置： <a href="http://gc.feiliu.com">首页</a> >> 资料</p>
+                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">特权VIP系统</a></div>
+                                    <div class="news_date">发布时间：2014-01-09 18:30:52</div>
+                                    <div class="news_main">
+										VIP特权( 目前开放到VIP7）<br />
+<br />
+【VIP功能介绍】<br />
+1. 点击左上角充值按钮可弹出VIP界面<br />
+2. 点击VIP界面中的充值升级特权按钮可前往充值界面<br />
+3. 累计充值满一定金币可获得提升VIP等级<br />
+<br /><img src="http://i0.8783.com/image/20140109/20140109182839_72683.png" alt="" /><br />
+<br />
+【VIP功能全解】<br />
+VIP1 特权：<br />
+30级后继续使用制动升级建筑功能；<br />
+VIP2 特权：<br />
+赠送50个黄金锤，木场令（木场300%收益1天）3个；<br />
+VIP3 特权：<br />
+赠送30次免费借兵，银币令（民居300%收益1天）5个；<br />
+VIP4 特权：&nbsp;<br />
+粮食令（农田300%收益1天）5个；<br />
+VIP5 特权：&nbsp;<br />
+海量经验副本（50级可攻打），兵营令（兵营300%收益1天）10个；<br /><img src="http://i0.8783.com/image/20140109/20140109182953_38660.png" alt="" /><br />
+VIP6 特权：<br />
+赠送3件3星紫装（60级可领取），镔铁令（矿场300%收益1天）10个；<br />
+VIP7 特权：<br />
+赠送2次免费集团军（70级研究集团军科技后可以获得）；<br /><img src="http://i0.8783.com/image/20140109/20140109183049_44469.png" alt="" /><br />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

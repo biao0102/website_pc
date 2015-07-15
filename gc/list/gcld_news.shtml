@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="keywords" content="攻城掠地,攻城掠地官网,攻城掠地攻略，三国网页游戏,攻城略地,攻城略地官网" />
+    <meta name="description" content="《攻城掠地》是飞流旗下一款强调国战的战争策略网页游戏。实景还原三国战图，开创24小时全景即时国战！文臣武将云集，打破“重武轻文”的桎梏。内政、军师、计策等系统演绎文官本色！其次，新颖的掩杀式战斗模式、战术、皇城官职战等特色玩法，足以让你尽享开疆扩土、统一天下的激情！" />
+    <title>攻城掠地新闻</title>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/index.css" />
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/thickbox.css" />
+    <link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/flgc/css/skin.css" />
+</head>
+<body>
+    <div class="wrap">
+	
+	
+         <!--攻城掠地头部模板start-->
+			<!--#include virtual="/list/index_gcldtop.shtml"-->
+		<!--攻城掠地头部模板end-->
+		
+		
+        <div class="content">
+            <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.lixtabs.js"></script>
+            <script type="text/javascript">
+                jQuery(document).ready(function ($) {
+                    $('#tabServer').Xtabs({ hdcn: 'tabServer', hdtagcur: 'now', bdcn: 'tabServerLite' });//服务器Tab
+                });
+            </script>
+			
+			
+			<!--攻城掠地首页左侧模板start-->
+				<!--#include virtual="/list/index_gcld_left.shtml"-->
+			<!--攻城掠地首页左侧模板end-->
+		   
+		   
+            <div class="right">
+                <div class="right_c">
+                    <div class="title">
+                        <h1 class="fl">新闻</h1>
+                        <p class="fr">所在位置： <a href="http://gc.feiliu.com" title="">首页</a> >> <a href="http://gc.feiliu.com/list/gcld_news.shtml">新闻</a> </p>
+                    </div>
+                    <ul class="sortTitle">
+                        <li><a href="http://gc.feiliu.com/list/gcld_gg.shtml" title="">公告</a>|</li>
+                        <li><a href="http://gc.feiliu.com/list/gcld_news.shtml" title="" class="sortCur">新闻</a>|</li>
+                        <li><a href="http://gc.feiliu.com/list/gcld_rd.shtml" title="">热点</a>|</li>
+                        <li><a href="http://gc.feiliu.com/list/gcld_hd.shtml" title="">活动</a></li>
+                    </ul>
+                    <div class="sortList">
+					
+					
+                       <ul class="icon">
+							
+							  
+								<li><a href="http://gc.feiliu.com/20150522/23608.shtml" title="原点！《攻城掠地》手游一周年庆典活动圆满结束" class="fl">原点！《攻城掠地》手游一周年庆典活动圆满结束</a> <span class="fr">2015-05-22 12:27:17</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20150511/23571.shtml" title="真套装开光！《攻城掠地》手游2.4新版内容介绍" class="fl">真套装开光！《攻城掠地》手游2.4新版内容介绍</a> <span class="fr">2015-05-11 05:48:26</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20150505/23547.shtml" title="我们的攻城！《攻城掠地》手游玩家齐贺一周年" class="fl">我们的攻城！《攻城掠地》手游玩家齐贺一周年</a> <span class="fr">2015-05-05 07:30:09</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20150421/23480.shtml" title="我们需要你！手游《攻城掠地》调查问卷好礼请笑纳" class="fl">我们需要你！手游《攻城掠地》调查问卷好礼请笑纳</a> <span class="fr">2015-04-21 05:09:00</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20150420/23474.shtml" title="《攻城掠地》 周年庆礼包新浪发号开始啦！" class="fl">《攻城掠地》 周年庆礼包新浪发号开始啦！</a> <span class="fr">2015-04-20 07:12:27</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20150417/23457.shtml" title="谢谢爸爸！《攻城掠地》手游一周年感恩视频发布" class="fl">谢谢爸爸！《攻城掠地》手游一周年感恩视频发布</a> <span class="fr">2015-04-17 04:47:23</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20150415/23448.shtml" title="喜迎一周年！《攻城掠地》手游庆典活动今日开启！" class="fl">喜迎一周年！《攻城掠地》手游庆典活动今日开启！</a> <span class="fr">2015-04-15 12:05:43</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20150413/23430.shtml" title="陪伴！《攻城掠地》手游一周年感恩大片预告 !" class="fl">陪伴！《攻城掠地》手游一周年感恩大片预告 !</a> <span class="fr">2015-04-13 10:27:56</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20150312/23260.shtml" title="赵云力斩五将！《攻城掠地》手游新版本今日上线" class="fl">赵云力斩五将！《攻城掠地》手游新版本今日上线</a> <span class="fr">2015-03-12 12:26:50</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20150120/23045.shtml" title="苍井空乱入《攻城掠地》手游 得此一女天下可定" class="fl">苍井空乱入《攻城掠地》手游 得此一女天下可定</a> <span class="fr">2015-01-20 08:19:16</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20150108/22933.shtml" title="感悟：人生如游戏！向我的《攻城掠地》岁月致敬" class="fl">感悟：人生如游戏！向我的《攻城掠地》岁月致敬</a> <span class="fr">2015-01-08 08:18:04</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20141222/22793.shtml" title="日充值超百万 手游《攻城掠地》趣味数据盘点" class="fl">日充值超百万 手游《攻城掠地》趣味数据盘点</a> <span class="fr">2014-12-22 07:24:10</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20141208/22648.shtml" title="贴心小棉袄！《攻城掠地》手游新版细节优化曝光" class="fl">贴心小棉袄！《攻城掠地》手游新版细节优化曝光</a> <span class="fr">2014-12-08 11:46:28</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20141204/22625.shtml" title="新副本、新武将！《攻城掠地》手游140级全新挑战" class="fl">新副本、新武将！《攻城掠地》手游140级全新挑战</a> <span class="fr">2014-12-04 06:53:14</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20141126/22566.shtml" title="魔方网礼包发放通知！" class="fl">魔方网礼包发放通知！</a> <span class="fr">2014-11-26 05:39:47</span></li>
+							  
+								<li><a href="http://gc.feiliu.com/20141126/22564.shtml" title="袁绍起兵！《攻城掠地》手游版12月全新内容曝光" class="fl">袁绍起兵！《攻城掠地》手游版12月全新内容曝光</a> <span class="fr">2014-11-26 02:34:00</span></li>
+													</ul>
+						
+						
+                        <div id="pagination" class="pagination"> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+   
+		
+		
+        <!-- footer -->
+       <!--攻城掠地底部模板start-->
+			<!--#include virtual="/list/index_gcldfoot.shtml"-->
+		<!--攻城掠地底部模板end-->
+		
+		
+		
+        <!-- 公司 -->
+        <!--[if IE 6]>
+		<script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/DD_belatedPNG_0.0.8a-min.js"></script>
+		<script type="text/javascript">
+	        DD_belatedPNG.fix('.company div.footCenter a.logo,.company div.public a.shgs img,.company div.public a.jingwu img,.company div.public a.policeicon img,.company div.public a.zx110 img');
+		</script>
+	<![endif]-->
+    </div>
+	
+	<!--list分页-底部start--> 
+	<script language="javascript"> 
+	var f_pagecount = 6 
+	<!--#include virtual="/pub/page_ctrl.shtml"--> 
+	</script> 
+	<!--list分页-底部end--> 
+	
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.smallslider.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/thickbox.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flgc/js/index.js"></script>
+</body>
+</html>

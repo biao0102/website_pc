@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="《攻城掠地》官方网站" />
+    <meta name="description" content="《攻城掠地》官方网站" />
+    <title>《攻城掠地》官方网站</title>
+    <link href="http://js.feiliu.com/static/gcwap/style/master.css?v=2" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/gcwap/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            var navs = $("#tese_nav a");
+            var imgs = $("#imgbox a");
+            navs.each(function (i) {
+                $(this).click(function () {
+                    navs.removeClass("current").eq(i).addClass("current");
+                    imgs.hide().eq(i).show();
+                });
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="content">
+			 
+            <!--攻城略地wap版头部背景图片start-->
+				<!--#include virtual="/list/gcmobile_index_toppic.shtml"-->
+			<!--攻城略地wap版头部背景图片end-->
+			
+            <div class="down">
+                <div class="down_item clearfix">
+                    <div class="down_item_l">
+                        <img src="http://js.feiliu.com/static/gcwap/images/ico01.png" alt="" /><p>版本名称：IOS<br />游戏版本：敬请期待！<br />IOS下载</p>
+                    </div>
+                    <div class="down_item_r">
+                        <a href="#"><img id="ios_download" src="http://js.feiliu.com/static/gcwap/images/btn01.jpg" alt="" /></a>
+                    </div>
+                </div>
+                <div class="down_item clearfix">
+                    <div class="down_item_l">
+                        <img src="http://js.feiliu.com/static/gcwap/images/ico01.png" alt="" /><p>版本名称：IOS<br />游戏版本：V1.5.0<br />越狱下载</p>
+                    </div>
+                    <div class="down_item_r">
+                        <a href="http://gc.feiliu.com/download/yy.php"><img id="yy_download" src="http://js.feiliu.com/static/gcwap/images/btn02.jpg" alt="" /></a>
+                    </div>
+                </div>
+                <div class="down_item clearfix">
+                    <div class="down_item_l">
+                        <img src="http://js.feiliu.com/static/gcwap/images/ico01.png" alt="" /><p>版本名称：Android<br />游戏版本：V1.5.0<br />安卓下载</p>
+                    </div>
+                    <div class="down_item_r">
+                        <a href="http://gc.feiliu.com/download/android.php"><img id="android_download" src="http://js.feiliu.com/static/gcwap/images/btn03.jpg" alt="" /></a>
+                    </div>
+                </div>
+            </div>
+            <img src="http://js.feiliu.com/static/gcwap/images/title02.jpg" alt="" />
+            <ul class="news_list">
+				 
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=18739" target="_top">【资讯】《攻城掠地》常见问题FAQ</a><span>2014-03-10</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=18472" target="_top">【资讯】《攻城掠地》调研活动，拿金币！</a><span>2014-03-10</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=17940" target="_top">【资讯】《攻城掠地》致内测玩家的一封信</a><span>2014-03-06</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=17410" target="_top">【资讯】《攻城掠地》7服开区活动公告</a><span>2014-03-05</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=15785" target="_top">【资讯】【通知】国家任务异常补偿公告</a><span>2014-03-03</span></li>
+					            </ul>
+            <a href="" name="tese"><img src="http://js.feiliu.com/static/gcwap/images/title03.jpg" alt="" /></a>
+            <div class="tese" >
+                			
+				<!--攻城略地wap版底部图片start-->
+				<!--#include virtual="/list/gcmobile_index_bottompic.shtml"-->
+				<!--攻城略地wap版底部图片end-->		
+				
+            </div>
+            <img src="http://js.feiliu.com/static/gcwap/images/img04.jpg" alt="" />
+            <img src="http://js.feiliu.com/static/gcwap/images/img05.jpg" alt="" />
+        </div>
+    </div>
+	
+	<!-- bottom -->
+    <div class="bottom">
+        <div class="bottom_top"><a href="#top">
+            <img src="http://js.feiliu.com/static/gcwap/images/fh_top.jpg" alt="" /></a></div>
+        <p class="bottom_01"></p>
+        <div class="bottom_sm">
+            <p>攻城掠地－触控板</p>
+            <p>Powered by dsg.feiliu.com  Certificate Copyright ?2011-2013 </p>
+        </div>
+    </div>
+	
+	
+	<div style="display:none;">
+		<script type="text/javascript">
+			var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+			document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff06b9e919dec36720d34c500e8394364' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+	</div>
+	
+</body>
+</html>

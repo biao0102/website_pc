@@ -1,0 +1,24 @@
+<script type="text/javascript" src="http://js.feiliu.com/static/abc/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/abc/web/js/public.js"></script>
+<script>
+	$(function(){
+	//用户自定义3
+	$(".bar5").jSitebar({
+		// text:"自定义三",
+		bodyWidth:"1000px",
+		bottom:"140px",
+		other:{
+			slideUp:500,
+			slideDown:500,
+		},
+		// callback:function(){
+		// 	alert("用户自定义3");
+		// }
+	  });
+	  document.onkeydown = function(){
+		if(window.event && window.event.keyCode == 114){
+			window.event.keyCode == 505;
+		}
+	  }
+	});
+</script>

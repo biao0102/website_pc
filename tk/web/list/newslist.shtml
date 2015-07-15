@@ -1,0 +1,272 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+	<div class="wrap minwidth">
+		<div class="contain minwidth rel">
+			<div class="subcon1120">
+				<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+				<div class="conri fltt">
+					<div class="newscon">
+						<div class="top001" id="_show1">
+							<ul class="subbuttonbg">
+								<li class="li01"><a href="javascript:void(0);">全部</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(2);">新闻</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(3);">公告</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(4);">活动</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(5);">攻略</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(6);">新手指南</a></li>
+							</ul>
+							<div class="subnews01">
+								<ul>
+																											<li><a href="http://tk.feiliu.com/web/news/20150424022202.shtml"><span class="subjiao"></span>
+										[活动]《战地坦克》 大量高价坦克来袭！游戏多独家发放！</a><span class="date">04-24</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150403052919.shtml"><span class="subjiao"></span>
+										[活动]清明复活节社区活动</a><span class="date">04-03</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150402053201.shtml"><span class="subjiao"></span>
+										[新闻]周年狂欢揭幕《坦克风云》全新四大活动曝光</a><span class="date">04-02</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150324064849.shtml"><span class="subjiao"></span>
+										[活动]《战地坦克》活动介绍</a><span class="date">03-24</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150324064228.shtml"><span class="subjiao"></span>
+										[活动]《战地坦克》新服火爆开启</a><span class="date">03-24</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150212063652.shtml"><span class="subjiao"></span>
+										[活动]喜气“羊羊”过大年</a><span class="date">02-12</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150210033138.shtml"><span class="subjiao"></span>
+										[活动]《战地坦克》活动介绍</a><span class="date">02-10</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150203124623.shtml"><span class="subjiao"></span>
+										[活动]《战地坦克》活动介绍</a><span class="date">02-03</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150120070019.shtml"><span class="subjiao"></span>
+										[活动]《战地坦克》活动介绍</a><span class="date">01-20</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150115061013.shtml"><span class="subjiao"></span>
+										[活动]《战地坦克》活动介绍</a><span class="date">01-15</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150109035156.shtml"><span class="subjiao"></span>
+										[活动]坦克嘉年华</a><span class="date">01-09</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141231070012.shtml"><span class="subjiao"></span>
+										[活动]元旦盛大回馈</a><span class="date">12-31</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141224054147.shtml"><span class="subjiao"></span>
+										[活动]《战地坦克》圣诞节狂欢活动</a><span class="date">12-24</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141217052840.shtml"><span class="subjiao"></span>
+										[新闻]俯视群雄 《战地坦克》AppStore跨服霸主名单曝光</a><span class="date">12-17</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141208042109.shtml"><span class="subjiao"></span>
+										[新闻]沙漠之狐隆美尔复活！《战地坦克》将领系统升级</a><span class="date">12-08</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141203070951.shtml"><span class="subjiao"></span>
+										[新闻]万人景仰 《战地坦克》首届跨服赛冠军名单曝光</a><span class="date">12-03</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141202062808.shtml"><span class="subjiao"></span>
+										[活动]狂怒之狮</a><span class="date">12-02</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141128063251.shtml"><span class="subjiao"></span>
+										[活动]   百万钢铁军团混战 《战地坦克》跨服战二期跨服战火爆来袭</a><span class="date">11-28</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141126071637.shtml"><span class="subjiao"></span>
+										[活动]‘鸡’动部队</a><span class="date">11-26</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141120064533.shtml"><span class="subjiao"></span>
+										[新闻]百万钢铁军团混战 《战地坦克》跨服战火爆来袭</a><span class="date">11-20</span></li>
+																										</ul>
+							</div>
+						</div>
+						<div class="top002" id="_show2">
+						 	<ul class="subbuttonbg">
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(1);">全部</a></li>
+								<li class="li01"><a href="javascript:void(0);" >新闻</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(3);">公告</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(4);">活动</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(5);">攻略</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(6);">新手指南</a></li>
+						  	</ul>
+						  	<div class="subnews01">
+								<ul>
+																											<li><a href="http://tk.feiliu.com/web/news/20150402053201.shtml"><span class="subjiao"></span>[新闻]周年狂欢揭幕《坦克风云》全新四大活动曝光</a><span class="date">04-02</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141217052840.shtml"><span class="subjiao"></span>[新闻]俯视群雄 《战地坦克》AppStore跨服霸主名单曝光</a><span class="date">12-17</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141208042109.shtml"><span class="subjiao"></span>[新闻]沙漠之狐隆美尔复活！《战地坦克》将领系统升级</a><span class="date">12-08</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141203070951.shtml"><span class="subjiao"></span>[新闻]万人景仰 《战地坦克》首届跨服赛冠军名单曝光</a><span class="date">12-03</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141120064533.shtml"><span class="subjiao"></span>[新闻]百万钢铁军团混战 《战地坦克》跨服战火爆来袭</a><span class="date">11-20</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140929111436.shtml"><span class="subjiao"></span>[新闻] 扬我国威！《战地坦克》首款国产坦克59式参战</a><span class="date">09-29</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140917120222.shtml"><span class="subjiao"></span>[新闻]钢铁陆战霸王！《战地坦克》全新两款坦克曝光</a><span class="date">09-17</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140910114235.shtml"><span class="subjiao"></span>[新闻]二战经典坦克加盟！《战地坦克》新战车亮相</a><span class="date">09-10</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140826035548.shtml"><span class="subjiao"></span>[新闻]新坦克、新任务！《战地坦克》全新版本曝光</a><span class="date">08-26</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140822102945.shtml"><span class="subjiao"></span>[新闻]T-90领衔！《战地坦克》玩家盘点最牛X主战坦克</a><span class="date">08-22</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140814102249.shtml"><span class="subjiao"></span>[新闻]天时不如地利！《战地坦克》全新地形系统介绍</a><span class="date">08-14</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140812023810.shtml"><span class="subjiao"></span>[新闻]加加新版火爆上线 解放双手送豪礼</a><span class="date">08-12</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140724123223.shtml"><span class="subjiao"></span>[新闻]《战地坦克》二战名将录：美国五星空军上将阿诺德</a><span class="date">07-24</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140717102804.shtml"><span class="subjiao"></span>[新闻]铁血对战！《战地坦克》PVP竞技场功能上线</a><span class="date">07-17</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140710101523.shtml"><span class="subjiao"></span>[新闻]堪比“罗伯托·卡洛斯”《战地坦克》自行火炮详解</a><span class="date">07-10</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140704102449.shtml"><span class="subjiao"></span>[新闻]男人才懂！球迷热爱《战地坦克》的四大理由</a><span class="date">07-04</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140626104700.shtml"><span class="subjiao"></span>[新闻]天启当前锋！《战地坦克》世界杯最强11人阵容</a><span class="date">06-26</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140616103602.shtml"><span class="subjiao"></span>[新闻]天天送好礼！《战地坦克》世界杯活动曝光</a><span class="date">06-16</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140611053122.shtml"><span class="subjiao"></span>[新闻]《战地坦克》登录App Store 全新军团玩法来袭</a><span class="date">06-11</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140530114144.shtml"><span class="subjiao"></span>[新闻]越狱版本新服【前线黎明】火热开启</a><span class="date">05-30</span></li>
+																										</ul>
+						  	</div>
+						</div>
+						<div class="top003" id="_show3">
+						  	<ul class="subbuttonbg">
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(1);">全部</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(2);">新闻</a></li>
+								<li class="li01"><a href="javascript:void(0);" >公告</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(4);">活动</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(5);">攻略</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(6);">新手指南</a></li>
+							</ul>
+						  	<div class="subnews01">
+								<ul>
+																	</ul>
+		  					</div>
+						</div>
+						<div class="top004" id="_show4">
+						  	<ul class="subbuttonbg">
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(1);">全部</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(2);">新闻</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(3);">公告</a></li>
+								<li class="li01"><a href="javascript:void(0);" >活动</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(5);">攻略</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(6);">新手指南</a></li>
+						  	</ul>
+						  	<div class="subnews01">
+								<ul>
+																											<li><a href="http://tk.feiliu.com/web/news/20150424022202.shtml"><span class="subjiao"></span>[活动]《战地坦克》 大量高价坦克来袭！游戏多独家发放！</a><span class="date">04-24</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150403052919.shtml"><span class="subjiao"></span>[活动]清明复活节社区活动</a><span class="date">04-03</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150324064849.shtml"><span class="subjiao"></span>[活动]《战地坦克》活动介绍</a><span class="date">03-24</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150324064228.shtml"><span class="subjiao"></span>[活动]《战地坦克》新服火爆开启</a><span class="date">03-24</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150212063652.shtml"><span class="subjiao"></span>[活动]喜气“羊羊”过大年</a><span class="date">02-12</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150210033138.shtml"><span class="subjiao"></span>[活动]《战地坦克》活动介绍</a><span class="date">02-10</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150203124623.shtml"><span class="subjiao"></span>[活动]《战地坦克》活动介绍</a><span class="date">02-03</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150120070019.shtml"><span class="subjiao"></span>[活动]《战地坦克》活动介绍</a><span class="date">01-20</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150115061013.shtml"><span class="subjiao"></span>[活动]《战地坦克》活动介绍</a><span class="date">01-15</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20150109035156.shtml"><span class="subjiao"></span>[活动]坦克嘉年华</a><span class="date">01-09</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141231070012.shtml"><span class="subjiao"></span>[活动]元旦盛大回馈</a><span class="date">12-31</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141224054147.shtml"><span class="subjiao"></span>[活动]《战地坦克》圣诞节狂欢活动</a><span class="date">12-24</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141202062808.shtml"><span class="subjiao"></span>[活动]狂怒之狮</a><span class="date">12-02</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141128063251.shtml"><span class="subjiao"></span>[活动]   百万钢铁军团混战 《战地坦克》跨服战二期跨服战火爆来袭</a><span class="date">11-28</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20141126071637.shtml"><span class="subjiao"></span>[活动]‘鸡’动部队</a><span class="date">11-26</span></li>
+																		<li><a href="http://tk.feiliu.com/web/news/20140313065749.shtml"><span class="subjiao"></span>[活动]《坦克风云》开启内测 六大活动助你称霸世界</a><span class="date">03-13</span></li>
+																										</ul>
+						  	</div>
+						</div>
+						<div class="top005" id="_show5">
+						 	<ul class="subbuttonbg">
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(1);">全部</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(2);">新闻</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(3);">公告</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(4);">活动</a></li>
+								<li class="li01"><a href="javascript:void(0);" >攻略</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(6);">新手指南</a></li>
+						  	</ul>
+						  	<div class="subnews01">
+								<ul>
+																	</ul>
+						  	</div>
+						</div>
+						<div class="top006" id="_show6">
+							<ul class="subbuttonbg">
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(1);">全部</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(2);">新闻</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(3);">公告</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(4);">活动</a></li>
+								<li class="li02"><a href="javascript:void(0);" onMouseMove="__show(5);">攻略</a></li>
+								<li class="li01"><a href="javascript:void(0);" >新手指南</a></li>
+							</ul>
+						  	<div class="subnews01">
+								<ul>
+																	</ul>
+						  	</div>
+						</div>
+					</div>
+				</div>
+			</div>			
+		</div>
+
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>
+
+<script>
+	var param = new Object();
+	param = getArgs();
+
+	var n = parseInt(param.a);
+	$('#_show1,#_show2,#_show3,#_show4,#_show5,#_show6').hide();
+	if (n>=1 && n<=6)
+	{
+		$('#_show' + n).show();
+	} else {
+		$('#_show1').show();
+	}
+
+	function getArgs()
+	{
+		var argsArr = new Object();
+		var query = window.location.search;  
+		query = query.substring(1);
+		var pairs = query.split("&");
+		for(var i=0;i<pairs.length;i++)
+	    {
+			var sign = pairs[i].indexOf("="); 
+			if(sign == -1)
+			{
+				continue; 
+			}
+			var aKey = pairs[i].substring(0,sign);
+			var aValue = pairs[i].substring(sign+1);       	 
+			argsArr[aKey] = unescape(aValue);
+
+		}
+		return argsArr;
+	}
+</script>

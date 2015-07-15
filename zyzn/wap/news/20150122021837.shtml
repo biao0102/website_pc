@@ -1,0 +1,71 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">众妖版本前瞻之#宠物养成#</div>
+			<div class="news-con">
+				<span style="word-wrap:break-word;"><span style="word-wrap:break-word;">为了使大家更好地体验游戏，我们将优化版本，对多个系统进行优化和增加新的玩法，那么接下来我来带大家来看看新版本宠物方面的内容吧~</span></span><br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;"><span style="word-wrap:break-word;">面对宠物大家会有很多话想说，“</span></span><span style="word-wrap:break-word;"><span style="word-wrap:break-word;"><span style="word-wrap:break-word;">我想带多个宠物出战！”“宠物太少啦！”</span></span></span><span style="word-wrap:break-word;"><ignore_js_op style="word-wrap:break-word;"><img id="aimg_66518" aid="66518" src="http://bbsimage.8783.com/data/attachment/forum/201501/22/120935scddddq05adv0nza.png" zoomfile="http://bbsimage.8783.com/data/attachment/forum/201501/22/120935scddddq05adv0nza.png" file="http://bbsimage.8783.com/data/attachment/forum/201501/22/120935scddddq05adv0nza.png" class="zoom" width="373" inpost="1" initialized="true" style="word-wrap:break-word;cursor:pointer;" />&nbsp;</ignore_js_op><br style="word-wrap:break-word;" />
+</span>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;">
+	<span style="word-wrap:break-word;">在宠物养成方面我们初步想：</span>
+</p>
+<br style="word-wrap:break-word;" />
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;">
+	<span style="word-wrap:break-word;">1.参战的宠物提高至：2（可同时参战）</span>
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;">
+	<span style="word-wrap:break-word;">2.增加<span style="word-wrap:break-word;">宠物守护</span>功能</span>
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;">
+	<span style="word-wrap:break-word;">&nbsp; &nbsp;&nbsp;&nbsp;2.1.宠物只能在参战和守护2选1，增加玩家对宠物属性的需求，<span style="word-wrap:break-word;">可选性增强了哦</span></span>
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;">
+	<span style="word-wrap:break-word;">&nbsp; &nbsp;&nbsp;&nbsp;2.2.守护后宠物的属性可加成给主角（2个宠物可守护）</span>
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;">
+	<span style="word-wrap:break-word;">&nbsp; &nbsp;&nbsp;&nbsp;2.3.守护后主角在战斗中可使用宠物附带的主动技能，<span style="word-wrap:break-word;">玩法多多哈</span></span>
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;">
+	<span style="word-wrap:break-word;">3.增加宠物进化功能（宠物由绿进化到蓝…紫..橙）提高玩家对宠物深度的需求</span>
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;">
+	<span style="word-wrap:break-word;">4.增加宠物专有技（不同宠物专有技不同）提高玩家对多种类宠物需求，</span>
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;">
+	<span style="word-wrap:break-word;">4.1.专有技:提高主角、所有宠物属性，不同专有技提升的属性不同</span>
+</p>
+<br style="word-wrap:break-word;" />
+<span style="word-wrap:break-word;"><span style="word-wrap:break-word;">。。。。<br />
+<span style="word-wrap:break-word;"><span style="word-wrap:break-word;">&nbsp; &nbsp; 未完待续。。。。。（宠物其他方面等待揭晓）</span></span></span></span>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

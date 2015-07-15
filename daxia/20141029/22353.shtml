@@ -1,0 +1,817 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>装备介绍_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">游戏攻略</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">装备介绍</div>
+              <p><h1 align="center" style="text-align:center;">
+	装备介绍：<span></span>
+</h1>
+<table class="MsoNormalTable ke-zeroborder" border="0" cellspacing="0" cellpadding="0" width="636" style="width:477.1pt;">
+	<tbody>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span style="background:yellow;">武器<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span style="background:yellow;">品质<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span style="background:yellow;">介绍<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >竹叶剑<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >白色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >轻盈灵巧，适合初入江湖的侠客所用。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#CCFFCC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >钢骨扇<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >绿色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >以纯钢打造扇骨，以铁片为扇面，打斗中时张时收，颇为潇洒如意。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#CCFFCC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >银狐刀<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >绿色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >刀身细长而呈半月弯形，以青钢中熔以白银打造，通体雪白。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#99CCFF;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >淑女剑<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >蓝色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >与君子剑为一对，如果放的距离较近，双剑会自动吸在一起。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#99CCFF;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >君子剑<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >蓝色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >与淑女剑为一对，如果放的距离较近，双剑会自动吸在一起。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#99CCFF;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >青铜龙杖<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >蓝色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >古朴沉实的青铜柺杖，顶部触手之处是一点睛龙头，昭示着主人的身份和权威。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >红丝秀针<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >东方教主的独门武器。原本只是女红之物，然而在高手手中却可杀人于无形。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >金铃索<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >古墓派龙姑娘独门武器，叮铃作响，清脆悦耳。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >神木王鼎<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >鼎身六尺，深黄颜色，纹理之中略显朱红，星宿派三宝之一。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >灵蛇杖<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >杖头雕着个咧嘴而笑的人头，两条剧毒灵蛇盘踞在空洞的眼眶中吞吐伸缩，伤敌于无形。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >屠龙刀<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >屠龙一出，九州震动，号令天下，莫敢不从。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >倚天剑<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >倚天一出，谁与争锋，神兵在手，天下我有。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >打狗棒<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >历任丐帮帮主信物，此棍一出，震慑宵小。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >玄铁重剑<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >相传为一代剑圣独孤求败之遗物，天外陨铁铸造，重剑无锋，大巧不工。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >弄玉箫<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >相传为秦穆公爱女弄玉之物，长二尺一寸，通身晶莹，在阳光照射下，呈现赤红。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >春雷遗音<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >连珠式琴，形饱满，黑漆面，具细密流水断。由唐至宋，诸琴之冠，天地间尤物也。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span style="background:yellow;">防具<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span style="background:yellow;">品质<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span style="background:yellow;">介绍<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >风雨裳<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >白色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >朴实耐用，价格低廉，多为初入江湖的侠客所用。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#CCFFCC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >喋血衣<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >绿色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >赤红如血，虽薄如蝉翼，但也夹杂着浓烈的视死如归之大气。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#CCFFCC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >天狼衣<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >绿色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >以上好的狼皮为底料，中间夹有一层薄薄的铜片，可抵御外家掌力和刀剑伤害。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#99CCFF;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >逐鹿袍<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >蓝色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >上乘的苏锦蜀绣，华贵异常，胸前有一黑色巨蟒，象征着化龙飞天。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#99CCFF;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >索银裳<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >蓝色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >通身以银线纺织而已，宽大孱薄，凌光耀耀，烈日下，敌人无法睁眼。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >无极袍<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >东晋张道陵遗物，历来被奉为道家秘宝，相传有神魔之力，但究竟如何，不为人知。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >千桃结衣<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >三百年桃木之根茎抽丝制成，周身散发着淡淡清香，水火不侵，刀剑无损。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >软猬甲<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >细密锁甲上布满倒刺，不但可抵御刀剑伤害，还能对对方造成伤害。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span style="background:yellow;">头饰<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span style="background:yellow;">品质<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span style="background:yellow;">介绍<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >侠少头巾<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >白色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >初出茅庐的江湖后生随身装束，物美价廉。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#CCFFCC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >飞云冠<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >绿色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >上好的皮革精细打磨，再拼接缝制，冠的两端上凸下凹，形朴耐实。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#CCFFCC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >青箬笠<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >绿色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >用柳枝、牵牛藤类编制而成的斗笠，低调洒脱，颇受高人隐士喜爱。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#99CCFF;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >赤蟒束带<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >蓝色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >墨黑描金的束带上纹着朱红巨蟒，相传为吴越王钱繆遗物，佩戴者如战神附身，威不可挡。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#99CCFF;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >琼莲面纱<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >蓝色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >唐时公孙氏游天山黑水湖，采清莲千叶抽茎剥丝，重重厚叠制成面纱，水火难侵，风雷不薄。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >玄冰簪<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >相传西晋名姬绿珠，妖不输妲己，媚不亚褒姒，石崇为博美人笑，万金求购玄冰簪。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >昊天带<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >天分九野，西金为昊，昊天带生存不详，然而自南北朝面世，百年来为武林瑰宝。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >无常笠<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >似金非金，似木非木，炙阳时黑，夜月时白。笠身底下刻有秦时小篆：五行轮转，周而不穷。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span style="background:yellow;">饰品<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span style="background:yellow;">品质<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span style="background:yellow;">介绍<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >青竹指环<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >白色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >乃湘妃竹中最坚硬圆润的一节制成，青翠欲滴。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#CCFFCC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >蛇眼指环<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >绿色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >青玉指环上镶嵌着一颗类于蛇眼般的宝石，颇显灵动。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#CCFFCC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >鸳鸯宝佩<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >绿色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >朱红翡翠细心打磨的一对鸳鸯环佩，一公一母，多为情人之间定情信物。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#99CCFF;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >圣火令<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >蓝色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >形如短剑的漆黑玄铁牌，乃波斯圣火教令旗，相传其中蕴含神秘武功。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#99CCFF;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >五岳令旗<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >蓝色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >相传为五岳剑派盟主令旗，五岳剑派中人，见旗如见盟主亲临。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >掌门玉斑指<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >难得一见的蓝田黑玉制成，通身黝黑，没有丝毫瑕疵，为逍遥派掌门信物。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >黑木令<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >此物乃黑木崖日月神教圣物，见此物如见教主。<span></span></span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="81" style="border:solid windowtext 1.0pt;background:#FF99CC;">
+				<p class="MsoNormal" align="center" style="text-align:center;">
+					<span >慈航念珠<span></span></span>
+				</p>
+			</td>
+			<td width="56" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >紫色<span></span></span>
+				</p>
+			</td>
+			<td width="499" style="border:solid windowtext 1.0pt;">
+				<p class="MsoNormal" align="left">
+					<span >此物乃佛门历代高僧坐化凝结的金刚舍利，三十三颗串连而成，故而大慈大勇，有如神助。<span></span></span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

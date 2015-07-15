@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《战地坦克》二战名将录：美国五星空军上将阿诺德</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-07-24</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              7月25日对各位军事迷来说有着特殊的意义，今天正是美国五星空军上将亨利·哈里·阿诺德的生日，快跟随《战地坦克》一起感受下他开创的划时代战术吧！《战地坦克》是由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团策略手游，一经推出就受到了许多军事玩家的喜爱！<br />
+<br />
+<br />
+《战地坦克》游戏官网：tk.feiliu.com<br />
+《战地坦克》ios版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8<br />
+<br /><img src="http://i0.feiliu.com/image/20140724/20140724122922_32062.jpg" alt="" /><br />
+<br />
+<br />
+【现代空军之父和他的战争思路】<br />
+<br />
+<br />
+亨利·哈利·阿诺德（Henry Harley Arnold，1886〜1950），1886年7月25日出生在美国宾夕法尼亚州的格拉德怀尼，第二次世界大战时期历任美国陆军航空兵司令、主管航空兵事务的陆军副参谋长、陆军航空队司令等职，空军五星上将，被称为“美国现代空军之父”。<br />
+<br /><img src="http://i0.feiliu.com/image/20140724/20140724122952_38897.jpg" alt="" /><br />
+阿诺德最划时代的战争思路正是战争立体化。空军可以大规模地袭击敌人的地面部队和水面舰艇，可以深入敌人的战略后方，破坏敌人的后方补给、工业经济、交通枢纽、甚至人口密集的中心城市，从整体上摧毁敌人的抵抗意志。因此，根本无须入侵和占领敌国的领土，仅用空军就可以迫使敌人投降，从而结束战争——即现在大家所熟知的"战略轰炸"，具有战略意义的飞机轰炸作战。<br /><img src="http://i0.feiliu.com/image/20140724/20140724123020_83908.jpg" alt="" /><br />
+【陆地轰炸机对敌全面蹂躏】<br />
+不要以为“战略轰炸”跟《战地坦克》挨不上边哦，作为一名指挥官要具备触类旁通的战场随机应变的能力。我们虽然没有无坚不摧的空中堡垒，但不要忘了，自行火炮、火箭车这两种同样擅长火力覆盖的战车无论是作战效果还是对敌人的威慑能力，都不亚于阿诺德上将手中的战略轰炸机。<br /><img src="http://i0.feiliu.com/image/20140724/20140724123056_13755.jpg" alt="" /><br />
+《战地坦克》中自行火炮、火箭车担任着令对手迅速减员、大幅度削减敌人火力的战略任务，无论是精准的火炮打击，还是无死角的火力覆盖，都能让对手在正面交火前受到物理与心理上的双重打击，为主战坦克撕裂阵地、歼击车猎杀目标提供充分的战略支援。<br /><img src="http://i0.feiliu.com/image/20140724/20140724123124_83683.jpg" alt="" /><br />
+正如阿诺德上将的战略理念一样，自行火炮、火箭车虽然战略作用无可比拟，但要想取得战争的胜利还是要与其他兵种配合作战才能发挥真正的实力。《战地坦克》中你同样需要协同指挥旗下种类功能各异的战车部队，相互配合发挥出军团真正的作战能力。游戏中只有近战、远程、单体、群体类战车多样搭配，才能真正在战场上叱咤风云。<br /><img src="http://i0.feiliu.com/image/20140724/20140724123159_39968.jpg" alt="" /><br />
+真实再现世界经典坦克，策略战术演绎装甲军团战争艺术，攻城略地抢夺资源称霸战场，首款坦克军团策略手游《战地坦克》火爆测试中，坦克大战，一触即发，钢铁雄狮引擎已经发动，只等各位指挥官下达出击指令！
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地,攻城掠地官网,攻城掠地攻略，三国网页游戏" />
+    <meta name="description" content="《攻城掠地》是飞流旗下一款强调国战的战争策略网页游戏。实景还原三国战图，开创24小时全景即时国战！文臣武将云集，打破“重武轻文”的桎梏。内政、军师、计策等系统演绎文官本色！其次，新颖的掩杀式战斗模式、战术、皇城官职战等特色玩法，足以让你尽享开疆扩土、统一天下的激情！" />
+      <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+      <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>攻城掠地官方网站--新闻页</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=26" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+                                <div class="news_head">
+                                    <ul class="news_tab">
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_gg.shtml">公告</a></li>
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_news.shtml" class="current">新闻</a></li>
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_rd.shtml">热点</a></li>
+                                        <li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_hd.shtml">活动</a></li>
+                                    </ul>
+                                    <p>所在位置： <a href="http://gc.feiliu.com/">首页</a> >> 新闻</p>
+                                </div>
+                                <div class="news_content">
+                                    <div class="news_redian"><a href="http://gc.feiliu.com/20150522/23608.shtml">原点！《攻城掠地》手游一周年庆典活动圆满结束</a></div>
+                                    <ul class="news_list">
+											
+										  
+												<li><a href="http://gc.feiliu.com/20141107/22416.shtml" target="_blank">【新闻】谁是你的林志玲？《攻城掠地》美女客服全员出镜</a><span>2014-11-07</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20141013/22181.shtml" target="_blank">【新闻】龙脉降临！《攻城掠地》手游新版本强势来袭</a><span>2014-10-13</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140925/22078.shtml" target="_blank">【新闻】傲视群雄！《攻城掠地》手游版跨服争霸赛火热开启</a><span>2014-09-25</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140923/22027.shtml" target="_blank">【新闻】新武将、新副本！《攻城掠地》手游新版本来袭</a><span>2014-09-23</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140922/22017.shtml" target="_blank">【新闻】130级解禁！《攻城掠地》手游版2.0新玩法介绍</a><span>2014-09-22</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140910/21903.shtml" target="_blank">【新闻】新浪《攻城掠地》礼包发放！</a><span>2014-09-10</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140821/21705.shtml" target="_blank">【新闻】跨服国战双倍经验！《攻城掠地》新版本即将上线</a><span>2014-08-21</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140820/21701.shtml" target="_blank">【新闻】刘备入蜀！《攻城掠地》手游版全新副本曝光</a><span>2014-08-20</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140811/21616.shtml" target="_blank">【新闻】《攻城掠地》手游玩家COS蜡笔小新自制放屁炮</a><span>2014-08-11</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140804/21533.shtml" target="_blank">【新闻】暗黑3国服没法玩！《攻城掠地》玩家炮轰和谐号</a><span>2014-08-04</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140723/21421.shtml" target="_blank">【新闻】调教鞭笞更爽快！《攻城掠地》1.9版更新内容曝光</a><span>2014-07-23</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140716/21354.shtml" target="_blank">【新闻】腥气扑鼻！《攻城掠地》手游玩家参加西红柿大战</a><span>2014-07-16</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140715/21337.shtml" target="_blank">【新闻】小心中暑！待业男通宵玩《攻城掠地》手游致虚脱</a><span>2014-07-15</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140624/21145.shtml" target="_blank">【新闻】真男人的享受！玩《攻城掠地》手游看巴西世界杯</a><span>2014-06-24</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140617/21090.shtml" target="_blank">【新闻】足球三国志！《攻城掠地》球迷玩家评三大球队</a><span>2014-06-17</span></li>
+										  
+												<li><a href="http://gc.feiliu.com/20140529/20922.shtml" target="_blank">【新闻】小伙约攻城掠地手游女友见面 发现是人妖大打出手</a><span>2014-05-29</span></li>
+										                                    </ul>
+									<div class="paging" id="paging"></div>
+                                </div>
+                            </div>
+                            <!--攻城掠地首页底部精美画面模板start-->
+								<!--#include virtual="/list/index_gcld_pic.shtml"-->
+							<!--攻城掠地首页底部精美画面模板end-->
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount = 6 
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

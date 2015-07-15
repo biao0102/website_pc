@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">铁血对战！《战地坦克》PVP竞技场功能上线</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-07-17</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              也许你还沉浸在世界杯的回忆之中，但《战地坦克》提醒你是时候回归更加紧张激烈的铁血战场了。由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团策略手游《战地坦克》震撼来袭！《战地坦克》竞技场PVP赛事已全面开启，快来挑战各式各样的指挥官，赢取丰厚奖励吧！《战地坦克》让你率领坦克军团称霸战场，打造专属自己的钢铁帝国。<br />
+<br />
+《战地坦克》游戏官网：tk.feiliu.com<br />
+《战地坦克》ios版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8<br /><img src="http://i0.feiliu.com/image/20140717/20140717102510_71074.jpg" alt="" /><br />
+<br />
+<br />
+【竞技场军事演习全面开启】<br />
+<span ><br />
+暑期已至想好干点什么刺激的事情了吗？《战地坦克》为毫无头绪的你准备好了光彩炫目的表演舞台，全民军事演习PVP大竞技现已开启！每位等级达到10的指挥官都可以加入到火爆刺激的PVP战场，挑战世界各地的玩家，赢取丰厚奖励，更能在世界排名榜上看到自己骄傲的战绩！<br /><img src="http://i0.feiliu.com/image/20140717/20140717102559_37668.jpg" alt="" /><br /><img src="http://i0.feiliu.com/image/20140717/20140717102700_46299.jpg" alt="" /><br />
+参加全民竞技场非常简单，甚至毫无任何花费就能随时随地参与到这场宏大赛事之中——每天玩家都将有5次免费挑战的机会，基于服务器后台数据《战地坦克》会高精准的匹配实力相同的对手，你要做的就是通过排兵布阵以及战车种类的选择，用策略战胜对手。获胜的玩家不仅将获得包括海量资源、改装道具等奖励之外，丰功伟绩更会在全世界进行通报炫耀，让所有人都知道你的厉害！<br /><img src="http://i0.feiliu.com/image/20140717/20140717102716_23691.jpg" alt="" /><br />
+【军团战全面升级】<br />
+<br />
+<br />
+除了各人挑战的竞技场，《战地坦克》备受玩家喜爱的军团战更带来多重惊喜升级。首先是每日团战时间调整为20点及22点，便于全体团员能够及时出战。此外更调整了战场buff，让你的产量更高，战斗节奏更快。此外还有包括对战场倒计时、军团引导、提示优化、阵型保存等诸多方面的增加及改进，目的只有一个，那就是让你能够打得过瘾战个痛快！<br /><img src="http://i0.feiliu.com/image/20140717/20140717102751_48689.jpg" alt="" /><br />
+<br />
+<br />
+真实再现世界经典坦克，策略战术演绎装甲军团战争艺术，攻城略地抢夺资源称霸战场，首款坦克军团策略手游《战地坦克》火爆测试中，坦克大战，一触即发，钢铁雄狮引擎已经发动，只等各位指挥官下达出击指令！<br />
+<br />
+<br />
+</span><br />
+<br />
+<br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

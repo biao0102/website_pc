@@ -1,0 +1,148 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head> 
+	<meta charset="UTF-8">
+	<title>龙骑战歌_首页</title> 
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="keywords">
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="description">
+	<meta name="format-detection" content="telephone=no"/>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/lqzg/notice/css/style.css?v=5">
+</head>
+<body>
+<div class="wrap">
+	 	<div class="left">
+		<a class="logo" href="javascript:void(0);" title="龙骑战歌"><img src="http://js.feiliu.com/static/lqzg/notice/images/logo.jpg" alt=""></a>
+		<!-- 	
+			<a href="http://lqzg.feiliu.com" class="shouye " title="龙骑战歌首页">
+					<span class="shouye-btn"></span>
+			</a> 
+		-->
+		<div class="zhiye " title="龙骑战歌人物职业">
+			<a href="http://lqzg.feiliu.com/list/notice.shtml"><span class="zhiye-btn"></span></a>
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/hero01.shtml" class="">圣武士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero02.shtml" class="">狂战士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero03.shtml" class="">刺客</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero04.shtml" class="">法师</a></p>
+			</div>
+		</div>
+
+		<div class="tese " title="龙骑战歌特色">
+			<a href="javascript:alert('敬请期待！');"><span class="tese-btn"></span></a>
+		<!-- 			
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/tese01.shtml">成长</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese02.shtml">空间</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese03.shtml">操控</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese04.shtml">生命</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese05.shtml">战法</a></p>
+			</div> 
+		-->
+		</div> 
+		<div class="gift" id="focus" href="javascript:void(0);">
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185352.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415184358.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185257.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://gwadmin.feiliu.com/static/js/ueditor/themes/default/images/spacer.gif" alt=""></a>
+							<a class="disN" href="http://lqzg.feiliu.com/news/20150416185926.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150416185923.jpg" alt=""></a>
+						<div class="focus-tab-bg">
+				<span class="focus-tab focus-tab-curr"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+			</div>
+		</div>
+		<!-- <a class="download op" href="http://lqzg.feiliu.com" title="龙骑战歌官网"></a> -->
+		<a class="enter op" href="javascript:alert('敬请期待！');" title="龙骑战歌下载"></a>
+		<div class="code" title="扫描二维码下载">
+			<h4>扫描二维码 下载游戏</h4>
+			<span><img src="http://js.feiliu.com/static/lqzg/notice/images/lqzg_qrcode.png?v=1" style="height:152px;width:152px;margin:10px auto 0;"></span>
+		</div>
+<!-- 		
+		<div class="share">
+			<a class="weixin op" href=""></a>
+			<a class="weibo op" href=""></a>
+		</div> 
+-->
+	</div>
+	<div class="right">
+		<div class="news-bg">
+			<div class="news-map">新闻公告<span>news</span></div>
+			<div class="list-wrap">
+				<h2><a href="javascript:void(0);">《龙骑战歌》种族猜想：人兽大战到底有木有？</a></h2>
+				<div class="news-info">
+					<span class="news-publish">发布于 2015-04-16</span>
+					<!-- <span class="news-share">分享到：</span> -->
+				</div>
+				<div class="content">
+					<p>时下备受期待的手游巨作《龙骑战歌》的神秘资料持续揭露真容，从剧情到职业，从坐骑到召唤兽，不断曝光的信息为我们揭开了一个精彩纷呈的游戏世界。在这个世界中，我们可以游览宏大的世界，领略无处不在的精彩；可以化身龙骑士，骑乘巨龙翱翔天际，体验立体化战斗的激情和畅快。虽然我们对这个世界已经了解很多，但生活在这个世界的生物是什么样的？会不会又是一番人兽两大种族之间的战争呢？现在，让我们一共对《龙骑战歌》游戏中的种族进行猜想，期待他们露出真容吧！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416192310.jpg" title="20150416192310.jpg" alt="图1：《龙骑战歌》开创骑乘战斗新纪元.jpg"/></p><p><br/></p><p>【职业全面曝光 四大种族现世】</p><p><br/></p><p>&nbsp; 自《龙骑战歌》官方网站与百科资料显示，游戏中将开放狂战士、圣武士、法师、刺客四大职业，涵盖了RPG游戏所有的经典职业。这四大职业分别对应的种族为矮人、人类、阳光精灵、兽人，并且这些种族和职业都同属于同一阵营——黎民公会。他们将成为玩家的化身，在无比宏大的游戏世界中开启对抗灰烬神教的冒险历程。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416192316.jpg" title="20150416192316.jpg" alt="图2：《龙骑战歌》四大职业.jpg"/></p><p><br/></p><p>【邪恶阵营灰烬神教种族猜想 恶魔亡灵为主】</p><p><br/></p><p>&nbsp; 灰烬神教作为《龙骑战歌》中的邪恶阵营，从剧情提要中它以复活魔王为己任可以推断，灰烬神教主要的种族便是恶魔和亡灵。这两大种族曾在远古时期对大陆进行了长时间的摧残，虽然先后被女神琳妮茵和其留下的圣骑所封印，但他们绝对会在大陆上留下种子，来复活魔王，完成自己占领世界的邪恶目标。当然，为了便于在大陆上行动，也许灰烬神教中会有人类、阳光精灵、兽人、矮人中的背叛者，这也是不可避免的情况。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416192328.jpg" title="20150416192328.jpg" alt="图3：人们想象中的恶魔形象.jpg"/></p><p>【其他种族猜想 黑暗精灵与树人】</p><p><br/></p><p>&nbsp; 既然玩家在游戏中是选择法师这一阳光精灵的种族职业，而不是精灵，那么阳光精灵则必然是精灵族的一大分支。根据关于精灵的设定来推测，《龙骑战歌》中将出现精灵的另一大分支——黑暗精灵，因为职业中未出现这一种族，想必黑暗精灵将以游戏中NPC形象出现，或给予任务或参与战斗。精灵的诞生之地源自世界树，而世界树作为一个活生生的强大生灵，必然会拥有相对于它来说的较弱种族——树人。当然，在所有传说中都以和平著称的树人在游戏中应该不会直接参与战斗，而是以任务使者的身份出现，为玩家发放很多对自身成长有所助益的物品。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416192337.jpg" title="20150416192337.jpg" alt="图4：魔兽中的暗精灵.jpg"/></p><p><br/></p><p>&nbsp; 相对于这些在游戏中数量庞大的种族，玩家可以召唤的龙族、战马、猛犸象就不一一赘述了！《龙骑战歌》的剧情和大陆设定极为宏大，所以上述猜测的种族并不一定全面，但是对于我们期望游戏早日开放的玩家来说，游戏中的种族越多就代表着游戏内容越为丰富，也会让我们的游戏体验更加精彩！</p><p><br/></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	 	<div class="news-wrap">
+		<div class="news-tab">
+			最新
+			<div class="newslist">
+				<div class="news-top">最新<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=1">+</a></div>
+				<div class="news-bot">
+										<a href="">《龙骑战歌》种族猜想：人兽大战到<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416192033.shtml">《龙骑战歌》幻兽原画曝光<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416191822.shtml">黑龙宝宝不再是梦想！《龙骑战歌》<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416191635.shtml">《龙骑战歌》特色职业切换系统曝光<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416191251.shtml">巫妖王冰霜巨龙复活？《龙骑战歌》<span>04/16</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			新闻
+			<div class="newslist">
+				<div class="news-top">新闻<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=2">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150415181503.shtml">《龙骑战歌》探秘系列一：墨麟CE<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415181959.shtml">《龙骑战歌》超炫人物壁纸下载<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415182705.shtml">身临其境<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416154149.shtml">《龙骑战歌》BOSS原画曝光<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416155612.shtml">《龙骑战歌》世界四大种族介绍<span>04/16</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			公告
+			<div class="newslist">
+				<div class="news-top">公告<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=3">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150415175240.shtml">《龙骑战歌》探秘系列三：创亿计划<span>04/15</span></a>
+										<a href="">《龙骑战歌》种族猜想：人兽大战到<span>04/16</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			资讯
+			<div class="newslist">
+				<div class="news-top">资讯<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=4">+</a></div>
+				<div class="news-bot">
+										<a href=""><span></span></a>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<p>About.us | Copy right@北京飞流九天科技有限公司</p>
+	<p>爱游戏，爱生活，也爱美女。</p>
+	<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+	<p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+	<p>Love is love!</p>
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/js.js?x=3"></script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

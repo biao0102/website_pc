@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>战地坦克官网</title>
+<meta name="keywords" content="战地坦克,战地坦克官网,战地坦克越狱版下载，战地坦克IOS版下载，战地坦克安卓版下载，战地坦克游戏" />
+<meta name="description" content="战地坦克首款坦克题材SLG手游，这里有辽阔的战场，能够容纳成千上万只装甲集团军在这里纵横拼杀，这里汇聚了古今中外战场上各式威名赫赫的主战坦克，能够让您组建一支前所未有的强大陆战之师，这里集中了最具现代化科学技术与高效装甲部队相结合，能够让您体验到现代化科技战争的无穷魅力，而这一切，只要您动动手指，即可体验弹指间，樯橹灰飞烟灭的快感。" />
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com">首页</a> ><a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">全部</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt02 start -->
+            <div class="infotxt02">
+              <div class="top001" id="_show1">
+                <ul class="buttonbgsub">
+                  <li class="subli01"><a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">全部</a></li>
+                  <li class="subli02"><a href="http://tk.feiliu.com/list/list_tk_news.shtml">新闻</a></li>
+                  <li class="subli02"><a href="http://tk.feiliu.com/list/list_tk_hd.shtml">活动</a></li>
+                  <li class="subli02"><a href="http://tk.feiliu.com/list/list_tk_gg.shtml">公告</a></li>
+                </ul>
+                <div class="subnews01">
+                  <ul>
+                    
+                      
+                      <li><a href="http://tk.feiliu.com/20141120/22521.shtml" target="_blank" title="百万钢铁军团混战 《战地坦克》跨服战火爆来袭">百万钢铁军团混战 《战地坦克》跨服战火爆来袭</a><span class="subdate">[2014-11-20]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140929/22112.shtml" target="_blank" title=" 扬我国威！《战地坦克》首款国产坦克59式参战"> 扬我国威！《战地坦克》首款国产坦克59式参战</a><span class="subdate">[2014-09-29]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140917/21951.shtml" target="_blank" title="钢铁陆战霸王！《战地坦克》全新两款坦克曝光">钢铁陆战霸王！《战地坦克》全新两款坦克曝光</a><span class="subdate">[2014-09-17]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140910/21894.shtml" target="_blank" title="二战经典坦克加盟！《战地坦克》新战车亮相">二战经典坦克加盟！《战地坦克》新战车亮相</a><span class="subdate">[2014-09-10]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140826/21749.shtml" target="_blank" title="新坦克、新任务！《战地坦克》全新版本曝光">新坦克、新任务！《战地坦克》全新版本曝光</a><span class="subdate">[2014-08-26]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140822/21708.shtml" target="_blank" title="T-90领衔！《战地坦克》玩家盘点最牛X主战坦克">T-90领衔！《战地坦克》玩家盘点最牛X主战坦克</a><span class="subdate">[2014-08-22]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140819/21686.shtml" target="_blank" title="关注微信 豪礼送不停">关注微信 豪礼送不停</a><span class="subdate">[2014-08-19]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140814/21647.shtml" target="_blank" title="天时不如地利！《战地坦克》全新地形系统介绍">天时不如地利！《战地坦克》全新地形系统介绍</a><span class="subdate">[2014-08-14]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140812/21621.shtml" target="_blank" title="加加新版火爆上线 解放双手送豪礼">加加新版火爆上线 解放双手送豪礼</a><span class="subdate">[2014-08-12]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140724/21428.shtml" target="_blank" title="《战地坦克》二战名将录：美国五星空军上将阿诺德">《战地坦克》二战名将录：美国五星空军上将阿诺德</a><span class="subdate">[2014-07-24]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140717/21358.shtml" target="_blank" title="铁血对战！《战地坦克》PVP竞技场功能上线">铁血对战！《战地坦克》PVP竞技场功能上线</a><span class="subdate">[2014-07-17]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140710/21293.shtml" target="_blank" title="堪比“罗伯托·卡洛斯”《战地坦克》自行火炮详解">堪比“罗伯托·卡洛斯”《战地坦克》自行火炮详解</a><span class="subdate">[2014-07-10]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140704/21233.shtml" target="_blank" title="男人才懂！球迷热爱《战地坦克》的四大理由">男人才懂！球迷热爱《战地坦克》的四大理由</a><span class="subdate">[2014-07-04]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140626/21159.shtml" target="_blank" title="天启当前锋！《战地坦克》世界杯最强11人阵容">天启当前锋！《战地坦克》世界杯最强11人阵容</a><span class="subdate">[2014-06-26]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140616/21069.shtml" target="_blank" title="天天送好礼！《战地坦克》世界杯活动曝光">天天送好礼！《战地坦克》世界杯活动曝光</a><span class="subdate">[2014-06-16]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140611/21043.shtml" target="_blank" title="《战地坦克》登录App Store 全新军团玩法来袭">《战地坦克》登录App Store 全新军团玩法来袭</a><span class="subdate">[2014-06-11]</span></li>
+                                      </ul>
+                </div>
+                <div class="subpages"><a href="">首页</a> [<a href="">1</a>] [<a href="">2</a>] [<a href="">3</a>] [<a href="">4</a>] [<a href="">5</a>] [<a href="">6</a>] <a href="">末页</a></div>
+              </div>
+            </div>
+            <!--infotxt02 end -->
+          </div>
+          <!--gmcon end -->
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+      <!-- boxx end -->
+    </div>
+  </div>
+</div>
+</body>
+</html>

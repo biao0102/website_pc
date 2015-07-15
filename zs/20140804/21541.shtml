@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">《三国战神》IOS 1.1.6版本8月5日正式启动</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-08-04 16:44:55</span>
+																			</div>
+									<div class="w-d">
+										&nbsp; 特大喜讯，《三国战神》IOS 1.1.6版将于8月05日上午10:00在 PP助手、91助手、同步推、快用、苹果园、XY助手、海马助手、itools8家越狱渠道正式发布。为提高游戏乐趣，此次更新不仅开放了新的玩家等级上限（80级）和2个全新的功能系统（坐骑和战神塔），还对原有的版本进行了全面修订，缩短了游戏的在线时长，让广大玩家玩的更舒心。热血奔腾的战斗场面，纯粹真实的新三国世界，《三国战神》正在掀起一场全新概念的战争娱乐化风潮，一起来看看吧！&nbsp;<br /><img src="http://i0.feiliu.com/image/20140804/20140804181709_75652.jpg" alt="" /><br />
+等级上限<br />
+1.等级上限开放到80级<br />
+a)剧情副本开放72级、75级、78级副本（平定南蛮、黄巾再现、大战豫州），75级副本产出4级进阶符<br />
+b)群英会开放80级精英（司马懿、关羽、周瑜、吕布）<br />
+c)占星系统罗睺位开放（74级）<br />
+d)天书开放新位置（80级）<br />
+<br />
+新功能开放<br />
+1.坐骑系统开放（30级）<br />
+a)坐骑进阶<br />
+&nbsp; &nbsp; &nbsp;i.坐骑分为九阶，分别是黄骠马、乌龙驹、逐风绝影、爪黄飞电、踏雪乌骓、胭脂赤兔、银月霜狼、幽冥魔狼、万里烟云兽<br />
+&nbsp; &nbsp; &nbsp;ii.玩家通过消耗进阶丹进行坐骑进阶，进阶成功后坐骑外观会自动变化，同时增加属性加成。<br />
+b)坐骑培养<br />
+&nbsp; &nbsp; &nbsp;i.玩家可以通过培养增加坐骑属性加成。<br />
+&nbsp; &nbsp; &nbsp;ii.每天玩家拥有一定的免费培养次数，玩家还可以使用元宝培养。<br />
+c)坐骑装备<br />
+&nbsp; &nbsp; &nbsp;i.坐骑装备分为铠甲、鞍具、蹬具、蹄具<br />
+&nbsp; &nbsp; &nbsp;ii.玩家通过消耗汗血晶石强化坐骑装备，强化成功会增加坐骑属性加成。<br />
+d)坐骑进阶丹和汗血晶石在战神塔活动中产出，玩家也可以在商城或快速购买界面中购买。<br />
+e)玩家在战斗过程中无法骑上坐骑，会自动下马。<br />
+<br />
+2.战神塔活动开放（30级）<br />
+a)玩家在战神塔中逐层挑战三国名将，挑战成功后可获得对应的奖励，并通过传送门传送到下一层继续挑战。<br />
+b)玩家可以通过扫荡功能直接获取已经通关的关卡层奖励，并直接挑战下一层。<br />
+c)战神塔活动是坐骑培养材料的产出来源。<br />
+3.切磋功能开放（20级）<br />
+a)玩家可以在新手村、王城、边境地图等点击其他玩家头像，邀请对方切磋，对方同意后则传入切磋地图进行比试。<br />
+<br />
+体验优化<br />
+1.主角属性界面优化<br />
+a)增加详细属性界面，玩家可以查看到各个属性的具体作用。<br />
+2.增加快速购买材料界面和获取材料提示。<br />
+a)玩家材料不足时，点击培养按钮会自动弹出快速购买界面和材料获取来源提示。<br />
+3.自动培养功能<br />
+a)装备强化、战魂升级、坐骑进阶、坐骑装备强化增加自动培养功能，点击后会自动消耗材料进行培养，玩家可以随时点击停止按钮停止培养过程。<br />
+b)占星系统、战魂阵法增加一键培养功能，点击后会直接一键消耗所有材料进行培养。<br />
+4.皇榜任务<br />
+a)皇榜任务增加满星完成功能，玩家点击后可以直接获得最高奖励。<br />
+5.摇钱树<br />
+a)摇钱树增加10连摇功能，玩家可以一键摇钱10次。<br />
+<br />
+战斗优化<br />
+1.血量低于一定比例，角色速度下降。<br />
+2.增加战斗力伤害系数，战斗力高低会影响玩家之间的伤害。<br />
+3.边境PK增加连斩数显示。<br />
+<br />
+活动与功能优化<br />
+1.定时活动开放时间调整<br />
+开放日期<br />
+&nbsp; 	时间	开放活动<br />
+　每天	12:30-13:00	边境BOSS<br />
+　每天	13:10-13:30	群雄逐鹿<br />
+　每天	19:00-19:20	帮会副本<br />
+　每天	19:30-20:00	蛮族入侵<br />
+　每天	20:00-20:20	群雄逐鹿<br />
+&nbsp; 周三/周日	20:30-21:30	帮会领地战<br />
+　每天	22:00~22:30	边境BOSS<br />
+　每天	23:00~23:30	沙场点将<br />
+<br />
+2.活动关闭&amp;活动次数调整<br />
+a)关闭每日活动护送粮草功能，相关产出在其他活动弥补<br />
+b)关闭每日活动血战长坂坡，将奖励合并到千里走单骑<br />
+c)关闭每日活动守卫汉帝，将奖励合并到群英会<br />
+d)关闭每日活动地宫夺宝，将奖励合并到其他活动<br />
+e)调整群英会精英BOSS挑战次数为1次，提高单次奖励。<br />
+<br />
+3.边境BOSS<br />
+a)边境BOSS开放时间调整为中午、晚上各一次。<br />
+b)每次开放3个BOSS同时刷新。<br />
+<br />
+4.剧情副本<br />
+a)增加一键扫荡功能，点击后可以直接将所有军令折算为可扫荡次数，进行连续扫荡。<br />
+b)VIP7以上的玩家使用扫荡功能时，可直接获得奖励，不需要点击结束按钮。<br />
+<br />
+5.装备系统<br />
+a)装备进阶取消进阶几率，每次进阶必定成功<br />
+b)装备强化增加保底祝福值<br />
+<br />
+6.战魂系统<br />
+a)战魂升级<br />
+&nbsp; &nbsp; &nbsp;i.每一级细分为5个等阶，每个等阶升级成功能增加战魂属性加成<br />
+&nbsp; &nbsp; &nbsp;ii.降低战魂升级单次消耗<br />
+b)战魂炼阵<br />
+&nbsp; &nbsp; &nbsp;i.炼阵标签改为阵法标签<br />
+&nbsp; &nbsp; &nbsp;ii.增加自动上阵功能，去掉战魂配置功能，玩家点击自动上阵，则会按照最优规则将副战魂自动分配到对应的阵法位。<br />
+c)战魂兑换<br />
+&nbsp; &nbsp; &nbsp;i.战魂列表增加战魂星级显示<br />
+<br />
+7.天书系统<br />
+a)增加天书仓库，玩家可以将暂时不用的天书放置到天书仓库中<br />
+b)天书增加锁定功能，锁定的天书不可被融合。<br />
+c)天书去掉出售功能。<br />
+d)一键融合规则调整<br />
+&nbsp; &nbsp; &nbsp;i.紫色天书可被融合<br />
+&nbsp; &nbsp; &nbsp;ii.等级大于1级的天书不可被一键融合<br />
+<br />
+8.战魂殿<br />
+a)九州祭魂首抽必得5星战魂令。<br />
+b)九州祭魂增加10连抽功能，10连抽必得4星以上战魂令。<br />
+c)战魂殿抽取战魂动态效果优化。<br />
+<br />
+9.千里走单骑<br />
+a)增加扫荡功能，玩家在每个模式通关后即可使用扫荡功能。<br />
+b)增加千里走单骑中原地复活元宝消耗。<br />
+<br />
+10.竞技场<br />
+a)竞技场增加付费挑战次数，玩家在免费挑战次数用完后，继续点击挑战对象，则会使用付费挑战次数。<br />
+b)竞技场每次刷新挑战对象增加高排名玩家（跟玩家当前名次有关）。<br />
+c)竞技场增加战斗力显示，玩家可以更清晰的查看双方战斗力差距。<br />
+<br />
+11.群雄逐鹿<br />
+a)群雄逐鹿参与奖励增加，根据玩家等级段发放。<br />
+b)群雄逐鹿排行榜增加当前连斩数显示。<br />
+c)群雄逐鹿参战时势力匹配规则优化。<br />
+<br />
+12.帮会系统<br />
+a)帮会成员界面增加累计贡献值、在线状态显示。<br />
+b)帮会领地战界面增加领地战地图快速切换按钮。<br />
+<br />
+13.背包界面<br />
+a)背包界面增加分类标签，玩家可以快速查找对应的道具。<br />
+b)背包界面优化（增加翻页按钮等）<br />
+<br />
+14.在线抽奖<br />
+a)在线抽奖增加元宝抽奖功能，元宝抽奖可以获得双倍奖励。<br />
+<br />
+15.排行榜<br />
+a)排行榜界面优化（前三名玩家独立显示）<br />
+b)增加帮会战斗力排行榜，可以显示同服务器所有帮会的战斗力排名。<br />
+<br />
+16.任务系统<br />
+a)增加主界面任务界面打开快捷按钮<br />
+b)优化任务界面<br />
+<br />
+17.商城<br />
+a)商城界面增加分类标签，玩家可以快速购买对应的道具。<br />
+b)增加商城抢购功能，玩家每天可以去抢购不同的热门道具。<br />
+<br />
+最新修改<br />
+群英会精英副本开放等级调整<br />
+<br />
+精英BOSS &nbsp; &nbsp; &nbsp; 开放等级<br />
+精英张角 &nbsp; &nbsp; &nbsp; &nbsp; 18级（不变）<br />
+精英黄月英 &nbsp; &nbsp; &nbsp; 18级（不变）<br />
+精英孙坚 &nbsp; &nbsp; &nbsp; &nbsp; 18级（不变）<br />
+精英董卓 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;18级（不变）<br />
+精英甘宁 &nbsp; &nbsp; &nbsp; &nbsp; 34级（不变）<br />
+精英孙尚香 &nbsp; &nbsp; &nbsp; 34级（不变）<br />
+精英黄忠 &nbsp; &nbsp; &nbsp; &nbsp; 34级（不变）<br />
+精英郭嘉 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;34级（不变）<br />
+精英太史慈 &nbsp; &nbsp; &nbsp; 39级<br />
+精英夏侯惇 &nbsp; &nbsp; &nbsp; 44级<br />
+精英孙策 &nbsp; &nbsp; &nbsp; &nbsp; 49级<br />
+精英马超 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;54级<br />
+精英许褚 &nbsp; &nbsp; &nbsp; &nbsp; 58级<br />
+精英赵云 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;62级<br />
+精英张飞 &nbsp; &nbsp; &nbsp; &nbsp; 66级<br />
+精英典韦 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;70级<br />
+精英司马懿 &nbsp; &nbsp; &nbsp; 73级<br />
+精英关羽 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;75级<br />
+精英周瑜 &nbsp; &nbsp; &nbsp; &nbsp; 78级<br />
+精英吕布 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;80级<br />
+<br />
+<br />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

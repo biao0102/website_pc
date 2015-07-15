@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Design:Lu; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="魔戒,魔戒官网,至尊魔戒，魔戒越狱版下载，魔戒IOS版下载，魔戒安卓版下载，魔戒游戏" />
+    <meta name="description" content="《魔戒》是一款欧美魔幻题材、带魔戒世界观的即时战斗制手机网游。《魔戒》强大的魔族入侵人类，摧毁我们的家园，伟大的勇士们！拿起手中的长剑，为了守护魔戒，击退魔族而战吧！这是一款MMOARPG真3D酷爽战斗手游。在这里你可以驰骋西方魔幻世界，拯救人类！" />   
+    <title>《魔戒》官方网站_公告列表页</title>
+    <link href="http://js.feiliu.com/static/mojie/style/news.css?v=1" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/mojie/js/jquery1.6.4.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            fnhzmt();
+        });
+
+        function fnhzmt() {
+            var mtbox = $("#hzmt_list");
+            var liwidth = 113;
+            var linum = mtbox.children().length;
+            var i = 0;
+            var timer = null;
+            var time = 20;
+            if (linum >= 8) {
+                mtbox.append(mtbox.html());
+                timer = setInterval(hzmtAnimate, time);
+                mtbox.hover(function () {
+                    clearInterval(timer);
+                    timer = null;
+                }, function () {
+                    timer = setInterval(hzmtAnimate, time);
+                });
+            }
+            function hzmtAnimate() {
+                i = i >= liwidth * linum ? 0 : i + 1;
+                mtbox.css("left", -i + "px");
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <div class="wrap03">
+        <div id="wrap" class="wrap">
+            <div class="wrap02">
+                <div class="content">
+                    <!--魔戒首页头部导航模板start-->
+						<!--#include virtual="/list/index_topnav.shtml"-->
+					<!--魔戒首页头部导航模板end--> 
+                    <img src="http://js.feiliu.com/static/mojie/images/news/img02.jpg" alt="" border="0" />
+                    <img src="http://js.feiliu.com/static/mojie/images/news/img03.jpg" alt="" border="0" />
+                    <div class="main clearfix">			
+						<!--魔戒列表页左侧模板start-->
+							<!--#include virtual="/list/mojie_list_left.shtml"-->
+						<!--魔戒列表页左侧模板end-->
+                        <div class="main_r">
+                            <div class="news_bg01">
+                                <div class="news_bg02">
+                                    <div class="news_title">公告</div>
+                                    <div class="news_content">
+                                        <ul class="news_list">
+											
+												                                        </ul>
+                                        <div class="paging" id="paging"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hzmt">
+                        <div class="hzmtbox">
+                            <!--魔戒首页底部媒体模板start-->
+								<!--#include virtual="/list/index_mojie_mthz.shtml"-->
+							<!--魔戒首页底部媒体模板end--> 
+                        </div>
+                    </div>
+                    <!--魔戒首页底部模板start-->
+						<!--#include virtual="/list/index_bottom.shtml"-->
+					<!--魔戒首页底部模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount = 1 
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

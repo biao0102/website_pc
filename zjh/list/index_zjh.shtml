@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《最江湖》游戏官网</title>
+<meta name="keywords" content="最江湖,最江湖官网,最江湖下载,最江湖礼包,最江湖激活码,最江湖安卓版,最江湖ios版,最江湖越狱版,最江湖概念站,最江湖手游"/ >
+<meta name="description" content=" 《最江湖》将于2014年5月15日拭剑开测，开创武侠微电影新时代！业内首创的微电影式剧情呈现，颠覆传统手游的革新体验，将带你亲临江湖，享受一番快意恩仇，剑指武林的豪迈之感。"/>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css?v=0129a" rel="stylesheet" type="text/css" />
+ <link rel="stylesheet" href="http://js.feiliu.com/static/zjh/web/css/lightbox.css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script>
+function isMobile(args) {
+	var sUserAgent= navigator.userAgent.toLowerCase();
+	var bIsIpad= sUserAgent.match(/ipad/i) == "ipad";
+	var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os";
+	var bIsMidp= sUserAgent.match(/midp/i) == "midp";
+	var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+	var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb";
+	var bIsAndroid= sUserAgent.match(/android/i) == "android";
+	var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce";
+	var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile";
+	if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) 
+	{
+		window.location.href= 'http://zjh.feiliu.com/wap/index.php';
+	}
+}
+isMobile();
+</script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js?v=1"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/script.js"></script>
+<script language="javascript"> 
+function __show(val1){
+	$("#_show1").hide();
+	$("#_show2").hide();
+	$("#_show3").hide();
+	$("#_show4").hide();
+	$("#_show" + val1).show();
+}
+</script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="contain minwidth">
+  <div class="containbg">
+    <div class="con1000">
+      <div class="box">
+        <div class="topcon">
+          <div class="topleft">
+              <!--最江湖首页左侧下载模板start-->
+                <!--#include virtual="/list/index_zjh_down.shtml"-->
+              <!--最江湖首页左侧下载模板end-->
+              <!--最江湖首页左侧视频模板start-->
+                <!--#include virtual="/list/index_zjh_video.shtml"-->
+              <!--最江湖首页左侧视频模板end-->
+              <!--最江湖首页左侧媒体合作模板start-->
+                <!--#include virtual="/list/index_zjh_mthz.shtml"-->
+              <!--最江湖首页左侧媒体合作模板end-->
+          </div>
+
+          <div class="topright">
+              <!--最江湖首页轮播图模板start-->
+                <!--#include virtual="/list/index_zjh_lb.shtml"-->
+              <!--最江湖首页轮播图模板end-->
+              <!--最江湖首页新闻栏目模板start-->
+                <!--#include virtual="/list/index_zjh_col.shtml"-->
+              <!--最江湖首页新闻栏目模板end-->
+            <div class="clear"></div>
+              <!--最江湖首页截图专区模板start-->
+                <!--#include virtual="/list/index_zjh_gl.shtml"-->
+              <!--最江湖首页截图专区模板end-->
+              <!--最江湖首页截图专区模板start-->
+                <!--#include virtual="/list/index_zjh_jt.shtml"-->
+              <!--最江湖首页截图专区模板end-->
+          </div>
+        </div>
+          <!--最江湖公共底部模板start-->
+            <!--#include virtual="/list/index_zjh_foot.shtml"-->
+          <!--最江湖公共底部模板end-->
+        <div class="clear"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript"> 
+		//视频弹窗
+	$('body').on('click','a[rel^=video]',function(){
+		var $img = $(this).find('img');
+		var src = $img.attr('video'),
+			vw = $img.attr('vw'),
+			vh = $img.attr('vh'),
+			ww = document.documentElement.clientWidth,
+			wh = document.documentElement.clientHeight,
+			width,height;
+			console.log(src);
+		if (src) {
+			if (vw/wh >= ww/wh) {
+				width = ww*0.6;
+				height = width*vh/vw;
+			}
+			else{
+				height = wh*0.8;
+				width = height*vw/vh;
+			}
+			$("<div id='videoboxOverlay' class='videoboxOverlay' style='display: block;top:0;position:fixed; left:0;width:100%;height:100%;z-index:10000;'></div><div id='videobox' class='videobox' style='display: block; width:"+ww+"px;height:"+wh+"px;position:fixed;top:"+(wh-height)/2+"px;left:0;z-index:100000'><div class='lb-outerContainer' style='position:relative;width:"+(width+8)+"px;height:"+(height+8)+"px;margin:0 auto;'><a class='lb-close' style='position:absolute;top:-30px;right:0;'></a><div class='lb-container' style='width:"+width+"px;height:"+height+"px;margin:0 auto;'><iframe class='lb-image' src='"+src+"' width="+width+" height="+height+" frameborder=0 allowfullscreen></iframe><div class='lb-loader'></div></div></div></div>").appendTo('body');
+			
+			//$('#lb-outerContainer').animate({width:width,height:height});
+		}
+	})
+	$('body').on("click","a.lb-close",function(){
+		$('#videoboxOverlay,#videobox').hide();
+	});
+	$(".downimg a").hover(function(){
+		$(this).next().show();
+	},function(){
+		$(this).next().hide();
+	});
+	
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">《三国战神》iOS1.4.0国战无双版本更新公告</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-12-12 12:46:07</span>
+																			</div>
+									<div class="w-d">
+										&nbsp; 《三国战神》iOS 1.4.0国战无双版本即将到来，各位主公，你们准备好迎接国战的洗礼了吗？<br />
+一、国家系统<br />
+1.国家系统&amp;声望系统开放条件：在三国使者处加入任意国家<br />
+<br />
+2.声望系统<br />
+a)获取方式：通过皇榜任务,国战,国家任务等获得<br />
+b)声望递减机制：连续三天不上线声望自动扣除30%，以后每一天不上线扣除10%，玩家上线后重新统一<br />
+c)声望排行榜：每天0点和国王换届时会根据本国玩家声望自动刷新声望排行榜，系统会根据声望排行榜自动颁布国家官职<br />
+i.国王不参与声望排行榜排名<br />
+ii.声望为0的玩家不参与声望排行榜排名<br />
+<br />
+3.国家官职<br />
+a)声望排行榜前100玩家获得国家官职，前10名玩家会特别显示在官位情报中以彰显荣耀<br />
+b)官职福利<br />
+i.玩家每天可以领取到官职对应的俸禄<br />
+ii.在国战活动中也可以根据官职领取对应的奖励<br />
+c)官职类型<br /><img src="http://i0.feiliu.com/image/20141212/20141212124447_19793.png" alt="" /><br /><img src="http://i0.feiliu.com/image/20141212/20141212124604_78065.png" alt="" /><br />
+<br />
+4.国王系统<br />
+a)国王选举<br />
+i.选举时间：周五20：00 ~ 周日 20：00<br />
+ii.候选人产生条件：周五0点战斗力排行榜本国玩家前5名<br />
+iii.投票方式：玩家可以进入国王竞选界面（点击国家按钮进入），进行投票<br />
+1.玩家需要选择候选人后进行投票<br />
+2.每天玩家可以选择点赞（普通投票）一次，也可以使用鼎力支持（元宝投票）<br />
+3.每次投票都会获得对应的选举礼包奖励<br />
+b)国王特权（所有特权都在国王特权界面下操作）<br /><img src="http://i0.feiliu.com/image/20141212/20141212125321_36715.png" alt="" /><br />
+i.尊享国王变身<br />
+1.玩家点击国王变身按钮，即可变身为尊享国王造型，再次点击则恢复玩家正常造型<br />
+ii.赏赐国王礼包<br />
+1.国王可以点击派发礼包，给本国玩家派赏国王礼包，每天限派发1次。<br />
+2.国王发送礼包后玩家可以从官职界面中，点击领取礼包<br />
+iii.颁发国家任务<br />
+1.国王可以点击颁布国家任务,所有本国在线玩家获得任务提示,点击可以领取任务，每天限颁布1次。<br />
+2.完成任务后可以获得不菲的奖励（经验、铜钱、声望）。<br />
+iv.颁布边境警戒令<br />
+1.国王可以颁发边境警戒令，对本国所有玩家有效，每天限颁布1次<br />
+2.发布对边境实行警戒后，1小时内在三国边境击杀他国玩家奖励加倍<br />
+v.禁言本国玩家<br />
+1.国王可使用禁言功能，禁止本国玩家在所有频道发言10分钟，每天限禁言3次。<br />
+<br />
+二、国战第一波~水晶守卫战<br />
+1.活动简介<br />
+a)战争双方玩家在国战地图中击毁对方水晶，并成功守卫本国水晶，即可获得国战第一波~水晶守卫战的胜利。&nbsp;<br /><img src="http://i0.feiliu.com/image/20141212/20141212125346_11779.png" alt="" /><br />
+<br />
+2.开放时间<br /><img src="http://i0.feiliu.com/image/20141212/20141212124517_84946.png" alt="" /><br />
+<br />
+3.	进入条件<br />
+a)	处于战争状态的两国玩家，等级≥40级<br />
+b)	双方参与人数：各200人<br />
+<br />
+4.	国战流程&amp;详细规则<br />
+a)	国战流程<br />
+i.	玩家进入国战地图后，可以通过传送门从营地进入战斗区域<br />
+ii.	双方会各有6个完整的箭塔分布在不同的城门附近，击破所有箭塔则可以打开敌方城门，直接攻击水晶。<br />
+iii.	如30分钟后箭塔未被全部击破，城门会自动打开，玩家可以直接攻击水晶。<br />
+b)	胜负判定规则<br />
+i.	成功击毁对方水晶，并守卫本国水晶直到活动结束，判定本方胜利<br />
+ii.	双方水晶都被击毁，则判定平局，并立刻结束活动<br />
+iii.	双方水晶在活动结束时，仍未被击毁，则判定平局<br /><img src="http://i0.feiliu.com/image/20141212/20141212124644_45560.png" alt="" /><br />
+c)	个人积分<br />
+i.	玩家击杀敌方弩车、敌方玩家、击毁水晶都可以获得个人积分<br />
+ii.	个人积分排行榜可以实时查看，获得个人积分前列的玩家会最终享受奖励加成<br />
+d)	备注<br />
+i.	弩车可攻击敌方箭塔，但不可攻击敌方玩家<br />
+ii.	箭塔只能攻击敌方玩家，但不可攻击敌方弩车<br />
+iii.	玩家只能攻击敌方弩车，但不可攻击敌方箭塔<br />
+iv.	玩家可以通过城防面板查看箭塔血量<br />
+<br />
+5.	详细奖励<br />
+a)	胜负奖励：结束后直接发送，参加守卫战的所有玩家根据国家胜负情况获得对应奖励，个人积分榜前20名玩家，会额外获得奖励加成。<br />
+b)	国战福利奖励：参战两国的所有国民都可以在国战结束后，在国战界面领取国战福利。根据国战胜负情况和对应的国家官职来发放具体的奖励，官职越高，奖励越多。<br /><img src="http://i0.feiliu.com/image/20141212/20141212125246_90244.png" alt="" /><br /><img src="http://i0.feiliu.com/image/20141212/20141212124722_60523.png" alt="" /><br />
+<br />
+三、	天降鸿福<br />
+1.	活动开放时间<br /><img src="http://i0.feiliu.com/image/20141212/20141212124527_16472.png" alt="" /><br />
+<br />
+2.	活动内容介绍：<br />
+a)	活动开始前5分钟会出现活动公告提示<br />
+b)	活动开始时，会在特定的地图随机刷新宝箱，玩家可以通过活动推送图标寻路到刷新宝箱所在的地图<br />
+c)	玩家采集宝箱可获得随机奖励（超值白银礼包、超值黄金礼包、超值钻石礼包、铜钱、各种培养材料）<br />
+d)	每次活动开启时间有限，结束后宝箱会自动消失。<br /><img src="http://i0.feiliu.com/image/20141212/20141212124748_94333.png" alt="" /><br />
+<br />
+四、	抵御异族<br />
+1.	活动开放时间<br /><img src="http://i0.feiliu.com/image/20141212/20141212124535_35069.png" alt="" /><br />
+<br />
+2.	活动内容介绍：<br />
+a)	活动开始前5分钟会出现活动公告提示<br />
+b)	活动开始时，会在特定的地图随机刷新异族士兵，玩家可以通过活动推送图标寻路到刷新异族士兵所在的地图<br />
+c)	玩家击杀异族士兵可获得随机奖励（超值白银礼包、超值黄金礼包、超值钻石礼包、铜钱、各种培养材料）<br />
+d)	每次活动开启时间有限，结束后异族士兵会自动消失。<br /><img src="http://i0.feiliu.com/image/20141212/20141212124802_21596.png" alt="" /><br />
+<br />
+五、	时装商城新商品上架（旧商品下架）<br /><img src="http://i0.feiliu.com/image/20141212/20141212124543_84598.png" alt="" /><br /><img src="http://i0.feiliu.com/image/20141212/20141212124920_12543.png" alt="" /><img src="http://i0.feiliu.com/image/20141212/20141212124921_51881.png" alt="" /><img src="http://i0.feiliu.com/image/20141212/20141212124921_75017.png" alt="" /><br /><img src="http://i0.feiliu.com/image/20141212/20141212125007_17017.png" alt="" /><img src="http://i0.feiliu.com/image/20141212/20141212125007_98029.png" alt="" /><img src="http://i0.feiliu.com/image/20141212/20141212125007_85599.png" alt="" /><br />
+<br />
+六、VIP玩家时装礼包赠送<br />
+&nbsp; &nbsp; 达到V7的玩家将会获得V7尊享时装礼包。&nbsp;<br />
+<br />
+七、新战魂和新战魂阵法位开放<br />
+1.战魂新阵法位开放，玩家可携带战魂数量提升为7个<br />
+a)麒麟位开放：71级<br />
+b)凤凰位开放：81级<br /><img src="http://i0.feiliu.com/image/20141212/20141212125039_96692.png" alt="" /><br />
+<br />
+2.新战魂开放（未来会持续开放高阶战魂）<br />
+a)魔•孙尚香（九星）<br />
+b)魔•孙策（九星）<br />
+c)魔•司马懿（九星）<br />
+d)新战魂获取方式：九星魂玉兑换<br /><img src="http://i0.feiliu.com/image/20141212/20141212125109_81733.png" alt="" /><img src="http://i0.feiliu.com/image/20141212/20141212125109_16004.png" alt="" /><img src="http://i0.feiliu.com/image/20141212/20141212125110_22361.png" alt="" /><br />
+<br />
+八、月签到功能开放<br />
+1.月签到功能开放等级：1级<br />
+2.月签到功能内容介绍：<br />
+a)玩家可点击主界面奖励按钮，弹出面板进入月签到界面<br />
+b)每日可领取的奖励为当月实际签到次数的奖励，累计签到次数达到7、14、28次时可获得额外奖励<br />
+c)每月第一天0点重置月签到次数。<br />
+<br />
+BUG修复&amp;功能优化<br />
+1.玩家可查看其它玩家神兵信息<br />
+2.修复祭剑池使用扫荡，次数没有实时更新的问题<br />
+3.修复坐骑培养时，战斗力变低的问题<br />
+<br />
+<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2014.12.12<br />
+<div>
+	<br />
+</div>
+<br />
+<br />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

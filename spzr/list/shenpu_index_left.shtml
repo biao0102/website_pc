@@ -1,0 +1,32 @@
+            <div class="index-main">
+                <div class="herowrap">
+                    <a href="http://spzr.feiliu.com" class="logo"></a>
+                    <!--<img class="img_add" src="http://js.feiliu.com/static/shenpu/webnew/images/img1_add.png" alt="">-->
+                </div>
+                <div class="opening">
+                    <div class="slogen">
+                        <img src="http://js.feiliu.com/static/shenpu/webnew/images/slogen0.png" alt="">
+                        <img src="http://js.feiliu.com/gameimg/spzr/20150326170343.jpg" alt="">
+                    </div>
+                    <div class="download">
+                        <div class="code"><img src="http://js.feiliu.com/static/shenpu/webnew/images/code.png?v=1" alt=""></div>
+                        <div class="system">
+                            <a href="javascript:alert('暂未开启，敬请期待！')" class="ios"><img src="http://js.feiliu.com/static/shenpu/webnew/images/ios.png" alt=""></a>
+                            <a href="javascript:alert('暂未开启，敬请期待！')" id="androida" class="android"><img src="http://js.feiliu.com/static/shenpu/webnew/images/android.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="vediowrap">
+                        <div class="vedio"><div class="circle"></div></div>
+                    </div>
+                    <div class="contact">
+                        <p class="mail">QQ群：397062677</p>
+                        <p class="tel">客服邮箱：800032234@b.qq.com</p>
+                        <p class="qq">客服QQ：800032234</p>
+                    </div>
+                </div>
+                <div class="fixed">
+                    <a href="http://spzr.feiliu.com/20150413/23434.shtml" class="activity"><img src="http://js.feiliu.com/static/shenpu/webnew/images/fix-btn1.png" alt=""></a>
+                    <a href="javascript:alert('暂未开启，敬请期待！')" class="gifts"><img src="http://js.feiliu.com/static/shenpu/webnew/images/fix-btn2.png" alt=""></a>
+                     <!--<div class="flxz"><img src="http://js.feiliu.com/static/activity/sq/qrcode/gw_spzr.png" /><a href="http://game.feiliu.com/youxishequ/index.html?s=C08010000_App_shequ_908010000" class="downfl">下载游戏社区</a></div>-->
+                </div>
+            </div>

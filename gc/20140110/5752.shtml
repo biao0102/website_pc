@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="科技系统_等级到达20级并击败NPC“宋宪“开启科技系统。" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>科技系统 攻城掠地_游戏资料</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+								
+								<div class="news_head news_head_zl">
+                                    <ul class="news_tab">
+                                        <li><a href="http://gc.feiliu.com/list/list_gcld_yxgl.shtml">攻略</a></li>
+                                        <li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_yxzl.shtml" class="current">资料</a></li>
+                                    </ul>
+                                    <p>所在位置： <a href="http://gc.feiliu.com">首页</a> >> 资料</p>
+                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">科技系统</a></div>
+                                    <div class="news_date">发布时间：2014-01-10 12:12:20</div>
+                                    <div class="news_main">
+										【系统开放条件】<br />
+等级到达20级并击败NPC“宋宪“开启科技系统。<br />
+&nbsp;<br />
+【科技作用】<br />
+消耗一定的资源对科技注资，然后花费一定时间对科技进行研究，科技研究完成后生效，对玩家游戏的各个方面产生帮助，如：<br />
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	<span>—</span><span>点兵：增加所有武将1列带兵列数</span> 
+</p>
+<span>—</span>谏言：升级资源区建筑是有可能遇到政务事件<br />
+<span>—</span>香烛祭祀：使用金币祭祀的效果提高100%<br />
+<span>—</span>历练：武将战斗获得的经验增加10%<br />
+<br /><img src="http://i0.8783.com/image/20140110/20140110121206_51151.jpg" alt="" /><br />
+<br />
+击败副本中特定NPC后开启新的科技。击败NPC获得科技介绍：<br />
+<br />
+<table style="width:479.5pt;padding:0pt 5.4pt;">
+	<tbody>
+		<tr>
+			<td width="78" valign="center" style="border:0.5000pt solid #000000;background:#FFFF99;">
+				<p class="p0" style="text-align:center;">
+					<span>出现级别</span><span></span> 
+				</p>
+			</td>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#FFFF99;">
+				<p class="p0">
+					<span>科技名称</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#FFFF99;">
+				<p class="p0">
+					<span>科技效果</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#FFFF99;">
+				<p class="p0">
+					<span>开放条件（需击败）</span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="78" valign="center" rowspan="5" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0" style="text-align:center;">
+					<span>20~30级</span><span></span> 
+				</p>
+			</td>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>日理万机</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>政务中获得的资源翻倍</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>宋宪</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>历练1</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>战斗中武将获得的经验增加50%</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>侯成</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>兵种升级</span><span>1</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>兵种提升为2级，战斗力提升，募兵消耗增加</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>魏续</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>谏言</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>升级建筑时，获得政务事件的概率提升</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>高顺</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>点兵1</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>武将可多点兵3个方阵（多带1排兵）</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>臧霸</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="78" valign="center" rowspan="5" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0" style="text-align:center;">
+					<span>30~40级</span><span></span> 
+				</p>
+			</td>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>统帅力1</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>可多招募一个武将</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>郭图</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>香烛祭祀</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>金币祭祀效果额外提高50%</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>淳于琼</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>强壮</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>武将的攻击、防御、兵力均得到提升</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>沮授</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>赶集1</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>获得该科技后，集市30分钟恢复一次次数</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>田丰</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>仓库建设</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>仓库上限提升20%</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>许攸</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="78" valign="center" rowspan="6" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0" style="text-align:center;">
+					<span>40~50级</span><span></span> 
+				</p>
+			</td>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>英勇</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>武将战法伤害增加10%</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>严颜</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>日理万机</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>处理政务获得的资源增加50%</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>黄权</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>兵种升级2</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>兵种提升为3级，战斗力提升，募兵消耗增加</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>法正</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>挑战1</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>提高击杀榜宝箱数目，同时提高击杀目标</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>庞德</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>点兵2</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>该科技可以增加武将带兵列数1列</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>刘璋</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>五谷丰登1</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>整点奖励有银币变为粮食</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>西蜀军团</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="78" valign="center" rowspan="6" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0" style="text-align:center;">
+					<span>50~60级</span><span></span> 
+				</p>
+			</td>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>杀敌1</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>杀敌榜排名奖励中可以获得镔铁</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>贾诩</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>官运</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>官职产出加成增加镔铁</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>曹仁</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>兵种升级</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>兵种提升为4级，战斗力提升，募兵消耗增加</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>夏侯渊</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>招募</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>增加20%募兵速度</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>夏侯惇</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>挑战2</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>提高击杀榜宝箱数目，同时提高击杀目标</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>张郃</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>自动战术</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>战斗中可以自动选择最优战术</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>曹魏军团</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="78" valign="center" rowspan="6" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0" style="text-align:center;">
+					<span>60~70级</span><span></span> 
+				</p>
+			</td>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>坚韧</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>部队对战法的防御增加5%</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>韩当</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>仓库建设</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>资源上限增加20%</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>程普</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>新增文官位</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>新增一个文官位</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>祖茂</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>挑战3</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>提高击杀榜宝箱数目，同时提高击杀目标</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>凌统</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>统帅力2</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>新增一个武将位</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>小乔</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>集团军</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>可以创建集团军</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>周瑜</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="78" valign="center" rowspan="4" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0" style="text-align:center;">
+					<span>70~80级</span><span></span> 
+				</p>
+			</td>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>亨通</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>黑市单次交易量翻倍</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>韩遂</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>镔铁集市</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>集市出现镔铁资源</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>象群师</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>杀敌2</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>杀敌榜排名奖励中镔铁产出数量提高50%</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>孟获</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>磨砺</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>主将获得的国战经验增加30%</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#E6B8B7;">
+				<p class="p0">
+					<span>庞德</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="78" valign="center" rowspan="3" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0" style="text-align:center;">
+					<span>80~90级</span><span></span> 
+				</p>
+			</td>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>机敏1</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>消耗敌方1V1陷阱次数，且不受任何影响</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>于禁</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>突进强化</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>己方人数大于敌方两倍即可突进</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>张辽</span><span></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="87" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>杀敌3</span><span></span> 
+				</p>
+			</td>
+			<td width="328" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>杀敌榜排名奖励中镔铁产出数量提高50%</span><span></span> 
+				</p>
+			</td>
+			<td width="145" valign="center" style="border:0.5000pt solid #000000;background:#CCFFFF;">
+				<p class="p0">
+					<span>曹操</span><span></span> 
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

@@ -1,0 +1,143 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head> 
+	<meta charset="UTF-8">
+	<title>龙骑战歌_首页</title> 
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="keywords">
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="description">
+	<meta name="format-detection" content="telephone=no"/>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/lqzg/notice/css/style.css?v=9">
+	<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/is_mobile.js"></script>
+</head>
+<body>
+<div class="wrap">
+	 	<div class="left">
+		<a class="logo" href="javascript:void(0);" title="龙骑战歌"><img src="http://js.feiliu.com/static/lqzg/notice/images/logo.jpg" alt=""></a>
+		<!-- 	
+			<a href="http://lqzg.feiliu.com" class="shouye " title="龙骑战歌首页">
+					<span class="shouye-btn"></span>
+			</a> 
+		-->
+		<div class="zhiye " title="龙骑战歌人物职业">
+			<a href="http://lqzg.feiliu.com/list/notice.shtml"><span class="zhiye-btn"></span></a>
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/hero01.shtml" class="">圣武士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero02.shtml" class="">狂战士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero03.shtml" class="">刺客</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero04.shtml" class="">法师</a></p>
+			</div>
+		</div>
+
+		<div class="tese active" title="龙骑战歌特色">
+			<a href="javascript:void(0);"><span class="tese-btn"></span></a>			
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/tese01.shtml" class="">操作</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese02.shtml" class="visite">画面</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese03.shtml" class="">骑战空战</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese04.shtml" class="">剧情</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese05.shtml" class="">两条命</a></p>
+			</div> 
+		</div> 
+		<div class="gift" id="focus" href="javascript:void(0);">
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://gwadmin.feiliu.com/static/js/ueditor/themes/default/images/spacer.gif" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185257.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415184358.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185352.jpg" alt=""></a>
+							<a class="disN" href="http://lqzg.feiliu.com/news/20150416185926.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150416185923.jpg" alt=""></a>
+						<div class="focus-tab-bg">
+				<span class="focus-tab focus-tab-curr"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+			</div>
+		</div>
+		<!-- <a class="download op" href="http://lqzg.feiliu.com" title="龙骑战歌官网"></a> -->
+		<a class="enter op" href="javascript:alert('敬请期待！');" title="龙骑战歌下载"></a>
+		<div class="code" title="扫描二维码下载">
+			<h4>扫码关注游戏最新动态</h4>
+			<span><img src="http://js.feiliu.com/static/lqzg/notice/images/lqzg_qrcode.png?v=1" style="height:152px;width:152px;margin:10px auto 0;"></span>
+		</div>
+<!-- 		
+		<div class="share">
+			<a class="weixin op" href=""></a>
+			<a class="weibo op" href=""></a>
+		</div> 
+-->
+	</div>
+
+	<div class="right">
+		<div class="right-wrap bg2">
+			<h3 class="tese2"></h3>
+			<p>电影级的精美画质，在游戏中体验到身历其境的感觉！</p>
+			<img src="http://js.feiliu.com/static/lqzg/notice/images/tese2_img.png" alt="">
+		</div>
+	</div>
+	 	<div class="news-wrap">
+		<div class="news-tab">
+			最新
+			<div class="newslist">
+				<div class="news-top">最新<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=1">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150416195348.shtml">未来动作手游NEXT定名《龙骑战<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416195118.shtml">神级动作手游对比<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416194911.shtml">《龙骑战歌》先锋体验深圳站<span>04/12</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416194525.shtml">《龙骑战歌》先锋体验北京站将启<span>04/01</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416194339.shtml">轻松90连斩！《龙骑战歌》高清游<span>03/23</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			新闻
+			<div class="newslist">
+				<div class="news-top">新闻<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=2">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150416195348.shtml">未来动作手游NEXT定名《龙骑战<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416195118.shtml">神级动作手游对比<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416194339.shtml">轻松90连斩！《龙骑战歌》高清游<span>03/23</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416194215.shtml">强强联手！《龙骑战歌》再掀201<span>03/18</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416194051.shtml">《龙骑战歌》蛇女曝光<span>03/15</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			公告
+			<div class="newslist">
+				<div class="news-top">公告<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=3">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150416194911.shtml">《龙骑战歌》先锋体验深圳站<span>04/12</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416194525.shtml">《龙骑战歌》先锋体验北京站将启<span>04/01</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416192349.shtml">《龙骑战歌》种族猜想：人兽大战到<span>02/02</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415175240.shtml">《龙骑战歌》探秘系列三：创亿计划<span>08/13</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			资讯
+			<div class="newslist">
+				<div class="news-top">资讯<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=4">+</a></div>
+				<div class="news-bot">
+										<a href=""><span></span></a>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="footer">
+	<p>About.us | Copy right@北京飞流九天科技有限公司</p>
+	<p>爱游戏，爱生活，也爱美女。</p>
+	<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+	<p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+	<p>Love is love!</p>
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/js.js?x=3"></script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

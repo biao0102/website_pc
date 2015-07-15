@@ -1,0 +1,57 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<div id="menu">
+			<a href="http://ttdqy.feiliu.com"><span>官</span>网首页</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_data.shtml"><span>游</span>戏资料站</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_hero.shtml"><span>三</span>国点将谱</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml"><span>群</span>英大事件</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_downpage.shtml"><span>游</span>戏下载</a>
+			<a class="menu-curr" href="http://bbs.8783.com/forum-192-1.html" target="_blank"><span>玩</span>家论坛</a>	
+		</div>
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="news-center">
+			<div class="news-title">
+				<div class="news-title-left">礼包领取</div>
+			</div>
+			<div class="centerwrap">
+				<div class="position">
+					<span>您的位置：</span><a href="">首页</a>—<a href="javascript:void(0);">礼包领取</a>
+				</div>
+				<div id="login">
+					<form action="">
+						<div class="inputwrap">
+							<span>用户名：</span>
+							<input id="name" name="name" type="text">
+						</div>
+						<div class="inputwrap">
+							<span>密码：</span>
+							<input id="password" name="password" type="text">
+						</div>
+						<div class="btnwarp">
+							<input id="submit" class="mr68" type="submit" value="点击登陆">
+							<a id="register" target="black" href="http://bbs.8783.com/member.php?mod=register87">快速注册</a>
+						</div>
+						<div class="forget">
+							<a class="mr68 disN" href="">忘记帐号</a>
+							<a target="black" href="http://bbs.8783.com/member.php?mod=logging&action=login&viewlostpw=1">忘记密码</a>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

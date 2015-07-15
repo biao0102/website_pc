@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>按钮介绍_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">游戏资料</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">按钮介绍</div>
+              <p><p class="MsoTitle">
+	按钮介绍
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	游戏内设置、恩怨等别的功能的按钮集合。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	公告：玩家可在此处查看最新公告，了解每阶段的活动与更新公告等内容。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804163714_18343.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	武林谱：该处为游戏中大侠、装备、心法的综合查看处，玩家可在此处了解到自己所拥有过的大侠、装备、心法。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804163725_83280.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804163733_91204.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804163742_15503.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	包裹：显示玩家已经有的物品。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804163752_37417.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	邮件：系统发给玩家的邮件，并且可以带奖励物品。玩家发送的会显示在留言里。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804163801_94518.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	恩怨：显示好友及仇敌。<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140804/20140804163809_11182.png" alt="" /><img src="http://i0.feiliu.com/image/20140804/20140804163819_60863.png" alt="" />
+</p>
+<p class="MsoNormal">
+	助战：帮助好友助战，可获得友情点，可以进行抽卡。<span></span>
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140804/20140804163830_12184.png" alt="" />
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140804/20140804163841_70265.png" alt="" />
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	战报：会显示进行掠夺的<span></span>
+</p>
+<p class="MsoNormal"><img src="http://i0.feiliu.com/image/20140804/20140804163858_85660.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	设置：可在此处查看新手攻略、关闭游戏内音乐音效、兑换礼包<span>CDKey</span>等。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804163908_17686.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<h3 style="text-indent:21.1pt;">
+	活动
+</h3>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	游戏内各种活动参与的界面。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	游戏内现有的活动有：<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804163929_71229.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	签到：玩家每日登陆游戏都可以在此处领取一次奖励，一共可领<span>30</span>天。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804163950_49712.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	礼包：点击后可转到集市礼包界面。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	VIP：点击后跳转到<span>VI</span>特权界面，方便属于<span>VIP</span>的用户可以随心所欲查看自己的特权。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804164009_37611.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	首充：首充有礼，第一次充值可享受双倍金子返还并且还有超值首充大礼包。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804164019_11555.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	美食：江湖美食，每日<span>12-14</span>时，<span>20-22</span>时，玩家可在此处享用江湖美食，回复体力。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;"><img src="http://i0.feiliu.com/image/20140804/20140804164029_58620.png" alt="" />
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	每日：每日任务，玩家每日完成可固定的任务后可以获得相应的奖励。<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

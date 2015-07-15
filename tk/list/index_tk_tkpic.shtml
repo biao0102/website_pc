@@ -1,0 +1,21 @@
+            <div class="tankcon"> <a href="#" class="more02">more&gt;&gt;</a>
+            <!--战地坦克首页坦克展示模板start-->
+              <!--#include virtual="/list/index_tk_tkzs.shtml"-->
+            <!--战地坦克首页坦克展示模板end-->
+
+            <!--战地坦克首页基地建筑模板start-->
+              <!--#include virtual="/list/index_tk_jdjz.shtml"-->
+            <!--战地坦克首页基地建筑模板end-->
+
+            <!--战地坦克首页资源设施模板start-->
+              <!--#include virtual="/list/index_tk_zyss.shtml"-->
+            <!--战地坦克首页资源设施模板end-->
+
+            <!--战地坦克首页科研技术模板start-->
+              <!--#include virtual="/list/index_tk_kyjs.shtml"-->
+            <!--战地坦克首页科研技术模板end-->
+
+            <!--战地坦克首页增益属性模板start-->
+              <!--#include virtual="/list/index_tk_zysx.shtml"-->
+            <!--战地坦克首页增益属性模板end-->
+            </div>

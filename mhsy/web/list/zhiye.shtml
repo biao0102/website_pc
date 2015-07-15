@@ -1,0 +1,182 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta  name="keywords" content="梦幻神域">
+<meta name="description" content="梦幻神域">
+<title>梦幻神域</title>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/mhsy/web0521/css/css.css">
+</head>
+<body>
+<div class="nav">
+    <div class="wrap pos_r">
+        <div class="logo"><a href="http://mhsy.feiliu.com"></a></div>
+        <div class="nav_top">
+            <a href="http://mhsy.feiliu.com/web/list/index.shtml">首页</a>
+            <a href="http://mhsy.feiliu.com/web/list/newslist.shtml?t=234">最新资讯</a>
+            <a href="http://mhsy.feiliu.com/web/list/newslist.shtml?t=6">游戏资料</a>
+            <a href="http://mhsy.feiliu.com/web/list/zhiye.shtml">职业介绍</a>
+            <a href="http://mhsy.feiliu.com/web/list/picture.shtml">精美壁纸</a>
+            <a href="http://mhsy.feiliu.com/web/list/newslist.shtml?t=7">游戏攻略</a>
+            <a href="javascript:void(0);">游戏论坛</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="bg">
+	<div class="wrap">
+	<div class="top1"></div>
+<div class="top2">
+    <div class="top_d">
+    	<a href="javascript:alert('敬请期待！');"><img src="http://js.feiliu.com/static/mhsy/web0521/images/btn1.jpg" alt="" /></a><a href="javascript:alert('敬请期待！');"><img src="http://js.feiliu.com/static/mhsy/web0521/images/btn2.jpg" alt="" /></a><a href="javascript:alert('敬请期待！');"><img src="http://js.feiliu.com/static/mhsy/web0521/images/btn3.jpg" alt="" /></a>
+    </div>
+</div>
+	</div>
+	<div class="content">
+		<div class="wrap">
+		<div class="subnav">
+    <div class="feature">
+        <a href="javascript:alert('敬请期待！');"><img src="http://js.feiliu.com/static/mhsy/web0521/images/btn4.jpg" alt="" /></a>
+        <a href="javascript:alert('敬请期待！');"><img src="http://js.feiliu.com/static/mhsy/web0521/images/btn5.jpg" alt="" /></a>
+        <a href="javascript:alert('敬请期待！');"><img src="http://js.feiliu.com/static/mhsy/web0521/images/btn6.jpg" alt="" /></a>
+        <a href="javascript:alert('敬请期待！');"><img src="http://js.feiliu.com/static/mhsy/web0521/images/btn7.jpg" alt="" /></a>
+        <a href="javascript:alert('敬请期待！');"><img src="http://js.feiliu.com/static/mhsy/web0521/images/btn8.jpg" alt="" /></a>
+    </div>
+    <div style="clear:both"></div>
+    
+    <div class="code">
+        <div><img src="http://js.feiliu.com/static/mhsy/web0521/images/titlel_1.jpg" alt="" /></div>
+        <div class="c1"><img src="http://js.feiliu.com/static/mhsy/web0521/images/code.jpg" alt="" /><p align="center">扫描关注官方微信</p></div>
+        <div class="c2"><a href="" target="_blank"><img src="http://js.feiliu.com/static/mhsy/web0521/images/weibo_01.jpg" alt="" /></a><a href="" target="_blank"><img src="http://js.feiliu.com/static/mhsy/web0521/images/weibo_02.jpg" alt="" /></a></div>
+        <div style="clear:both"></div>
+    </div>
+    <div style="clear:both"></div>
+      
+    <div class="cscenter">
+        <div><img src="http://js.feiliu.com/static/mhsy/web0521/images/titlel_2.jpg" alt="" /></div>
+        <div class="cs1">
+           <p>梦幻神域-客服QQ：<br /><span>800032234</span></p>
+           <p>梦幻神域客服邮箱：<br /><span>800032234@b.qq.com</span></p>
+           <p>梦幻神域客服电话：<br /><span>400-660-9729</span></p>
+        </div>
+    </div>
+</div>
+			<div class="maincontent">
+				<div class="subtitle">梦幻神域 >	 职业介绍</div>
+				<div class="article">
+					<div class="article_cont">
+						<div class="role1">
+							<div class="roleclass">
+								<div class="ro1 select">拔刀斋</div>
+								<div class="ro1">闪光骑士</div>
+								<div class="ro1">黑剑士</div>
+							</div>
+							<div class="roledetail">
+								<div class="rolepic"><img src="http://js.feiliu.com/static/mhsy/web0521/images/pic3.jpg"  alt="" /></div>
+								<div class="roleinfo">
+									<p>武器1：<br>
+									  单手太刀</p>
+									<p>普通攻击：<br>
+									  向前挥砍攻击5次 </p>
+									<p>激突：<br>
+									  拔剑向前冲出一段距离，并将路径上的所有怪物抵住超前移动，移动过程中持续造成伤害</p>
+									<p>燕返：<br>
+									  向后闪回一段距离后，向前方释放一道横向不穿透的月牙</p>
+									<p>奥义：<br>
+									  拔刀术</p>
+									<p>蓄力0.5秒，瞬间拔刀上挑，随后收入刀鞘。对周围造成击退和伤害效果，在角色前方快速闪动的剑光，在剑光中的目标会受到多次快速伤害，结束时其中目标会被击飞。<br>
+									  究极奥义：无双拔刀术<br>
+									  在原拔刀技的基础上，刀身附带火焰拖尾效果，击中目标后，目标受到灼烧效果<br>
+									  被动技能：刀御术<br>
+									  受击时有一定几率产生格挡，进而减少受到的伤害值</p>                           
+								</div>
+							</div> 
+								
+							<div class="roledetail" style="display:none">
+								<div class="rolepic"><img src="http://js.feiliu.com/static/mhsy/web0521/images/pic3.jpg"  alt="" /></div>
+								<div class="roleinfo">
+									<p>武器2：<br>
+									  单手太刀</p>
+									<p>普通攻击：<br>
+									  向前挥砍攻击5次 </p>
+									<p>激突：<br>
+									  拔剑向前冲出一段距离，并将路径上的所有怪物抵住超前移动，移动过程中持续造成伤害</p>
+									<p>燕返：<br>
+									  向后闪回一段距离后，向前方释放一道横向不穿透的月牙</p>
+									<p>奥义：<br>
+									  拔刀术</p>
+									<p>蓄力0.5秒，瞬间拔刀上挑，随后收入刀鞘。对周围造成击退和伤害效果，在角色前方快速闪动的剑光，在剑光中的目标会受到多次快速伤害，结束时其中目标会被击飞。<br>
+									  究极奥义：无双拔刀术<br>
+									  在原拔刀技的基础上，刀身附带火焰拖尾效果，击中目标后，目标受到灼烧效果<br>
+									  被动技能：刀御术<br>
+									  受击时有一定几率产生格挡，进而减少受到的伤害值</p>                                
+								</div>
+							</div> 
+									
+							<div class="roledetail" style="display:none">
+								<div class="rolepic"><img src="http://js.feiliu.com/static/mhsy/web0521/images/pic3.jpg"  alt="" /></div>
+								<div class="roleinfo">
+									<p>武器3：<br>
+									  单手太刀</p>
+									<p>普通攻击：<br>
+									  向前挥砍攻击5次 </p>
+									<p>激突：<br>
+									  拔剑向前冲出一段距离，并将路径上的所有怪物抵住超前移动，移动过程中持续造成伤害</p>
+									<p>燕返：<br>
+									  向后闪回一段距离后，向前方释放一道横向不穿透的月牙</p>
+									<p>奥义：<br>
+									  拔刀术</p>
+									<p>蓄力0.5秒，瞬间拔刀上挑，随后收入刀鞘。对周围造成击退和伤害效果，在角色前方快速闪动的剑光，在剑光中的目标会受到多次快速伤害，结束时其中目标会被击飞。<br>
+									  究极奥义：无双拔刀术<br>
+									  在原拔刀技的基础上，刀身附带火焰拖尾效果，击中目标后，目标受到灼烧效果<br>
+									  被动技能：刀御术<br>
+									  受击时有一定几率产生格挡，进而减少受到的伤害值</p>                                
+								</div>
+							</div> 
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	   <div style="clear:both"></div>
+	 </div>
+		<div class="bottom">
+	    <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+	    <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+	    <p>Love is love!</p>    
+	</div>
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/mhsy/web0521/js/jquery-1.9.1.min.js"></script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1255185066'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D1255185066' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+
+<script type="text/javascript">
+//切换
+var subNav=$(".roleclass .ro1");
+var showList=$(".role1 .roledetail");
+function delClass(){
+	for(var i=0; i<subNav.length; i++){
+		subNav.eq(i).removeClass("select");
+	}
+}
+function hideList(){
+	for(var i=0; i<showList.length; i++){
+		showList.eq(i).hide();
+	
+	}
+}
+$.each(subNav,function(index){
+	
+	$(this).mouseover(function(){
+		delClass();
+		$(this).addClass("select");
+		hideList()
+		showList.eq(index).show();
+		})
+})
+
+</script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t"> 《三国战神》服务器维护公告</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2015-01-09 12:05:16</span>
+																			</div>
+									<div class="w-d">
+										&nbsp; 亲爱的玩家们，大家好！我们定于1月9日 星期五 下午14:00开始，对APP正版以及iOS越狱部分服务器进行维护，预计1小时，开服时间视进度提前或延后，请大家耐心等待。届时请大家提前下线，以免造成不必要的损失。<br />
+&nbsp; 本次维护内容：配置VIP返利活动（此活动为进行过二次合区的区服开放，因iOS越狱1-14区在10月27日开放过此活动，故此次iOS越狱1-14区不在此活动范围之内。）<br />
+&nbsp; 停机维护区服：iOS<span>越狱15-34区，APP正版1-39区。<br /><img src="http://i0.feiliu.com/image/20150109/20150109115243_58993.png" alt="" /><br /><img src="http://i0.feiliu.com/image/20150109/20150109115256_43132.png" alt="" /><br />
+活动时间：1月12日0:00--1月14日23:59<br />
+<span>活动规则：活动期间VIP等级达到相应级别便可获得相对应的奖励。</span>（如果玩家角色之前参与过此活动，那么以前领过的档位无法再次领取。）</span><br /><img src="http://i0.feiliu.com/image/20150109/20150109115830_34631.png" alt="" /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2015.1.9<br />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+<div id="content"> 
+  	<div class="clearfix">
+    <!--主动技能-->
+    <div class="zgjn">
+      <h1><img src="http://js.feiliu.com/static/zs/images/zgjnbg.jpg"></h1>
+      <div class="zgjn_nr clearfix">
+        <div class="tab-menu"> <a href="javascript:;" class="cur"><img src="http://i0.feiliu.com/201405/74/7491fc533213419fc669baf6d06a7f1c.png"><b>残阳斩</b></a> <a href="javascript:;"><img src="http://i0.feiliu.com/201405/e9/e955f68214af90ffcd402158ddfe88fc.png"><b>野火燎原</b></a> <a href="javascript:;"><img src="http://i0.feiliu.com/201405/4e/4e3adf7f676e73a16345cf599222ed94.png"><b>天外流星</b></a> <a href="javascript:;"><img src="http://i0.feiliu.com/201405/e5/e537778af3eaca6df06c227e89d51c27.png"><b>火莲焚华</b></a> </div>
+        <div class="tab-ctn">
+          <p style="display:block;">残阳斩：豪杰初级技能，残阳如血，斩立决</br>　　冷却时间：4秒 所需等级：1级</br>　　技能效果：对周围固定范围内单个目标造成普通伤害以及火系伤害；同时给自己添加火</br>　　域状态，提升自身普通防御；技能伤害随技能等级提高而增加</p>
+          <p>野火燎原：豪杰中级技能，熊熊野火，生灵涂炭</br>　　冷却时间：7秒 所需等级：5级</br>　　技能效果：对周围固定范围内多个敌人造成普通伤害以及火系伤害
+；技能伤害随技能等</br>　　级提高而增加</p>
+          <p>天外流星：豪杰高级技能，流星陨落，毁天灭地</br>　　冷却时间：10.5秒 所需等级：20级</br>　　技能效果：对周围固定范围内单个目标造成普通伤害以及火系伤害；同时有几率给目标</br>　　添加火殇状态，造成眩晕效果；技能伤害随技能等级提高而增加</p>
+          <p>火莲焚华：豪杰高级技能，火莲绽放，焚尽浮华</br>　　冷却时间：15秒 所需等级：35级</br>　　技能效果：对周围固定范围内多个敌人造成普通伤害以及火系伤害；同时给该目标添加</br>　　火噬状态，每秒减少生命值；技能伤害随技能等级提高而增加</p>
+        </div>
+      </div>
+    </div>
+    <!--主动技能 end--> 
+    <!--被动技能-->
+    <div class="bdjn">
+      <h1><img src="http://js.feiliu.com/static/zs/images/dbjnbg.jpg"></h1>
+      <div class="bdjnList">
+        <dl class="bdjn-item">
+          <dt><img src="http://i0.feiliu.com/201405/a3/a33b522386c46b32d298470bcaa174da.png"></dt>
+          <dd>
+            <h4>赤炎战意</h4>
+            <p>赤炎裹身，战意激增</br>攻击时有几率提升自身火系攻击</p>
+          </dd>
+        </dl>
+        <dl class="bdjn-item even">
+          <dt><img src="http://i0.feiliu.com/201405/1e/1e6ed42789776e4908d238977b7f9aa0.png"></dt>
+          <dd>
+            <h4>狮子吼</h4>
+            <p>兽王一吼，惊天动地</br>被攻击时有几率降低对方普通攻击</p>
+          </dd>
+        </dl>
+        <dl class="bdjn-item">
+          <dt><img src="http://i0.feiliu.com/201405/4f/4f2283e03bf562d6113d7ebab4050906.png"></dt>
+          <dd>
+            <h4>长生诀</h4>
+            <p>长生之道，益寿延年</br>永久提升自身生命值</p>
+          </dd>
+        </dl>
+        <dl class="bdjn-item even">
+          <dt><img src="http://i0.feiliu.com/201405/20/208084a04c60d4c4ddfc2b500ffb8af5.png"></dt>
+          <dd>
+            <h4>禁雷咒</h4>
+            <p>雷霆万钧，不上分毫</br>永久提升自身雷系抗性</p>
+          </dd>
+        </dl>
+      </div>
+    </div>
+    <!--被动技能 end-->
+    </div>
+    <div class="cb mt10"> 
+      <!--截图-->
+      <div class="jietu fl"> <img src="http://i0.feiliu.com/201405/fe/fe3c8557ce901f173eadbe1e49be6d8d.jpg"> </div>
+      <div class="jietu fr"> <img src="http://i0.feiliu.com/201405/3b/3b157e10e693b0062f6a5a24e614047d.jpg"> </div>
+    </div>
+  </div>

@@ -1,0 +1,64 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">【众妖之怒】每日任务收益</div>
+			<div class="news-con">
+				<p style="text-align:left;" class="p0">
+	<span style="font-weight:bold;">每日任务：</span><span style="font-weight:bold;"></span>
+</p>
+<p style="text-align:left;" class="p0">
+	<span >&nbsp;&nbsp;&nbsp;</span><span style="font-weight:bold;">&nbsp;日常</span><span style="font-weight:bold;">任务在玩家到达一定的等级之后开启</span><span style="font-weight:bold;">，</span><span style="font-weight:bold;">游戏中的日常任务会在每天凌晨1点时刷新。目前以下几种类型：成长、强化、PVP、副本通关。可以在游戏界面右上方的日常按钮处查看任务，点击前往就可以打开相应的系统界面。</span><span style="font-weight:bold;"></span>
+</p>
+<p style="text-align:left;" class="p0">
+	<span style="font-weight:bold;">　　</span><span style="font-weight:bold;">1</span><span style="font-weight:bold;">&nbsp;成长类任务：升级玩家的技能或者升级驯兽技能提高宠物属性，或者参星悟道中洗炼属性，可以获得大量金币</span><span style="font-weight:bold;"></span>
+</p>
+<p style="text-align:left;text-indent:24pt;" class="p0">
+	<span style="font-weight:bold;">2</span><span style="font-weight:bold;">&nbsp;强化类任务：可以领取到强化角色任意装备或者强化宠物任意装备的任务。可以获得强化石奖励</span><span style="font-weight:bold;"></span>
+</p>
+<p style="text-align:left;text-indent:24pt;" class="p0">
+	<span style="font-weight:bold;">3</span><span style="font-weight:bold;">&nbsp;PVP类任务：参加竞技场P或者参加天梯赛，会给予竞技场声望奖励。</span><span style="font-weight:bold;"></span>
+</p>
+<p style="text-align:left;" class="p0">
+	<span style="font-weight:bold;">　　</span><span style="font-weight:bold;">4</span><span style="font-weight:bold;">&nbsp;活动类任务：领取后，在招财猫中完成一次招财即可，奖励大量金币。</span><span style="font-weight:bold;"></span>
+</p>
+<p style="text-align:left;text-indent:24pt;" class="p0">
+	<span style="font-weight:bold;">5&nbsp;单人副本任务：按要求通关任意单人副本。奖励大量金币。</span><span style="font-weight:bold;"></span>
+</p>
+<p style="text-align:left;text-indent:24pt;" class="p0">
+	<span style="font-weight:bold;">6&nbsp;多人副本任务：按要求通关任意多人副本。奖励大量经验。</span><span style="font-weight:bold;"></span>
+</p>
+<p style="text-align:left;text-indent:24pt;" class="p0">
+	<span style="font-weight:bold;">介绍就到这里了，大家都了解了么</span><span style="font-weight:bold;">?</span><span style="font-weight:bold;">那么快去做日常拿奖励吧</span><span style="font-weight:bold;">!</span><span style="font-weight:bold;"></span>
+</p>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,154 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+<div class="wrap minwidth">
+	<div class="contain minwidth rel">
+		<div class="subcon1120">
+			<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+			<div class="conri fltt">
+				<div class="address">
+					<h2>新闻中心</h2>
+					<p>
+						当前位置：
+						<a href="http://tk.feiliu.com">首页</a>>>
+												<a href="http://tk.feiliu.com/web/list/newslist.shtml?a=3">活动</a>
+											</p>
+				</div>
+				<div class="subnews">
+					<div class="infotitle">《战地坦克》圣诞节狂欢活动</div>
+					<div class="article"><h1 style="margin-top:0pt;margin-bottom:0pt;text-align:center;">
+	圣诞狂欢<o:p></o:p>
+</h1>
+<p class="p15" style="margin-left:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;活动一&nbsp;：&nbsp;&nbsp;【“圣蛋”返利】<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;活动时间为：2014年12月24日-2014年12月29日<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;text-indent:24.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	参与方式：<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;text-indent:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	1、充值到指定金额即可领取相应的奖励。<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;2、奖励是可以多次里千年古，玩家领取奖励后，界面下方文字将会变为领奖要求。<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;text-indent:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	3、玩家如果多次领取同一档位，点击【圣蛋】即可全部领取<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	4、全服玩家充值或采集到指定数量的资源就增加“圣诞树”养分值<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	5、当养分值达到指定数量后，全服玩家都可领取对应档次的奖励<o:p></o:p>
+</p>
+<p class="p15" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;<o:p></o:p>
+</p>
+<h1 style="margin-top:0pt;margin-bottom:0pt;text-align:center;">
+	圣诞宝藏<o:p></o:p>
+</h1>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;活动一：圣诞夺宝<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:6.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;活动时间为：2014年12月24日-2014年12月29日&nbsp;<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:6.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参与方式：<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:5.2500pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、玩家每日有一次免费次数，点击“本次免费”后进入“挖掘”<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:21.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、玩家点击“挖掘宝藏”按钮，消耗金币后直接进入进入“挖掘”界面<o:p></o:p>
+</p>
+<p class="p15" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、奖池内的挖掘次数是有上限，具体请您以游戏内为准。<o:p></o:p>
+</p>
+<p class="p15" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、当次数达到上限后，奖池刷新，界面刷新<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;5、界面中有6个格子，每个格子对应一个宝藏<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;6、挖掘过后，宝藏将随机更换位置，界面变更<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最后战地坦克项目组预祝您圣诞节快乐。<o:p></o:p>
+</p>
+<p class="p15" style="margin-left:42.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本活动最终解释权，归战地坦克项目组所有<br /><img src="http://i0.feiliu.com/image/20141224/20141224174144_37822.jpg" alt="" /><o:p></o:p>
+</p></div>
+				</div>
+			</div>
+		</div>			
+	</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

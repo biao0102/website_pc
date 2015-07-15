@@ -1,0 +1,147 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head> 
+	<meta charset="UTF-8">
+	<title>龙骑战歌_首页</title> 
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="keywords">
+	<meta content="龙骑战歌,龙骑战歌首页,龙骑战歌人物职业,龙骑战歌特色" name="description">
+	<meta name="format-detection" content="telephone=no"/>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/lqzg/notice/css/style.css?v=5">
+</head>
+<body>
+<div class="wrap">
+	 	<div class="left">
+		<a class="logo" href="javascript:void(0);" title="龙骑战歌"><img src="http://js.feiliu.com/static/lqzg/notice/images/logo.jpg" alt=""></a>
+		<!-- 	
+			<a href="http://lqzg.feiliu.com" class="shouye " title="龙骑战歌首页">
+					<span class="shouye-btn"></span>
+			</a> 
+		-->
+		<div class="zhiye " title="龙骑战歌人物职业">
+			<a href="http://lqzg.feiliu.com/list/notice.shtml"><span class="zhiye-btn"></span></a>
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/hero01.shtml" class="">圣武士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero02.shtml" class="">狂战士</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero03.shtml" class="">刺客</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/hero04.shtml" class="">法师</a></p>
+			</div>
+		</div>
+
+		<div class="tese " title="龙骑战歌特色">
+			<a href="javascript:alert('敬请期待！');"><span class="tese-btn"></span></a>
+		<!-- 			
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/list/tese01.shtml">成长</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese02.shtml">空间</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese03.shtml">操控</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese04.shtml">生命</a></p>
+				<p><a href="http://lqzg.feiliu.com/list/tese05.shtml">战法</a></p>
+			</div> 
+		-->
+		</div> 
+		<div class="gift" id="focus" href="javascript:void(0);">
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185352.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415184358.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185257.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://gwadmin.feiliu.com/static/js/ueditor/themes/default/images/spacer.gif" alt=""></a>
+							<a class="disN" href="http://lqzg.feiliu.com/news/20150416185926.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150416185923.jpg" alt=""></a>
+						<div class="focus-tab-bg">
+				<span class="focus-tab focus-tab-curr"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+			</div>
+		</div>
+		<!-- <a class="download op" href="http://lqzg.feiliu.com" title="龙骑战歌官网"></a> -->
+		<a class="enter op" href="javascript:alert('敬请期待！');" title="龙骑战歌下载"></a>
+		<div class="code" title="扫描二维码下载">
+			<h4>扫描二维码 下载游戏</h4>
+			<span><img src="http://js.feiliu.com/static/lqzg/notice/images/lqzg_qrcode.png?v=1" style="height:152px;width:152px;margin:10px auto 0;"></span>
+		</div>
+<!-- 		
+		<div class="share">
+			<a class="weixin op" href=""></a>
+			<a class="weibo op" href=""></a>
+		</div> 
+-->
+	</div>
+	<div class="right">
+		<div class="news-bg">
+			<div class="news-map">新闻公告<span>news</span></div>
+			<div class="list-wrap">
+				<h2><a href="javascript:void(0);">狂战一怒天下无双！《龙骑战歌》四大职业揭秘</a></h2>
+				<div class="news-info">
+					<span class="news-publish">发布于 2015-04-16</span>
+					<!-- <span class="news-share">分享到：</span> -->
+				</div>
+				<div class="content">
+					<p>由国内著名研发商墨麟竭力开发，FL Mobile（飞流）代理发行的ARPG骑乘新纪元手游《龙骑战歌》打造出一个充满魔幻色彩的龙与魔法世界，在这玩家们将化身为梦想中的英勇龙骑士，骑乘于飞龙之上翱翔天际间惩恶除妖。昨日《龙骑战歌》概念官网已正式上线，在官网中一睹了游戏四大职业英勇身姿的玩家们，此时是否心潮澎湃，难以自已呢？今天就让我们来对这四大职业一一进行揭秘，逐步揭开游戏的神秘面纱吧！</p><p><br/></p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190524.jpg" title="20150416190524.jpg" alt="图1：ARPG骑乘新纪元史诗级手游《龙骑战歌》四大职业震撼公布！.jpg"/></p><p><br/></p><p>【矮人狂战士萨瑞斯 横扫千军所向披靡】</p><p><br/></p><p>矮人萨瑞斯?雷霆战斧来自古老的怒锤部族，作为一个已经两百多岁身经百战的老战士来说，手持巨斧狂野的横扫是他最钟爱的攻击方式，如同砍瓜切菜般畅爽，但是矮人可不代表就是矮穷挫，惹怒狂战士后果很严重。狂战士给人的感觉一直就是那六个字：简单、粗暴、有效，选择狂战士这类的近战职业追求的是一种绞肉机一般的快感，不管是真男人还是女汉子，应该都会喜欢这种一夫当关万夫莫开的感觉。比较可观的攻击力和不俗的防御力使得狂战士可以勉强充当一名肉盾的角色，此外，操作难度较低简单易上手相信会是众多玩家将狂战士作为首选职业的一大原因。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190531.jpg" title="20150416190531.jpg" alt="图2：狂战一怒天下无双, 横扫千军所向披靡.jpg"/></p><p>【人类圣武士埃文尼 肉盾男神保驾护航】</p><p><br/></p><p>双手手持大剑，精通高端神圣法术的埃文尼?普利司通是一名人类圣武士，高大上几乎成为了他的代名词。圣武士拥有四大职业中最强大的防御力和并不逊色于狂战士的攻击力，是一名名副其实的绝对肉盾。每个妹子心中都有一名白马王子，都有一名像都教授这样的男神能时刻保护着自己，随时准备拯救自己于危难之中。圣武士就是这样的一个职业，强大的肉身挡在BOSS身前让其他队友可以无忧无虑的暴揍BOSS，同时精通神圣法术的圣武士还可以保护自己队友免于死亡的威胁。圣武士是一个十分需要责任心去操作的职业，相比于女孩子们大多愿意去玩的法师和刺客来说，圣武士估计是众多汉子们把妹的首选神职业。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190538.jpg" title="20150416190538.jpg" alt="图3：圣武一出高大威武，肉盾男神保驾护航.jpg"/></p><p><br/></p><p>【精灵女法师辛迪拉 贵族血统魔法无敌】</p><p><br/></p><p>相比起狂战士和圣武士这两位大老爷们喜好冲锋陷阵，出身贵族背着华丽法杖的阳光精灵女法师辛迪拉一直给人一种白富美的感觉。但是千万别认为辛迪拉只是个黄毛小丫头，她可是具有操纵元素之力的能力，一不注意便会被她的魔法伤的体无完肤。拥有强大攻击力的法师在队伍中向来充当的是首席DPS的角色，虽然防御率较弱，但是完全无需担心，因为压根没有怪物能靠近她。法师的特点一直是运筹帷幄之中御敌千里之外，这样的特点也对玩家提出了一定的操作要求，不能像狂战士和圣武士那么的无脑，需要清晰的预判和风骚的走位才能更好的体现法师的价值。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190546.jpg" title="20150416190546.jpg" alt="图4：美女法师系出名门，操纵元素魔法无敌.jpg"/></p><p><br/></p><p>【兽人刺客妙丽?瞬影 敏捷灵巧的黑暗杀手】</p><p><br/></p><p>手持快速双剑的兽人刺客妙丽?瞬影一直充当着一个暗杀者的角色，虽然与狂战士、圣武士同属近战职业，但比起前两者刀刀入肉的挥刀技能，她更擅长凭借自己的敏捷与熟练技巧杀敌与无形之中。比起防御较弱的法师妹子，刺客妹子的生存能力要强了许多，敏捷灵巧的天赋让她可以闪避掉大部分的攻击，并且依靠自己仅次于法师妹子的攻击能力，挥舞着快速的双剑一套又一套的连击技对怪物展开疯狂的攻击，真正的刺客再杀死敌人前是不会停止挥舞她手中的武器的。刺客是《龙骑战歌》四大职业之中操作最难的，一个好的刺客就是一个高端玩家的象征，相信不少玩家乐意挑战这个充满刺激性的职业。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190556.jpg" title="20150416190556.jpg" alt="图5：猫娘刺客身手敏捷，黑暗之中杀人无形.jpg"/></p><p><br/></p><p>四大职业各具特色，选择一个实现你的龙骑英雄梦，现在关注《龙骑战歌》官网还可以享有预注册大礼包，如此福利千万别错过，加入《龙骑战歌》一起探寻魔幻世界的奥秘：http://lqzg.feiliu.com/</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416190605.jpg" title="20150416190605.jpg" alt="图6：关注《龙骑战歌》官网，享受预注册大礼包！.jpg"/></p><p><br/></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	 	<div class="news-wrap">
+		<div class="news-tab">
+			最新
+			<div class="newslist">
+				<div class="news-top">最新<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=1">+</a></div>
+				<div class="news-bot">
+										<a href="">狂战一怒天下无双！《龙骑战歌》四<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416190400.shtml">御龙空战！魔幻新手游《龙骑战歌》<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416161203.shtml">专业决定未来：从飞流与墨麟合作看<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416155612.shtml">《龙骑战歌》世界四大种族介绍<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416154149.shtml">《龙骑战歌》BOSS原画曝光<span>04/16</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			新闻
+			<div class="newslist">
+				<div class="news-top">新闻<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=2">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150415181503.shtml">《龙骑战歌》探秘系列一：墨麟CE<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415181959.shtml">《龙骑战歌》超炫人物壁纸下载<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150415182705.shtml">身临其境<span>04/15</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416154149.shtml">《龙骑战歌》BOSS原画曝光<span>04/16</span></a>
+										<a href="http://lqzg.feiliu.com/news/20150416155612.shtml">《龙骑战歌》世界四大种族介绍<span>04/16</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			公告
+			<div class="newslist">
+				<div class="news-top">公告<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=3">+</a></div>
+				<div class="news-bot">
+										<a href="http://lqzg.feiliu.com/news/20150415175240.shtml">《龙骑战歌》探秘系列三：创亿计划<span>04/15</span></a>
+									</div>
+			</div>
+		</div>
+
+		<div class="news-tab">
+			资讯
+			<div class="newslist">
+				<div class="news-top">资讯<a class="more" href="http://lqzg.feiliu.com/list/news.shtml?a=4">+</a></div>
+				<div class="news-bot">
+										<a href=""><span></span></a>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<p>About.us | Copy right@北京飞流九天科技有限公司</p>
+	<p>爱游戏，爱生活，也爱美女。</p>
+	<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+	<p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+	<p>Love is love!</p>
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/js.js?x=3"></script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

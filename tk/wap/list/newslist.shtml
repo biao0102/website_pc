@@ -1,0 +1,328 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>战地坦克</title>
+	<meta name="keywords" content="战地坦克" />
+	<meta name="description" content="战地坦克" />
+	<meta name="format-detection" content="telephone=no"/>
+	<meta name="format-detection" content="address=no"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/tk/wap0506/css/style.css">
+</head>
+<body>
+	<div class="wrap">
+		<section class="newscon" id="top">
+			<h2 class="subh2">
+				新闻			
+				<a href="http://tk.feiliu.com/wap/list/index.shtml" class="backto">返回</a>
+			</h2>
+									<a href="http://tk.feiliu.com/wap/news/20150424022202.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》 大量高价坦克来袭！游戏多独家发放！</p>
+					<p class="title1_nr_time">04-24</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150403052919.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】清明复活节社区活动</p>
+					<p class="title1_nr_time">04-03</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150402053201.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】周年狂欢揭幕《坦克风云》全新四大活动曝光</p>
+					<p class="title1_nr_time">04-02</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150324064849.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》活动介绍</p>
+					<p class="title1_nr_time">03-24</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150324064228.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》新服火爆开启</p>
+					<p class="title1_nr_time">03-24</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150212063652.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】喜气“羊羊”过大年</p>
+					<p class="title1_nr_time">02-12</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150210033138.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》活动介绍</p>
+					<p class="title1_nr_time">02-10</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150203124623.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》活动介绍</p>
+					<p class="title1_nr_time">02-03</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150120070019.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》活动介绍</p>
+					<p class="title1_nr_time">01-20</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150115061013.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》活动介绍</p>
+					<p class="title1_nr_time">01-15</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20150109035156.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】坦克嘉年华</p>
+					<p class="title1_nr_time">01-09</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20141231070012.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】元旦盛大回馈</p>
+					<p class="title1_nr_time">12-31</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20141224054147.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】《战地坦克》圣诞节狂欢活动</p>
+					<p class="title1_nr_time">12-24</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20141217052840.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】俯视群雄 《战地坦克》AppStore跨服霸主名单曝光</p>
+					<p class="title1_nr_time">12-17</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20141208042109.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】沙漠之狐隆美尔复活！《战地坦克》将领系统升级</p>
+					<p class="title1_nr_time">12-08</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20141203070951.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】万人景仰 《战地坦克》首届跨服赛冠军名单曝光</p>
+					<p class="title1_nr_time">12-03</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20141202062808.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】狂怒之狮</p>
+					<p class="title1_nr_time">12-02</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20141128063251.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】   百万钢铁军团混战 《战地坦克》跨服战二期跨服战火爆来袭</p>
+					<p class="title1_nr_time">11-28</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20141126071637.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【活动】‘鸡’动部队</p>
+					<p class="title1_nr_time">11-26</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20141120064533.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】百万钢铁军团混战 《战地坦克》跨服战火爆来袭</p>
+					<p class="title1_nr_time">11-20</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140929111436.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】 扬我国威！《战地坦克》首款国产坦克59式参战</p>
+					<p class="title1_nr_time">09-29</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140917120222.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】钢铁陆战霸王！《战地坦克》全新两款坦克曝光</p>
+					<p class="title1_nr_time">09-17</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140910114235.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】二战经典坦克加盟！《战地坦克》新战车亮相</p>
+					<p class="title1_nr_time">09-10</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140826035548.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】新坦克、新任务！《战地坦克》全新版本曝光</p>
+					<p class="title1_nr_time">08-26</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140822102945.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】T-90领衔！《战地坦克》玩家盘点最牛X主战坦克</p>
+					<p class="title1_nr_time">08-22</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140814102249.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】天时不如地利！《战地坦克》全新地形系统介绍</p>
+					<p class="title1_nr_time">08-14</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140812023810.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】加加新版火爆上线 解放双手送豪礼</p>
+					<p class="title1_nr_time">08-12</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140724123223.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】《战地坦克》二战名将录：美国五星空军上将阿诺德</p>
+					<p class="title1_nr_time">07-24</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140717102804.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】铁血对战！《战地坦克》PVP竞技场功能上线</p>
+					<p class="title1_nr_time">07-17</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140710101523.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】堪比“罗伯托·卡洛斯”《战地坦克》自行火炮详解</p>
+					<p class="title1_nr_time">07-10</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140704102449.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】男人才懂！球迷热爱《战地坦克》的四大理由</p>
+					<p class="title1_nr_time">07-04</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140626104700.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】天启当前锋！《战地坦克》世界杯最强11人阵容</p>
+					<p class="title1_nr_time">06-26</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140616103602.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】天天送好礼！《战地坦克》世界杯活动曝光</p>
+					<p class="title1_nr_time">06-16</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140611053122.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】《战地坦克》登录App Store 全新军团玩法来袭</p>
+					<p class="title1_nr_time">06-11</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140530114144.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】越狱版本新服【前线黎明】火热开启</p>
+					<p class="title1_nr_time">05-30</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140506105137.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】《坦克风云》配件系统曝光 打造个性战车</p>
+					<p class="title1_nr_time">05-06</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140430115306.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】《坦克风云》配件系统介绍</p>
+					<p class="title1_nr_time">04-30</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140430023140.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】坦克配件系统说明公告</p>
+					<p class="title1_nr_time">04-30</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140404100704.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】《坦克风云》经典豹式坦克重现库尔斯克战役</p>
+					<p class="title1_nr_time">04-04</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140404052132.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】全新资料片《坦克风云：钢铁咆哮》即将震撼上线！</p>
+					<p class="title1_nr_time">04-04</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140404045445.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】全新资料片《坦克风云：钢铁咆哮》即将震撼上线！</p>
+					<p class="title1_nr_time">04-04</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140403103057.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】新手必看！《坦克风云》基地建筑升级指南</p>
+					<p class="title1_nr_time">04-03</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140402015520.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】新兵调教！《坦克风云》玩家必看入门指南出炉</p>
+					<p class="title1_nr_time">04-02</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140402014436.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】混编是王道！《坦克风云》最强阵型研究</p>
+					<p class="title1_nr_time">04-02</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140401111322.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】2014年人气军事手游《坦克风云》4月铁血内测</p>
+					<p class="title1_nr_time">04-01</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140401061424.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】坦克风云iOS游戏榜评测</p>
+					<p class="title1_nr_time">04-01</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140328121037.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】首日在线突破30万！《坦克风云》再开新服！</p>
+					<p class="title1_nr_time">03-28</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140327115511.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】《坦克风云》今日登陆App Store 限时免费下载火热开启</p>
+					<p class="title1_nr_time">03-27</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140321104705.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】《坦克风云》即将登陆App Store 最强军事手游来袭</p>
+					<p class="title1_nr_time">03-21</p>
+				</div>
+			</a>			
+						<a href="http://tk.feiliu.com/wap/news/20140321012532.shtml">
+				<div class="title1_nr">
+					<p class="title1_nr_txt">【新闻】飞流再度签约军事手游研发商雷尚 发布新作《坦克风云》</p>
+					<p class="title1_nr_time">03-21</p>
+				</div>
+			</a>			
+								</section>	
+		<section class="bottom">
+			<div class="bottom_sm">
+				<p>版权所有©北京飞流九天科技有限公司 2009-2013 </p>
+			</div>
+		</section>
+	</div>
+</body>
+</html>

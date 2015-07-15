@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>灭武当战少林 《全民斗江湖》全新版本震撼揭幕 《全民逗江湖》_新闻</title>
+<link href="http://js.feiliu.com/static/qmdjh/css/main.css?v=2" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/qmdjh/js/jquery1.6.4.js"></script>
+</head>
+<body class="inner">
+<div class="header">
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img src="http://js.feiliu.com/static/qmdjh/images/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>
+<div class="sec1">
+
+	<!--首页头部导航模板开始-->	
+		<!--#include virtual="/list/index_qmdjh_nav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+</div>
+<div class="sec2">
+	<div class="wrap-main main">
+	
+		<!--首页左侧边栏模板开始-->	
+			<!--#include virtual="/list/index_qmdjh_leftbar.shtml"-->
+		<!--首页左侧边栏模板结束-->
+		
+        <div class="content">
+        	<div class="article-header">
+            	<h1>灭武当战少林 《全民斗江湖》全新版本震撼揭幕</h1>
+                <time>2014-12-17</time>
+            </div>
+            <div class="article-content">
+            	<span >&nbsp; &nbsp; &nbsp; &nbsp;灭武当战少林，剑挑天下群雄，2014年度最新型武侠卡牌手游《全民斗江湖》11月19日全新版本重磅降临。全新版本新增天赋系统，可以任意打造个性侠客；新增英雄谱，可以一键选择心仪侠客；新增4大章节关卡，可以将武当和少林踩在脚下；新增18位武林传奇人物，可以感受盖世英雄的强悍；新增传奇BOSS熊猫大侠，可以与万人共战，感受史无前例的战斗激情！诸多全新内容，更加精彩的游戏体验，《全民斗江湖》等你来战！<br />
+&nbsp; &nbsp;&nbsp;<span >《全民斗江湖》全新版本新增的天赋系统，让玩家可以亲手打破人物限制，拥有更加强悍的天赋属性。只要消耗银两或元宝，便能让人物拥有技能触发几率加成、血量加成、攻击加成……无数独特的天赋属性随心选择。根据自己阵营特性或主观想法，任意打造不同天赋的人物，组合成史上最强战力，绝对是称霸武林的绝佳捷径。<br />
+&nbsp; &nbsp; &nbsp;&nbsp;<span >在《全民斗江湖》全新版本中，玩家等级达到77、79、81、83便可分别解锁30章至33章等4大章节共16个关卡，从师兄宋小书到张真人，从无相大师到不戒和尚，一步步地挑战武林中拥有赫赫威名的武当与少林，体验传说中人物的强悍，这不止是一个全新的战斗天地，更是一个挑战自我，进行试炼的全新平台。</span></span><br />
+&nbsp; &nbsp; &nbsp;&nbsp;<span >小鱼儿、枯荣禅师、李飞刀……《全民斗江湖》此次新版本推出了史上最大规模的18位传奇级侠客。极品紫色品质、高额的属性值，18位传奇人物将拥有符合自己身份及品质的超强属性。功效不同却同样强悍的技能也将随之亮相，无论是全体伤害附带减防御、敏，还是后排伤害附带封锁技能，或者是敌方4人伤害附带减全属性，传奇人物的技能绝对会颠覆武林格局，让玩家成就史上最强阵容。</span><br style="word-wrap:break-word;" />
+<br style="word-wrap:break-word;" />
+<span >全新的版本，更多的精彩内容，前所未有的纯粹武林体验，《全民斗江湖》11月19日全新版本震撼降临，在新版本中，你会是武林至尊吗？</span></span>
+			</div>
+        </div>
+	</div>
+</div>
+<div class="sec3">
+
+	<!--首页底部版权模板开始-->	
+        <!--#include virtual="/list/index_qmdjh_footer.shtml"-->
+	<!--首页底部版权模板结束-->
+	
+</div>
+
+	<!--首页右侧浮动下载框模板开始-->	
+        <!--#include virtual="/list/index_qmdjh_down.shtml"-->
+	<!--首页右侧浮动下载框模板结束-->
+	
+<script type="text/javascript">
+$(function(){
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+});
+</script>
+</body>
+</html>

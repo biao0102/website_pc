@@ -1,0 +1,15 @@
+<div class="newscon fltt">
+	<a href="http://abs.feiliu.com/list/abc_list_col.shtml" target="_blank" class="more">更多</a>
+	<!--首页全部栏目模块开始-->
+		<!--#include virtual="/list/abc_index_allcol.shtml"-->
+	<!--首页全部栏目模块结束-->
+	<!--首页全部栏目模块开始-->
+		<!--#include virtual="/list/abc_index_newcol.shtml"-->
+	<!--首页全部栏目模块结束-->
+	<!--首页全部栏目模块开始-->
+		<!--#include virtual="/list/abc_index_hdcol.shtml"-->
+	<!--首页全部栏目模块结束-->
+	<!--首页全部栏目模块开始-->
+		<!--#include virtual="/list/abc_index_ggcol.shtml"-->
+	<!--首页全部栏目模块结束-->
+</div>

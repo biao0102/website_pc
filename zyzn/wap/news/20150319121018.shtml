@@ -1,0 +1,56 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">众妖蛮牛时装大会   </div>
+			<div class="news-con">
+				《众妖之怒》作为一款美术品质极高的游戏，外显类的时装系统是比较令人期待，且这种Q版萌系的人设风格，也给游戏内的时装增添了一些不一样的特色。除去原有的Q版风格外，豹纹、墨镜等时尚元素也混入进众妖之怒的时装中，为这款3D萌系ARPG增添了更多的谈资。<br />
+<br />
+<br />
+【蛮牛沙滩主题】<br />
+黑墨镜、粗纹身、金链子、花裤衩、没错沙滩边上的黑社会老大都是这身打扮！《众妖之怒》力量型英雄蛮牛，给人的感觉就是大哥大，无论何时何地有他在就有安全感！喜欢猛男、真汉子的玩家一定要来一身！<br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150319/20150319120953_27923.png" alt="" /><br />
+<br />
+<br />
+除此之外蛮牛还有其他个性时装 如下：<br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150319/20150319121002_32960.png" alt="" /><br />
+<br />
+<br />
+从玩法设计上来看，与有些游戏不尽相同，众妖之怒中的一套时装分为两件，一件衣服一件武器。这也在时装的选择和搭配上预留了更多的空间，让大家可以有更多的选择去搭配自己喜欢的风格。心动不如行动！来做一个时装收藏家吧！<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

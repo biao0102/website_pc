@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》隐藏福利-经验轻松领_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》隐藏福利-经验轻松领</h2>
+          <p>&nbsp; &nbsp; &nbsp; 作为一款ARPG手游，《战魔》以“格斗”为游戏核心，集精美画面、绚丽视觉特效、强烈的打击感、流畅的操作体验为一体，并完美融入三国以及上古时代元素，独创魂骨与心法玩法、蚩尤乱战的世界BOSS、公会战、挑战副本等等精彩系统，极致展现战斗核心的快感。<br />
+<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20141119/20141119104901_35198.jpg" alt=""  />
+</div>
+&nbsp; &nbsp; &nbsp; 在体验游戏所带来的战斗快感的同时，升级也成为玩家关心的一个重要话题。《战魔》出日常副本和每日任务赠送的大量经验外，还十分人性化的设计了离线经验功能。只要角色等级达到15级，就可以在设定的时间范围内领取离线经验，离线时间越长，累计的经验值奖励越多。<br />
+<div style="text-align:center;"><img src="http://i0.feiliu.com/image/20141119/20141119104911_28163.png" alt=""  />
+</div>
+&nbsp; &nbsp; &nbsp; 领取战魔离线经验共有三种模式：<br />
+&nbsp; &nbsp; &nbsp; 1.直接领取，将一次性领取完所有离线积累的升级经验。 &nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp; 2.离线经验丹领取，通过消耗离线经验丹可以领取2倍的离线经验值。<br />
+&nbsp; &nbsp; &nbsp; 3.VIP领取：开通游戏VIP可以在领取离线经验值是加成经验。<br />
+（温馨提示：离线经验丹除了在商城购买外，还可以通过在线奖励领取咩~）<br />
+<br />
+&nbsp; &nbsp; &nbsp; 只要每天登陆游戏就可以免费领取大量经验，自然使用经验丹、VIP领取离线经验值的好处是不必说的！<br />
+&nbsp; &nbsp; &nbsp; 切记不要忘记领白给的经验哦！<br />
+<div >
+	<br />
+</div></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

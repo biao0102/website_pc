@@ -1,0 +1,65 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">公告</a>
+									</div>
+				<div class="content">&nbsp;
+<p class="MsoNormal">
+	<span>尊敬的主公；</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span>感谢大家对《天天逗群英》的关注和支持，作为产品的研发商“上海鸣泉”和发行商“飞流九天”，我们秉承</span> <span>“精品研发”、“服务质尚”的一贯宗旨，广大为手机游戏用户提供最优秀的产品和最专业的服务。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span>《天天逗群英》在产品封版时，产品还未达到上线标准，存在部分</span><span>bug</span><span>及错误，为了让大家能够体验到最优质的产品，我们特决定将原定于</span><span>11</span><span>月</span><span>13</span><span>日的更新时间推迟至</span><span>12</span><span>月，目前产品的研发团队正在对版本中存在的问题进行紧急修复。<br />
+<br />
+</span><span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span><span>更多精彩内容，敬请关注官方信息：</span><span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span>官方</span><span>QQ</span><span>：</span><span>3131494764&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span>官方</span><span>QQ</span><span>群：</span><span>210206480&nbsp; </span>
+</p>
+<p class="MsoNormal">
+	<span>官网：</span><span><a href="http://ttdqy.feiliu.com/"><span style="text-decoration:none;">http://ttdqy.feiliu.com/</span></a> </span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>实时资讯，互动交流，精彩随时掌握。</span> <span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>《天天逗群英》运营团队</span> <span></span>
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

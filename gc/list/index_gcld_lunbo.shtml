@@ -1,0 +1,22 @@
+<div class="lunbo" id="lunbo">
+	<div class="lunbo_img" id="lunbo_img">
+		<a href="http://gc.feiliu.com/20140728/21470.shtml" target="_blank" title="玉玺争夺" style="display: block;"><img src="http://js.feiliu.com/gameimg/gc/20140729152628.jpg" alt="玉玺争夺" /></a>
+		<a href="http://gcld.9game.cn/" target="_blank" title="手机游戏尽在9游-攻城掠地战略合作伙伴" style="display: none;"><img src="http://js.feiliu.com/static/flg/images/index/20140403-newfoucs3.jpg" alt="手机游戏尽在9游-攻城掠地战略合作伙伴" /></a>
+		<a href="http://www.18183.com/gcld/" target="_blank" title="18183-点这里啥都有" style="display: none;"><img src="http://js.feiliu.com/static/flg/images/index/20140403-newfoucs4.jpg" alt="18183-点这里啥都有" /></a>
+		<a href="http://bbs.8783.com/thread-99896-1-1.html" target="_blank" title="" style="display: none;"><img src="http://js.feiliu.com/gameimg/gc/20150514164636.jpg" alt="" /></a>
+<!--
+<a href="http://bbs.5g.com/thread-833231-1-1.html" target="_blank" title="乐享周边" style="display: none;"><img src="http://js.feiliu.com/gameimg/gc/20150404103540.jpg" alt="乐享周边" /></a>
+<a href="http://game.feiliu.com/youxishequ/index.html?s=C0801gcld_App_shequ_908011001" target="_blank" title="" style="display: none;"><img src="http://js.feiliu.com/gameimg/gc/20150305175302.jpg" alt="" /></a>
+-->
+	</div>
+	<ul class="lunbo_btn" id="lunbo_btn">
+		<li class="btn01"><a href="javascript:;" class="current">1</a></li>
+		<li class="btn02"><a href="javascript:void(0)">2</a></li>
+		<li class="btn03"><a href="javascript:;">3</a></li>
+		<li class="btn04"><a href="javascript:;">4</a></li>
+<!--
+		<li class="btn05"><a href="javascript:;">5</a></li>
+	       <li class="btn06"><a href="javascript:;">6</a></li>
+-->
+	</ul>
+</div>

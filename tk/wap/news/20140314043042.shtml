@@ -1,0 +1,61 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>战地坦克</title>
+	<meta name="keywords" content="战地坦克" />
+	<meta name="description" content="战地坦克" />
+	<meta name="format-detection" content="telephone=no"/>
+	<meta name="format-detection" content="address=no"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/tk/wap0506/css/style.css">
+</head>
+<body>
+	<div class="wrap">
+		<section class="newscon" id="top">
+			<h2 class="subh2">
+				新闻			
+				<a href="javascript:history.go(-1);" class="backto">返回</a>
+			</h2>
+			<div id="thegame">
+				<h2>《坦克风云》城市界面图解</h2>
+				&nbsp; 一个强大的军团背后都有一个强大的供给基地，下面我们给大家介绍一下，基地的一些内容。<br />
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314162612_33675.png" alt="" /><br />
+<br />
+<br />
+<strong></strong><strong>每个普通用户每天是可以免费抽奖一次，其余每次抽奖需要消耗幸运币，每次消耗一个<br />
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314162650_70855.png" alt="" /><br />
+<br />
+<br />
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	高级抽奖须要指挥官等级达到<span lang="EN-US">15</span>级后开放。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314162746_41748.png" alt="" /><br />
+<br />
+<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+	<p class="MsoNormal" align="left" style="background-position:initial initial;background-repeat:initial initial;">
+		进入邮箱可以查看系统相关活动（在邮件里面）；报告
+里面会有他人来攻打自己的战斗记录。<br />
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314162940_98816.png" alt="" /><span lang="EN-US"><o:p></o:p></span>
+	</p>
+<span lang="EN-US"><o:p></o:p></span>
+</p>
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314163004_86129.png" alt="" /><br />
+<br />
+坦克上面的数字代表您所用有该类型的坦克数量。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20140314/20140314163034_44807.png" alt="" /><br />
+<br />
+<br />
+所有建筑的开放都是以建筑中心的等级为基础，详细等级会在建筑中心说明中有。例：每<span lang="EN-US">2</span>级会开放<span lang="EN-US">1</span>个普通资源点，每<span lang="EN-US">10</span>级会开放<span lang="EN-US">1</span>个钛矿点<span lang="EN-US">3</span>级开放：水晶工厂<span lang="EN-US">5</span>级开放：研中心等</strong>
+			</div>
+		</section>	
+		<section class="bottom">
+			<div class="bottom_sm">
+				<p>版权所有©北京飞流九天科技有限公司 2009-2013 </p>
+			</div>
+		</section>
+	</div>
+</body>
+</html>

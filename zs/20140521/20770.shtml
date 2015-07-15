@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_其他<</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page.css?v=2367">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">天书系统</h1>
+									<div class="aside"><span class="time">2014-05-21 18:24:37</span><span class="share-l">分享到：</span><div class="share-t"><img src="http://js.feiliu.com/static/zs/images/gbg/gbg2.jpg"></div></div>
+									<div class="w-d">
+										<p align="left">
+	　　天书是三国战神的特色玩法，是快速提升玩家战斗力的途径，在玩家等级达到40级开放。<br />
+<br />
+天书共有7大位置,分别为40级，50级，60级，70级，80级开放<br />
+<br />
+【品质分类】绿色，蓝色，紫色，橙色<br />
+<br />
+【天书等级提升】通过融合其他天书进行提升<br />
+<br />
+【天书获得途径】可通过领悟花费一定数量的铜钱获得，天书品质随机出
+</p>
+<p><img alt="" src="http://i0.feiliu.com/image/20140521/20140521182348_87703.jpg" width="568" height="384" /><br />
+<br />
+说明：<br />
+●拖动天书到另一本天书可以进行单个融合<br />
+●高品质天书融合低品质的天书<br />
+●一键融合紫色品质以下的天书<br />
+●一键卖出白色品质的天书<br />
+●白色品质的天书不能被融合和一键融合<br />
+●每次领悟获得3本天书
+</p>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <div class="cnt-zsr"></div>
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

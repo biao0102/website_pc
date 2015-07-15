@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>【战魂西游】 资料库</h1>
+                        <span>2014-04-24</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal" >
+	一．游戏介绍
+</p>
+<p class="MsoNormal" style="text-align:center;text-indent:5.25pt;">
+	<br />
+</p>
+<div >
+	<a href="http://zhxy.feiliu.com/20140421/20415.shtml" style="text-indent:5.25pt;">游戏简介</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://zhxy.feiliu.com/20140421/20417.shtml" style="text-indent:5.25pt;">游戏背景</a>
+</div>
+<p class="MsoNormal" style="text-align:center;text-indent:5.25pt;">
+	<br />
+</p>
+<div >
+	<a href="http://zhxy.feiliu.com/20140421/20416.shtml" style="text-indent:5.25pt;">角色+</a><span style="text-indent:5.25pt;"><a href="http://zhxy.feiliu.com/20140421/20416.shtml">技能介绍</a>&nbsp; &nbsp;</span><a href="http://zhxy.feiliu.com/20140422/20445.shtml" target="_blank" style="text-indent:5.25pt;">游戏界面介绍</a>&nbsp; &nbsp;&nbsp;<a href="http://zhxy.feiliu.com/20140422/20450.shtml" target="_blank" style="text-align:center;text-indent:5.25pt;">游戏特色</a>
+</div>
+<p >
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:5.25pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" >
+	二．系统介绍
+</p>
+<p class="MsoNormal" style="text-align:center;">
+	<br />
+</p>
+<div >
+	<a href="http://zhxy.feiliu.com/20140421/20418.shtml">宝石玩法</a>&nbsp; &nbsp;&nbsp;<a href="http://zhxy.feiliu.com/20140421/20419.shtml">登天路玩法</a>&nbsp; &nbsp;&nbsp;<a href="http://zhxy.feiliu.com/20140421/20420.shtml">符篆系统</a>
+</div>
+<p class="MsoNormal" style="text-align:center;">
+	<br />
+</p>
+<div >
+	<a href="http://zhxy.feiliu.com/20140421/20421.shtml">副本关卡</a>&nbsp; &nbsp;&nbsp;<a href="http://zhxy.feiliu.com/20140421/20422.shtml">副本系统</a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="http://zhxy.feiliu.com/20140421/20423.shtml">经书系统</a>
+</div>
+<p >
+	<br />
+</p>
+<p class="MsoNormal" >
+	<a href="http://zhxy.feiliu.com/20140421/20424.shtml">精英副本系统</a>&nbsp; &nbsp;&nbsp;<a href="http://zhxy.feiliu.com/20140421/20425.shtml">灵药园系统</a>&nbsp;&nbsp;<a href="http://zhxy.feiliu.com/20140421/20426.shtml">门派系统</a>
+</p>
+<p class="MsoNormal" >
+	<br />
+</p>
+<p class="MsoNormal" >
+	<a href="http://zhxy.feiliu.com/20140421/20427.shtml">其余玩法介绍<br />
+<br />
+</a>
+</p>
+<p class="MsoNormal" >
+	<a href="http://zhxy.feiliu.com/20140421/20428.shtml">三十六重天玩法</a>&nbsp; &nbsp;&nbsp;<a href="http://zhxy.feiliu.com/20140421/20429.shtml">属性培养系统</a>&nbsp; &nbsp;<a href="http://zhxy.feiliu.com/20140421/20430.shtml">星宿系统</a>
+</p>
+<p class="MsoNormal" >
+	<br />
+</p>
+<p class="MsoNormal" >
+	<a href="http://zhxy.feiliu.com/20140421/20431.shtml">装备打造玩法</a>&nbsp; &nbsp; &nbsp;&nbsp;<a href="http://zhxy.feiliu.com/20140421/20432.shtml">装备系统</a>
+</p>
+<p class="MsoNormal" ><img src="http://i0.feiliu.com/image/20140424/20140424110320_53100.jpg" width="500" height="375" alt="" /><br /><img src="http://i0.feiliu.com/image/20140424/20140424110344_74302.jpg" width="500" height="375" alt="" /><br /><img src="http://i0.feiliu.com/image/20140424/20140424110408_22148.jpg" width="500" height="375" alt="" />
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+      <!--轮播图-->
+      <div id="i-hd">
+        <div id="lunbo-img"> 
+<a href="http://sgyy.feiliu.com/20141224/22825.shtml" target="_blank" style="display: block;">
+<img src="http://js.feiliu.com/gameimg/sgyy/20141224152626.png"></a> 
+
+<a href="http://sgyy.feiliu.com/20141028/22333.shtml" target="_blank" style="display: none;">
+<img src="http://js.feiliu.com/gameimg/sgyy/20141015121053.jpg"></a>
+
+<a href="http://game.feiliu.com/youxishequ/index.html?o=sgyy1" target="_blank" style="display: none;">
+<img src="http://js.feiliu.com/gameimg/sgyy/20141231141444.jpg"></a> 
+
+</div>
+
+        <div class="lzlor"></div>
+        <div id="lunbo-nav"> 
+<a href="javascript:;" class="cur">1</a> 
+<a href="javascript:;" class="">2</a> 
+<a href="javascript:;" class="">3</a> 
+</div>
+      </div>
+      <!--轮播图--> 

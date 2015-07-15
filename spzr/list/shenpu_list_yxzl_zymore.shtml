@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">
+        <title>神谱之刃_飞流神谱之刃_首页_神谱之刃官网_飞流九天_2015年第一魔幻连击手游</title> 
+<meta name="keywords" content="神谱之刃官网,神谱之刃攻略,神谱之刃下载,2015年第一魔幻连击手游,史上最强魔幻连击手游,神谱之刃,神谱,飞流,飞流九天,游戏,手机游戏,网络游戏,动作游戏,游龙英雄,王者之剑,英雄之剑" />
+<meta name="description" content="2015年第一魔幻连击手游《神谱之刃》，是一款具备独特北欧魔幻风格的传统ARPG手游，有着超强的打击感、无限连击的超爽体验、独一无二的血脉系统、一环扣一环的冒险闯关及多元化的刻印系统、宝石系统、战魂系统、竞技系统、多人副本系统等等。更多有关神谱之刃官网,神谱之刃攻略,神谱之刃下载等资讯尽在神谱之刃官网。" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="format-detection" content="telephone=no"/>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/js.js"></script>
+        <link rel="stylesheet" href="http://js.feiliu.com/static/shenpu/webnew/css/style.css?v=768">
+        <!--[if IE 6]>
+        <script src="http://js.feiliu.com/static/shenpu/webnew/js/png.js"></script>
+        <script>
+                PNG.fix('*');
+        </script>
+        <![endif]--> 
+    </head>
+    <body>
+        <!-- 首页导航模板start-->
+        <!--#include virtual="/list/shenpu_index_nav.shtml"-->
+        <!-- 首页导航模板end-->    
+        <section class="section4">
+            <div class="hot-main">
+                <a href="http://spzr.feiliu.com" class="logo"></a>
+                <div class="hotnews">
+                    <h2 class="hot-title">职业</h2>
+                    <ul class="hotnews-list">
+              
+                          <li class="hotnews-item"><a href="http://spzr.feiliu.com/20141224/22818.shtml" target="_blank">打破传统 近战法师 《神谱之刃》精灵法师职业介绍</a><span class="hot-date">  2014-12-24</span></li>
+                          <li class="hotnews-item"><a href="http://spzr.feiliu.com/20141224/22817.shtml" target="_blank">战士的信仰！《神谱之刃》战士原画首曝</a><span class="hot-date">  2014-12-24</span></li>
+                          <li class="hotnews-item"><a href="http://spzr.feiliu.com/20141224/22811.shtml" target="_blank">狼人乱入！全新手游《神谱之刃》三大职业公布</a><span class="hot-date">  2014-12-24</span></li>
+                          <li class="hotnews-item"><a href="http://spzr.feiliu.com/20140926/22089.shtml" target="_blank">《神谱》职业介绍-精灵</a><span class="hot-date">  2014-09-26</span></li>
+                          <li class="hotnews-item"><a href="http://spzr.feiliu.com/20140925/22081.shtml" target="_blank">《神谱》职业介绍-战士</a><span class="hot-date">  2014-09-25</span></li>
+             
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!--公共底部模板start-->
+        <!--#include virtual="/list/shenpu_index_foot.shtml"-->
+        <!--公共底部模板end-->
+    </body>
+</html>	

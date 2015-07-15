@@ -1,0 +1,72 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">公告</a>
+									</div>
+				<div class="content">&nbsp;
+<p class="MsoNormal">
+	<span>《天天逗群英》安卓版不计费删档测试时间公布</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span>《天天逗群英》自上次测试后，大量主公询问再次开服时间，由于此次版本更新内容较多，比预期的开服时间延后了，在此我代表《天天逗群英》运营团队对给位主公表示由衷的歉意。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span>千年前的三国时代原貌重现，《天天逗群英》让你体验真正的三国战役！作为国内首款三国题材的群战策略手游，《天天逗群英》遵照三国史实，在游戏中的地图、环境、人物、兵种、策略等方面完美还原了那个以战争为主题的乱世。尤其是其中的数百个副本关卡，更是重现了三国的经典战役，让玩家可以身临其境回味三国，重新演绎战争精彩！</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span><span>&nbsp;</span></span><span>期盼已久的测试终于到来了。《天天逗群英》将于</span><span>2014/12/23</span><span>日上午</span><span>10:00</span><span>开启不计费删档测试。届时玩家可在官网下载安卓客户端参加测试。（</span><span>Ios</span><span>测试暂未开启）。<br /><img alt="" src="http://js.feiliu.com/gameimg/ttdqy/20141222114712.jpg" /><br />
+</span><span></span>
+</p>
+&nbsp;
+<p class="MsoNormal">
+	<span>更多精彩内容，敬请关注官方信息：</span> <span></span>
+</p>
+<p class="MsoNormal">
+	<span>官方</span><span>QQ</span><span>：</span><span>3131494764 <br />
+</span><span>官方</span><span>QQ</span><span>群：</span><span>210206480&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span>官网：</span><span><a href="http://ttdqy.feiliu.com/"><span style="text-decoration:none;">http://ttdqy.feiliu.com/</span></a></span> 
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	<span>实时资讯，互动交流，精彩随时掌握。</span> <span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp; </span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span><span>《天天逗群英》运营团队</span> <span></span>
+</p>
+<p>
+	&nbsp;
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

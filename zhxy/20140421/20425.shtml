@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>灵药园系统</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <h1>
+	灵药园玩法介绍<span></span> 
+</h1>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp; </span>种植种子<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家通过在<span>9</span>块土地种植资源，等待时间结束后收获奖励，如下图：<br /><img src="http://i0.feiliu.com/image/20140421/20140421163534_50200.jpg" width="500" height="328" alt="" /><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	种植的资源主要分为以下<span>3</span>类：<span></span> 
+</p>
+<p class="MsoPlainText" style="text-indent:21.0pt;">
+	经验种子，根据玩家等级，获得不同的经验；<span></span> 
+</p>
+<p class="MsoPlainText" style="text-indent:21.0pt;">
+	铜钱种子，根据玩家等级，获得不同的铜钱；<span></span> 
+</p>
+<p class="MsoPlainText" style="text-indent:21.0pt;">
+	星力种子，根据玩家等级，获得不同的星力<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家选择好种植后，不同的种子有独立的种子品质（等级），如下图<span>:</span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421163608_18071.jpg" width="500" height="329" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	灵药园的种子品质主要分为以下<span>5</span>类：<span></span> 
+</p>
+<p class="MsoPlainText" align="left" style="text-indent:21pt;">
+	<span>1</span>级：普通，基础数值的<span>50%</span> 
+</p>
+<p class="MsoPlainText" style="text-indent:21.0pt;">
+	<span>2</span>级：优秀，基础数值的<span>80%</span> 
+</p>
+<p class="MsoPlainText" style="text-indent:21.0pt;">
+	<span>3</span>级：精良，基础数值的<span>120%</span> 
+</p>
+<p class="MsoPlainText" style="text-indent:21.0pt;">
+	<span>4</span>级：传奇，基础数值的<span>180%</span> 
+</p>
+<p class="MsoPlainText" style="text-indent:21.0pt;">
+	<span>5</span>级：神话，基础数值的<span>300%</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家点击“开始种植”按钮后，种子在灵药园主界面的土地上出现，当种植成熟时可获取奖励，如下图：<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421163634_88950.jpg" width="500" height="323" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp; </span>购买种子<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家每天可种植的种子数量有限，如果要增加种植的次数，需要通过灵药园主界面上的种子增加按钮购买，系统将消耗元宝购买购买种子，如下图：<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421163711_22818.jpg" width="500" height="323" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

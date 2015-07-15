@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="http://js.feiliu.com/static/tk/web/css/meiti.css" rel="stylesheet" type="text/css" />
+<title>媒体嵌套模板</title>
+</head>
+
+<body>
+<div class="meiti">
+ 	<ul>
+		<li><a href="#">·111魔热血帮战资源夺旗源夺旗源夺旗</a><span class="date">[12-23]</span></li>
+		<li><a href="#">·112魔热血帮战资源夺旗源夺旗源夺旗</a><span class="date">[12-23]</span></li>
+		<li><a href="#">·113魔热血帮战资源夺旗源夺旗源夺旗</a><span class="date">[12-23]</span></li>
+		<li><a href="#">·114魔热血帮战资源夺旗源夺旗源夺旗</a><span class="date">[12-23]</span></li>           
+    </ul>
+     <span class="mtpic"><img src="http://js.feiliu.com/static/tk/web/images/meitipic.jpg" /></span>
+</div>
+</body>
+</html>

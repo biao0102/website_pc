@@ -1,0 +1,31 @@
+              <div class="top005" id="_showa5">
+                <ul class="buttonbg01">
+                  <li class="tk02"><a href="#" onmousemove="__showa(1);">坦克展示</a></li>
+                  <li class="tk02"><a href="#" onmousemove="__showa(2);">基地建筑</a></li>
+                  <li class="tk02"><a href="#"  onmousemove="__showa(3);">资源设施</a></li>
+                  <li class="tk02"><a href="#" onmousemove="__showa(4);">科研技术</a></li>
+                  <li class="tk01"><a href="#">增益属性</a></li>
+                </ul>
+                <div class="tankzs">
+                 <span class="zhanshi05 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/shuxing/pro_ship_attack.png" /><br />
+                  攻击 </span>
+                   <span class="zhanshi05 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/shuxing/pro_ship_attacktype_1.png" /><br />
+                  火炮攻击 </span>
+                   <span class="zhanshi05 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/shuxing/pro_ship_attacktype_2.png" /><br />
+                  穿甲攻击 </span>
+                   <span class="zhanshi05 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/shuxing/pro_ship_attacktype_3.png" /><br />
+                  爆裂攻击 </span>
+                   <span class="zhanshi05 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/shuxing/pro_ship_attacktype_4.png" /><br />
+                  火箭攻击 </span>
+                   <span class="zhanshi05 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/shuxing/pro_ship_life.png" /><br />
+                  血量 </span>
+                   <span class="zhanshi05 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/shuxing/skill_01.png" /><br />
+                  精准</span>
+                   <span class="zhanshi05 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/shuxing/skill_02.png" /><br />
+                  闪避 </span>
+                   <span class="zhanshi05 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/shuxing/skill_03.png" /><br />
+                  暴击 </span>
+                   <span class="zhanshi05 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/shuxing/skill_04.png" /><br />
+                  装甲 </span>
+                   </div>
+              </div>

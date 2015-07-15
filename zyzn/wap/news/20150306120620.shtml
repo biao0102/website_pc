@@ -1,0 +1,52 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">众妖新手入门 玩法介绍</div>
+			<div class="news-con">
+				&nbsp; &nbsp; 在《众妖之怒》中，拥有丰富的副本闯关，强力的怪物设计，多样化的单人、多人副本挑战，更有单人轮回之塔，多人末日之战的刺激玩法。其中我们可以通过装备强化、技能升级、宠物养成以及七字真言和镇元大仙的创新玩法，提升自身的实力，在跨服PVP单人天梯赛、团队竞技场中傲视群雄。<br />
+<br /><img src="http://i0.feiliu.com/image/20150306/20150306120514_65267.jpg" alt="" /><br />
+众妖之怒玩法介绍<br />
+主要玩法介绍：<br />
+PVE：通过单人副本（普通/精英）、多人团队副本（普通/精英）提升等级，获得资源奖励<br />
+PVP：通过跨服匹配进行单人、团队竞技场天梯赛，获得个人实力认可的至高荣誉<br />
+装备系统：通过强化和进阶提升装备属性，并且每一次进阶都会带来外形上的改变<br />
+技能系统：通过技能升级强化技能，每一系的技能拥有2个分支、每个技能拥有2个强化符文都可任意搭配选择，打造属于你的技能连招<br />
+宠物系统：通过喂养、进阶、培养提升宠物能力，解锁宠物技能，强化主角的实力，宠物分9个阶段，每一个阶段都会带来外形的改变；佩戴新宠物时将继承原有宠物强化进阶的等级<br />
+<br />
+<br />
+天宫通缉榜：不同于跨服竞技场，天宫通缉榜则提供给玩家离线pvp的乐趣，通过和其他玩家的离线战斗来进行实力排行<br />
+轮回之塔：单人挑战十层轮回之塔，每层连续挑战十波怪物，每通过一层均可获得大量奖励，更能获得特殊的七字真言奖励<br />
+七字真言：通过轮回之塔的修炼获得七字真言的精要，激活真言的套装属性，大幅强化角色的能力值<br />
+镇元大仙：通过镇元大仙获得神将卡的守护，可同时选择6位神将来强化角色的属性，神将卡可进行强化和进阶，让你的战斗力实现质的飞跃<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

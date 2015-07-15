@@ -1,0 +1,21 @@
+<div class="newscon">
+              <div class="hotcon"> 
+              <img src="http://js.feiliu.com/gameimg/zjh/20140923160801.jpg" /> 
+              <a href="" class="hot01">中后期必读战术 必招募侠客汇总 …</a> 
+              <a href="" class="hot02">可以玩的水墨大电影《最江湖》双模式战斗创新..</a> 
+              <a href="http://zjh.feiliu.com/list/list_zjh_yxgl.shtml"  class="ckxq">查看详情>></a> 
+              </div>
+              <a class="more">更多>></a>
+              <!--最江湖首页综合栏目模板start-->
+                <!--#include virtual="/list/index_zjh_zhcol.shtml"-->
+              <!--最江湖首页综合栏目模板end-->
+              <!--最江湖首页新闻栏目模板start-->
+                <!--#include virtual="/list/index_zjh_newscol.shtml"-->
+              <!--最江湖首页新闻栏目模板end-->
+              <!--最江湖首页公告栏目模板start-->
+                <!--#include virtual="/list/index_zjh_ggcol.shtml"-->
+              <!--最江湖首页公告栏目模板end-->
+              <!--最江湖首页活动栏目模板start-->
+                <!--#include virtual="/list/index_zjh_hdcol.shtml"-->
+              <!--最江湖首页活动栏目模板end-->
+            </div>

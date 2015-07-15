@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《战地坦克》攻略</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-12-11</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	军衔系统：<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	根据等级和军功在每日凌晨3.00进行更新升级军衔，军功越高，军衔越高。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	从少将开始，人数会有限制。同等级的情况下，以军功高的玩家优先提升军衔。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	如果军功在达到后第二天未提升需要在攻打下同等级或者等级类似的玩家，在查看第三天军功是否升级。或者查看下在少将之后否当前有玩家军功比您高，那也是无法进行升级的。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	出站部队满编：<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	如您的游戏内的坦克建造不提升战斗力的情况下，建议您把所有部队收回。查看下您战斗力界面中的最大战力是否满编或者接近满编，若接近满编，建议您如下操作来提升您的战斗力：1、研发您的科技等级。2、研发您的配件的强化等级和改造等级。3、提升您的主等级来提高您的最大部队满编的数量。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	如您的游戏内的坦克没有接近满编，建议您查看下：1、在部队中的最大战力界面，把没有提升战力的坦克造满。查看是否有提升。例：您的坦克比歼击车很多的战力值，那您在少量建造歼击车也是不会提升战力值的。需要您把当前建造的歼击车建满查看下。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	战斗耗损：<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	攻打：关卡、矿点、玩家驻守基地和矿点，是会有20%的耗损。在20%的耗损外，使用金币修复，是会全部修复的，若使用水晶修复，也是会再次耗损20%的。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	配件系统：<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	尖端配件需使用熔炼核心，需要配件的改造等级为5级才可以突破为尖端配件。<br />
+	<div style="text-align:center;">
+		<span ></span><img src="http://i0.feiliu.com/image/20141211/20141211181310_89432.png" alt=""  /><br />
+最终解释权，归战地坦克项目组所有。
+	</div>
+<o:p></o:p>
+</p>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

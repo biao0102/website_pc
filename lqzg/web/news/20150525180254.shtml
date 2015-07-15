@@ -1,0 +1,168 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>龙骑战歌官方网站</title> 
+    <meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+    <meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<link href="http://js.feiliu.com/static/lqzg/web0525/css/index.css?v=4" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/slides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/index.js?v=1"></script>
+<script>
+        function getArgs()
+        {
+            var argsArr = new Object();
+            var query = window.location.search;  
+            query = query.substring(1);
+            var pairs = query.split("&");
+            for(var i=0;i<pairs.length;i++)
+            {
+                var sign = pairs[i].indexOf("="); 
+                if(sign == -1)
+                {
+                    continue; 
+                }
+                var aKey = pairs[i].substring(0,sign);
+                var aValue = pairs[i].substring(sign+1);         
+                argsArr[aKey] = unescape(aValue);
+
+            }
+            return argsArr;
+        }
+
+        var param = new Object();
+        param = getArgs();
+        var source = param.s;
+
+        if(!source)
+        {
+            source = '300021';
+        }
+
+
+		function isMobile(args) {
+			var sUserAgent= navigator.userAgent.toLowerCase();
+			var bIsIpad= sUserAgent.match(/ipad/i) == "ipad";
+			var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsMidp= sUserAgent.match(/midp/i) == "midp";
+			var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+			var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb";
+			var bIsAndroid= sUserAgent.match(/android/i) == "android";
+			var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce";
+			var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile";
+			if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) 
+			{
+				window.location.href= 'http://lqzg.feiliu.com/wap/list/index.shtml?s='+source;
+			}
+		}
+		isMobile();
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
+<body>
+<div class="page">
+    <div class="nav">
+    <div class="nav-con">
+        <a href="http://lqzg.feiliu.com/index.shtml"><img src="http://js.feiliu.com/static/lqzg/web0525/images/logo.png" alt="logo" class="logo" /></a>
+        <ul>
+            <li><a href="http://lqzg.feiliu.com/web/list/home.shtml">首页</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml">新闻公告</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/index.shtml">玩法特色</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/notice.shtml">职业介绍</a></li>
+            <li><a href="javascript:alert('敬请期待');">游戏活动</a></li>
+            <li><a href="http://bbs.8783.com/forum-178-1.html">论坛</a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="public-top"></div>
+    <div class="public-con">
+        <div class="public-box">
+            <div class="public-left">
+    <div class="public-code">
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="ios-link"></a>
+        <a href="http://lqzg.feiliu.com/download?cid=300021&type=5" class="android-link"></a>
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="raiders-link"></a>
+        <div>
+            <p>扫一扫关注龙骑战歌</p>
+            <img src="http://js.feiliu.com/static/lqzg/web0525/images/public-code.jpg" />
+        </div>
+    </div>
+    <ul class="public-adv">
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114758.jpg" alt="" /></a></li>
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114939.jpg" alt="" /></a></li>
+        <li><a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150526115157.jpg" alt="" /></a></li>
+    </ul>
+</div>
+            <div class="public-right">
+                <div class="public-title">
+                    <h5>新闻公告</h5>
+                    <a href="http://lqzg.feiliu.com/web/list/newslist.shtml"><<返回</a>
+                </div>
+                <div class="newsDetail">
+                    <h5>竞技级手游蓄势待发 《龙骑战歌》明日震撼内测</h5>
+                    <dl>
+                        <dt>发布于<span>2015-05-25 18:02:54</span></dt>
+                        <dd><span>分享到</span><div><a href="javascript:void(0);" class="weixin"></a><a href="javascript:void(0);" class="qzone"></a><a href="javascript:void(0);" class="tsina"></a><a href="javascript:void(0);" class="tqq"></a><a href="javascript:void(0);" class="renren"></a></div></dd>
+                    </dl>
+                    <div class="newsDetail-con">
+                        <p>竞技级3D魔幻骑战动作手游《龙骑战歌》明日震撼开启安卓内测，你从未体验过的骑战势必震撼你的身心！数十万字构建的宏伟世界，高清3D的辽阔地域，骑乘坐骑驰骋在大地或翱翔天际，数十个种族势力、数以万计的怪物人设、真实的动作、强烈的打击感……《龙骑战歌》让手游拥有史诗级品质，史上最宏伟的战斗篇章即将震撼开幕！</p><p><br/></p><p>《龙骑战歌》官方网站：http://lqzg.feiliu.com</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526180235.jpg" title="20150526180235.jpg" alt="图1：《龙骑战歌》明日震撼内测.jpg"/></p><p><br/></p><p>【巅峰骑战 开创动作手游新时代】</p><p><br/></p><p>&nbsp; 《龙骑战歌》开创手游全新时代，玩家首次可以在手游中亲身领略骑乘陆地、空中坐骑畅快战斗的快感。全3D的高清画面、劲爆绚丽的技能特效、招招到位的真实战斗感、丰富多彩的游戏玩法……这一起的精彩将在你的手中全部呈现。同时，除了极为激情的战斗体验，《龙骑战歌》还开放了宠物、坐骑、小伙伴的培养机制，让玩家可以享受充满爱的温馨的养成乐趣。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526180240.jpg" title="20150526180240.jpg" alt="图2：《龙骑战歌》 感受骑战激情.jpg"/></p><p><br/></p><p>【覆盖全网络 随时随地找到游戏】</p><p><br/></p><p>&nbsp; 作为一款长期占据手游期待榜前茅的顶尖手游，《龙骑战歌》此次安卓内测受到了众多安卓渠道的支持。在内测开启后，玩家可以在几乎覆盖全网络的众多安卓游戏平台下载游戏。而在此之外，《龙骑战歌》还将登陆滴滴打车，玩家可以也可以从其中下载游戏。覆盖全网络的《龙骑战歌》将让你随时随地轻松找到游戏，尽快感受骑战的激情。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526180245.jpg" title="20150526180245.jpg" alt="图3：覆盖全网络 随时随地找到游戏.jpg"/></p><p><br/></p><p>【福利转送 亲朋好友共分千万红包】</p><p><br/></p><p>&nbsp; 在内测开启时，《龙骑战歌》将揭幕一系列免费送礼活动，游戏内的珍贵道具、游戏币、装备等等重磅豪礼全部可以免费领取，让玩家可以快速享受巅峰战斗的乐趣。同时，《龙骑战歌》与滴滴打车的跨界合作也正式开启，玩家现在就可以前往游戏官网领取千万专车红包，节省时间，快速进入期待已久的龙骑世界，让你的时间更有价值！</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150526180252.jpg" title="20150526180252.jpg" alt="图4：分享红包 与亲朋好友共享游戏乐趣.jpg"/></p><p><br/></p><p>&nbsp; 墨麟耗时1年多，耗资亿元倾力打造的史诗级手游，动作手游的巅峰巨献，《龙骑战歌》即将内测，你准备好化身龙骑士，感受驾驭巨龙翱翔天际的快感了吗？</p><p><br/></p>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-con">
+            <p>About.us | Copy right@北京飞流九天科技有限公司</p>
+            <p>爱游戏，爱生活，也爱美女。</p>
+            <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+            <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+            <p>Love is love!</p>
+        </div>
+    </div>
+</div>
+    <script>
+        var link = $('.android-link').attr('href');
+        if(!link)
+        {
+        	$('.android-link a').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }else{
+        	$('.android-link').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }
+        
+        $('a').click(function(e){
+            var url = $(this).attr('href');
+            if(url != 'javascript:void(0);' && url != "javascript:;");
+            {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                if(url.indexOf('?') > -1)
+                {
+                    var tourl = url + '&s='+source;
+                } else {
+                    var tourl = url + '?s='+source;
+                }
+                window.location.href = tourl;   
+            }
+        });
+
+
+    </script>
+    <script>$.ajax({ url:"http://gameapi.feiliu.com/game/netlog",type:'GET',dataType:'jsonp',success: function(data){}});</script>
+    <div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

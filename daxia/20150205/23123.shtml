@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>应用宝更新公告_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">公告</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">应用宝更新公告</div>
+              <p>尊敬的玩家们：<br />
+我们将于2015.2.6日上午10点至12点进行停服更新，届时您将无法登陆游戏，请您合理安排时间，期待新内容的到来。<br />
+<br />
+<br />
+1.5.010的更新内容：<br />
+————————————————————————<br />
+新增内容：<br />
+1.新增噩梦江湖副本，通过普通所有关卡以后，可开启噩梦江湖。噩梦江湖的关卡有不同的特点，通过不同的阵形组合，带来新的挑战。噩梦江湖会掉落套装所需要的材料。<br />
+2.新增套装合成系统，在现有装备的基础上增加5种套装的合成。通过套装升级不但可以获得独有的技能，成套的套装还有额外套装属性加成。<br />
+<br />
+<br />
+优化部分：<br />
+1.限时神将榜单优化，多保留一天用户榜单。<br />
+2.调整了煞气大侠的血量。<br />
+3.优化了家园界面的头像。<br />
+4.优化了内存和显存的性能，使游戏运行起来更加顺畅。<br />
+<br />
+<br />
+修复bug：<br />
+1.修复武功显示信息错误的问题。连击率改为连击伤害，反震率改为反震伤害。<br />
+2.修复帮派活跃度界面，多出一条横线<br />
+3.修复多个界面字体被切。<br />
+4.修正添加好友界面，输入好友ID编辑框左边偏移。<br />
+<div >
+	<br />
+</div></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

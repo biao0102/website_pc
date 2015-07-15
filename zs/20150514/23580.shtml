@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">VIP返利活动限时开启</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2015-05-14 16:09:48</span>
+																			</div>
+									<div class="w-d">
+										亲爱的玩家们：<br />
+&nbsp; &nbsp; 大家好！VIP返利活动，即将在如下部分区服开启，请如下区服的玩家积极参加哦！机会相当难得，一定要把握住机会哦！<br />
+<br />
+&nbsp; &nbsp;&nbsp;<span>【活动时间】：即日起--5月18日0:00整（我们将以5月18日0:00整的VIP数据作为发奖标准，逾期数据不作为参考依据。）</span><br />
+<br />
+<span>&nbsp; &nbsp; 【活动区服】：原“合纵连横”“中原逐鹿”“雄韬伟略”“天下无双”“青梅煮酒”服务器，以及4月9日战力合服之后所有国籍为“吴国”且在一个月内登陆过游戏的玩家。（请注意！其他区服玩家不参加此次活动）</span><br />
+<br />
+<span>&nbsp; &nbsp; 【活动形式】：活动期间VIP等级达到相应级别便可获得相对应的奖励。<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 例：V14的玩家可以获得V1-V14的所有元宝奖励。<span>V13的玩家可以获得V1-V13的所有元宝奖励。<span>V12的玩家可以获得V1-V12的所有元宝奖励。</span></span>以此类推。<br />
+<br /><img src="http://i0.feiliu.com/image/20150514/20150514153514_82340.png" alt="" /><br />
+<br />
+<span>&nbsp; &nbsp;【奖励发放】：</span>我们将在活动结束后1-3个工作日内发放元宝奖励。请注意，元宝奖励将会直接加到玩家当前元宝数上面，届时请注意查收！<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<span>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组</span><br />
+<span>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2015.5.14</span></span><br />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

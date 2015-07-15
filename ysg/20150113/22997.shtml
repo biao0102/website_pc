@@ -1,0 +1,78 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			游戏资料
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			游戏资料
+	        				        		</div>
+	    			<div class="infotitle">《就是要三国》任务系统</div>
+		        	<div class="textTime">2015-01-13</div>
+		    		<div class="article">
+						<blockquote style="margin:0 0 0 40px;border:none;padding:0px;">
+	<p class="MsoNormal">
+		<b><span><img src="http://i0.feiliu.com/image/20150113/20150113113602_92776.jpg" alt="" /><br />
+开启条件：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>无（每日任务需</span><span>15</span><span>级开启）</span> 
+	</p>
+	<p class="MsoNormal">
+		<span>&nbsp;</span> 
+	</p>
+	<p class="MsoNormal" align="left">
+		<b><span>可获得奖励：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>角色经验、充值币、游戏币、装备、将魂</span> 
+	</p>
+	<p class="MsoNormal">
+		<span>&nbsp;</span> 
+	</p>
+	<p class="MsoNormal">
+		<b><span>玩法介绍：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>任务是游戏中主要的中心线路。</span> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>任务分为每日任务和成长任务，每日任务主要提供角色经验，成长任务主要提供其它奖励</span> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>每日任务每天刷新，每天可做</span><span>1</span><span>次，成长任务每个只可做</span><span>1</span><span>次。</span> 
+	</p>
+</blockquote>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

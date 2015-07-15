@@ -1,0 +1,17 @@
+	<section class="clearfix">
+		<!--首页主体新手攻略模板开始-->
+			<!--#include virtual="/list/index_zs_xsgl.shtml"-->
+		<!--首页主体新手攻略模板结束-->
+		
+		<!--首页主体副本攻略模板开始-->
+			<!--#include virtual="/list/index_zs_fbgl.shtml"-->
+		<!--首页主体副本攻略模板结束-->
+		
+		<!--首页主体进阶攻略模板开始-->
+			<!--#include virtual="/list/index_zs_jjgl.shtml"-->
+		<!--首页主体进阶攻略模板结束-->
+		
+		<!--首页主体热点推荐模板开始-->
+			<!--#include virtual="/list/index_zs_rdtj.shtml"-->
+		<!--首页主体热点推荐模板结束-->
+      </section>

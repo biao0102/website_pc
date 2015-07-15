@@ -1,0 +1,14 @@
+			<div class="newscon fltt th rel"> <a href="http://zyzn.feiliu.com/list/zyzn_list_news.shtml" class="more">MORE</a>
+				<!--众妖之怒首页最新栏目模板模板start-->
+					<!--#include virtual="/list/zyzn_index_zxcol.shtml"-->
+				<!--众妖之怒首页最新栏目模板模板end-->
+				<!--众妖之怒首页新闻栏目模板模板start-->
+					<!--#include virtual="/list/zyzn_index_newscol.shtml"-->
+				<!--众妖之怒首页新闻栏目模板模板end-->
+				<!--众妖之怒首页活动栏目模板模板start-->
+					<!--#include virtual="/list/zyzn_index_hdcol.shtml"-->
+				<!--众妖之怒首页活动栏目模板模板end-->
+				<!--众妖之怒首页公告栏目模板模板start-->
+					<!--#include virtual="/list/zyzn_index_ggcol.shtml"-->
+				<!--众妖之怒首页公告栏目模板模板end-->
+			</div>

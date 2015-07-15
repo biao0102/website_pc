@@ -1,0 +1,58 @@
+  <div id="content"> 
+  	<div class="clearfix">
+    <!--主动技能-->
+    <div class="zgjn">
+      <h1><img src="http://js.feiliu.com/static/zs/images/zgjnbg.jpg"></h1>
+      <div class="zgjn_nr clearfix">
+        <div class="tab-menu"> <a href="javascript:;" class="cur"><img src="http://i0.feiliu.com/201405/54/54596f81289422b2a497d7ad936861fc.png"><b>冰风蚀骨</b></a> <a href="javascript:;"><img src="http://i0.feiliu.com/201405/95/957965bffa85022153388fa9f8a207af.png"><b>风刃裂地</b></a> <a href="javascript:;"><img src="http://i0.feiliu.com/201405/f7/f741b99229057d7ef0054561a1b749e2.png"><b>风岚破</b></a> <a href="javascript:;"><img src="http://i0.feiliu.com/201405/bb/bb5f77dabd8aecca786172bb5ce31cf4.png"><b>风卷残云</b></a> </div>
+        <div class="tab-ctn">
+          <p style="display:block;">冰风蚀骨：月翎初级技能，冰封如锥，刺骨销魂</br>　　冷却时间：4秒 所需等级：1级</br>　　技能效果：对周围固定范围内单个目标造成普通伤害以及部分风系伤害；同时给该目标　　添加风蚀状态，降低其普通防御；技能伤害随技能等级提高而增加</p>
+          <p>风刃裂地：月翎中级技能，风如利刃，崩山裂地</br>　　冷却时间：7秒 所需等级：5级</br>　　技能效果：对周围固定范围内最多5个目标造成普通伤害以及部分风系伤害；</br>　　技能伤害随技能等级提高而增加</p>
+          <p>风岚破：月翎高级技能，风岚漫袭，破八荒</br>　　冷却时间：10.5秒 所需等级：20级</br>　　技能效果：对周围固定范围内单个目标造成风系伤害；同时有几率给目标添加风残状　　　态，造成缠绕效果；技能伤害随技能等级提高而增加</p>
+          <p>风卷残云：月翎高级技能，风卷而过，片云不留</br>　　冷却时间：15秒 所需等级：35级</br>　　技能效果：对周围固定范围内最多5个目标造成普通伤害以及部分风系伤害；同时给自己　　添加风啸状态，提升自身暴击值；技能伤害随技能等级提高而增加</p>
+        </div>
+      </div>
+    </div>
+    <!--主动技能 end--> 
+    <!--被动技能-->
+    <div class="bdjn">
+      <h1><img src="http://js.feiliu.com/static/zs/images/dbjnbg.jpg"></h1>
+      <div class="bdjnList">
+        <dl class="bdjn-item">
+          <dt><img src="http://i0.feiliu.com/201405/ca/ca53718100a809a37cad27cde9b041f4.png"></dt>
+          <dd>
+            <h4>天眼诀</h4>
+            <p>天眼一开，无处遁形</br>永久提升自身命中值</p>
+          </dd>
+        </dl>
+        <dl class="bdjn-item even">
+          <dt><img src="http://i0.feiliu.com/201405/68/68ee2f0317e3dab30b77a5820856c08a.png"></dt>
+          <dd>
+            <h4>道骨仙风</h4>
+            <p>仙风道骨，正气凛然</br>攻击时有几率提升自身风系攻击</p>
+          </dd>
+        </dl>
+        <dl class="bdjn-item">
+          <dt><img src="http://i0.feiliu.com/201405/8a/8ae3a5c512e31e1a5359368a9c5be40a.png"></dt>
+          <dd>
+            <h4>避火诀</h4>
+            <p>寒冰之气，驱散业火</br>永久提升自身火系抗性</p>
+          </dd>
+        </dl>
+        <dl class="bdjn-item even">
+          <dt><img src="http://i0.feiliu.com/201405/24/242ab329c1ec3a759c50138d1e82c09d.png"></dt>
+          <dd>
+            <h4>云隐术</h4>
+            <p>片云遮掩，虚无飘渺</br>永久提升自身闪避值</p>
+          </dd>
+        </dl>
+      </div>
+    </div>
+    <!--被动技能 end-->
+    </div>
+    <div class="cb mt10"> 
+      <!--截图-->
+      <div class="jietu fl"> <img src="http://i0.feiliu.com/201405/0c/0cf9d850adf9667c0592445317348ce9.jpg"> </div>
+      <div class="jietu fr"> <img src="http://i0.feiliu.com/201405/8e/8ea390f1bf9cac6d27272be27988e1cd.jpg"> </div>
+    </div>
+  </div>

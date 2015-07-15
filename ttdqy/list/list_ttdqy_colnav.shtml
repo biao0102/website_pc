@@ -1,0 +1,8 @@
+			<div id="menu">
+				<a href="http://ttdqy.feiliu.com"><span>官</span>网首页</a>
+				<a href="http://ttdqy.feiliu.com/list/list_ttdqy_data.shtml"><span>游</span>戏资料站</a>
+				<a href="http://ttdqy.feiliu.com/list/list_ttdqy_hero.shtml"><span>三</span>国点将谱</a>
+				<a class="menu-curr" href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml"><span>群</span>英大事件</a>
+				<a href="http://ttdqy.feiliu.com/list/list_ttdqy_downpage.shtml"><span>游</span>戏下载</a>
+				<a href="http://bbs.8783.com/forum-192-1.html" target="_blank"><span>玩</span>家论坛</a>	
+			</div>

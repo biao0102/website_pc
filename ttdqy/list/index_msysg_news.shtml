@@ -1,0 +1,24 @@
+            <div class="top004" id="_show4">
+              <ul class="buttonbg">
+                <li class="li02"><a href="http://ttdqy.feiliu.com/list/list_msysg_zx.shtml" onMouseMove="__show(1);">最新</a></li>
+                <li class="li02"><a href="http://ttdqy.feiliu.com/list/list_msysg_gg.shtml" onMouseMove="__show(2);">公告</a></li>
+                <li class="li02"><a href="http://ttdqy.feiliu.com/list/list_msysg_hd.shtml" onMouseMove="__show(3);">活动</a></li>
+                <li class="li01"><a href="http://ttdqy.feiliu.com/list/list_msysg_news.shtml" >新闻</a></li>
+                <li><a href="http://ttdqy.feiliu.com/list/list_msysg_zx.shtml" class="more">更多+</a></li>
+              </ul>
+              <div class="news01">
+                <ul>
+                    
+                    
+                  <li><a href="http://ttdqy.feiliu.com/20141223/22803.shtml" target="_blank">【新闻】《天天逗群英》封测大礼包发放媒体汇总</a><span class="date">12-23</span></li>
+                    
+                  <li><a href="http://ttdqy.feiliu.com/20141223/22802.shtml" target="_blank">【新闻】《天天逗群英》武将升星突破详细解析</a><span class="date">12-23</span></li>
+                    
+                  <li><a href="http://ttdqy.feiliu.com/20141223/22801.shtml" target="_blank">【新闻】安卓六大渠道护航！《天天逗群英》封测今日开启</a><span class="date">12-23</span></li>
+                    
+                  <li><a href="http://ttdqy.feiliu.com/20141223/22800.shtml" target="_blank">【新闻】决战沙场称霸三国 《天天逗群英》史上最激情的PVP</a><span class="date">12-23</span></li>
+                    
+                  <li><a href="http://ttdqy.feiliu.com/20141223/22799.shtml" target="_blank">【新闻】烽火连天！《天天逗群英》宏大场景重现三国战场</a><span class="date">12-23</span></li>
+                                  </ul>
+              </div>
+            </div>

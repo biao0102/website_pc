@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>《三国艳义》女体三国养成手游__三国艳义官网</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<meta name="keywords" content="三国艳义,三国艳义下载,三国艳义正版,三国艳义越狱,三国艳义安卓,三国艳义官网,sanguoyanyi,妹三国,策略,游戏,动漫,美女,卡牌,二次元,女神,三国演义,妖姬,魅姬,动漫吧,轮回,宅男." />
+<meta name="description" content="2014新作《三国艳义》重磅出炉 。 《三国艳义》是动漫与古三国的结合体，画面精美！打造出全新二次元世界！ 玩家通过收集、强化、进化、突破界限来不断增强武将的品质。 卡牌玩法丰富，卡牌组合和排兵布阵考验玩家智慧。 多元成长体系、剧情闯关、迷宫副本、轮回之战，美女们的世界等你来挑战！ 宅男们快来体验吧~" />
+    
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/sgyy/css/index.css?v=201408211138">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time","section"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div id="ripiao">
+<span><img src="http://js.feiliu.com/images/fl_community.jpg?v=1" /></span></div>
+<div class="warp tpa">
+  <div id="i-bbh">
+    <dl>
+      <dt><img src="http://js.feiliu.com/gameimg/sgyy/20140925103635.png"></dt>
+      <dd>版本号：V 1.5.3</dd>
+    </dl>
+    <em class="bg"></em> </div>
+			<!--三国艳义首页顶部导航模板start-->
+				<!--#include virtual="/list/index_sgyy_daohang.shtml"-->
+			<!--三国艳义首页顶部导航模板end-->
+
+</div>
+<div class="showbg"> </div>
+<div id="content" class="warp"> 
+  <!--主体区域-->
+  <div id="main">
+			<!--三国艳义首页中部资讯公告模板start-->
+				<!--#include virtual="/list/index_sgyy_gonggao.shtml"-->
+			<!--三国艳义首页中部资讯公告模板end-->
+
+
+			<!--三国艳义首页中部图片模板start-->
+				<!--#include virtual="/list/index_sgyy_tupian.shtml"-->
+			<!--三国艳义首页中部图片模板end-->
+
+
+    <div id="marea03">
+			<!--三国艳义首页中部技能模板start-->
+				<!--#include virtual="/list/index_sgyy_jineng.shtml"-->
+			<!--三国艳义首页中部技能模板end-->
+
+			<!--三国艳义首页游戏截图模板start-->
+				<!--#include virtual="/list/index_sgyy_jietu.shtml"-->
+			<!--三国艳义首页游戏截图模板end-->
+
+			<!--三国艳义首页媒体专区模板start-->
+				<!--#include virtual="/list/index_sgyy_meiti.shtml"-->
+			<!--三国艳义首页媒体专区模板end-->
+
+      
+      <!--合作媒体-->
+			<!--三国艳义首页底端合作模板start-->
+				<!--#include virtual="/list/index_sgyy_hezuo.shtml"-->
+			<!--三国艳义首页底端合作模板end-->
+
+    </div>
+  </div>
+  <!--主体区域 end--> 
+  <!--侧边栏-->
+  <div id="sidebar">
+    <div> 			<!--三国艳义首页底部模板start-->
+				<!--#include virtual="/list/index_sgyy_xiazai.shtml"-->
+			<!--三国艳义首页底部模板end-->
+    </div>
+    <!--卡牌-->
+
+			<!--三国艳义首页左侧卡片展示模板start-->
+				<!--#include virtual="/list/index_sgyy_zhanshi.shtml"-->
+			<!--三国艳义首页左侧卡片展示模板end-->
+  </div>
+  <!--侧边栏 end--> 
+</div>
+			<!--三国艳义首页底部模板start-->
+				<!--#include virtual="/list/index_sgyy_footer.shtml"-->
+			<!--三国艳义首页底部模板end-->
+
+
+
+			<!--三国艳义首页首页右侧定位图模板start-->
+				<!--#include virtual="/list/index_sgyy_dingwei.shtml"-->
+			<!--三国艳义首页首页右侧定位图模板end-->
+<script type="text/javascript" src="http://js.feiliu.com/static/sgyy/js/jquery-1.8.0.min.js?v=2"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/sgyy/js/global.js?v=2"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/sgyy/js/ie6fixed.js?v=2"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/sgyy/js/move.js?v=2"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/sgyy/js/imgshow.js?v=2"></script>
+<script>
+$(function(){
+	$("#lunbo-nav").hoverdom({menuDiv:"lunbo-img",autoTime:"4000",menuDiv_dom:"a",num:3,tabCurClass:"cur"});	
+	$("#newsbox").tabMenu({tabMenuBox:".tab-menu",tabMenuSub:"a",tabCtnBox:".tab-ctn",tabCtnSub:".i-lt1",tabMenuCur:"cur"});
+	$("#mtzq").tabMenu({tabMenuBox:".tab-menu",tabMenuSub:"li",tabCtnBox:".mtl-area",tabCtnSub:".tab-ctn",tabMenuCur:"cur"});
+})
+var ie6Fixed = FL.util.ie6Fixed;
+ie6Fixed.fixed($("#btm_tip"), "rb");
+</script>
+<script>	
+	$(function(){
+		gundong();
+	});
+	
+    function gundong(){
+        var box = $("#hz_list");
+        var owidth = box.children("li").eq(0).outerWidth();
+        var num = box.children("li").length;
+        var i = 0;
+        var timer = null;
+        var time = 20;
+
+        if (num > 5) {
+            box.append(box.html());
+            box.css("width", 2 * owidth * num + "px");
+            timer = setInterval(gdAnimate, time);
+            box.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(gdAnimate, time);
+            });
+        }
+        function gdAnimate() {
+            i = i > owidth * num ? 0 : i + 1;
+            box.css("left", -i + "px");
+        }
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_进阶攻略</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		  <div class="headerT1">
+    <nav>
+      <ul>
+        <li><a href="http://zs.feiliu.com/list/index_zs.shtml" target="_blank">首页</a></li>
+        <li><a href="http://zs.feiliu.com/list/list_zs_allzx.shtml" target="_blank">资讯中心</a></li>
+        <li><a href="http://zs.feiliu.com/list/down_zs.shtml" target="_blank">下载专区</a></li>
+        <li class="sub"><a href="http://zs.feiliu.com/list/list_zs_zl.shtml">资料大全</a>
+        	<div class="sub-forbg"></div>
+        	<div class="sub-box">
+            	<a href="http://zs.feiliu.com/list/list_zs_zl.shtml">资料站</a>
+                <a href="#">新手指南</a>
+                <a href="http://zs.feiliu.com/list/focus_zs_list.shtml">职业专题</a>
+                <a href="http://zs.feiliu.com/list/video_zs_yxsp.shtml" class="nobor">游戏视频</a>
+            </div>
+        </li>
+        <li><a href="#" target="_blank">服务中心</a></li>
+        <li><a href="http://bbs.8783.com/forum-70-1.html" target="_blank">社区中心</a></li>
+      </ul>
+    </nav>
+  </div>
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		        <div class="showbg">
+        	<img src="http://js.feiliu.com/static/zs/images/slt1_01.jpg">
+            <img src="http://js.feiliu.com/static/zs/images/slt1_02.jpg">
+            <img src="http://js.feiliu.com/static/zs/images/slt1_03.jpg">
+        </div>
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">帮会领地战的打法</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-27 21:12:54</span>
+																			</div>
+									<div class="w-d">
+										　　写在前面：基于目前版本游戏无内置语音系统，所以想真正体验帮战激情的玩家目前只能借助其他语音平台，有了好的装备才可以更好的上阵杀敌嘛。<br />
+<br />
+下面首先来分析一下目前版本帮会领地战的信息与规则，目前共有十块领地：<br />
+3个领地为枯竭的：凉州，并州，雍州（富饶：50%）<br />
+3个领地为普通的：冀州，青州，徐州（富饶：70%）<br />
+3个领地为充足的：扬州，荆州，益州（富饶：100%）<br />
+1个领地为富饶的：司隶（富饶：150%）<br />
+最强帮会的判断标准是以占领领地数量进行判断的哦，而不是以富饶程度之和判断，富饶程度只是影响持续六天的帮会福利，所以，我们可以得出一个结论——司隶虽为兵家必争之地，但也不是非得不可。可以通过占领其他富饶程度较低的领地来角逐最强帮会。<br />
+<br />
+　　下面说进入领地地图后的打法，如果你的帮会没有绝对人数和战斗力上的优势，不建议分流出兵，而应该是抱团打天下。<br />
+先说攻击旗子：<br />
+1.去攻打防守人员较多的敌方领地时，一定要注意阵型的作用，进入领地是从东南西北四个方向随机进入，指挥者一定要把兄弟们召集在一起集合抱团，然后纯防T型豪杰站在最前面，同时最好把“天外流星“（3秒眩晕）放在第一个技能槽，不论手动操作还是自动战斗，都可以第一时间将敌方控制，闪避流月灵也可以冲入敌方阵型里吸收伤害，作为主要输出的天机一定要站在后排全力输出哈<br />
+Ps:月灵和天机也要将各自的主动3技能放在起手技能上，这样配合豪杰的3技能，若能Combo衔接的好，最多可以长达近10秒的控制，秒杀不成问题，所以说，在帮战中，控制技能和群伤技能非常重要，如果能一波流带走敌方，就全力输出旗子。<br />
+再说防守旗子：<br />
+1. 防守争夺很激烈的领地时，所以人一定都要抱团在中间的台子上，切记不可分兵去 东南西北 四个进入点去守尸（很有可能瞬间进来很多红名玩家，单单几个人根本守不住，旗子很容易失手）<br />
+2. 防守程饶程度低的领地时，可以采用分流守尸的打法，将红名玩家牢牢控制在出生点<br />
+3. 帮会人数有限，却想打其他领地怎么办？可以在已占领的领地中留下2—3名月灵玩家，如果地方来打棋子，一定要采用毛爷爷的战术“敌进我退，敌退我追，敌驻我扰，敌疲我打”，充分发挥月灵闪避和远程的优势，敌方来打旗子，就在远处攻击他，如果敌方来打，就将敌方带走离开棋子范围，同时召集帮会的兄弟们回来守旗，切记不可恋战，一切以战略为重<br />
+帮会领地战的后30分钟非常重要，还有一种非常规的打法可供参考，尤其旗子的归属是按照帮会整体输出量的多少进行判定归哪个帮会所有，以“司隶”为例，帮会3—5人无限堆尸无限去磨旗子的血量，不打守军，只打棋子，然后在帮战活动结束前10分钟，将旗子血量控制在较低的数值，然后召集帮会里的所有兄弟，最后3分钟全力输出旗子（同样也不打红名玩家）,这样就可以将旗子抢过来，同时由于活动时间快结束，敌方再怎么输出也来不及了这样的打法不仅仅局限于一个领地，可同时适用于多个领地，只是对帮会兄弟的执行力和耐力有一定的要求哈。<br />
+<br />
+　　这就是目前我参加几次领地战得出的小小心得，希望对大家有所帮助，如果有写的不周全的地方，还请大家指出，多多交流哈。
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			        	<sidebar id="sbar">
+            	<div class="arrimg">
+                	<img src="http://i0.feiliu.com/201406/78/78eec346607e0205744cb2b1721aeaba.jpg" usemap="#Map"/>
+                    <map name="Map">
+                      <area shape="rect" coords="20,23,252,91" href="http://zs.feiliu.com/list/down_zs.shtml">
+                      <area shape="rect" coords="18,129,260,198" href="http://act.feiliu.com/zs/lb#userconsent#">
+                      <area shape="rect" coords="62,222,210,257" href="http://bbs.8783.com/member.php?mod=register87">
+                      <area shape="rect" coords="62,268,208,301" href="http://zs.feiliu.com/list/list_zs_zl.shtml">
+                      <area shape="rect" coords="63,310,208,341" href="http://zs.feiliu.com/list/focus_zs_list.shtml">
+                      <area shape="rect" coords="66,348,211,384" href="#">
+                    </map>
+                </div>
+                <div class="xiangguan">
+                	<div class="hotTj">
+                    	<a href="http://zs.feiliu.com/20140522/20786.shtml">技能介绍</a>|<a href="http://zs.feiliu.com/20140521/20780.shtml">装备强化</a>|<a href="http://zs.feiliu.com/20140521/20773.shtml">战魂系统</a><a href="http://zs.feiliu.com/20140521/20765.shtml">VIP介绍 </a>|<a href="http://zs.feiliu.com/20140522/20802.shtml">护送粮草</a>|<a href="http://zs.feiliu.com/20140522/20798.shtml">千里走单骑</a>
+                    </div>
+                    <div class="kefu">
+                    	<p class="kf-info">
+                        	客服 Q Q：800032234<br/>
+                            客服邮箱：800032234@b.qq.com<br/>
+                            官方QQ群：1群：(275507160)<br>　　　　　2群：(361552040)<br>
+							<label class="pl60"></label>
+                        </p>
+                        <p class="erm">
+                        <img src="http://js.feiliu.com/static/zs/images/weixin.jpg">
+                        <em>公共账号：sgzsios</em>
+                        <span>微信搜索sgzsios添加或扫描二维码添加关注</span>
+                        </p>
+                    </div>
+                </div>
+            </sidebar>
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			  <footer id="footer">
+    <p> About.us | Copyright@北京飞流九天科技有限公司<br>
+      地址：北京市东城区和平里东街11号雍和航星科技园2号楼北侧3层  联系电话：010-84229729<br>
+      爱游戏，爱生活，也爱美女。<br>
+      飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！<br>
+      我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！<br>
+      Love is love!<br>
+    </p>
+  </footer>
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5915744'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5915744' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

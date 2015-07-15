@@ -1,0 +1,61 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">西游妖怪也新潮！《众妖之怒》时装系统萌翻你</div>
+			<div class="news-con">
+				<br />
+&nbsp; 谁说悟空就要用金箍棒？在《众妖之怒》中，灵猴拿着香蕉照样闹翻天！3D萌战动作手游巅峰之作《众妖之怒》给你一个不一样的西游！叛逆的游戏剧情、Q萌的人设、畅爽的战斗快感、实时开放的跨服系统……此外，《众妖之怒》特有的时装系统让你在手机上体验COSPLAY换装秀，皮搋子、香蕉、胡萝卜这些搞笑武器随你选。灵猴、蛮牛、玉兔、妖狐四大职业等你来装扮，快来建立只属于你的COSPLAY人物吧！<br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204181232_42476.png" /><br />
+<p>
+	【特有时装系统 个性COSPLAY秀】
+</p>
+<p>
+	&nbsp; 有别于追求酷炫的正式装备，《众妖之怒》拥有着无比可爱的时装系统。无论是新变成可爱的猴子、还是摇滚达人，无论是想让自己拥有长长的兔耳朵还是一个搞笑的牛头，《众妖之怒》中各式各样的时装都将充分满足玩家的喜好，让所有玩家都可以按照自己的个性，为人物穿上可爱的时装，来场火爆游戏的时尚COS秀。
+</p>
+<br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204181336_81507.png" /><br />
+<p>
+	【四大职业 任你装扮看谁最可爱】
+</p>
+<p>
+	&nbsp; 《众妖之怒》中拥有灵猴、蛮牛、玉兔、妖狐四大职业，从名字上看四大职业便是一个个可爱的拟人化动物。但穿上时装会有什么变化呢？灵猴变成了小兔子，妖狐变为大牛……穿着时装战斗，会不会在组队时队友会冲着妖狐大喊去顶怪呢？如果游戏中真的是这样，游戏绝对会欢笑不断啊！<br /><img alt="" src="http://i0.feiliu.com/image/20141204/20141204181528_63450.jpg" />
+</p>
+<p>
+	【妖怪萌萌哒 融化女玩家】
+</p>
+<p>
+	&nbsp; 时装的乐趣仅仅是为了装扮和炫耀吗？《众妖之怒》强大的研发大大当然不会这么无聊。在游戏中，时装可是也能为人物增加客观的属性哦！而且，玩家完全不用担心穿上时装，正式装备就不能穿的尴尬，你完全可以将时装套在装备外面，虽然想起来有点别扭，但变身一个可爱的小兔子，蹦蹦跳跳地拿着胡萝卜打怪，也是一种非常快乐的游戏体验！
+</p>
+<p>
+	&nbsp;&nbsp; 根据你的喜好来装扮妖狐、玉兔、灵猴、蛮牛四大职业！《众妖之怒》就是这么个性！快来和小伙伴们来《众妖之怒》上演一场COSPLAY换装秀吧，看看到底谁的角色最萌最可爱！
+</p>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

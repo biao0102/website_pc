@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>test2 _ 《神谱》飞流官网</title>
+<link href="http://js.feiliu.com/static/shenpu/web/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/shenpu/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/shenpu/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/shenpu/web/scripts/public.js"></script>
+</head>
+<body>
+<div class="contain fltt">
+  <!--神谱公共浮动窗口模板start-->
+    <!--#include virtual="/list/index_shenpu_float.shtml"-->
+  <!--神谱公共浮动窗口模板end-->
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <div style="clear:both"></div>
+      <!--神谱公共导航模板start-->
+        <!--#include virtual="/list/index_shenpu_nav.shtml"-->
+      <!--神谱公共导航模板end-->
+      <div style="clear:both"></div>
+      <!--神谱首页轮播图模板start-->
+        <!--#include virtual="/list/index_shenpu_lb.shtml"-->
+      <!--神谱首页轮播图模板end-->
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2>
+                    <span class="txt01">游戏资料</span>
+                  </h2>
+        <div class="subnewsccon">
+          <h2>test2</h2>
+          <p style="text-align:center">2014-09-23</p>
+          <p>test2<br />
+test2test2<br />
+test2test2test2</p>
+        </div>
+      </div>
+      <div class="kong fltt"></div>
+      <img src="http://js.feiliu.com/static/shenpu/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--神谱公共客服模板start-->
+        <!--#include virtual="/list/index_shenpu_kf.shtml"-->
+      <!--神谱公共客服模板end-->
+      <!--神谱公共媒体合作模板start-->
+        <!--#include virtual="/list/index_shenpu_mthz.shtml"-->
+      <!--神谱公共媒体合作模板end-->
+    </div>
+    <!--神谱公共底部模板start-->
+      <!--#include virtual="/list/index_shenpu_foot.shtml"-->
+    <!--神谱公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

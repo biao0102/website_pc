@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Design:Lu; Web Layout:Minghua.Shi" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="魔戒,魔戒官网," />
+    <meta name="description" content="《魔戒》新版本今日上线 8大创新玩法强势来袭。" />   
+    <title>《魔戒》新版本今日上线 8大创新玩法强势来袭 魔戒_新闻</title>
+    <link href="http://js.feiliu.com/static/mojie/style/news.css?v=1" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/mojie/js/jquery1.6.4.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            fnhzmt();
+        });
+
+        function fnhzmt() {
+            var mtbox = $("#hzmt_list");
+            var liwidth = 113;
+            var linum = mtbox.children().length;
+            var i = 0;
+            var timer = null;
+            var time = 20;
+            if (linum >= 8) {
+                mtbox.append(mtbox.html());
+                timer = setInterval(hzmtAnimate, time);
+                mtbox.hover(function () {
+                    clearInterval(timer);
+                    timer = null;
+                }, function () {
+                    timer = setInterval(hzmtAnimate, time);
+                });
+            }
+            function hzmtAnimate() {
+                i = i >= liwidth * linum ? 0 : i + 1;
+                mtbox.css("left", -i + "px");
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <div class="wrap03">
+        <div id="wrap" class="wrap">
+            <div class="wrap02">
+                <div class="content">
+                    <div class="nav">
+                        <ul class="nav_list">
+                            <li class="btn01"><a href="http://mojie.feiliu.com">官网首页</a></li>
+                            <li class="btn02"><a href="#">游戏资讯</a></li>
+                            <li class="btn03"><a href="#">资料站</a></li>
+                            <li class="btn04"><a href="#">VIP专属</a></li>
+                            <li class="btn05"><a href="#">视听盛宴</a></li>
+                            <li class="btn06"><a href="#">官方论坛</a></li>
+                        </ul>
+                        <h1 class="logo"><a href="#">《魔戒》官方网站</a></h1>
+                    </div>
+                    <img src="http://js.feiliu.com/static/mojie/images/news/img02.jpg" alt="" border="0" />
+                    <img src="http://js.feiliu.com/static/mojie/images/news/img03.jpg" alt="" border="0" />
+                    <div class="main clearfix">
+					
+                        <!--魔戒列表页左侧模板start-->
+							<!--#include virtual="/list/mojie_list_left.shtml"-->
+						<!--魔戒列表页左侧模板end-->
+						
+                        <div class="main_r">
+                            <div class="news_bg01">
+                                <div class="news_bg02">
+                                    <div class="news_title">《魔戒》新版本今日上线 8大创新玩法强势来袭</div>
+                                    <div class="news_content">
+                                        蕴含无尽力量的至尊魔戒、降临人间的黑暗魔君、混乱与破坏的毁灭军团……3D手游巨制《魔戒》全新版本今日奇幻登场，八大新增游戏内容让各等级玩家，都能像《指环王》中经典角色一样融入中土世界、亲身经历各种好玩有趣，充满挑战的奇幻事件，真正成为游戏世界的缔造者！<br />
+<br />
+<br />
+下载地址：http://www.25pp.com/ipad/game/info_1174851.html<br /><img src="http://i0.8783.com/image/20140221/20140221104945_24423.jpg" alt="" /><br />
+<br />
+【新增玩法一：巨石碾轧连环碰】<br />
+等级要求：9-150<br />
+奖励：圣池精华宝箱<br />
+探索奇幻世界总免不了惊险刺激的冒险，即便是刚刚踏入《魔戒》中土世界的你也将遇到众多挑战。巨石碾轧玩法规则很简单，各位中土英雄需要躲避不断朝自己袭来的巨大滚石，同时还要借助滚石的力量碾轧穷追不舍的敌兵——既要自保又要尽可能多的消灭敌人，小心玩起来就停不下哦。<br /><img src="http://i0.8783.com/image/20140221/20140221105036_17349.jpg" alt="" /><br />
+<br />
+【新增玩法二：魔力金币猜猜看】<br />
+等级要求：24-150<br />
+奖励：各种卡包<br />
+即便在《魔戒》的世界，蕴含奇幻魔力的金币依然是人们争相追寻的目标。在“猜猜看”中，玩家需要在不断变化位置的3个盒子中准确找出魔力金币的所在——当然了，盒子移动的速度会随着玩家正确找到金币的次数而逐渐增加，规定时间内各位英雄的成绩将可以直接获得积分换取丰富卡包奖励。<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221105046_42667.jpg" alt="" /><br />
+【新增玩法三：武装保卫运输车】<br />
+等级要求：30-150<br />
+奖励：大量流通金，升级宝钻<br />
+中土之战旷日持久，前线不仅需要像玩家这样骁勇善战的英雄，更急需武器装备粮草辎重的补给。现在玩家被委派亲自押运一车补给物资支援前线，而这一路上自然免不了小偷牵羊、大盗劫镖等等精彩内容——成功完成任务更是将获得丰厚奖励，绝对值得每天跑一圈！<br /><img src="http://i0.8783.com/image/20140221/20140221105105_40602.jpg" alt="" /><br />
+<br />
+【新增玩法四：荒漠遗迹灭邪魔】<br />
+等级要求：34-150<br />
+奖励：大量强化石<br />
+茫茫大漠不仅环境恶劣更是危机重重，拥有隐身能力的狡猾邪魔正计划将荒漠作为据点发展势力反扑中土。各位英雄自然不会袖手旁观，不过该如何对付隐身的敌人呢？其实邪魔的隐身能力来自荒漠中游荡的精英护卫，玩家只要消灭护卫，邪魔的能力就会逐渐消失直至现形——相信精英护卫对玩家来说一定不值一提。<br />
+<br /><img src="http://i0.8783.com/image/20140221/20140221105115_14449.jpg" alt="" /><br />
+【新增玩法五：天降鸿福吃金币】<br />
+等级要求：27-150<br />
+开启时间：每周二、周六的12:30和 21:30<br />
+奖励：大量宝钻<br />
+奇幻的中土世界永远会带给你惊喜，除了形形色色的怪物与好玩有趣的任务外，偶尔还能赶上天降鸿福下钱雨！每逢周二、周六的12:30及21:30，中土世界都将遍地金币，各位英雄要做的就是能拿多少拿多少，千万不要客气——哦对了，这么好的福利肯定是有时间限制的，不过180秒对大家来说足够了！<br /><img src="http://i0.8783.com/image/20140221/20140221105132_99021.jpg" alt="" /><br />
+<br />
+【新增玩法六：熊熊烈焰除魔虫】<br />
+等级要求：31-150<br />
+开启时间：每周三、周六的12:30和 21:30<br />
+奖励：圣池精华宝箱<br />
+中土世界也并不都是惊喜福利，除了满地金币外，也有可能出现的是满地的魔虫……消灭它们自然是义不容辞，但玩家要引燃自己，利用自己身上的熊熊大火才能有效烧死这些讨厌的魔虫——死吧，腾出地方来以后好出金币！<br /><img src="http://i0.8783.com/image/20140221/20140221105149_20834.jpg" alt="" /><br />
+<br />
+【新增玩法七：躲子弹是英雄撑过180秒】<br />
+等级：36-150<br />
+开启时间：每周四、周日的12:30和 21:30<br />
+奖励：大量强化石<br />
+看名称相信各位英雄就知道游戏规则了，《魔戒》版稍有革新，玩家需要移动至地图中间出现的绿色光球处获得积分。另外，场地上魔法炮的红色子弹能对玩家造成伤害，而绿色子弹能增加玩家移动速度，撑过180秒后的得分才是关键哦。<br /><img src="http://i0.8783.com/image/20140221/20140221105200_12541.jpg" alt="" /><img src="http://i0.8783.com/image/20140221/20140221105210_60897.jpg" alt="" /><br />
+<br />
+【新增玩法八：抢劫矿车拿卡包】<br />
+等级要求：40-150<br />
+开启时间：每周五、周日的12:30和 21:30<br />
+奖励：各种卡包<br />
+《魔戒》中玩家不仅要护送运输车到达前线，更要在半路抢劫敌人的矿车，不让任何资源被传送回地下深渊。玩家需要前往指定地点攻击开往传送门的矿车，每打掉20%血量增加一次分数；矿车的血越少加的分数越多；躲好矿车技能可以更好的战斗。<br /><img src="http://i0.8783.com/image/20140221/20140221105219_11807.jpg" alt="" /><br />
+<br />
+八大全新玩法全面考验你的眼力、脑力、手力和运气，丰厚奖励更是助你称王快马加鞭。3D手游巨制《魔戒》今日开启全新版本，还在等什么，快拿起手机，加入中土之争，驰骋奇幻世界成就你的霸业！<br />
+<br />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hzmt">
+                        <div class="hzmtbox">
+                            <!--魔戒首页底部媒体模板start-->
+								<!--#include virtual="/list/index_mojie_mthz.shtml"-->
+							<!--魔戒首页底部媒体模板end--> 
+                        </div>
+                    </div>
+                    <div class="bottom">
+                        <p>About.us | Copy right@飞流iPhone 2013</p>
+                        <p>爱游戏，爱生活，也爱美女。</p>
+                        <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+                        <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+                        <p>Love is love!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>符箓系统介绍</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <h1>
+	符箓系统介绍<span></span> 
+</h1>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	符箓系统是玩家游戏中期提升个人实力的主要系统模块，玩家通过符箓界面的撰写符箓功能获取符箓，之后装备到相应的符位上即可获得属性加成。通过符力增强界面的注灵功能可以提升符箓的等级，符箓等级提升后获得的属性加成会更高。符箓的灵气需要在炼化符灵界面进行炼化获得，玩家可以将不需要使用的符箓炼化成灵气，以提升需要装备的符箓等级。<span></span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp; </span>符箓来源<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	符箓的来源分为两种：一种是通过符箓卷轴撰写，玩家可以通过挑战<span>35</span>级以上的精英副本获得符箓卷轴；一种是通过元宝撰写（不用透露给玩家）<span></span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp; </span>符箓品质<span></span> 
+</h2>
+<p class="MsoNormal">
+	<span>&nbsp;&nbsp;&nbsp; </span>符箓目前分为五个品质，每个品质对应一个星级，白色品质为一星，绿色品质为二星，蓝色品质为三星，紫色品质为四星，橙色品质为五星。品质越高，符箓提供的属性加成越高。每个品质的符箓也分为不同的种类，可以分别提升不同的属性，如力量，普通攻击，附加伤害等等。<span></span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>3.&nbsp;&nbsp;&nbsp;&nbsp; </span>符箓装备<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	只有装备在符位上的符箓才会给玩家带来属性收益，我们现在提供了<span>6</span>个符位，其中<span>3</span>个分别在<span>35</span>、<span>45</span>、<span>55</span>级开启，其余三个消耗元宝开启。单击符箓簿中的符箓即可装备到已开启的符位上，而点击装备在符位上的符箓则可以卸下符箓。<br /><img src="http://i0.feiliu.com/image/20140421/20140421153647_87028.jpg" width="500" height="335" alt="" /><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>4.&nbsp;&nbsp;&nbsp;&nbsp; </span>符箓注灵<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家撰写获得的符箓都是<span>1</span>级符箓，通过符力增强界面的注灵按钮可以给符箓灌注灵力，当符箓灌注的灵力达到符箓升级的条件时，符箓就会升到下一级同时提升自身加成的属性。目前符箓的最高等级为<span>30</span>级。<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421153710_92076.jpg" width="500" height="334" alt="" /><br />
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>5.&nbsp;&nbsp;&nbsp;&nbsp; </span>符箓炼化<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:20.25pt;">
+	玩家可以通过炼化符灵界面将不需要的符箓炼化成符箓灵气，以供符箓注灵时使用。<span></span> 
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

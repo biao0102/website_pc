@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="攻城掠地官方网站,攻城掠地,攻城略地,攻城掠地手机版,攻城略地手机版,攻城掠地无限金币,外挂,攻城掠地免费破解版 " />
+    <meta name="description" content="策略国战，谋定天下。《攻城掠地》手游版男人的手机游戏,安卓、苹果平台全线上线。实景还原三国战图，开创24小时全景即时国战！文臣武将云集，打破“重武轻文”的桎梏。攻城掠地内政、军师、计策等系统演绎文官本色！其次，新颖的掩杀式战斗模式、战术、皇城官职战等特色玩法，足以让你尽享开疆扩土、统一天下的激情。
+" />
+    <title>《攻城掠地》手机版_攻城掠地手游男人的游戏 -《攻城掠地》官方网站</title>
+    <link href="http://js.feiliu.com/static/gcwap/style/master.css?v=41" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/gcwap/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript">
+
+        $(function () {
+            var navs = $("#tese_nav a");
+            var imgs = $("#imgbox a");
+            navs.each(function (i) {
+                $(this).click(function () {
+                    navs.removeClass("current").eq(i).addClass("current");
+                    imgs.hide().eq(i).show();
+                });
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="content">
+			<div class="vcon">               
+			 <div class="video" id="video">           
+					<span class="playbtn"></span>
+					<span class="jiao"></span>                   
+				   </div>               
+			 </div>
+			<p class="jianyi">建议在WIFi下观看土豪随意</p>
+			<div class="tt" id="video_list">
+				<a href="" id="close">×</a>
+				<video id="vd" preload controls>                    
+					<source src="http://js.feiliu.com/static/gcwap/video/gc.mp4" type="video/mp4" />
+					<source src="http://js.feiliu.com/static/gcwap/video/gc.webm" type="video/webm" />
+					<source src="http://js.feiliu.com/static/gcwap/video/gc.ogv" type="video/ogg" />
+				</video>
+			</div>
+
+            <img src="http://js.feiliu.com/static/gcwap/images/gc_hdwap.jpg?v=3" alt="" />
+            <div class="nav">
+                <a href="http://gc.feiliu.com/wap/index.php">官网首页</a>
+                <a href="http://gc.feiliu.com/list/gcwap_list_zxzx.shtml">最新咨询</a>
+                <a href="#tewf">特色玩法</a>
+                <a href="http://gc.feiliu.com/list/gcwap_list_yxzl.shtml">游戏资料</a>
+            </div>
+               <div class="down1 clearfix" >
+               <div class="img99" ><img src="http://js.feiliu.com/static/gcwap/images/img099.jpg"></div>
+               
+            <div class="down">
+              <div class="down_item clearfix">
+                 
+                    <div class="down_item_r">
+                        <a href="http://gc.feiliu.com/count/download.php?type=9&cid=300021"><img src="http://js.feiliu.com/static/gcwap/images/btn01.jpg" alt="" /></a>
+                </div>
+              </div>
+                <div class="down_item clearfix">
+                  <div class="down_item_r">
+                      <a href="http://gc.feiliu.com/count/download.php?type=3&cid=300021"><img src="http://js.feiliu.com/static/gcwap/images/btn02.jpg" alt="" /></a>
+                  </div>
+                </div>
+                <div class="down_item clearfix">
+                  <div class="down_item_r">
+                      <a href="http://gc.feiliu.com/count/download.php?type=6&cid=300021"><img src="http://js.feiliu.com/static/gcwap/images/btn03.jpg" alt="" /></a>
+                  </div>
+                </div>
+            </div> 
+            
+            </div>
+			
+            <img src="http://js.feiliu.com/static/gcwap/images/title02.jpg" alt="" />
+            <ul class="news_list">
+                
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=23679" target="_top">【资讯】6月7日11点攻城掠地447服，战斗吧！</a><span>2015-06-09</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=23678" target="_top">【资讯】6月6日11点攻城掠地446服，战斗吧！</a><span>2015-06-09</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=23676" target="_top">【资讯】6月5日11点攻城掠地445服、ios161服，战斗吧！</a><span>2015-06-09</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=23675" target="_top">【资讯】6月4日11点攻城掠地444服，战斗吧！</a><span>2015-06-09</span></li>
+					  
+						<li><a href="http://gc.feiliu.com/wap/content.php?i=23674" target="_top">【资讯】6月3日11点攻城掠地443服，战斗吧！</a><span>2015-06-09</span></li>
+					            </ul>
+            <a href="#" name="tewf"><img src="http://js.feiliu.com/static/gcwap/images/title03.jpg" alt="" /></a>
+            <div class="tese">
+                <div class="imgbox" id="imgbox">
+                    <a href="#" style="display: block;"><img src="http://js.feiliu.com/static/gcwap/images/zh640.jpg" alt="" /></a>
+                    <a href="#"><img src="http://js.feiliu.com/static/gcwap/images/gz640.jpg" alt="" /></a>
+                    <a href="#"><img src="http://js.feiliu.com/static/gcwap/images/wj640.jpg" alt="" /></a>
+                    <a href="#"><img src="http://js.feiliu.com/static/gcwap/images/zb640.jpg" alt="" /></a>
+                </div>
+                <ul class="tese_nav" id="tese_nav">
+                    <li class="btn01"><a href="javascript:;" class="current">语音国战</a></li>
+                    <li class="btn02"><a href="javascript:;">超大战场</a></li>
+                    <li class="btn03"><a href="javascript:;">武将云集</a></li>
+                    <li class="btn04"><a href="javascript:;">极品策略</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="bottom">
+  <div class="bottom_top"><a href="#top"><img src="http://js.feiliu.com/static/gcwap/images/fh_top.jpg" alt=""/></a></div>
+  <p class="bottom_01"></p>
+  <div class="bottom_sm">
+    <p>攻城掠地－触控板</p>
+    <p>Powered by dsg.feiliu.com  Certificate Copyright ?2011-2013 </p>
+  </div>
+</div>
+<script>
+
+$("#video_list").hide();	
+$("#video").click(function(){
+$.ajax({
+    type : 'GET',
+    url : 'http://gc.feiliu.com/count/download.php',
+    dataType : 'jsonp',
+    data : {"cid":100003,"type":11},
+    success : function(data)
+    {
+    }
+});
+	$("#video").hide();	
+	$("#video_list").show();
+	$("#vd").get(0).play();
+	})
+$("#close").click(function(){
+	$("#vd").pause();
+	$("#video_list").hide();
+	$("#video").show();	
+	})
+	
+</script>
+<div style="display:none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff06b9e919dec36720d34c500e8394364' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5864757'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/stat.php%3Fid%3D5864757' type='text/javascript'%3E%3C/script%3E"));</script>
+ </div>
+</body>
+</html>

@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">新手必看！《坦克风云》基地建筑升级指南</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-04-03</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <div style="text-align:left;">
+	<span >《坦克风云》是由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团对战手游，将于4月迎来铁血内测！喜欢军事的朋友一定对《坦克风云》很是期待，因为游戏中不仅有百款二战时代的主战坦克供你驱驰，还有千万玩家与你同场竞技。强有力的后勤保障，是各位指挥官在前线取胜的重要条件之一。《坦克风云》中的建筑多种多样，下面就让我们来简单了解一下吧！</span>
+</div>
+<div style="text-align:left;">
+	<br />
+</div>
+<div style="text-align:left;">
+	<br />
+</div>
+<div style="text-align:left;">
+	<span >欢迎访问游戏官网：http://tk.feiliu.com/</span>
+</div>
+<div style="text-align:left;">
+	<span >点击下载ios版：http://tk.feiliu.com/count/download.php?type=8&amp;ismobile=1&amp;source=news</span>
+</div>
+<div style="text-align:left;">
+	<span >点击下载ios越狱版：http://tk.feiliu.com/count/download.php?type=2&amp;ismobile=1&amp;source=news</span>
+</div>
+<div style="text-align:left;">
+	<span ></span>
+</div>
+<div style="text-align:left;">
+	<span ></span>
+</div>
+<div style="text-align:left;">
+	<span ></span><img src="http://i0.feiliu.com/image/20140403/20140403102638_24835.jpg" alt=""  />
+</div>
+<div style="text-align:left;">
+	<br />
+</div>
+<div style="text-align:left;">
+	<span >【主基地决定升级上限】</span>
+</div>
+<div style="text-align:left;">
+	<span >虽然不能直接提供资源，但主基地的级别决定其他建筑可升级的上限，因此大家在建设好基础设施后下一个重点就是升级主基地。建议各位指挥官尽快将主基地升级至15级，开启军团大厅后加入军团，等待你的就是充满热血的幸福生活了。</span>
+</div>
+<div >
+	<div style="text-align:left;"><img src="http://i0.feiliu.com/image/20140403/20140403102701_28414.jpg" alt=""  />
+	</div>
+	<div style="text-align:left;">
+		<span ></span><img src="http://i0.feiliu.com/image/20140403/20140403102717_10409.jpg" alt=""  />
+	</div>
+	<div style="text-align:left;">
+		<span ></span><span >【升级工厂组建兵团】</span>
+	</div>
+	<div style="text-align:left;">
+		<span >坦克工厂顾名思义就是生产各类战车的重要建筑。正如前面所讲，主基地决定了坦克工厂的等级，因此要想尽早生产作为中坚力量的中型、重型坦克，工厂等级的重要程度仅次于主基地。此外，需要指挥官注意的是，坦克工厂是可以建造两座的，建议大家着重升级一座坦克工厂用于产出主力战车，另一座用来补充打矿、守备兵力。玩家家还可建造改装厂，用于将低等级战车升级为高级战车，因此大家不用担心初期生产会造成兵力、资源的浪费。</span>
+	</div>
+	<div style="text-align:left;"><img src="http://i0.feiliu.com/image/20140403/20140403102812_21611.jpg" alt="" /><br />
+	</div>
+	<div style="text-align:left;">
+		<span ></span><span >【加入军团优势立显】</span>
+	</div>
+	<div style="text-align:left;">
+		<span >当指挥中心升级到15级后就能够建造军团大厅，创建或加入军团。玩家加入军团不仅能交到投缘的朋友、参加专属活动，更重要的是能够通过军团在掠夺上获得绝对优势——加入军团后，你既可以跟着强者身后揩油，也可以带着一群伙伴将敌人的基地拆得七零八落。当你面对几倍于自己兵力的敌人，也能够迅速召唤团友调兵遣将协同布防，将侵略者全歼在埋伏好的包围网里。</span>
+	</div>
+	<div style="text-align:left;"><img src="http://i0.feiliu.com/image/20140403/20140403102916_81611.jpg" alt="" /><br />
+	</div>
+	<div style="text-align:left;">
+		<span ></span><span >指挥各国主战坦克集团撕裂对手防线，体验爽快硬派的机械化战争，坦克大战一触即发，更多详细情报欢迎访问游戏官网：http://tk.feiliu.com/，《坦克风云》邀你与百万玩家展开铁血PK大战，体验激爽硬派机械化战争！</span>
+	</div>
+	<div >
+		<div style="text-align:left;"><img src="http://i0.feiliu.com/image/20140403/20140403102950_33588.jpg" alt=""  />
+		</div>
+		<div style="text-align:left;">
+			<span ></span><img src="http://i0.feiliu.com/image/20140403/20140403103012_18752.jpg" alt=""  />
+		</div>
+	</div>
+	<div style="text-align:left;">
+		<span ></span>
+	</div>
+</div>
+<div style="text-align:left;">
+	<span ></span>
+</div>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

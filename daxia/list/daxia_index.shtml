@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="keywords" content="大侠别嚣张，大侠别嚣张官网，游戏官网，游戏下载" />
+<meta  name="description" content="《大侠别嚣张》是由业内资深团队倾力研发的一款回合制武侠RPG手游大作。玩家可化身魔教教主，统领正派大侠，体验一个不一样的叛逆江湖。游戏拥有六大职业，丰富的乐趣玩法，上百种搭配策略。 画面场景炫酷华丽，拥有上百个武侠人物，每个人物都拥有精致的造型和炫酷的技能，让玩家置身媲美端游的视觉体验。"/>
+<title>大侠别嚣张官网—新一代反派武侠手游12月16日叛逆公测</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=30" rel="stylesheet" type="text/css" />
+<link href="http://js.feiliu.com/static/daxia/pc/css/lightbox.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js?v=2"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/is_mobile.js"></script>
+<script language="javascript"> 
+function __show(val1){
+	$("#_show1").hide();
+	$("#_show2").hide();
+	$("#_show3").hide();
+	$("#_show4").hide();
+	$("#_show" + val1).show();
+}
+</script>
+</head>
+<body>
+	<div class="right_ad">
+		<img src="http://js.feiliu.com/static/activity/sq/qrcode/gw_daxia.png"/>
+		<a href="http://game.feiliu.com/youxishequ/index.html?s=C08010000_App_shequ_908010000" class="downfl">下载游戏社区</a>
+	</div>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+  </div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="box">
+        <div class="topcon">
+          <div class="topleft">
+          <div class="minews">
+          <!--大侠别嚣张首页综合模板start-->
+            <!--#include virtual="/list/daxia_index_zh.shtml"-->
+          <!--大侠别嚣张首页综合模板end-->
+          <!--大侠别嚣张首页新闻模板start-->
+            <!--#include virtual="/list/daxia_index_news.shtml"-->
+          <!--大侠别嚣张首页新闻模板end-->
+          <!--大侠别嚣张首页活动模板start-->
+            <!--#include virtual="/list/daxia_index_hd.shtml"-->
+          <!--大侠别嚣张首页活动模板end-->
+          <!--大侠别嚣张首页公告模板start-->
+            <!--#include virtual="/list/daxia_index_gg.shtml"-->
+          <!--大侠别嚣张首页公告模板end-->
+          </div>
+
+          </div>
+          <!--大侠别嚣张首页轮播图模板start-->
+            <!--#include virtual="/list/daxia_index_lb.shtml"-->
+          <!--大侠别嚣张首页轮播图模板end-->
+        </div>
+        <div class="middlecon">
+         <div class="mleftcon">
+          <!--大侠别嚣张首页游戏资料模板start-->
+            <!--#include virtual="/list/daxia_index_yxzl.shtml"-->
+          <!--大侠别嚣张首页游戏资料模板end-->
+           <!--大侠别嚣张首页游戏攻略模板start-->
+            <!--#include virtual="/list/daxia_index_yxgl.shtml"-->
+          <!--大侠别嚣张首页游戏攻略模板end--> 
+         </div>
+          <div class="mrightcon">
+           <!--大侠别嚣张首页视频模板start-->
+            <!--#include virtual="/list/daxia_index_video.shtml"-->
+          <!--大侠别嚣张首页视频模板end--> 
+           <!--大侠别嚣张首页精美截图模板start-->
+            <!--#include virtual="/list/daxia_index_pic.shtml"-->
+          <!--大侠别嚣张首页精美截图模板end--> 
+          </div>
+         <!--mrightcon end-->
+        </div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end-->         
+        </div>
+      </div>
+      <div class="clear"></div>
+  </div>
+</div>
+
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+
+    
+</body>
+</html>

@@ -1,0 +1,556 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head> 
+	<meta charset="UTF-8">
+	<title>龙骑战歌官方网站</title> 
+	<meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+	<meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+	<meta name="format-detection" content="telephone=no"/>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/lqzg/notice/css/style.css?v=9">
+	<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/is_mobile.js"></script>
+</head>
+<body>
+<div class="wrap">
+	 	<div class="left">
+		<a class="logo" href="javascript:void(0);" title="龙骑战歌"><img src="http://js.feiliu.com/static/lqzg/notice/images/logo.jpg" alt=""></a> 	
+		<a href="http://lqzg.feiliu.com/web/list/index.shtml" class="shouye " title="龙骑战歌首页">
+			<span class="shouye-btn"></span>
+		</a> 
+		<div class="zhiye " title="龙骑战歌人物职业">
+			<a href="http://lqzg.feiliu.com/web/list/notice.shtml"><span class="zhiye-btn"></span></a>
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/web/list/hero01.shtml" class="">圣武士</a></p>
+				<p><a href="http://lqzg.feiliu.com/web/list/hero02.shtml" class="">狂战士</a></p>
+				<p><a href="http://lqzg.feiliu.com/web/list/hero03.shtml" class="">刺客</a></p>
+				<p><a href="http://lqzg.feiliu.com/web/list/hero04.shtml" class="">法师</a></p>
+			</div>
+		</div>
+
+		<div class="tese " title="龙骑战歌特色">
+			<a href="javascript:void(0);"><span class="tese-btn"></span></a>			
+			<div class="menu">
+				<p><a href="http://lqzg.feiliu.com/web/list/tese01.shtml" class="">操作</a></p>
+				<p><a href="http://lqzg.feiliu.com/web/list/tese02.shtml" class="">画面</a></p>
+				<p><a href="http://lqzg.feiliu.com/web/list/tese03.shtml" class="">骑战空战</a></p>
+				<p><a href="http://lqzg.feiliu.com/web/list/tese04.shtml" class="">剧情</a></p>
+				<p><a href="http://lqzg.feiliu.com/web/list/tese05.shtml" class="">两条命</a></p>
+			</div> 
+		</div> 
+		<!-- 
+		<div class="gift" id="focus" href="javascript:void(0);">
+							<a class="disN" href=""><img src="http://js.feiliu.com/gameimg/lqzg/20150526160226.jpg" alt=""></a>
+							<a class="disN" href="http://lqzg.feiliu.com/web/news/20150526003912.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150526121411.jpg" alt=""></a>
+							<a class="disN" href="https://jinshuju.net/f/9tA5qh"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185257.jpg" alt=""></a>
+						<div class="focus-tab-bg">
+				<span class="focus-tab focus-tab-curr"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+				<span class="focus-tab"></span>
+			</div>
+		</div> 
+		-->
+		<a class="download op" href="http://lqzg.feiliu.com/index.shtml" title="龙骑战歌官网"></a>
+		<a class="enter op" href="http://lqzg.feiliu.com/download?cid=300021&type=5" title="龙骑战歌下载"></a>
+		<div class="code" title="扫描二维码下载">
+			<h4>扫码关注游戏最新动态</h4>
+			<span><img src="http://js.feiliu.com/static/lqzg/notice/images/lqzg_qrcode.png?v=1" style="height:152px;width:152px;margin:10px auto 0;"></span>
+		</div>
+<!-- 		
+		<div class="share">
+			<a class="weixin op" href=""></a>
+			<a class="weibo op" href=""></a>
+		</div> 
+-->
+
+
+
+
+	</div>
+	<div class="right">
+		<div class="news-bg">
+			<div class="news-map">新闻公告<span>news</span></div>
+			<div class="list-wrap">
+				<ul class="list-tab-wrap">
+					<li class="list-tab ">最新</li>
+					<li class="list-tab ">新闻</li>
+					<li class="list-tab ">公告</li>
+					<li class="list-tab ">活动</li>
+				</ul>
+				<!-- list news 1 10条-->
+				<div class="list-news-wrap">
+					<ul class="list-news">
+								
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150604175230.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							超嗲！GTV美女主播小陌解说《龙骑战歌》初体验
+								<span class="list-date">2015-06-04</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150604174712.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							《龙骑战歌》装备系统完全解析 武器进阶可变外形
+								<span class="list-date">2015-06-04</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150526180744.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							《龙骑战歌》携手WCA电竞世界 打造顶级竞技手游 
+								<span class="list-date">2015-05-26</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							《龙骑战歌》今日震撼内测携手滴滴狂送千万红包
+								<span class="list-date">2015-05-26</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150525180254.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							竞技级手游蓄势待发 《龙骑战歌》明日震撼内测
+								<span class="list-date">2015-05-25</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150521180002.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							2015中重度手游被看好 飞流布局重量级产品抢占市场
+								<span class="list-date">2015-05-21</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150520175858.shtml">
+															<span class="list-h4 bg-yellow">资讯<i></i></span>
+															
+							复仇者手游联盟：它们是重度手游的风向标！
+								<span class="list-date">2015-05-20</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150520175628.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							《龙骑战歌》全新官网曝光 5月26日安卓首发
+								<span class="list-date">2015-05-20</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150515175114.shtml">
+															<span class="list-h4 bg-yellow">资讯<i></i></span>
+															
+							评测：《龙骑战歌》亿元打造中国3D好手游
+								<span class="list-date">2015-05-15</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150512175010.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							骑乘PK硬汉本色 《龙骑战歌》竞技场大揭底
+								<span class="list-date">2015-05-12</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150506174727.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							激爽空战！《龙骑战歌》开启骑战手游新纪元
+								<span class="list-date">2015-05-06</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150416195348.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							未来动作手游NEXT定名《龙骑战歌》 3月先锋体验
+								<span class="list-date">2015-04-16</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150415195118.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							神级动作手游对比 《龙骑战歌》登顶中国手游最高水平
+								<span class="list-date">2015-04-15</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150412194911.shtml">
+															<span class="list-h4 bg-blue">公告<i></i></span>
+															
+							《龙骑战歌》先锋体验深圳站 玩家疯狂摩擦手机
+								<span class="list-date">2015-04-12</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150401194525.shtml">
+															<span class="list-h4 bg-blue">公告<i></i></span>
+															
+							《龙骑战歌》先锋体验北京站将启 未来手游入侵京城
+								<span class="list-date">2015-04-01</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150323194339.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							轻松90连斩！《龙骑战歌》高清游戏截图抢先看
+								<span class="list-date">2015-03-23</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150318194215.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							强强联手！《龙骑战歌》再掀2015动作手游新高潮
+								<span class="list-date">2015-03-18</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150315194051.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							《龙骑战歌》蛇女曝光 眼镜蛇版娜迦女妖尽显霸气
+								<span class="list-date">2015-03-15</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150311193934.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							隐藏种族曝光 《龙骑战歌》四大伙伴原画赏
+								<span class="list-date">2015-03-11</span>
+							</a>
+						</li>
+											<li>
+							<a href="http://lqzg.feiliu.com/web/news/20150309193633.shtml">
+															<span class="list-h4 bg-orange">新闻<i></i></span>
+															
+							宇宙流浪者 《龙骑战歌》星灵伙伴原画曝光
+								<span class="list-date">2015-03-09</span>
+							</a>
+						</li>
+											
+					</ul>
+				<!-- 					
+					<div class="news-page">
+						<a class="news-prev" href="">&lt;</a>
+						<a class="page-count" href="">1</a>
+						<a class="page-count" href="">2</a>
+						<a class="page-count" href="">3</a>
+						<a class="page-count" href="">4</a>
+						<a class="page-count" href="">5</a>
+						<a class="news-next" href="">&gt;</a>
+					</div> 
+				-->
+				</div>
+				<!-- list news 2 10条-->
+				<div class="list-news-wrap disN">
+					<ul class="list-news">
+																<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150604175230.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								超嗲！GTV美女主播小陌解说《龙骑战歌》初体验
+								<span class="list-date">2015-06-04</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150604174712.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								《龙骑战歌》装备系统完全解析 武器进阶可变外形
+								<span class="list-date">2015-06-04</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150526180744.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								《龙骑战歌》携手WCA电竞世界 打造顶级竞技手游 
+								<span class="list-date">2015-05-26</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								《龙骑战歌》今日震撼内测携手滴滴狂送千万红包
+								<span class="list-date">2015-05-26</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150525180254.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								竞技级手游蓄势待发 《龙骑战歌》明日震撼内测
+								<span class="list-date">2015-05-25</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150521180002.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								2015中重度手游被看好 飞流布局重量级产品抢占市场
+								<span class="list-date">2015-05-21</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150520175628.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								《龙骑战歌》全新官网曝光 5月26日安卓首发
+								<span class="list-date">2015-05-20</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150512175010.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								骑乘PK硬汉本色 《龙骑战歌》竞技场大揭底
+								<span class="list-date">2015-05-12</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150506174727.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								激爽空战！《龙骑战歌》开启骑战手游新纪元
+								<span class="list-date">2015-05-06</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150416195348.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								未来动作手游NEXT定名《龙骑战歌》 3月先锋体验
+								<span class="list-date">2015-04-16</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150415195118.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								神级动作手游对比 《龙骑战歌》登顶中国手游最高水平
+								<span class="list-date">2015-04-15</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150323194339.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								轻松90连斩！《龙骑战歌》高清游戏截图抢先看
+								<span class="list-date">2015-03-23</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150318194215.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								强强联手！《龙骑战歌》再掀2015动作手游新高潮
+								<span class="list-date">2015-03-18</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150315194051.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								《龙骑战歌》蛇女曝光 眼镜蛇版娜迦女妖尽显霸气
+								<span class="list-date">2015-03-15</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150311193934.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								隐藏种族曝光 《龙骑战歌》四大伙伴原画赏
+								<span class="list-date">2015-03-11</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150309193633.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								宇宙流浪者 《龙骑战歌》星灵伙伴原画曝光
+								<span class="list-date">2015-03-09</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150304193353.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								霸气侧漏！《龙骑战歌》最新人物原画公布
+								<span class="list-date">2015-03-04</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150301193228.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								黑龙深呼吸重现！《龙骑战歌》霸气新官网上线
+								<span class="list-date">2015-03-01</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150223193100.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								《龙骑战歌》四大职业任性来袭 战斗视频首度揭密
+								<span class="list-date">2015-02-23</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150217192938.shtml">
+								<span class="list-h4 bg-orange">新闻<i></i></span>
+								远古巨龙血统 《龙骑战歌》龙人伙伴原画曝光
+								<span class="list-date">2015-02-17</span>
+							</a>						
+						</li>
+															</ul>
+				<!-- 					
+					<div class="news-page">
+						<a class="news-prev" href="">&lt;</a>
+						<a class="page-count" href="">1</a>
+						<a class="page-count" href="">2</a>
+						<a class="page-count" href="">3</a>
+						<a class="page-count" href="">4</a>
+						<a class="page-count" href="">5</a>
+						<a class="news-next" href="">&gt;</a>
+					</div> 
+				-->
+				</div>
+				<!-- list news 3 10条-->
+				<div class="list-news-wrap disN">
+					<ul class="list-news">
+																<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150412194911.shtml">
+								<span class="list-h4 bg-blue">公告<i></i></span>
+								《龙骑战歌》先锋体验深圳站 玩家疯狂摩擦手机
+								<span class="list-date">2015-04-12</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150401194525.shtml">
+								<span class="list-h4 bg-blue">公告<i></i></span>
+								《龙骑战歌》先锋体验北京站将启 未来手游入侵京城
+								<span class="list-date">2015-04-01</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150202192349.shtml">
+								<span class="list-h4 bg-blue">公告<i></i></span>
+								《龙骑战歌》种族猜想：人兽大战到底有木有？
+								<span class="list-date">2015-02-02</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20140813175240.shtml">
+								<span class="list-h4 bg-blue">公告<i></i></span>
+								《龙骑战歌》探秘系列三：创亿计划深度解析
+								<span class="list-date">2014-08-13</span>
+							</a>						
+						</li>
+															</ul>
+				<!-- 					
+					<div class="news-page">
+						<a class="news-prev" href="">&lt;</a>
+						<a class="page-count" href="">1</a>
+						<a class="page-count" href="">2</a>
+						<a class="page-count" href="">3</a>
+						<a class="page-count" href="">4</a>
+						<a class="page-count" href="">5</a>
+						<a class="news-next" href="">&gt;</a>
+					</div> 
+				-->
+				</div>
+				<!-- list news 4 10条-->
+				<div class="list-news-wrap disN">
+					<ul class="list-news">
+																<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150520175858.shtml">
+								<span class="list-h4 bg-yellow">资讯<i></i></span>
+								复仇者手游联盟：它们是重度手游的风向标！
+								<span class="list-date">2015-05-20</span>
+							</a>						
+						</li>
+											<li>							
+							<a href="http://lqzg.feiliu.com/web/news/20150515175114.shtml">
+								<span class="list-h4 bg-yellow">资讯<i></i></span>
+								评测：《龙骑战歌》亿元打造中国3D好手游
+								<span class="list-date">2015-05-15</span>
+							</a>						
+						</li>
+															</ul>
+				<!-- 					
+					<div class="news-page">
+						<a class="news-prev" href="">&lt;</a>
+						<a class="page-count" href="">1</a>
+						<a class="page-count" href="">2</a>
+						<a class="page-count" href="">3</a>
+						<a class="page-count" href="">4</a>
+						<a class="page-count" href="">5</a>
+						<a class="news-next" href="">&gt;</a>
+					</div> 
+				-->
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<p>About.us | Copy right@北京飞流九天科技有限公司</p>
+	<p>爱游戏，爱生活，也爱美女。</p>
+	<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+	<p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+	<p>Love is love!</p>
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/notice/js/js.js?x=3"></script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+    <script>
+        var param = new Object();
+        param = getArgs();
+        var source = param.s;
+
+        if(!source)
+        {
+            source = '300021';
+        }
+
+
+        $('.enter').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        
+
+        $('a').click(function(e){
+            var url = $(this).attr('href');
+            if(url != 'javascript:void(0);' && url != "javascript:alert('敬请期待！');");
+            {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                if(url.indexOf('?') > -1)
+                {
+                    var tourl = url + '&s='+source;
+                } else {
+                    var tourl = url + '?s='+source;
+                }
+                window.location.href = tourl;   
+            }
+        });
+
+        function getArgs()
+        {
+            var argsArr = new Object();
+            var query = window.location.search;  
+            query = query.substring(1);
+            var pairs = query.split("&");
+            for(var i=0;i<pairs.length;i++)
+            {
+                var sign = pairs[i].indexOf("="); 
+                if(sign == -1)
+                {
+                    continue; 
+                }
+                var aKey = pairs[i].substring(0,sign);
+                var aValue = pairs[i].substring(sign+1);         
+                argsArr[aKey] = unescape(aValue);
+
+            }
+            return argsArr;
+        }
+    </script>
+</body>
+</html>

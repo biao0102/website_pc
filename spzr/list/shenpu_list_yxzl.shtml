@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">
+        <title>神谱之刃--游戏资料</title> 
+<meta name="keywords" content="神谱之刃官网,神谱之刃攻略,神谱之刃下载,2015年第一魔幻连击手游,史上最强魔幻连击手游,神谱之刃,神谱,飞流,飞流九天,游戏,手机游戏,网络游戏,动作游戏,游龙英雄,王者之剑,英雄之剑" />
+<meta name="description" content="2015年第一魔幻连击手游《神谱之刃》，是一款具备独特北欧魔幻风格的传统ARPG手游，有着超强的打击感、无限连击的超爽体验、独一无二的血脉系统、一环扣一环的冒险闯关及多元化的刻印系统、宝石系统、战魂系统、竞技系统、多人副本系统等等。更多有关神谱之刃官网,神谱之刃攻略,神谱之刃下载等资讯尽在神谱之刃官网。" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="format-detection" content="telephone=no"/>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/js.js?v=201412191054"></script>
+        <link rel="stylesheet" href="http://js.feiliu.com/static/shenpu/webnew/css/style.css?v=768">
+        <!--[if IE 6]>
+        <script src="js/png.js"></script>
+        <script>
+                PNG.fix('*');
+        </script>
+        <![endif]--> 
+        <script type="text/javascript">
+            var tagArray = ["header", "nav", "menu", "section", "article", "footer"];
+            for (var i = 0; i < tagArray.length; i++) {
+                document.createElement(tagArray[i]);
+            }
+        </script>
+    </head>
+    <body>
+        <!-- 首页导航模板start-->
+        <!--#include virtual="/list/shenpu_index_nav.shtml"-->
+        <!-- 首页导航模板end-->    
+        <section class="section5">
+            <div class="data-main">
+                <div class="gamelogo"></div>
+                <img class="gameimg gameimg-curr num1" src="http://js.feiliu.com/gameimg/spzr/20141230182631.jpg" alt="">
+                <img class="gameimg gameimg-left num2" src="http://js.feiliu.com/gameimg/spzr/20141230182700.jpg" alt="">
+                <img class="gameimg gameimg-right num3" src="http://js.feiliu.com/gameimg/spzr/20141230182716.jpg" alt="">
+                <span class="gameleft"></span>
+                <span class="gameright"></span>
+            </div>
+        </section>
+        <section class="section2">
+            <div class="info pl56">
+                <!--职业start-->
+                <!--#include virtual="/list/shenpu_list_yxzl_cjwt.shtml"-->
+                <!--职业end-->
+
+                <div class="news short420 mg05 center">
+                    <ul class="newswrap short420">
+                        <li class="news-tab2 nt-curr">职业</li>
+                        <li class="news-tab2 nt">技能</li>
+                        <li class="news-tab2 nt">血脉</li>
+                        <a class="more" href="/list/shenpu_list_yxzl_zymore.shtml">MORE</a>
+                        <a class="more disN" href="/list/shenpu_list_yxzl_jnmore.shtml">MORE</a>
+                        <a class="more disN" href="/list/shenpu_list_yxzl_xmmore.shtml">MORE</a>
+                    </ul>
+                    <!--职业start-->
+                    <!--#include virtual="/list/shenpu_list_yxzl_zy.shtml"-->
+                    <!--职业end-->
+                    <!--技能start-->
+                    <!--#include virtual="/list/shenpu_list_yxzl_jn.shtml"-->
+                    <!--技能end-->
+                    <!--血脉start-->
+                    <!--#include virtual="/list/shenpu_list_yxzl_xm.shtml"-->
+                    <!--血脉end-->
+                </div>
+
+
+                <!-- 游戏资料页评测模板start-->
+                <!--#include virtual="/list/shenpu_list_yxzl_pc.shtml"-->
+                <!-- 游戏资料页评测模板end-->                    
+
+            </div>
+        </section>
+        <!--公共底部模板start-->
+        <!--#include virtual="/list/shenpu_index_foot.shtml"-->
+        <!--公共底部模板end-->
+    </body>
+</html>	

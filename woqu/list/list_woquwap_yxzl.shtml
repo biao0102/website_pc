@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+  <meta name="viewport" content="width=650;target-densitydpi=device-dpi; minimum-scale=0.5; maximum-scale=2,user-scalable=yes">
+	<title>我去西游</title>
+    <meta name="keywords" content="我去西游,我去西游官网,我去西游兑换码,我去西游礼包,我去西游下载,我去西游攻略,我去西游飞流,3D手游,萌战卡牌,孙悟空,猪八戒,神卡,仙卡,二郎神,西天取经" />
+    <meta name="description" content="我去西游是乐卓网络科技（上海）有限公司开发，北京飞流九天独家代理的一款“萌系”西游卡牌RPG，玩家在游戏中扮演一位充满正义感的的神通人士，陪伴唐僧四人西行取经" />
+	<link href="http://js.feiliu.com/static/woquwap/style/style.css?v=57" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/woquwap/js/jquery.min.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/woquwap/js/main.js?v=71"></script>
+<style type="text/css">
+body {
+	background-color: #eedbbe;
+}
+</style>
+</head>
+<body>
+
+<!--我去西游wap版公共头部start-->
+		<!--#include virtual="/list/index_woquwap_nav.shtml"-->
+<!--我去西游wap版公共头部end-->
+
+
+<!-- 基础 -->
+<div class="title1">
+  <div class="title1_n"><span class="title1_cn">基础</span><span class="title1_en">Base</span></div>
+</div>
+
+<div class="className">
+  <ul>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/b_1.png" />武将</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/b_2.png" />天赋</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/b_3.png" />装备</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/b_4.png" />技能</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/b_5.png" />兵种</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/b_6.png" />计策</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/b_7.png" />指令</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/b_8.png" />关卡</li></a>
+  </ul>
+</div>
+
+<!-- 进阶 -->
+<div class="title1">
+  <div class="title1_n"><span class="title1_cn">进阶</span><span class="title1_en">Advanced</span></div>
+</div>
+<div class="className">
+  <ul>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/a_1.png" />功勋</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/a_2.png" />杀出重围</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/a_3.png" />兵临城下</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/a_4.png" />过关斩将</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/a_5.png" />阵形</li></a>
+    <a href=""><li><img src="http://js.feiliu.com/static/woquwap/images/a_6.png" />好友</li></a>
+  </ul>
+</div>
+
+
+
+
+	<!--我去西游wap版公共底部start-->
+		<!--#include virtual="/list/index_woquwap_bottom.shtml"-->
+	<!--我去西游wap版公共底部end-->
+
+
+</body>
+</html>

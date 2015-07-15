@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_进阶攻略</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">《三国战神》帮会战引领新团战 致胜战术分享</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-06-26 16:55:27</span>
+																			</div>
+									<div class="w-d">
+										【最强帮会唯我独尊 舍我其谁】<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140626/20140626165016_81615.jpg" /><br />
+<br />
+　　开启帮会领地战，在领地战中获得第一名的帮会，将获得最强帮会称号。我们知道，团队PK才是游戏的王道，记住我们的口号：兄弟抱团，打天下。帮会领地战，正是有着最强帮会野心的玩家们所最向往的舞台，是帮会兄弟并肩战斗的最佳战场。帮会领地战从本周之后，将会成为定期活动，每周日晚将会按时开战！<br />
+<br />
+【集中突击攻城略地 抱团打天下】<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140626/20140626165139_22860.jpg" /><br />
+<br />
+　　在《三国战神》帮会领地战中，开放了十块领地，攻打下最多领地的帮会将会获得最终的胜利，如果帮会没有绝对的优势，建议集中优势力量攻击，不建议分流出兵。需要注意的是，领地按照富饶程度分为四类，其中3个领地为枯竭：凉州，并州，雍州（富饶：50%），3个领地为普通：冀州，青州，徐州（富饶：70%），3个领地为充足：扬州，荆州，益州（富饶：100%），最后还有1个领地为富饶：司隶（富饶：150%）。<br />
+<br />
+　　最强帮会的判断标准是以占领领地数量进行判断的哦，而不是以富饶程度之和判断，富饶程度只是影响持续六天的帮会福利，所以，我们可以得出一个结论——司隶虽为兵家必争之地，但也不是非得不可。可以通过占领其他富饶程度较低的领地来角逐最强帮会。<br />
+<br />
+【团队配合无坚不破&nbsp; 致胜战术分享】<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140626/20140626165323_16716.jpg" /><br />
+<br />
+　　攻打防守人员较多的敌方领地时，一定要注意阵型的作用，进入领地是从东南西北四个方向随机进入，指挥者一定要把兄弟们召集在一起集合抱团，然后纯防T型豪杰站在最前面，同时最好把“天外流星“（3秒眩晕）放在第一个技能槽，不论手动操作还是自动战斗，都可以第一时间将敌方控制，闪避流月灵也可以冲入敌方阵型里吸收伤害，作为主要输出的天机一定要站在后排全力输出。<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140626/20140626165403_68622.png" /><br />
+<br />
+　　帮会领地战的后30分钟非常重要，还有一种非常规的打法可供参考，尤其旗子的归属是按照帮会整体输出量的多少进行判定归哪个帮会所有，以“司隶”为例，帮会3—5人无限堆尸无限去磨旗子的血量，不打守军，只打棋子，然后在帮战活动结束前10分钟，将旗子血量控制在较低的数值，然后召集帮会里的所有兄弟，最后3分钟全力输出旗子（同样也不打红名玩家）,这样就可以将旗子抢过来，同时由于活动时间快结束，敌方再怎么输出也来不及了这样的打法不仅仅局限于一个领地，可同时适用于多个领地，只是对帮会兄弟的执行力和耐力有一定的要求。<br />
+<br />
+　　当然，玩家之中还有更多的战术心得，我们会在今后与大家一起总结这些战术打法，让帮会领地战更为精彩！
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,52 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/ttdqy/web/js/js.js?v=1"></script>
+<body>
+<div id="wrap">
+	<div id="main">
+		<div class="main-wrap">	
+			<div id="menu">
+				<a href="http://ttdqy.feiliu.com"><span>官</span>网首页</a>
+				<a class="menu-curr" href="http://ttdqy.feiliu.com/list/list_ttdqy_data.shtml"><span>游</span>戏资料站</a>
+				<a href="http://ttdqy.feiliu.com/list/list_ttdqy_hero.shtml"><span>三</span>国点将谱</a>
+				<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml"><span>群</span>英大事件</a>
+				<a href="http://ttdqy.feiliu.com/list/list_ttdqy_downpage.shtml"><span>游</span>戏下载</a>
+				<a href="http://bbs.8783.com/forum-192-1.html" target="_blank"><span>玩</span>家论坛</a>	
+			</div>
+			<!--下载模板start-->
+				<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+			<!--下载模板end-->
+			<div id="data-center">
+				<div class="news-title">
+					<div class="news-title-left">资料站</div>
+				</div>
+				<div class="centerwrap">
+					<div class="position">
+						<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="javascript:void(0);">资料站</a>
+					</div>
+					<img class="map" src="http://js.feiliu.com/static/ttdqy/web/images/map.jpg" alt="">
+					<ul class="datalist">
+						<li class="data-item">
+							<span>特色系统：</span><a href="">卡牌大全</a>|<a href="">系统配置</a>|<a href="">基本操作</a>|<a href="">背景故事</a>
+						</li>
+						<li class="data-item">
+							<span>新手上路：</span><a href="">卡牌大全</a>|<a href="">系统配置</a>|<a href="">基本操作</a>|<a href="">背景故事</a>
+						</li>
+						<li class="data-item">
+							<span>高手进阶：</span><a href="">卡牌大全</a>|<a href="">系统配置</a>|<a href="">基本操作</a>|<a href="">背景故事</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

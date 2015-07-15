@@ -1,0 +1,27 @@
+        <div class="article-sec">
+            <div class="article-sec-header">
+                <ul class="tab-header">
+                    <li><a class="tab-item active" href="javascript:;">最新</a></li>
+                    <li><a class="tab-item" href="javascript:;">新闻</a></li>
+                    <li><a class="tab-item" href="javascript:;">公告</a></li>
+                    <li><a class="tab-item" href="javascript:;">活动</a></li>
+                </ul>
+                <a class="more" href="http://zhxy.feiliu.com/list/list_zhxy_zx.shtml">MORE</a>
+            </div>
+           
+            <!--首页最新栏目模板start-->
+                <!--#include virtual="/list/index_zhxy_colzx.shtml"-->
+            <!--首页最新栏目模板end-->
+
+            <!--首页新闻栏目模板start-->
+                <!--#include virtual="/list/index_zhxy_colnews.shtml"-->
+            <!--首页新闻栏目模板end-->
+
+            <!--首页公告栏目模板start-->
+                <!--#include virtual="/list/index_zhxy_colgg.shtml"-->
+            <!--首页公告栏目模板end-->
+
+            <!--首页活动栏目模板start-->
+                <!--#include virtual="/list/index_zhxy_colhd.shtml"-->
+            <!--首页活动栏目模板end-->
+        </div>

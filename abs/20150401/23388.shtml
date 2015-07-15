@@ -1,0 +1,59 @@
+<!--头部公共文件模块开始-->
+	<!--#include virtual="/list/abc_index_topfile.shtml"-->
+<!--头部公共文件模块结束-->
+<body>
+<div class="wrap minwidth rel">
+	<!--公共导航模块开始-->
+		<!--#include virtual="/list/abc_index_nav.shtml"-->
+	<!--公共导航模块结束-->
+	<div class="contain minwidth rel">
+		<div class="con920">
+			<div class="subtop rel">
+				<img src="http://js.feiliu.com/static/abc/web/images/zhu.png" alt="" class="zhu asb">
+			</div>
+			<div class="subline">
+				<div class="newstxt">
+					<div class="infotitle">猪鸟大战升级！《愤怒的小鸟嘉年华》剧情详解</div>
+					<div class="article">由飞流（FL Mobile）代理发行的《愤怒的小鸟嘉年华》安卓版已于3月19日，正式在360、UC、百度、小米、安智、豌豆荚、飞流、虫虫、机锋、卓易市场、N多、木蚂蚁、等游戏下载平台上线。在《愤怒的小鸟嘉年华》中，捣蛋猪又做了什么令小鸟们愤怒的事情？小鸟们又会怎么报复捣蛋猪呢？<br />
+<br />
+<br />
+《愤怒的小鸟嘉年华》官方网站：http://abs.feiliu.com<br />
+《愤怒的小鸟嘉年华》下载地址：http://abs.feiliu.com/download?cid=300021&amp;type=5<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141831_72124.jpg" alt="" /><br />
+<br />
+<br />
+【蛋被偷了愤怒模式启动】<br />
+<br />
+<br />
+&nbsp; 鸟儿们愤怒了！家中的蛋被偷走了！而那些偷走蛋的小偷就是一群捣蛋猪，为了防备鸟儿的复仇，它们还修筑了坚固的堡垒！带着自己的愤怒，鸟儿们开始了对捣蛋猪们的报复，它们以自己的身体为武器，借助弹弓的力量，不断开始攻击捣蛋猪们的堡垒!<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141841_13354.jpg" alt="" /><br />
+<br />
+【忙于逃窜全球大追捕】<br />
+<br />
+<br />
+&nbsp; 捣蛋猪的堡垒被不断攻破，为了保命的它们只能不断流窜在世界各地，而鸟儿们也开始了全球大追捕。在捣蛋猪的逃亡之路上，它们逃到了NBA赛场、逃到了北极、逃到了中国赶上春节、逃到了复活节⋯⋯捣蛋猪们流窜在各个国家或地区的很多节日庆典，每到一个地方，捣蛋猪们便会借助这些节日元素筑起自己的堡垒。而鸟儿们也不甘示弱，于是一场横跨全球十几个节日庆典的新复仇开始啦⋯⋯<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141853_75219.jpg" alt="" /><br />
+<br />
+&nbsp; 剧情升级的《愤怒的小鸟嘉年华》，让玩家可以跟随小鸟们的路线，领略到“NBA灌篮”、“唐装春节”、“超时空马戏团”、“玛雅迷阵”、“樱花季”、“北极探险”、“礼物保卫战（圣诞节）”“整蛊万圣节”等等风情万种的节日气氛，开始一场场别具特色的游戏新体验。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150401/20150401141909_37683.png" alt="" /><br /></div>
+				</div>
+			</div>
+			<div class="subbottom"></div>
+		</div>
+		<!--底部公共模块开始-->
+			<!--#include virtual="/list/abc_index_foot.shtml"-->
+		<!--底部公共模块结束-->
+	</div>
+</div>
+<!--右侧漂浮模块开始-->
+	<!--#include virtual="/list/abc_index_float.shtml"-->
+<!--右侧漂浮模块结束-->
+<!--底部公共js文件模块开始-->
+	<!--#include virtual="/list/abc_index_jsfile.shtml"-->
+<!--底部公共js文件模块结束-->
+</body>
+</html>

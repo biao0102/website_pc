@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="《攻城掠地》2.1.5版本更新公告_" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>《攻城掠地》2.1.5版本更新公告 攻城掠地_公告</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+															<div class="news_head">
+																			<ul class="news_tab">
+											<li><a href="http://gc.feiliu.com/list/list_gcld_gg.shtml" class="current">公告</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_news.shtml">新闻</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_rd.shtml">热点</a></li>
+											<li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_hd.shtml">活动</a></li>
+										</ul>
+										<p>所在位置： <a href="http://gc.feiliu.com">首页</a> &gt;&gt; 公告 </p>
+									                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">《攻城掠地》2.1.5版本更新公告</a></div>
+                                    <div class="news_date">发布时间：2014-12-02 17:35:08</div>
+                                    <div class="news_main">
+										&nbsp; 为了给您更好的游戏体验，我们将于12月9日13：30点进行苹果服2.1.5版本更新，17:00进行混服2.1.5版本更新，预计时间60分钟，开放时间将根据实际情况提前或延后，届时会对您登陆造成影响，给您带来的不便我们深表歉意。更新时间以实际更新时间为准。<br />
+&nbsp; 希望大家多多提出宝贵建议，反馈在论坛或直接联系官方客服QQ800032234。<br />
+&nbsp; 关注攻城掠地官方微信号：gongcld，即可获得大量高级丹书铁券、募兵令、粮食、银币、木材！还有诸多游戏攻略供您随时查阅！<br />
+<br />
+一:新增功能<br />
+<br />
+1.140级副本、武将<br />
+<br />
+新增140级副本地图-建邺<br />
+新增140级武将二个：陆逊、周瑜<br />
+<br />
+2.袁绍事件<br />
+<br />
+在国战任务中额外增加袁绍事件，击败袁绍的国家参战玩家可暂时获得战斗力加成。<br />
+<br />
+3.限时优惠<br />
+<br />
+1）花费金币购买法宝与朱雀套装。<br />
+2）玩家达到指定等级时自动触发活动。<br />
+3）触发活动后自动开始倒计时，指定时间内没有购买则活动消失。<br />
+<br />
+4.圣诞活动<br />
+<br />
+活动期间，玩家通过收集“礼盒”、“彩球”和“雪花”三样圣诞装饰品道具，去装扮圣诞树。装扮共分三层，装扮满一层获得一份奖励，全部装扮可以摇圣诞树，获得圣诞大礼包奖励。<br />
+<br />
+二：细节优化<br />
+<br />
+1.更新广结名仕玩法<br />
+2.在神锤砸宝石活动期间，拆卸宝石不消耗金币<br />
+3.部分细节<br />
+1）精炼按钮修改<br />
+2）充值界面VIP8“急行军”图标<br />
+3）部队加速移动的特效（各兵种都要有）<br />
+4）宝石祭祀增加70金币一次科技<br />
+4.bug修复<br />
+5.页面优化<br />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

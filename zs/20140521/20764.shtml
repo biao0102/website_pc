@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_其他</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">帮会活动</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-21 17:37:34</span>
+																			</div>
+									<div class="w-d">
+										活动分类： <br />
+【一、帮会祈福（帮会2级开启）】<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140521/20140521172747_67691.jpg" /><br />
+<br />
+奖励种类：<br />
+铜钱，VIP体验卡，初级战魂宝箱，中级战魂宝箱，双倍经验符，行军令，仙露符<br />
+<br />
+祈福次数：5次<br />
+<br />
+祈福时需要：帮贡<br />
+<br />
+说明:<br />
+每次祈福消耗100点帮贡<br />
+<br />
+<br />
+<br />
+【二、帮会祭神（帮会3级开启）】<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140521/20140521172950_76781.jpg" /><br />
+<br />
+奖励：帮会圣像祝福（BUFF类）<br />
+<br />
+圣像经验获得途径：祭神<br />
+<br />
+祭神种类：<br />
+白檀香祭神（消耗100帮贡，圣像经验+100）<br />
+苏合香祭神（消耗5元宝，圣像经验+200）<br />
+天木香祭神（消耗10元宝，圣像经验+250） <br />
+<br />
+说明：<br />
+●每日祭神次数为10次，3种祭神共用次数<br />
+●帮会圣像N级时，帮会圣像会带给帮会成员祝福<br />
+●每日领取祝福有一定消耗（帮贡或元宝）<br />
+<br />
+<br />
+<br />
+【三、帮会领地战（帮会3级开启）】<br />
+<br />
+奖励：<br />
+领地战奖励内容待定<br />
+领地日常奖励（帮会福利）<br />
+<br />
+帮会领地品质分类：<br />
+●3个领地为枯竭的 <br />
+●3个领地为普通的<br />
+●3个领地为充足的<br />
+●1个领地为富饶的<br />
+<br />
+开启时间：<br />
+每周六晚上9点—10点<br />
+<br />
+说明：<br />
+●在活动中，固定地点、固定时间出现各种增加BUFF效果道具<br />
+●根据帮会击杀旗帜（旗帜唯一）血量判定当前领地属于哪个帮会；若击杀相同血量，按照帮会成员击杀数量&gt;获得荣誉总和&gt;死亡次数&gt;，再次相同，随机取一个帮会<br />
+●在活动中允许使用血瓶功能，在活动中允许玩家购买特殊道具<br />
+<br />
+<br />
+<br />
+【四、帮会副本】<br />
+<br />
+副本次数：<br />
+每天1次<br />
+<br />
+玩法分类：<br />
+●采集<br />
+●杀怪<br />
+<br />
+说明：<br />
+●每日开启帮会副本需要缴纳一定额度的帮会资金<br />
+●副本没有结束时，中途离开副本，可再次进入<br />
+●帮会副本战斗房间共为2个<br />
+<br />
+<span style="display:none;" id="__kindeditor_bookmark_start_69__"></span>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+              <div class="top004" id="_showa4">
+                <ul class="buttonbg01">
+                  <li class="tk02"><a href="#" onmousemove="__showa(1);">坦克展示</a></li>
+                  <li class="tk02"><a href="#" onmousemove="__showa(2);">基地建筑</a></li>
+                  <li class="tk02"><a href="#"  onmousemove="__showa(3);">资源设施</a></li>
+                  <li class="tk01"><a href="#">科研技术</a></li>
+                  <li class="tk02"><a href="#" onmousemove="__showa(5);">增益属性</a></li>
+                </ul>
+                <div class="tankzs">
+                 <span class="zhanshi04 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/keyan/item_buff_gold_up.png" /><br />
+                  小型开采水晶 </span>
+                   <span class="zhanshi04 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/keyan/item_buff_gold_up2.png" /><br />
+                  中型开采水晶 </span>
+                   <span class="zhanshi04 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/keyan/item_buff_metal_up.png" /><br />
+                  小型开采矿场 </span>
+                   <span class="zhanshi04 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/keyan/item_buff_metal_up2.png" /><br />
+                  中型开采矿场 </span>
+                   <span class="zhanshi04 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/keyan/item_buff_oil_up.png" /><br />
+                  小型石油开采 </span>
+                   <span class="zhanshi04 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/keyan/item_buff_oil_up2.png" /><br />
+                  中型石油开采 </span>
+                   <span class="zhanshi04 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/keyan/item_buff_silicon_up.png" /><br />
+                  小型铅矿开采 </span>
+                   <span class="zhanshi04 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/keyan/item_buff_silicon_up2.png" /><br />
+                  中型铅矿开采 </span>
+                   <span class="zhanshi04 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/keyan/item_buff_uranium_up.png" /><br />
+                  小型钛矿开采 </span>
+                   <span class="zhanshi04 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/keyan/item_buff_uranium_up2.png" /><br />
+                  中型钛矿开采 </span>
+                   </div>
+              </div>

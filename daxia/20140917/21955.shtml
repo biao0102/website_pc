@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<title>关注“飞流游戏”微信，特权礼包等你拿！ 文章页 活动 </title>
+<link href="http://js.feiliu.com/static/daxia/css/main.css?v=07171852" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+</head>
+
+<body class="inner">
+			<!--乱斗江湖内容页顶部模板start-->
+				<!--#include virtual="/list/index_daxia_header.shtml"-->
+			<!--乱斗江湖内容页顶部模板end-->
+<div class="bg1">
+			<!--乱斗江湖内容页顶部导航模板start-->
+				<!--#include virtual="/list/index_daxia_nav.shtml"-->
+			<!--乱斗江湖内容页顶部导航模板end-->
+</div>
+<div class="bg4">
+	<div class="wrap">
+			<!--乱斗江湖内容页左侧浮动框模板start-->
+				<!--#include virtual="/list/index_daxia_side.shtml"-->
+			<!--乱斗江湖内容页左侧浮动框模板end-->
+         <div class="main">
+<!--          	<div class="tab-header">
+            	<a class="tab-news tab-news-active" href="#"></a>
+                <a class="tab-res" href="#"></a>
+                <a class="tab-more" href="#">更多>></a>
+            </div> -->
+			<div class="maincon">
+				<div class="mailtop"></div>
+				<div class="maintxt article">         	
+	        		<h1>关注“飞流游戏”微信，特权礼包等你拿！</h1>
+	                <p><p class="MsoNormal" style="text-indent:21.0pt;background:white;">
+	各位大侠们<span>~</span>即日起，首次关注“飞流游戏”微信公众号（或搜索微信号：<span>flgames</span>），回复“<span>dxbxz3</span>”就可以免费领取超值特权礼包<span>~</span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;background:white;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;background:white;">
+	礼包内容：200元宝、<span>20000</span>银币、论剑贴<span>*2</span>、高级经验丹<span>*2</span>、美味草莓<span>*2&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;background:white;">
+	&nbsp;
+</p>
+礼包使用方法：登录游戏—“＋”号的图标—【设置】—【礼包兑换】—领取
+<p class="MsoNormal" style="text-indent:21.0pt;background:white;">
+	<br />
+</p></p>
+	            </div>
+	            <div class="mailbottom"><img src="http://js.feiliu.com/static/daxia/images/mailbottom.jpg" /></div>
+	        </div>
+        </div>
+    </div>
+</div>
+<div class="bg3">
+			<!--乱斗江湖内容页底部媒体合作模板start-->
+				<!--#include virtual="/list/index_daxia_mt.shtml"-->
+			<!--乱斗江湖内容页底部媒体合作模板end-->
+
+			<!--乱斗江湖内容页底部说明模板start-->
+				<!--#include virtual="/list/index_daxia_footer.shtml"-->
+			<!--乱斗江湖内容页底部说明模板end-->
+</div>
+</body>
+</html>

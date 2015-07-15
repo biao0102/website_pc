@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+    <meta name="keywords" content="魔戒,魔戒官网,至尊魔戒，魔戒越狱版下载，魔戒IOS版下载，魔戒安卓版下载，魔戒游戏" />
+    <meta name="description" content="《魔戒》是一款欧美魔幻题材、带魔戒世界观的即时战斗制手机网游。《魔戒》强大的魔族入侵人类，摧毁我们的家园，伟大的勇士们！拿起手中的长剑，为了守护魔戒，击退魔族而战吧！这是一款MMOARPG真3D酷爽战斗手游。在这里你可以驰骋西方魔幻世界，拯救人类！" />
+    
+    <title>《魔戒》官方网站</title>
+    <link href="http://js.feiliu.com/static/mojie/style/master.css?v=2" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/mojie/js/jquery1.6.4.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            newstab();
+            zylb();
+            fndatulb();
+            mttab();
+            fnhzmt();
+        });
+
+        function newstab() {
+            var tabs = $("#news_nav a");
+            var panes = $("#news_panes > ul.news_list");
+            tabs.each(function (i) {
+                $(this).click(function () {
+                    tabs.removeClass("current").eq(i).addClass("current");
+                    panes.hide().eq(i).show();
+                });
+            });
+        }
+
+        function mttab() {
+            var tabs = $("#mt_nav a");
+            var panes = $("#iframebox > div.iframeitem");
+            tabs.each(function (i) {
+                $(this).click(function () {
+                    tabs.removeClass("current").eq(i).addClass("current");
+                    panes.hide().eq(i).show();
+                });
+            });
+        }
+
+        function zylb() {
+            var prev = $("#prev");
+            var next = $("#next");
+            var imgbox = $("#zyimg_list");
+            var imgnum = imgbox.children().length;
+            var i = 0;
+            var time = 500;
+            prev.click(function () {
+                i = i <= 0 ? imgnum - 1 : i - 1;
+                fnAnimate();
+            });
+            next.click(function () {
+                i = i >= imgnum - 1 ? 0 : i + 1;
+                fnAnimate();
+            });
+            function fnAnimate() {
+                imgbox.animate({ "left": -i * 265 + "px" }, time);
+            }
+        }
+
+        function fndatulb() {
+            var lbbox = $("#lbbox");
+            var imgs = $("#lbimg").children();
+            var btns = $("#lbnav_btn").children();
+            var timer = null;
+            var time = 3000;
+            var i = 0;
+            btns.each(function (x) {
+                $(this).click(function () {
+                    i = x;
+                    fnlb();
+                });
+            });
+            timer = setInterval(fnlbzd, time);
+            lbbox.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(fnlbzd, time);
+            });
+            function fnlbzd() {
+                i = i >= imgs.length - 1 ? 0 : i + 1;
+                fnlb();
+            }
+            function fnlb() {
+                imgs.hide().eq(i).show();
+                btns.removeClass("current").eq(i).addClass("current");
+            }
+        }
+
+        function fnhzmt() {
+            var mtbox = $("#hzmt_list");
+            var liwidth = 113;
+            var linum = mtbox.children().length;
+            var i = 0;
+            var timer = null;
+            var time = 20;
+            if (linum >= 8) {
+                mtbox.append(mtbox.html());
+                timer = setInterval(hzmtAnimate, time);
+                mtbox.hover(function () {
+                    clearInterval(timer);
+                    timer = null;
+                }, function () {
+                    timer = setInterval(hzmtAnimate, time);
+                });
+            }
+            function hzmtAnimate() {
+                i = i >= liwidth * linum ? 0 : i + 1;
+                mtbox.css("left", -i + "px");
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <div id="wrap" class="wrap">
+        <div class="content">
+            <div class="nav">
+                <ul class="nav_list">
+                    <li class="btn01"><a href="#">官网首页</a></li>
+                    <li class="btn02"><a href="#">游戏资讯</a></li>
+                    <li class="btn03"><a href="#">资料站</a></li>
+                    <li class="btn04"><a href="#">VIP专属</a></li>
+                    <li class="btn05"><a href="#">视听盛宴</a></li>
+                    <li class="btn06"><a href="#">官方论坛</a></li>
+                </ul>
+                <h1 class="logo"><a href="#">《魔戒》官方网站</a></h1>
+            </div>
+            <img src="http://js.feiliu.com/static/mojie/images/index/img02.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/mojie/images/index/img03.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/mojie/images/index/img04.jpg" alt="" border="0" />
+            <img src="http://js.feiliu.com/static/mojie/images/index/img05.jpg" alt="" border="0" />
+            <div class="down">
+                <div class="down_btn clearfix">
+                    <a href="#" class="btn01">IOS版下载</a>
+                    <a href="#" class="btn02">越狱版下载</a>
+                    <a href="#" class="btn03">安卓版下载</a>
+                </div>
+            </div>
+            <img src="http://js.feiliu.com/static/mojie/images/index/img07.jpg" alt="" border="0" />
+            <div class="news clearfix">
+                <div class="lbbox" id="lbbox">
+                    <div class="lbimg" id="lbimg">
+                        <a href="#" target="_blank" style="display: block;">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/lb01.jpg" alt="" /></a>
+                        <a href="#" target="_blank">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/lb01.jpg" alt="" /></a>
+                        <a href="#" target="_blank">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/lb01.jpg" alt="" /></a>
+                        <a href="#" target="_blank">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/lb01.jpg" alt="" /></a>
+                        <a href="#" target="_blank">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/lb01.jpg" alt="" /></a>
+                    </div>
+                    <div class="lbnav">
+                        <div class="lbnav_bg"></div>
+                        <div class="lbnav_btn" id="lbnav_btn">
+                            <a href="javascript:;" class="current">1</a>
+                            <a href="javascript:;">2</a>
+                            <a href="javascript:;">3</a>
+                            <a href="javascript:;">4</a>
+                            <a href="javascript:;">5</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news_box">
+                    <ul class="news_nav" id="news_nav">
+                        <li class="btn01"><a href="javascript:;" class="current">新闻</a></li>
+                        <li class="btn02"><a href="javascript:;">活动</a></li>
+                        <li class="btn03"><a href="javascript:;">公告</a></li>
+                        <li class="btn04"><a href="javascript:;">媒体</a></li>
+                    </ul>
+                    <div class="news_panes" id="news_panes">
+                        <!--魔戒首页右侧栏目模板start-->
+							<!--#include virtual="/list/index_mojie_right.shtml"-->
+						<!--魔戒首页右侧栏目模板end--> 
+                    </div>
+                </div>
+            </div>
+            <div class="main clearfix">
+                <div class="left">
+                    <div class="zybox">
+                        <div class="zybox_img">
+                            <span class="prev" id="prev">上一页</span>
+                            <span class="next" id="next">下一页</span>
+                            <ul class="zyimg_list" id="zyimg_list">
+                                <li>
+                                    <img src="http://js.feiliu.com/static/mojie/images/index/zy01.jpg" alt="" /></li>
+                                <li>
+                                    <img src="http://js.feiliu.com/static/mojie/images/index/zy01.jpg" alt="" /></li>
+                                <li>
+                                    <img src="http://js.feiliu.com/static/mojie/images/index/zy01.jpg" alt="" /></li>
+                                <li>
+                                    <img src="http://js.feiliu.com/static/mojie/images/index/zy01.jpg" alt="" /></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="videobox">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/sp.jpg" alt="" />
+                        </div>
+                    </div>
+                    <div class="hdsq">
+                        <div class="weixin">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/weixin.jpg" alt="" />
+                        </div>
+                        <div class="weibo">微 信 号：4545454545<a href="#" target="_blank" class="xinlang">新浪微博</a></div>
+                        <div class="weibo">客服QQ：4545454545<a href="#" target="_blank" class="tengxun">腾讯微博</a></div>
+                    </div>
+                </div>
+                <div class="right">
+                    <div class="yxgl clearfix">
+                        <div class="yxgl_l">
+                            <div class="yxgl_title"><a href="#" target="_blank">更多&gt;&gt;</a></div>
+                            <ul class="yxgl_list">
+                                <li><a href="#" target="_blank">[综合]魔戒魔热血帮战资源夺旗战引爆群雄pk大赛</a><span>[12/23]</span></li>
+                                <li><a href="#" target="_blank">[综合]魔戒魔热血帮战资源夺旗战引爆群雄pk大赛</a><span>[12/23]</span></li>
+                                <li><a href="#" target="_blank">[综合]魔戒魔热血帮战资源夺旗战引爆群雄pk大赛</a><span>[12/23]</span></li>
+                                <li><a href="#" target="_blank">[综合]魔戒魔热血帮战资源夺旗战引爆群雄pk大赛</a><span>[12/23]</span></li>
+                                <li><a href="#" target="_blank">[综合]魔戒魔热血帮战资源夺旗战引爆群雄pk大赛</a><span>[12/23]</span></li>
+                                <li><a href="#" target="_blank">[综合]魔戒魔热血帮战资源夺旗战引爆群雄pk大赛</a><span>[12/23]</span></li>
+                                <li><a href="#" target="_blank">[综合]魔戒魔热血帮战资源夺旗战引爆群雄pk大赛</a><span>[12/23]</span></li>
+                                <li><a href="#" target="_blank">[综合]魔戒魔热血帮战资源夺旗战引爆群雄pk大赛</a><span>[12/23]</span></li>
+                                <li><a href="#" target="_blank">[综合]魔戒魔热血帮战资源夺旗战引爆群雄pk大赛</a><span>[12/23]</span></li>
+                                <li><a href="#" target="_blank">[综合]魔戒魔热血帮战资源夺旗战引爆群雄pk大赛</a><span>[12/23]</span></li>
+                                <li><a href="#" target="_blank">[综合]魔戒魔热血帮战资源夺旗战引爆群雄pk大赛</a><span>[12/23]</span></li>
+                            </ul>
+                        </div>
+                        <div class="yxgl_r">
+                            <img src="http://js.feiliu.com/static/mojie/images/index/right02.jpg" alt="" border="0" usemap="#Map" />
+                            <map name="Map" id="Map">
+                                <area shape="rect" coords="14,5,131,130" href="#" target="_blank" alt="卡牌介绍" />
+                                <area shape="rect" coords="141,5,259,128" href="#" target="_blank" alt="怪物介绍" />
+                                <area shape="rect" coords="16,145,128,270" href="#" target="_blank" alt="人物NPC介绍" />
+                                <area shape="rect" coords="141,144,260,270" href="#" target="_blank" alt="装备养成介绍" />
+                                <area shape="rect" coords="14,284,132,409" href="#" target="_blank" alt="技能介绍" />
+                                <area shape="rect" coords="141,283,260,409" href="#" target="_blank" alt="PVP介绍" />
+                            </map>
+                        </div>
+                    </div>
+                    <div class="jtzs">
+                        <ul class="jtzs_list">
+                            <li><a href="#" target="_blank">
+                                <img src="http://js.feiliu.com/static/mojie/images/index/jt01.jpg" alt="" /></a></li>
+                            <li><a href="#" target="_blank">
+                                <img src="http://js.feiliu.com/static/mojie/images/index/jt01.jpg" alt="" /></a></li>
+                            <li><a href="#" target="_blank">
+                                <img src="http://js.feiliu.com/static/mojie/images/index/jt01.jpg" alt="" /></a></li>
+                        </ul>
+                    </div>
+                    <div class="mtbox">
+                        <ul class="mt_nav" id="mt_nav">
+                            <li><a href="javascript:;" class="current">17173</a></li>
+                            <li><a href="javascript:;">口袋巴士</a></li>
+                            <li><a href="javascript:;">魔方网</a></li>
+                            <li><a href="javascript:;">18183</a></li>
+                        </ul>
+                        <div class="iframebox" id="iframebox">
+                            <div class="iframeitem" style="display: block;">1</div>
+                            <div class="iframeitem">2</div>
+                            <div class="iframeitem">3</div>
+                            <div class="iframeitem">4</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="hzmt">
+                <div class="hzmtbox">
+                      <!--魔戒首页底部媒体模板start-->
+						<!--#include virtual="/list/index_mojie_mthz.shtml"-->
+			<!--魔戒首页底部媒体模板end--> 
+                </div>
+            </div>
+            <div class="bottom">
+                <p class="pt15">About.us | Copy right@飞流iPhone 2013</p>
+                <p>爱游戏，爱生活，也爱美女。</p>
+                <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+                <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+                <p>Love is love!</p>
+            </div>
+        </div>
+    </div>
+	<div style="display:none;"><script src="http://s23.cnzz.com/stat.php?id=5817386&web_id=5817386" language="JavaScript"></script></div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+        	<div class="hero">
+            	<div class="hero-images">
+                	<a style="background:url(http://js.feiliu.com/static/qmdjh/images/a1.jpg)" href="javascript:void(0);"></a>
+                    <a style="background:url(http://js.feiliu.com/static/qmdjh/images/a2.jpg)" class="cur" href="javascript:void(0);"></a>
+                    <a style="background:url(http://js.feiliu.com/static/qmdjh/images/a3.jpg)" href="javascript:void(0);"></a>
+                </div>
+                <div class="hero-nav">
+                	<a href="javascript:void(0);">三大活动 福利精彩乐不停</a>
+                    <a class="cur" href="javascript:void(0);">开服7日活动 海量豪礼送不停</a>
+                    <a href="javascript:void(0);">首冲双倍 紫色神装免费拿</a>
+                </div>
+            </div>

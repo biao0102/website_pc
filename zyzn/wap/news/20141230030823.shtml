@@ -1,0 +1,63 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">甄嬛传宁贵人性感变身！《众妖之怒》妖狐COS曝光</div>
+			<div class="news-con">
+				&nbsp; 《众妖之怒》性感COS大片今日新鲜出炉，为大家带来最美妖狐！也许你会问片中美女是何许人也？她15岁就成为时尚杂志《瑞丽》的封面女郎、她毕业于北京电影学院表演系、她是《甄嬛传》中敢爱敢恨的宁贵人、她就是热依扎，横跨影、视、歌、模、游戏五界的新一代宅男女神！<br />
+<br />
+<br />
+《众妖之怒》预约活动页面：http://zyzn.feiliu.com/list/zyzn_activity.shtml<br />
+《众妖之怒》官方网站：http://zyzn.feiliu.com<br />
+《众妖之怒》官方QQ群：263683777　　<br />
+《众妖之怒》客服 QQ：800032234<br /><img src="http://i0.feiliu.com/image/20141230/20141230150624_94212.jpg" alt="" /><br />
+<br />
+<br />
+【飞流携手热依扎 首次代言游戏】<br />
+<br />
+<br />
+&nbsp; 飞流（FL Mobile）作为知名的全球移动游戏发行与运营服务商，之前就与张馨予、羽泉等大牌明星有过合作。此次邀请热依扎代言《众妖之怒》，正是看重其特有的深眼窝、高鼻梁、大眼睛、长睫毛以及她绝佳的身材和清纯、活跃的气质，这些特点与游戏中四大职业之一的“妖狐”重合度极高，能淋漓尽致地演绎妖狐的特性，让玩家直观感受《众妖之怒》的人物特色。<br /><img src="http://i0.feiliu.com/image/20141230/20141230150639_29571.jpg" alt="" /><br />
+<br />
+<br />
+【热依扎性感变身 COS可爱妖狐】<br />
+<br />
+<br />
+&nbsp; 15岁的热依扎在《瑞丽》杂志举办的全国比赛中赢得“最上镜头奖”，成为了《瑞丽》的封面女郎，并以杂志人气模特的身份出道。随后以专业演员为发展志向，就读北京电影学院表演系。2011年受到郑晓龙导演钦点，在《后宫甄嬛传》饰演宁贵人一角，开始受到关注。2014年6月，主演徐静蕾导演的电影《有一个地方只有我们知道》。近日，以可爱的妖狐造型代言东方奇幻3D手游《众妖之怒》，进军游戏圈。<br /><img src="http://i0.feiliu.com/image/20141230/20141230150804_89673.jpg" alt="" /><br />
+<br />
+<br />
+【好游戏要预约 众妖之怒邀你来战】<br />
+<br />
+<br />
+&nbsp; 在2015年1月6日举行的发布会上，《众妖之怒》将正式开启越狱版本的内测。为了让所有玩家初进游戏便能体验战斗的激情，《众妖之怒》开启了“内测预约初体验”活动，正在火爆进行中！所有玩家只要输出手机号便能获得包含多重豪礼的大礼包，同时还有iPhone6、充值卡等劲爆大礼派送。而且，输入手机号后还能第一时间了解游戏讯息，绝对不会让你错过抢先进入游戏的时机。<br /><img src="http://i0.feiliu.com/image/20141230/20141230150816_37521.jpg" alt="" /><br />
+欣赏完《众妖之怒》的妖狐COSPLAY大片，你是不是已经激动了呢？这样可爱的“宁贵人”还是第一次看见吧？觉得不过瘾？没关系，1月6日热依扎将以妖狐造型出席《众妖之怒》发布会，现场将与玩家们亲密互动，期待你的到来！<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

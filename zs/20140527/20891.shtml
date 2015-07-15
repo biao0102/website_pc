@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_新手攻略</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">新手攻略——新手不知道的x大技巧</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-27 17:39:26</span>
+																			</div>
+									<div class="w-d">
+										【技能升级技巧】<br />
+<br />
+　　很多游戏都是以主动技能主，但是《三国战神》是一个例外，他的主动技能并不是升级的重点，反倒是被动技能是主要升级的对象。<br />
+<br />
+因为：<br />
+　　主动技能0级~1级的效果是最大的，但是1级~2级，2级~3级带来的提升并不大。<br />
+　　被动技能每升1级所带来的提升都是一样的。<br />
+　　所以当有新的主动技能开放后，升一级后就不用再升了，留着升级点数去升级被动技能。<br />
+<br />
+【快速升级方法】<br />
+<br />
+　　由于体力的限制，所以如果不买战令的话，经验上很难拉开很大的差距。除了参与完所有能参与的活动外，关键就看双倍经验符如何使用了。<br />
+<br />
+　　双倍经验符只有30分钟的生效时间，并且只有打怪的经验双倍，任务奖励的经验是没有双倍的。<br />
+游戏里刷怪效率最高的系统就是【千里走单骑】，怪物又多又弱，虽然单个怪的经验不高，但是效率很高！所以每天刷【千里走单骑】的时候必吃双倍，刷的越快越好。这样升级最快！<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+三国战神官方客服：800032234<br />
+三国战神客服邮箱：<a href="mailto:800032234@qq.com">800032234@qq.com</a><br />
+三国战神QQ群：275507160<br />
+三国战神新浪官方微博：<a href="http://weibo.com/sgzsios">http://weibo.com/sgzsios</a><br />
+三国战神官方微信：sgzsIOS
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

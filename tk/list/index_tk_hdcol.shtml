@@ -1,0 +1,19 @@
+              <div class="top001" id="_show1">
+                <ul class="buttonbg">
+                  <li class="li01"><a href="http://tk.feiliu.com/list/list_tk_hd.shtml">活动</a></li>
+                  <li class="li02"><a href="http://tk.feiliu.com/list/list_tk_news.shtml" onmousemove="__show(2);">新闻</a></li>
+                  <li class="li02"><a href="http://tk.feiliu.com/list/list_tk_gg.shtml" onmousemove="__show(3);">公告</a></li>
+                  <li><a href="http://tk.feiliu.com/list/list_tk_allcol.shtml" class="more">more>></a></li>
+                </ul>
+                <div class="news01">
+                  <ul>
+					
+											<li><a href="http://tk.feiliu.com/20150424/23494.shtml" target="_blank">· 《战地坦克》 大量高价坦克来袭！游戏多独家发放！</a><span class="date">[04-24]</span></li>
+											<li><a href="http://tk.feiliu.com/20150403/23398.shtml" target="_blank">· 清明复活节社区活动</a><span class="date">[04-03]</span></li>
+											<li><a href="http://tk.feiliu.com/20150324/23336.shtml" target="_blank">· 《战地坦克》活动介绍</a><span class="date">[03-24]</span></li>
+											<li><a href="http://tk.feiliu.com/20150324/23335.shtml" target="_blank">· 《战地坦克》新服火爆开启</a><span class="date">[03-24]</span></li>
+											<li><a href="http://tk.feiliu.com/20150212/23163.shtml" target="_blank">· 喜气“羊羊”过大年</a><span class="date">[02-12]</span></li>
+											<li><a href="http://tk.feiliu.com/20150210/23147.shtml" target="_blank">· 《战地坦克》活动介绍</a><span class="date">[02-10]</span></li>
+					                  </ul>
+                </div>
+              </div> 

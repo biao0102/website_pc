@@ -1,0 +1,2028 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+<div class="wrap minwidth">
+	<div class="contain minwidth rel">
+		<div class="subcon1120">
+			<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+			<div class="conri fltt">
+				<div class="address">
+					<h2>新闻中心</h2>
+					<p>
+						当前位置：
+						<a href="http://tk.feiliu.com">首页</a>>>
+												<a href="http://tk.feiliu.com/web/list/newslist.shtml?a=3">活动</a>
+											</p>
+				</div>
+				<div class="subnews">
+					<div class="infotitle">《坦克风云》开启内测 六大活动助你称霸世界</div>
+					<div class="article">"<span style=""text-indent:28px;""><span><strong>《</strong></span><span><strong>坦克风云</strong></span><span><strong>》越狱</strong></span><span><strong>版不删档内测火爆</strong></span><span><strong>新</strong></span><span><strong>服即将</strong></span><span><strong>开启，</strong></span><span><strong>十多年的等待，十多年的期盼，十多年的经典，最具人气坦克战争</strong></span><span><strong>题材手游巨作，即将呈现在您的眼前，广大坦克</strong></span><span><strong>迷为此心潮澎湃，为了庆祝不删档内测开启，特推出六大活动等您参与。<br /><img src=""http://i0.8783.com/image/20140312/20140312174659_46671.jpg"" alt="""" /></strong></span></span><br />
+活动一：首冲送大奖<br />
+<span>活动内容：首充任意金额将获得双倍金币和道具奖励（统率书X1、加速生产X1、迁徙令X1）</span><br />
+<br />
+<span>活动二：</span><span><span>开服首冲返利</span></span><br />
+<span>活动内容：</span><span>新服首次充值将返利20%</span><br />
+<br />
+<span>活动三：战力冲榜赢大奖</span><br />
+<span>活动内容：</span><span>时间截止后,按战斗力排行榜前30位发奖</span><br />
+<span> 
+<table style=""width:381pt;"" class=""ke-zeroborder"" cellpadding=""0"" cellspacing=""0"" border=""0"" width=""508"">
+	<tbody>
+		<tr>
+			<td class=""xl67"" height=""24"" width=""113"">
+				名次
+			</td>
+			<td class=""xl67"" width=""95"">
+				奖励金币
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl70"" height=""23"">
+				1
+			</td>
+			<td class=""xl71"">
+				3888
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				2
+			</td>
+			<td class=""xl64"">
+				2888
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				3
+			</td>
+			<td class=""xl64"">
+				1888
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				4,5
+			</td>
+			<td class=""xl64"">
+				888
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				6--10
+			</td>
+			<td class=""xl64"">
+				588
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				11--20
+			</td>
+			<td class=""xl64"">
+				388
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				21--30
+			</td>
+			<td class=""xl64"">
+				188
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl77"" height=""24"">
+				31--50
+			</td>
+			<td class=""xl78"">
+				88
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+</span><br />
+<span>活动四：荣誉冲榜赢大奖</span><br />
+<span>活动内容：</span><span>活动截止时的荣誉榜前10名（按服务器时间为准）</span><br />
+<span> 
+<table style=""width:235pt;"" class=""ke-zeroborder"" cellpadding=""0"" cellspacing=""0"" border=""0"" width=""313"">
+	<tbody>
+		<tr>
+			<td class=""xl67"" height=""24"" width=""113"">
+				名次
+			</td>
+			<td class=""xl67"" width=""95"">
+				统率书
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl69"" height=""23"">
+				1
+			</td>
+			<td class=""xl72"">
+				18
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl70"" height=""23"">
+				2
+			</td>
+			<td class=""xl66"">
+				12
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl70"" height=""23"">
+				3
+			</td>
+			<td class=""xl66"">
+				6
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl71"" height=""24"">
+				4,5
+			</td>
+			<td class=""xl75"">
+				3
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<span>活动五：关卡冲榜赢大奖</span><br />
+</span><span>活动内容：</span><span>活动截止时的关卡星数榜前10名（按服务器时间为准）</span><span><br />
+<span> 
+<table style=""width:315pt;"" class=""ke-zeroborder"" cellpadding=""0"" cellspacing=""0"" border=""0"" width=""420"">
+	<tbody>
+		<tr>
+			<td class=""xl72"" height=""23"" width=""113"">
+				名次
+			</td>
+			<td class=""xl72"" width=""95"">
+				奖励金币
+			</td>
+			<td class=""xl80"" width=""105"">
+				荣誉勋章
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl69"" height=""23"">
+				1
+			</td>
+			<td class=""xl70"">
+				500
+			</td>
+			<td class=""xl73"">
+				40
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl71"" height=""23"">
+				2
+			</td>
+			<td class=""xl66"">
+				300
+			</td>
+			<td class=""xl67"">
+				30
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl71"" height=""23"">
+				3
+			</td>
+			<td class=""xl66"">
+				200
+			</td>
+			<td class=""xl67"">
+				20
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl76"" height=""23"">
+				4,5
+			</td>
+			<td class=""xl77"">
+				100
+			</td>
+			<td class=""xl78"">
+				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<span></span><span>活动六：VIP提升赢大奖</span><br />
+</span></span><span>活动内容：</span><span>时间截止后,按VIP等级发奖，仅可领取对应档次<br />
+<table border=""0"" cellpadding=""0"" cellspacing=""0"" width=""663"" style=""width:499pt;"" class=""ke-zeroborder"">
+	<tbody>
+		<tr>
+			<td colspan=""10"" height=""18"" class=""xl68"" width=""663"" style=""text-align:center;"">
+				VIP提升赢大奖
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl67"" style=""text-align:center;"">
+				VIP等级
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				1
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				2
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				3
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				4
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				5
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				6
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				7
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				8
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				9
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				对应金币
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				50
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				460
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				960
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				3000
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				7200
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				20000
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				60000
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				180000
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				500000
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				预计充值RMB
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				6
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				50
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				98
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				328
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				648
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				1624
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				4864
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				14256
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				38880
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具1
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				2
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				5
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				10
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				30
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				50
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				100
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				300
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				500
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				1000
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具2
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				1
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				2
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				3
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				5
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				15
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				30
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				50
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				100
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具3
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				3
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				10
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				30
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				60
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				100
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				200
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具4
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				小型资源箱
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				中型资源箱
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				大型资源箱
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				大型资源箱
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				1
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				2
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				4
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				15
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具5
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				高级迁徙令
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				高级迁徙令
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				1
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				10
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具6
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl73"" style=""text-align:center;"">
+				加速生产
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+</span><br />
+<br />"
+"<span style=""text-indent:28px;""><span><strong>《</strong></span><span><strong>坦克风云</strong></span><span><strong>》越狱</strong></span><span><strong>版不删档内测火爆</strong></span><span><strong>新</strong></span><span><strong>服即将</strong></span><span><strong>开启，</strong></span><span><strong>十多年的等待，十多年的期盼，十多年的经典，最具人气坦克战争</strong></span><span><strong>题材手游巨作，即将呈现在您的眼前，广大坦克</strong></span><span><strong>迷为此心潮澎湃，为了庆祝不删档内测开启，特推出六大活动等您参与。<br /><img src=""http://i0.8783.com/image/20140312/20140312174659_46671.jpg"" alt="""" /></strong></span></span><br />
+活动一：首冲送大奖<br />
+<span>活动内容：首充任意金额将获得双倍金币和道具奖励（统率书X1、加速生产X1、迁徙令X1）</span><br />
+<br />
+<span>活动二：</span><span><span>开服首冲返利</span></span><br />
+<span>活动内容：</span><span>新服首次充值将返利20%</span><br />
+<br />
+<span>活动三：战力冲榜赢大奖</span><br />
+<span>活动内容：</span><span>时间截止后,按战斗力排行榜前30位发奖</span><br />
+<span> 
+<table style=""width:381pt;"" class=""ke-zeroborder"" cellpadding=""0"" cellspacing=""0"" border=""0"" width=""508"">
+	<tbody>
+		<tr>
+			<td class=""xl67"" height=""24"" width=""113"">
+				名次
+			</td>
+			<td class=""xl67"" width=""95"">
+				奖励金币
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl70"" height=""23"">
+				1
+			</td>
+			<td class=""xl71"">
+				3888
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				2
+			</td>
+			<td class=""xl64"">
+				2888
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				3
+			</td>
+			<td class=""xl64"">
+				1888
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				4,5
+			</td>
+			<td class=""xl64"">
+				888
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				6--10
+			</td>
+			<td class=""xl64"">
+				588
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				11--20
+			</td>
+			<td class=""xl64"">
+				388
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl75"" height=""23"">
+				21--30
+			</td>
+			<td class=""xl64"">
+				188
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl77"" height=""24"">
+				31--50
+			</td>
+			<td class=""xl78"">
+				88
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+</span><br />
+<span>活动四：荣誉冲榜赢大奖</span><br />
+<span>活动内容：</span><span>活动截止时的荣誉榜前10名（按服务器时间为准）</span><br />
+<span> 
+<table style=""width:235pt;"" class=""ke-zeroborder"" cellpadding=""0"" cellspacing=""0"" border=""0"" width=""313"">
+	<tbody>
+		<tr>
+			<td class=""xl67"" height=""24"" width=""113"">
+				名次
+			</td>
+			<td class=""xl67"" width=""95"">
+				统率书
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl69"" height=""23"">
+				1
+			</td>
+			<td class=""xl72"">
+				18
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl70"" height=""23"">
+				2
+			</td>
+			<td class=""xl66"">
+				12
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl70"" height=""23"">
+				3
+			</td>
+			<td class=""xl66"">
+				6
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl71"" height=""24"">
+				4,5
+			</td>
+			<td class=""xl75"">
+				3
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<span>活动五：关卡冲榜赢大奖</span><br />
+</span><span>活动内容：</span><span>活动截止时的关卡星数榜前10名（按服务器时间为准）</span><span><br />
+<span> 
+<table style=""width:315pt;"" class=""ke-zeroborder"" cellpadding=""0"" cellspacing=""0"" border=""0"" width=""420"">
+	<tbody>
+		<tr>
+			<td class=""xl72"" height=""23"" width=""113"">
+				名次
+			</td>
+			<td class=""xl72"" width=""95"">
+				奖励金币
+			</td>
+			<td class=""xl80"" width=""105"">
+				荣誉勋章
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl69"" height=""23"">
+				1
+			</td>
+			<td class=""xl70"">
+				500
+			</td>
+			<td class=""xl73"">
+				40
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl71"" height=""23"">
+				2
+			</td>
+			<td class=""xl66"">
+				300
+			</td>
+			<td class=""xl67"">
+				30
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl71"" height=""23"">
+				3
+			</td>
+			<td class=""xl66"">
+				200
+			</td>
+			<td class=""xl67"">
+				20
+			</td>
+		</tr>
+		<tr>
+			<td class=""xl76"" height=""23"">
+				4,5
+			</td>
+			<td class=""xl77"">
+				100
+			</td>
+			<td class=""xl78"">
+				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<span></span><span>活动六：VIP提升赢大奖</span><br />
+</span></span><span>活动内容：</span><span>时间截止后,按VIP等级发奖，仅可领取对应档次<br />
+<table border=""0"" cellpadding=""0"" cellspacing=""0"" width=""663"" style=""width:499pt;"" class=""ke-zeroborder"">
+	<tbody>
+		<tr>
+			<td colspan=""10"" height=""18"" class=""xl68"" width=""663"" style=""text-align:center;"">
+				VIP提升赢大奖
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl67"" style=""text-align:center;"">
+				VIP等级
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				1
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				2
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				3
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				4
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				5
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				6
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				7
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				8
+			</td>
+			<td class=""xl71"" style=""text-align:center;"">
+				9
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				对应金币
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				50
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				460
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				960
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				3000
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				7200
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				20000
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				60000
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				180000
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				500000
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				预计充值RMB
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				6
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				50
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				98
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				328
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				648
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				1624
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				4864
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				14256
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				38880
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具1
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				荣誉勋章
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				2
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				5
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				10
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				30
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				50
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				100
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				300
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				500
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				1000
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具2
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				统率书
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				1
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				2
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				3
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				5
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				15
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				30
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				50
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				100
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具3
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				幸运币
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				3
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				10
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				30
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				60
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				100
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				200
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具4
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				小型资源箱
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				中型资源箱
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				大型资源箱
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				大型资源箱
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				1
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				2
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				4
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				15
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具5
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				高级迁徙令
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+				高级迁徙令
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				1
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				10
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				奖励道具6
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl73"" style=""text-align:center;"">
+				加速生产
+			</td>
+		</tr>
+		<tr>
+			<td height=""18"" class=""xl66"" style=""text-align:center;"">
+				数量
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" style=""text-align:center;"">
+			</td>
+			<td class=""xl72"" align=""right"" style=""text-align:center;"">
+				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+</span><br />
+<br />"
+<span style="text-indent:28px;"><span><strong>《</strong></span><span><strong>坦克风云</strong></span><span><strong>》越狱</strong></span><span><strong>版不删档内测火爆</strong></span><span><strong>新</strong></span><span><strong>服即将</strong></span><span><strong>开启，</strong></span><span><strong>十多年的等待，十多年的期盼，十多年的经典，最具人气坦克战争</strong></span><span><strong>题材手游巨作，即将呈现在您的眼前，广大坦克</strong></span><span><strong>迷为此心潮澎湃，为了庆祝不删档内测开启，特推出六大活动等您参与。<br /><img src="http://i0.8783.com/image/20140312/20140312174659_46671.jpg" alt="" /></strong></span></span><br />
+活动一：首冲送大奖<br />
+<span>活动内容：首充任意金额将获得双倍金币和道具奖励（统率书X1、加速生产X1、迁徙令X1）</span><br />
+<br />
+<span>活动二：</span><span><span>开服首冲返利</span></span><br />
+<span>活动内容：</span><span>新服首次充值将返利20%</span><br />
+<br />
+<span>活动三：战力冲榜赢大奖</span><br />
+<span>活动内容：</span><span>时间截止后,按战斗力排行榜前30位发奖</span><br />
+<span> 
+<table style="width:381pt;" class="ke-zeroborder" cellpadding="0" cellspacing="0" border="0" width="508">
+	<tbody>
+		<tr>
+			<td class="xl67" height="24" width="113">
+				名次
+			</td>
+			<td class="xl67" width="95">
+				奖励金币
+			</td>
+		</tr>
+		<tr>
+			<td class="xl70" height="23">
+				1
+			</td>
+			<td class="xl71">
+				3888
+			</td>
+		</tr>
+		<tr>
+			<td class="xl75" height="23">
+				2
+			</td>
+			<td class="xl64">
+				2888
+			</td>
+		</tr>
+		<tr>
+			<td class="xl75" height="23">
+				3
+			</td>
+			<td class="xl64">
+				1888
+			</td>
+		</tr>
+		<tr>
+			<td class="xl75" height="23">
+				4,5
+			</td>
+			<td class="xl64">
+				888
+			</td>
+		</tr>
+		<tr>
+			<td class="xl75" height="23">
+				6--10
+			</td>
+			<td class="xl64">
+				588
+			</td>
+		</tr>
+		<tr>
+			<td class="xl75" height="23">
+				11--20
+			</td>
+			<td class="xl64">
+				388
+			</td>
+		</tr>
+		<tr>
+			<td class="xl75" height="23">
+				21--30
+			</td>
+			<td class="xl64">
+				188
+			</td>
+		</tr>
+		<tr>
+			<td class="xl77" height="24">
+				31--50
+			</td>
+			<td class="xl78">
+				88
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+</span><br />
+<span>活动四：荣誉冲榜赢大奖</span><br />
+<span>活动内容：</span><span>活动截止时的荣誉榜前10名（按服务器时间为准）</span><br />
+<span> 
+<table style="width:235pt;" class="ke-zeroborder" cellpadding="0" cellspacing="0" border="0" width="313">
+	<tbody>
+		<tr>
+			<td class="xl67" height="24" width="113">
+				名次
+			</td>
+			<td class="xl67" width="95">
+				统率书
+			</td>
+		</tr>
+		<tr>
+			<td class="xl69" height="23">
+				1
+			</td>
+			<td class="xl72">
+				18
+			</td>
+		</tr>
+		<tr>
+			<td class="xl70" height="23">
+				2
+			</td>
+			<td class="xl66">
+				12
+			</td>
+		</tr>
+		<tr>
+			<td class="xl70" height="23">
+				3
+			</td>
+			<td class="xl66">
+				6
+			</td>
+		</tr>
+		<tr>
+			<td class="xl71" height="24">
+				4,5
+			</td>
+			<td class="xl75">
+				3
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<span>活动五：关卡冲榜赢大奖</span><br />
+</span><span>活动内容：</span><span>活动截止时的关卡星数榜前10名（按服务器时间为准）</span><span><br />
+<span> 
+<table style="width:315pt;" class="ke-zeroborder" cellpadding="0" cellspacing="0" border="0" width="420">
+	<tbody>
+		<tr>
+			<td class="xl72" height="23" width="113">
+				名次
+			</td>
+			<td class="xl72" width="95">
+				奖励金币
+			</td>
+			<td class="xl80" width="105">
+				荣誉勋章
+			</td>
+		</tr>
+		<tr>
+			<td class="xl69" height="23">
+				1
+			</td>
+			<td class="xl70">
+				500
+			</td>
+			<td class="xl73">
+				40
+			</td>
+		</tr>
+		<tr>
+			<td class="xl71" height="23">
+				2
+			</td>
+			<td class="xl66">
+				300
+			</td>
+			<td class="xl67">
+				30
+			</td>
+		</tr>
+		<tr>
+			<td class="xl71" height="23">
+				3
+			</td>
+			<td class="xl66">
+				200
+			</td>
+			<td class="xl67">
+				20
+			</td>
+		</tr>
+		<tr>
+			<td class="xl76" height="23">
+				4,5
+			</td>
+			<td class="xl77">
+				100
+			</td>
+			<td class="xl78">
+				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<span></span><span>活动六：VIP提升赢大奖</span><br />
+</span></span><span>活动内容：</span><span>时间截止后,按VIP等级发奖，仅可领取对应档次<br />
+<table border="0" cellpadding="0" cellspacing="0" width="663" style="width:499pt;" class="ke-zeroborder">
+	<tbody>
+		<tr>
+			<td colspan="10" height="18" class="xl68" width="663" style="text-align:center;">
+				VIP提升赢大奖
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl67" style="text-align:center;">
+				VIP等级
+			</td>
+			<td class="xl71" style="text-align:center;">
+				1
+			</td>
+			<td class="xl71" style="text-align:center;">
+				2
+			</td>
+			<td class="xl71" style="text-align:center;">
+				3
+			</td>
+			<td class="xl71" style="text-align:center;">
+				4
+			</td>
+			<td class="xl71" style="text-align:center;">
+				5
+			</td>
+			<td class="xl71" style="text-align:center;">
+				6
+			</td>
+			<td class="xl71" style="text-align:center;">
+				7
+			</td>
+			<td class="xl71" style="text-align:center;">
+				8
+			</td>
+			<td class="xl71" style="text-align:center;">
+				9
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				对应金币
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				50
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				460
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				960
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				3000
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				7200
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				20000
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				60000
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				180000
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				500000
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				预计充值RMB
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				6
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				50
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				98
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				328
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				648
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				1624
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				4864
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				14256
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				38880
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				奖励道具1
+			</td>
+			<td class="xl72" style="text-align:center;">
+				荣誉勋章
+			</td>
+			<td class="xl72" style="text-align:center;">
+				荣誉勋章
+			</td>
+			<td class="xl72" style="text-align:center;">
+				荣誉勋章
+			</td>
+			<td class="xl72" style="text-align:center;">
+				荣誉勋章
+			</td>
+			<td class="xl72" style="text-align:center;">
+				荣誉勋章
+			</td>
+			<td class="xl72" style="text-align:center;">
+				荣誉勋章
+			</td>
+			<td class="xl72" style="text-align:center;">
+				荣誉勋章
+			</td>
+			<td class="xl72" style="text-align:center;">
+				荣誉勋章
+			</td>
+			<td class="xl72" style="text-align:center;">
+				荣誉勋章
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				数量
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				2
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				5
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				10
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				30
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				50
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				100
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				300
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				500
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				1000
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				奖励道具2
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+				统率书
+			</td>
+			<td class="xl72" style="text-align:center;">
+				统率书
+			</td>
+			<td class="xl72" style="text-align:center;">
+				统率书
+			</td>
+			<td class="xl72" style="text-align:center;">
+				统率书
+			</td>
+			<td class="xl72" style="text-align:center;">
+				统率书
+			</td>
+			<td class="xl72" style="text-align:center;">
+				统率书
+			</td>
+			<td class="xl72" style="text-align:center;">
+				统率书
+			</td>
+			<td class="xl72" style="text-align:center;">
+				统率书
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				数量
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				1
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				2
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				3
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				5
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				15
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				30
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				50
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				100
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				奖励道具3
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+				幸运币
+			</td>
+			<td class="xl72" style="text-align:center;">
+				幸运币
+			</td>
+			<td class="xl72" style="text-align:center;">
+				幸运币
+			</td>
+			<td class="xl72" style="text-align:center;">
+				幸运币
+			</td>
+			<td class="xl72" style="text-align:center;">
+				幸运币
+			</td>
+			<td class="xl72" style="text-align:center;">
+				幸运币
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				数量
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				3
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				10
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				30
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				60
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				100
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				200
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				奖励道具4
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+				小型资源箱
+			</td>
+			<td class="xl72" style="text-align:center;">
+				中型资源箱
+			</td>
+			<td class="xl72" style="text-align:center;">
+				大型资源箱
+			</td>
+			<td class="xl72" style="text-align:center;">
+				大型资源箱
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				数量
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				1
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				2
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				4
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				15
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				奖励道具5
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+				高级迁徙令
+			</td>
+			<td class="xl72" style="text-align:center;">
+				高级迁徙令
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				数量
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				1
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				10
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				奖励道具6
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl73" style="text-align:center;">
+				加速生产
+			</td>
+		</tr>
+		<tr>
+			<td height="18" class="xl66" style="text-align:center;">
+				数量
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" style="text-align:center;">
+			</td>
+			<td class="xl72" align="right" style="text-align:center;">
+				10
+			</td>
+		</tr>
+	</tbody>
+</table>
+</span><br /></div>
+				</div>
+			</div>
+		</div>			
+	</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

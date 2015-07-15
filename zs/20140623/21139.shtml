@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_其他新闻2</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">封号公告模版</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-06-23 18:46:27</span>
+																			</div>
+									<div class="w-d">
+										亲爱的玩家：<br />
+　　<br />
+　　我们将不断致力于维护游戏公平性，保证游戏体验；通过多方面数据检测及不正常游戏行为监测，收集影响其他用户公平游戏体验的玩家名单进行零容忍处罚。<br />
+<br />
+　　通过分析特征与数据信息监控，我们发现个别用户在游戏中进行刷分、刷铜币以及冒充客服、冒充官方团队发布虚假欺骗信息等行为。为了保证大部分用户的正常游戏体验，我们将对有上述行为（包括但不限于）的用户，根据情节严重程度，进行封号XX天、XX天、X年不等，以及收回道具、铜币等一系列处罚，其中包括过去未被处罚的、行为极其恶劣的用户。<br />
+<br />
+【封停名单】<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140623/20140623184625_52650.jpg" /><br />
+<br />
+【友情提示】请不要相信任何第三方交易，谨防上当受骗。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　三国战神IOS运营组<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2014.XX.XX<br />
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

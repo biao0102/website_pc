@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+	<title>龙骑战歌安卓首发，全民抢红包</title>
+<style>
+*{padding:0;margin:0}body{background:#000}#main{position:relative;max-width:640px;margin:0 auto;}#main img.bg{width:100%}.clear{clear:both}.handle{position:absolute;bottom:1em;left:0;width:100%}.handle .btn{width:60%;float:left;text-align:right}.handle .btn a{display:block}.handle .btn a:first-child{margin-bottom:.7rem}.handle img{width:90%}.handle .code{width:36%;float:right}
+</style>
+</head>
+<body>
+
+<div id="main">
+	<img class="bg" src="http://js.feiliu.com/static/lqzg/didi/images/bg.jpg" alt="">
+
+	<div class="handle">
+		<div class="btn">
+			<a href="http://cdn01.feiliu.com/packagingsystem/files/1432187003857_301143_sign.apk"><img src="http://js.feiliu.com/static/lqzg/didi/images/android.jpg" alt="安卓下载"></a>
+			<a href="http://lqzg.feiliu.com/index.shtml?s=301143"><img src="http://js.feiliu.com/static/lqzg/didi/images/main.jpg" alt="访问主页"></a>
+		</div>
+		<div class="code">
+			<img src="http://js.feiliu.com/static/lqzg/didi/images/code.png" alt="长安二维码 抢大奖">
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script> 
+<script type="text/javascript" src="http://game.feiliu.com/flyme/wx/common-1.1.min.js"></script>
+<script>
+    Flyme.wxShareInit('wx4739efbb76920078','C2', 9, '', {
+        'id': '9',
+        'link': 'http://lqzg.feiliu.com/wap/list/didi.shtml',
+        'imgUrl': 'http://image-wx.feiliu.com/admin-weixin/Public/upload//201505/55629c5535739.png',
+        'title': '龙骑战歌安卓首发，全民抢红包',
+        'desc': '龙骑战歌今日安卓震撼内测，千万滴滴红包送不停'
+    });
+</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

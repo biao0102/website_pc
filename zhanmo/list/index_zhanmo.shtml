@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>战魔官网</title>
+<meta name="keywords" content="战魔,战魔官网,战魔下载,战魔礼包,战魔激活码,战魔安卓版,战魔ios版,战魔越狱版,战魔概念站,战魔手游"/ >
+<meta name="description" content=" 战魔是一款1986年发行的战略游戏，其操作系统为Apple II"/>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/is_mobile.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <div></div>
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box01 fltt rel">
+      <!--战魔首页截图模板start-->
+        <!--#include virtual="/list/index_zhanmo_pic.shtml"-->
+      <!--战魔首页截图模板end-->      
+      <!--战魔首页视频模板start-->
+        <!--#include virtual="/list/index_zhanmo_video.shtml"-->
+      <!--战魔首页视频模板end-->
+      <!--战魔首页新闻栏目模板start-->
+        <!--#include virtual="/list/index_zhanmo_col.shtml"-->
+      <!--战魔首页新闻栏目模板end-->
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共底部模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共底部模板end-->
+    </div>
+    <!--战魔公共底部模板start-->
+      <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+    <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

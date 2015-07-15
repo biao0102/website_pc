@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《最江湖》游戏官网</title>
+<meta name="keywords" content="最江湖,最江湖官网,最江湖下载,最江湖礼包,最江湖激活码,最江湖安卓版,最江湖ios版,最江湖越狱版,最江湖概念站,最江湖手游"/ >
+<meta name="description" content=" 《最江湖》将于2014年5月15日拭剑开测，开创武侠微电影新时代！业内首创的微电影式剧情呈现，颠覆传统手游的革新体验，将带你亲临江湖，享受一番快意恩仇，剑指武林的豪迈之感。"/>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/gameimg/zjh/20140925183110.jpg"  alt="新闻" /></h2>
+          </div>
+          <div class="clear"></div>
+          <div class="gmcon">
+            <div class="infotxt">
+              <div class="subnews01">
+                <ul>
+                    
+                    
+                  <li><a href="http://zjh.feiliu.com/20140922/22014.shtml" target="_blank">【资料】江湖世界</a><span class="subdate">09-22</span></li>
+                    
+                  <li><a href="http://zjh.feiliu.com/20140922/22011.shtml" target="_blank">【资料】最江湖序章</a><span class="subdate">09-22</span></li>
+                                  </ul>
+              </div>
+<!--
+              <div class="subpages"><a href="">上一页 </a><a href="">1</a> <a href="">2</a><a href="">3</a><a href="">4</a><a href="">5</a><a href="">6</a> <a href="">下一页</a></div>
+-->
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

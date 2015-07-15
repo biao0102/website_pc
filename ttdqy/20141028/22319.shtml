@@ -1,0 +1,77 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content">&nbsp;
+<p class="1">
+	<span>良好的世界观是玩家对游戏世界探索的动力，那么《天天逗群英》到底是怎样的一个世界观呢？我们一起来看看吧</span><span>~</span> 
+</p>
+<p class="1">
+	<span></span>
+</p>
+<p class="1">
+	<span>世界观：</span><span></span> 
+</p>
+<p class="1" style="margin-left:39pt;text-indent:3pt;">
+	<span>一次意外醒来，你发现不再是熟悉的世界。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span>新的世界每个人都称你为“天命之人”，有人欣慰，有人怀疑，有人仇视，有人则以全部的热情护卫着你，希望你改变这个乱世。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span>这里是你熟悉的三国世界，却处处和你熟知的三国有所不同。这里依然有黄巾军、有董卓军、有一代战神吕布、有胸怀大志的刘皇叔、有一世枭雄的曹孟德；但这里的武将拥有了更加神奇而强大的力量：离体的刀光可以高达数米，轻易斩杀数千的士兵、武将举手可以召唤来旋风、火球、腾龙，万人敌在这里不是传说。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	<span>更强大的武力也伴随着更加混乱的世间，统一天下成为整个三国世界共同的渴望，你作为天命之人，以个人魅力吸引三国猛将谋士来投，用出神入化的指挥来赢得一场场战役，统一整个三国，这就是天命之人的使命。</span><span><br />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span>在这个神奇的三国世界中，求贤招募来的武将可以通过各种方式来强化，武将升级、配上天命武器、天命坐骑、强化兵种、武将升星，你的麾下武将将会一直强大下去，在你的带领下，横扫这个时代。</span><span></span> 
+</p>
+<span><br /><img style="height:396px;width:790px;" alt="" src="http://i0.feiliu.com/image/20141028/20141028132721_60473.jpg" width="1000" height="451" /><br />
+&nbsp;
+<p class="MsoNormal">
+	<span>更多精彩内容，敬请关注官方信息：</span> <span></span>
+</p>
+<p class="MsoNormal">
+	<span>官方</span><span>QQ</span><span>：</span><span>3131494764 <br />
+</span><span>官方</span><span>QQ</span><span>群：</span><span>210206480&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	<span>官网：</span><span><a href="http://ttdqy.feiliu.com/"><span style="text-decoration:none;">http://ttdqy.feiliu.com/</span></a></span> 
+</p>
+<span >帅呆了的群战三国！</span> 
+<p class="MsoNormal">
+	<span>&nbsp; </span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span><span>《天天逗群英》运营团队</span> <span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	</span><span></span>&nbsp;
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/msysg/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/msysg/web/scripts/jquery.min.js"></script>
+</head>
+<body>
+<!--首页头部飞流导航模板开始--> 
+<!--#include virtual="/list/index_msysg_flnav.shtml"-->
+<!--首页头部飞流导航模板结束-->
+
+<!--列表页下载模板开始--> 
+<!--#include virtual="/list/list_msysg_down.shtml"-->
+<!--列表页下载模板结束-->
+
+<div class="containsub min1000">
+  <div class="containbgsub">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+            <p><span class="toptxt01"><img src="http://js.feiliu.com/static/msysg/web/images/newstitle.jpg" alt="游戏新闻" /></span> <span class="toptxt02"><a href="http://ttdqy.feiliu.com"><img src="http://js.feiliu.com/static/msysg/web/images/back.jpg"  alt="返回首页"/></a></span></p>
+          </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">测试</div>
+              <div class="textTime">
+                <span style="float:left; color:#393939; width:80px; padding-left:90px;">2014-10-14</span>
+                <span style="width:380px; float:right; padding-top:10px">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+              测试<br />
+测试测试<br />
+测试测试测试<br />
+测试测试测试测试<br />
+测试测试测试测试测试<br />
+<br />
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/msysg/web/images/down.jpg" width="927" height="51"/></div>
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--列表页底部版权模板开始--> 
+<!--#include virtual="/list/list_msysg_foot.shtml"-->
+<!--列表页底部版权模板结束-->
+</body>
+</html>

@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网首页</title>
+    <meta name="keywords" content="三国战神，三国战神官网， 三国战神下载，三国战神礼包，三国战神攻略，三国战神安卓版， 三国战神ios版，三国战神手游" />
+    <meta name="description" content="《三国战神》基于U3D引擎开发，是一款真3D硬派PK网游，以大众熟知的三国题材为背景，通过国际化顶级标准的唯美中国风游戏画面，华丽的全屏3D绝技，随意变身三国名将“战魂”系统等特色，将每一个参与游戏的玩家深深带入其中，尤其对于曾经的剑侠、传奇、征途类游戏玩家来说，将深刻感受到相识的酷爽感觉。对于没有太多时间的端游老玩家来说，绝对能勾起美好的回忆，倍感惬意" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/index.css?v=1145">
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/is_mobile.js?v=1"></script>
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time","section"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div id="ripiao">
+<span><img src="http://js.feiliu.com/static/activity/sq/qrcode/gw_zs.png" /></span>
+<a href="http://game.feiliu.com/youxishequ/index.html?s=C08010000_App_shequ_908010000" class="downfl">下载游戏社区</a>
+</div>
+<div class="warp">
+		<!--首页头部导航模板开始-->
+			<!--#include virtual="/list/index_zs_topnav.shtml"-->
+		<!--首页头部导航模板结束-->
+		
+		<!--首页头部背景图模板开始-->
+			<!--#include virtual="/list/index_zs_showbg.shtml"-->
+		<!--首页头部背景图模板结束-->
+  <!--lunbo-->
+  <div id="newstab">
+		<!--首页头部新闻栏目模板开始-->
+			<!--#include virtual="/list/index_zs_col.shtml"-->
+		<!--首页头部新闻栏目模板结束-->
+	  
+		<!--首页头部轮播图模板开始-->
+			<!--#include virtual="/list/index_zs_lbt.shtml"-->
+		<!--首页头部轮播图模板结束-->
+	  
+		<!--首页头部游戏下载模板开始-->
+			<!--#include virtual="/list/index_zs_down.shtml"-->
+		<!--首页头部游戏下载模板结束-->
+	</div>
+  <!--lunbo end-->
+  <div id="content"> 
+    <!--首页主体-->
+    <div id="c-box">
+		<!--首页主体攻略推荐模板开始-->
+			<!--#include virtual="/list/index_zs_gltj.shtml"-->
+		<!--首页主体攻略推荐模板结束-->
+	  
+	  	<!--首页主体战魂BOSS装备模板开始-->
+			<!--#include virtual="/list/index_zs_zhbosszb.shtml"-->
+		<!--首页主体战魂BOSS装备模板结束-->
+	  
+		<!--首页主体游戏视频模板开始-->
+			<!--#include virtual="/list/index_zs_yxsp.shtml"-->
+		<!--首页主体游戏视频模板结束-->
+
+		<!--首页主体媒体专区模板开始-->
+			<!--#include virtual="/list/index_zs_mtzq.shtml"-->
+		<!--首页主体媒体专区模板结束-->
+
+    </div>
+    <!--首页主体 end--> 
+	
+	
+	
+    <!--侧边栏-->
+    <sidebar id="c-bar"> 
+		<!--首页侧边栏数据资料开始-->
+			<!--#include virtual="/list/index_zs_sjzl.shtml"-->
+		<!--首页侧边栏数据资料结束-->
+	
+		<!--首页侧边栏客服中心开始-->
+			<!--#include virtual="/list/index_zs_kfzx.shtml"-->
+		<!--首页侧边栏客服中心结束-->
+	
+		<!--首页侧边栏合作媒体开始-->
+			<!--#include virtual="/list/index_zs_hzmt.shtml"-->
+		<!--首页侧边栏合作媒体结束-->
+    </sidebar>
+    <!--侧边栏 end-->  	
+	
+	
+  </div>
+	<!--公共底部开始-->
+        <!--#include virtual="/list/index_zs_footer.shtml"-->
+	<!--公共底部结束-->
+</div>
+
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+<script>
+	$(function () {
+		gundong();
+	});
+
+	function gundong() {
+		var box = $("#hzmt_list");
+		var lists = box.find("li");
+		var oNums = lists.length;
+		var oHeight = lists.eq(0).outerHeight();
+		var oHeight2 = box.height();
+		var i = 0;
+		var timer = null;
+
+		if (oNums > 8) {
+			box.append(box.html());
+			timer = setInterval(gdAnimate, 30);
+		}
+
+		function gdAnimate() {
+			i = i >= oHeight2 ? 0 : i + 1;
+			box.css("top", -i + "px");
+		}
+
+		box.hover(function () {
+			clearInterval(timer);
+			timer = null;
+		}, function () {
+			timer = setInterval(gdAnimate, 30);
+		});
+
+	}
+$(function(){
+	$("#lunbo-nav").hoverdom({menuDiv:"lunbo-img",autoTime:"4000",menuDiv_dom:"a",num:4,tabCurClass:'cur'});	
+	$("#newstab").tabMenu({tabMenuBox:".tab-menu",tabMenuSub:"a",tabCtnBox:".tab-ctn",tabCtnSub:".i-lt1",tabMenuCur:"cur"});
+	$("#i-mtzqtab").tabMenu({tabMenuBox:".tab-menu",tabMenuSub:"li",tabCtnSub:".tab-ctn",tabMenuCur:"cur"});
+	$("#i-zb").tabMenu({tabMenuBox:".i-xsgl",tabMenuSub:"li",tabCtnBox:".i-imglist",tabCtnSub:"ul",tabMenuCur:"cur",switchingMode:"click"});
+})
+</script>
+
+</body>
+</html>

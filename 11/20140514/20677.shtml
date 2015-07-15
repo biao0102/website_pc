@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="《足球》官方网站" />
+    <meta name="description" content="《足球》官方网站" />
+    <title>《冠军11人》之球员强化 《足球》官方网站_新闻</title>
+    <link href="http://js.feiliu.com/static/11/style/master.css?v=10" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/11/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://www.wanmei.com/public/js/swfobject.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/11/js/11.js"></script>
+</head>
+<body>
+    <!--公共头部导航开始-->
+		<!--#include virtual="/list/index_11_nav.shtml"-->
+	<!--公共头部导航结束-->
+    <div class="wrap news_wrap">
+        <div class="content">
+            <div class="content_kong news_kong">
+                <div id="flash_box"></div>
+            </div>
+            <div class="main clearfix">
+                <div class="main_l">
+                    <!--公共下载开始-->	
+						<!--#include virtual="/list/index_11_down.shtml"-->
+					<!--公共下载结束-->
+                    <div class="left_box">
+                        <!--列表页左侧公共微信开始-->	
+							<!--#include virtual="/list/list_11_weixin.shtml"-->
+						<!--列表页左侧公共微信结束-->
+						
+						<!--公共左侧客服媒体开始-->	
+							<!--#include virtual="/list/index_11_kfmt.shtml"-->
+						<!--公共左侧客服媒体开始-->
+                    </div>
+                </div>
+                <div class="main_r">
+                    <div class="news_box">
+                        <h2>《冠军11人》之球员强化</h2>
+                        <div class="news_share"></div>
+                        <div class="news_content">
+							【强化途径】<br />
+<br />
+球员强化的途径分为两种：<br />
+<br />
+1、通过消耗其他的球员卡提升球员的等级。<br />
+<br />
+2、通过消耗强化类道具提升球员的等级和技能。<br />
+<br />
+【消耗球员卡操作流程】：<br />
+<br />
+1、首页点击“球员”按钮<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514163008_22257.png" /><br />
+<br />
+2、选择“球员强化”<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514163046_63638.png" /><br />
+<br />
+3、在界面里点击选择你想要强化的球员<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514163110_62910.png" /><br />
+<br />
+4、点击左下“选择强化同伴”<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514163132_34596.png" /><br />
+<br />
+5、选择想要消耗的球员：<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514163517_73592.png" /><br />
+<br />
+6、点击“强化”按钮：<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514163307_86207.png" /><br />
+<br />
+7、强化成功<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514163559_13972.png" /><br />
+<br />
+【消耗强化类道具流程】<br />
+<br />
+1、重复消耗球员卡流程的1到3后，点击“道具强化”<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514163615_92527.png" /><br />
+<br />
+2、选择需要的强化的道具：<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514163638_90351.png" /><br />
+<br />
+3、点击“强化”按钮完成强化：<br />
+<br />
+【小贴士】：<br />
+<br />
+1、提升球员等级后球员的属性也随之提升。<br />
+<br />
+2、球员卡主要通过招“招募”获得。<br />
+<br />
+3、世界巡回赛、杯赛和豪门盛宴是强化类道具的主要获得途径。<br />
+<br />
+4、点击“推荐强化”系统会配比一些可以强化的卡牌
+						</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<!--公共底部开始-->
+        <!--#include virtual="/list/index_11_footer.shtml"-->
+	<!--公共底部结束-->
+</body>
+</html>

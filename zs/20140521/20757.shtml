@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_其他</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">升级帮会</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-21 16:50:01</span>
+																			</div>
+									<div class="w-d">
+										<p><img alt="" src="http://i0.feiliu.com/image/20140521/20140521164943_65109.jpg" /> 
+</p>
+<p>
+	【帮会等级】1至10级
+</p>
+<p>
+	<br />
+【升级需要】<br />
+帮会资金（由帮众捐献游戏币，帮会任务和特定道具累积帮会资金）<br />
+●1级→2级（帮会资金200W）<br />
+●2级→3级 (帮会资金消耗750W )<br />
+●3级→4级 (帮会资金消耗1800W )<br />
+●4级→5级 (帮会资金消耗4200W )<br />
+●5级→6级 (帮会资金消耗8000W )<br />
+●6级→7级 (帮会资金消耗13500W )<br />
+●7级→8级 (帮会资金消耗35000W )
+</p>
+<p>
+	<br />
+说明：<br />
+满足帮会升级条件时“升级”键可操作，否则为单击无效果状态<br />
+帮会资金值达到当前等级最大值，必须由帮主将帮会升级<br />
+帮会资金达到当前等级最大值，不可进行捐献<br />
+每日可捐献1次，分为铜钱捐献和元宝捐献，共用次数
+</p>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

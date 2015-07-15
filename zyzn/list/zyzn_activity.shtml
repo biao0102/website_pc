@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>预约礼包--众妖之怒官网</title>
+<meta name="keywords" content="众妖之怒,众妖之怒官网, 众妖之怒下载,众妖之怒礼包,众妖之怒攻略,众妖之怒安卓版, 众妖之怒ios版,东方奇幻动作手游." />
+<meta name="description" content="《众妖之怒》是一款Q版东方魔幻的3D大型动作RPG手机网游，拥有高品质的美术水准、创新的符文技能系统、炫爆眼球的跨服竞技，通过装备强化、技能升级、宠物养成以及参星悟道等创新玩法，提升自身的实力，体验到丰富多样的单人、多人副本挑战，更有单人轮回之塔等玩法，挑战你的自身极限，傲视群雄。" />
+       <script type="text/javascript"  src="http://js.feiliu.com/static/zyzn/web/lb/js/is_mobile.js"></script>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/web/lb/css/style.css?v=2" type="text/css">
+<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/web/css/lightbox.css?v=11"  type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web/js/jquery.min.js"></script>
+</head>
+<body>
+<div class="contain width100 fitt">
+	<div class="con1000">
+		<div class="box01 width100">
+			<p class="yuyuenum fitt">已有n人预约</p>
+		</div>
+		<div class="box02 width100 rel">
+			<div class="yuetime asb white"><span style="color:#ffca0b;">预约截止时间：</span>1月5号18:00点</div> 
+			<a href="http://zyzn.feiliu.com" class="enterindex fltt"><img src="http://js.feiliu.com/static/zyzn/web/lb/images/entergw.jpg" alt="进入官网"></a>
+			<a  rel="video" target="_blank" class="showvedio fltt"><img rel="video" style="cursor:pointer;" video="http://v.qq.com/iframe/player.html?vid=o0142c77i70&tiny=0" vw = "250" vh = "210" src="http://js.feiliu.com/static/zyzn/web/lb/images/showbtn.jpg" alt="视频首曝"></a> 
+		</div>
+		<div class="box03 width100 rel">
+			<a href="javascript:void(0);" id="pop1" class="asb"><img src="http://js.feiliu.com/static/zyzn/web/lb/images/yuyuebtn.jpg" alt="点击预约"></a>
+		</div>
+        <div class="box04 width100"></div>
+	</div>
+</div>
+<!--弹出层   start-->
+	<div id="dlDiv">
+		<div class="telcon rel">
+			<span class="width100 txtc logh2 dis"><img src="http://js.feiliu.com/static/zyzn/web/lb/images/title.png" alt=""></span>
+			<span class="width100 txtc logh3 dis"><img src="http://js.feiliu.com/static/zyzn/web/lb/images/tel.png" alt=""></span>
+			<ul>
+				<li class="width100"><input id="mobi" type="text" placeholder="--- 请输入手机号 ---"></li>
+				<li class="width100"><a href="#" class="subscribe logbtn txtc dis"  id="close2" ><img src="http://js.feiliu.com/static/zyzn/web/lb/images/queren.jpg" alt=""></a></li>
+			</ul>
+			<a href="javascript:void(0);" id="close1" class="closebtn asb">X</a>
+<p class="white">开测前一天会以手机短信方式将激活码发送到您的手机</p>
+		</div>
+	</div>
+	<div id="overDiv"></div>
+<!--弹出层   end-->
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<script>
+	$(function(){
+
+		function yuyuenum()
+		{
+			$.ajax({
+				type : 'GET',
+				url : 'http://zyzn.feiliu.com/gift/yuyuenum',
+				dataType : 'jsonp',
+				data : {},
+				success : function(data){
+					if(data)
+					{
+						$(".yuyuenum").html(data.yuyuenum);
+					}
+				}
+			});		
+		}
+		yuyuenum();
+		setInterval(function(){yuyuenum()}, 5000);
+
+
+		$('#pop1').bind('click',function(){
+			
+			$('#dlDiv,#overDiv').show();
+		})
+		
+		$('#close1').bind('click',function(){
+			
+			$('#dlDiv,#overDiv').hide();
+			
+		})
+		
+		$('#close2').bind('click',function(){
+			var mobile=$('#mobi').val()
+			if(mobile=='')
+			{
+				alert('手机号码不能为空!')	;
+				return false;
+			}
+			else if(!/^(13[0-9]|1[4578][0-9])\d{8}$/i.test(mobile)){
+				alert("手机号码格式错误，请重新输入");
+				return false;
+			}
+			else
+			{
+				  $('#close1').triggerHandler("click");
+			}
+			$.ajax({
+				type : 'GET',
+				url : 'http://act.feiliu.com/zyzn/gift/getprize',
+				dataType : 'jsonp',
+				data : {"mobile" : mobile},
+				success : function(data){
+					if(data.status != 'undefined'){
+						alert(data.chars);
+                                                
+					}
+				}
+			});				
+		})
+		
+	})
+
+</script>
+
+<script type="text/javascript">	
+
+  	//视频弹窗
+	$('body').on('click','a[rel^=video]',function(){
+		var $img = $(this).find('img');
+		var src = $img.attr('video'),
+			vw = $img.attr('vw'),
+			vh = $img.attr('vh'),
+			ww = document.documentElement.clientWidth,
+			wh = document.documentElement.clientHeight,
+			width,height;
+			console.log(src);
+		if (src) {
+			if (vw/wh >= ww/wh) {
+				width = ww*0.6;
+				height = width*vh/vw;
+			}
+			else{
+				height = wh*0.8;
+				width = height*vw/vh;
+			}
+			$("<div id='videoboxOverlay' class='videoboxOverlay' style='display: block;top:0;position:fixed; left:0;width:100%;height:100%;z-index:10000;'></div><div id='videobox' class='videobox' style='display: block; width:"+ww+"px;height:"+wh+"px;position:fixed;top:"+(wh-height)/2+"px;left:0;z-index:100000'><div class='lb-outerContainer' style='position:relative;width:"+(width+8)+"px;height:"+(height+8)+"px;margin:0 auto;'><a class='lb-close' style='position:absolute;top:-30px;right:0;'></a><div class='lb-container' style='width:"+width+"px;height:"+height+"px;margin:0 auto;'><iframe class='lb-image' src='"+src+"' width="+width+" height="+height+" frameborder=0 allowfullscreen></iframe><div class='lb-loader'></div></div></div></div>").appendTo('body');
+			
+			//$('#lb-outerContainer').animate({width:width,height:height});
+		}
+	})
+	$('body').on("click","a.lb-close",function(){
+		$('#videoboxOverlay,#videobox').hide();
+	});
+</script>
+
+</body>
+</html>

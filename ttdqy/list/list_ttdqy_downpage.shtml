@@ -1,0 +1,116 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<div id="menu">
+			<a href="http://ttdqy.feiliu.com"><span>官</span>网首页</a>
+			<a href="data.html"><span>游</span>戏资料站</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_hero.shtml"><span>三</span>国点将谱</a>
+			<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml"><span>群</span>英大事件</a>
+			<a class="menu-curr" href="http://ttdqy.feiliu.com/list/list_ttdqy_downpage.shtml"><span>游</span>戏下载</a>
+			<a href="http://bbs.8783.com/forum-192-1.html" target="_blank"><span>玩</span>家论坛</a>	
+		</div>
+		<a href="index.html" class="logo"></a>
+		<div class="slogan"></div>
+		<div class="download-main">
+			<ul>
+				<li class="dl">
+					<div class="dl-left">
+						<h4><img src="http://js.feiliu.com/static/ttdqy/web/images/app_btn.png" alt=""></h4>
+						<p>安装包大小：64MB</p>
+						<p>语言：中文</p>
+						<p></p>
+					</div>
+					<div class="dl-right"><img src="http://js.feiliu.com/gameimg/ttdqy/20150211121529.jpg" alt=""></div>
+				</li>
+				<li class="dl ml60">
+					<div class="dl-left">
+						<h4><img src="http://js.feiliu.com/static/ttdqy/web/images/android_btn.png" alt=""></h4>
+						<p>安装包大小：64MB</p>
+						<p>语言：中文</p>
+						<p></p>
+					</div>
+					<div class="dl-right"><img src="http://js.feiliu.com/gameimg/ttdqy/20150211180924.png" alt=""></div>
+				</li>
+				<li class="dl ml120">
+					<div class="dl-left">
+						<h4><img src="http://js.feiliu.com/static/ttdqy/web/images/test_btn.png" alt=""></h4>
+						<p>安装包大小：64MB</p>
+						<p>语言：中文</p>
+						<p></p>
+					</div>
+					<div class="dl-right"><img src="http://js.feiliu.com/gameimg/ttdqy/20150211121652.jpg" alt=""></div>
+				</li>
+			</ul>
+		</div>
+		<div class="download-main1">
+			<ul class="dl-wrap">
+				<li class="dl-item">
+					<div class="dl-item-left">
+						<h4>App Store 下载</h4>
+						<p>安装包大小：64MB</p>
+						<p>语言：中文</p>
+						<p></p>
+					</div>
+					<div class="dl-item-right"><img src="http://js.feiliu.com/gameimg/ttdqy/20150211122058.jpg" alt=""></div>
+				</li>
+				<li class="dl-item">
+					<div class="dl-item-left">
+						<h4>App Store 下载</h4>
+						<p>安装包大小：64MB</p>
+						<p>语言：中文</p>
+						<p></p>
+					</div>
+					<div class="dl-item-right"><img src="http://js.feiliu.com/gameimg/ttdqy/20150211122114.jpg" alt=""></div>
+				</li>
+				<li class="dl-item">
+					<div class="dl-item-left">
+						<h4>App Store 下载</h4>
+						<p>安装包大小：64MB</p>
+						<p>语言：中文</p>
+						<p></p>
+					</div>
+					<div class="dl-item-right"><img src="http://js.feiliu.com/gameimg/ttdqy/20150211122128.jpg" alt=""></div>
+				</li>
+				<li class="dl-item">
+					<div class="dl-item-left">
+						<h4>App Store 下载</h4>
+						<p>安装包大小：64MB</p>
+						<p>语言：中文</p>
+						<p></p>
+					</div>
+					<div class="dl-item-right"><img src="http://js.feiliu.com/gameimg/ttdqy/20150211122142.jpg" alt=""></div>
+				</li>
+				<li class="dl-item">
+					<div class="dl-item-left">
+						<h4>App Store 下载</h4>
+						<p>安装包大小：64MB</p>
+						<p>语言：中文</p>
+						<p></p>
+					</div>
+					<div class="dl-item-right"><img src="http://js.feiliu.com/gameimg/ttdqy/20150211122154.jpg" alt=""></div>
+				</li>
+				<li class="dl-item">
+					<div class="dl-item-left">
+						<h4>App Store 下载</h4>
+						<p>安装包大小：64MB</p>
+						<p>语言：中文</p>
+						<p></p>
+					</div>
+					<div class="dl-item-right"><img src="http://js.feiliu.com/gameimg/ttdqy/20150211122206.jpg" alt=""></div>
+				</li>
+			</ul>
+			<a class="up-btn" href="javascript:void(0);"><img src="http://js.feiliu.com/static/ttdqy/web/images/up_btn.png" alt=""></a>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

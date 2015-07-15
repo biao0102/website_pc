@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_其他</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">战魂系统</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-21 18:40:20</span>
+																			</div>
+									<div class="w-d">
+										　　闯荡三国江湖，怎能英雄独自一人，选择一款适合自己的战魂，一起驰骋在乱世三国，为你的战斗添加一丝快意，在战斗中幻化成你喜欢的武将，英雄们，赶快收集不同的魂玉培养自己的专属战魂吧，战魂系统是快速提升玩家总战斗力的重要途径之一。<br />
+<br />
+【战魂系统】<br />
+<br />
+战魂的3大特点：<br />
+●变身三国名将，瞬间高端、大、气上档次<br />
+●战魂属性直接附加在主角身上，无论是否变身<br />
+●拥有专享的战魂技能，威力十足，效果拉风<br />
+<br />
+品质等级:<br />
+绿色（★★）　　　　拥有一个主动技能，两个被动技能<br />
+蓝色（★★★）　　　拥有一个主动技能，两个被动技能<br />
+紫色（★★★★）　　拥有一个主动技能，两个被动技能<br />
+橙色（★★★★★）　拥有两个主动技能，三个被动技能<br />
+金色（★★★★★★）拥有三个主动技能，三个被动技能<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140521/20140521183904_77154.jpg" /><br />
+<br />
+获得途径：<br />
+●【战魂殿】<br />
+●【群英会】<br />
+●【藏宝图】<br />
+●【世界BOSS】<br />
+●【商城购买战神宝箱】<br />
+<br />
+说明：<br />
+●最多只能拥有5个战魂<br />
+●战魂等级不能高于角色等级<br />
+●最多只能有1位主战魂<br />
+●主战魂和副战魂的属性以一定比例加成给主角<br />
+●变身时，会额外提升主角的属性<br />
+●变身时，只能使用战魂技能<br />
+●变身时，不能更换主战魂.不能训练和封灵战魂
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

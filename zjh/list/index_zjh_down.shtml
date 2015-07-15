@@ -1,0 +1,5 @@
+            <div class="downloadbtn"> 
+            <a href="javascript:alert('暂未开放 敬请期待')" class="pop"><img src="http://js.feiliu.com/static/zjh/web/images/downbtn01.jpg" alt="AppStore下载" /></a> 
+            <a href="javascript:alert('暂未开放 敬请期待')" class="pop"><img src="http://js.feiliu.com/static/zjh/web/images/downbtn02.jpg" alt="越狱版下载" /></a> 
+            <a href="http://zjh.feiliu.com/count/download.php?cid=300021&type=5" class="pop" target="_blank"><img src="http://js.feiliu.com/static/zjh/web/images/downbtn03.jpg" alt="安卓版下载" /></a> 
+            </div>

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《神谱》飞流官网_新闻公告列表页</title>
+<meta name="keywords" content="神谱之刃官网,神谱之刃攻略,神谱之刃下载,2015年第一魔幻连击手游,史上最强魔幻连击手游,神谱之刃,神谱,飞流,飞流九天,游戏,手机游戏,网络游戏,动作游戏,游龙英雄,王者之剑,英雄之剑" />
+<meta name="description" content="2015年第一魔幻连击手游《神谱之刃》，是一款具备独特北欧魔幻风格的传统ARPG手游，有着超强的打击感、无限连击的超爽体验、独一无二的血脉系统、一环扣一环的冒险闯关及多元化的刻印系统、宝石系统、战魂系统、竞技系统、多人副本系统等等。更多有关神谱之刃官网,神谱之刃攻略,神谱之刃下载等资讯尽在神谱之刃官网。" />
+<link href="http://js.feiliu.com/static/shenpu/web/css/index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/shenpu/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/shenpu/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/shenpu/web/scripts/public.js"></script>
+</head>
+<body>
+<div class="contain fltt">
+  <!--神谱公共浮动窗口模板start-->
+    <!--#include virtual="/list/index_shenpu_float.shtml"-->
+  <!--神谱公共浮动窗口模板end-->
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <div style="clear:both"></div>
+      <!--神谱公共导航模板start-->
+        <!--#include virtual="/list/index_shenpu_nav.shtml"-->
+      <!--神谱公共导航模板end-->
+      <div style="clear:both"></div>
+      <!--神谱首页轮播图模板start-->
+        <!--#include virtual="/list/index_shenpu_lb.shtml"-->
+      <!--神谱首页轮播图模板end-->
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span>
+          <!--span class="txt02"><a href="">More</a></span-->
+        </h2>
+        <div class="subnewsccon">
+          <ul>
+                
+                
+              <li><a href="http://spzr.feiliu.com/20141224/22822.shtml" target="_blank">黑翼天使逆袭牛头人！《神谱之刃》截图曝光   </a><span class="date">2014-12-24</span></li>
+                
+              <li><a href="http://spzr.feiliu.com/20141224/22821.shtml" target="_blank">战士的信仰！《神谱之刃》战士原画首曝</a><span class="date">2014-12-24</span></li>
+                
+              <li><a href="http://spzr.feiliu.com/20141224/22812.shtml" target="_blank">狼人乱入！全新手游《神谱之刃》三大职业公布</a><span class="date">2014-12-24</span></li>
+                
+              <li><a href="http://spzr.feiliu.com/20141224/22809.shtml" target="_blank">女神雅典娜再临！希腊神话手游《神谱之刃》</a><span class="date">2014-12-24</span></li>
+                
+              <li><a href="http://spzr.feiliu.com/20140925/22082.shtml" target="_blank">《神谱》职业介绍-战士</a><span class="date">2014-09-25</span></li>
+                
+              <li><a href="http://spzr.feiliu.com/20140924/22068.shtml" target="_blank">女神雅典娜再临！希腊神话手游《神谱》降临</a><span class="date">2014-09-24</span></li>
+                        </ul>
+        </div>
+      </div>
+    <!--
+      <div class="subpages fltt ">
+        <a href="">上一页</a> 
+        <a href="">1</a> 
+        <a href="">2</a> 
+        <a href="">3</a> 
+        <a href="">下一页</a>
+      </div>
+    -->
+      <img src="http://js.feiliu.com/static/shenpu/web/images/bottom.jpg" width="960" height="4" /> </div>
+
+    <div class="box02 fltt">
+      <!--神谱公共客服模板start-->
+        <!--#include virtual="/list/index_shenpu_kf.shtml"-->
+      <!--神谱公共客服模板end-->
+          <!--神谱公共媒体合作模板start-->
+        <!--#include virtual="/list/index_shenpu_mthz.shtml"-->
+      <!--神谱公共媒体合作模板end-->
+    </div>
+    <!--神谱公共底部模板start-->
+      <!--#include virtual="/list/index_shenpu_foot.shtml"-->
+    <!--神谱公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

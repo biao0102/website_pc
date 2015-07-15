@@ -1,0 +1,296 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+<title>龙骑战歌官方网站</title> 
+<meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+<meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<link href="http://js.feiliu.com/static/lqzg/wap0525/css/index.css" rel="stylesheet" type="text/css" />
+<link href="http://js.feiliu.com/static/lqzg/wap0525/css/slick.css" rel="stylesheet" type="text/css" />
+<link href="http://js.feiliu.com/static/lqzg/wap0525/css/slick-theme.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/wap0525/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/wap0525/js/slick.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/wap0525/js/index.js"></script>
+</head>
+<body>
+<div class="page">
+    <div class="banner">
+        <div class="slider autoplay">
+            <div><h3><a href="javascript:void(0);"><img src="http://js.feiliu.com/gameimg/lqzg/20150527163119.jpg" /></a></h3></div>
+            <div><h3><a href="javascript:void(0);"><img src="http://js.feiliu.com/gameimg/lqzg/20150527163140.jpg" /></a></h3></div>
+            <div><h3><a href="javascript:void(0);"><img src="http://js.feiliu.com/gameimg/lqzg/20150527182201.png" /></a></h3></div>
+        </div>
+    </div>
+    <div class="download">
+        <a href="javascript:alert('敬请期待！');"><img src="http://js.feiliu.com/static/lqzg/wap0525/images/button_1.jpg" /></a>
+        <a href="http://lqzg.feiliu.com/download?cid=300021&type=6" id="android"><img src="http://js.feiliu.com/static/lqzg/wap0525/images/button_2.jpg" /></a>
+    </div>
+    <div class="character">
+        <div class="video1" style="display:none" id="video">
+            <div class="video_close fz20" id="video_close">X</div>
+            <div id="viframe"></div>
+        </div>
+        <div class="character-title">
+            <h3>职业介绍</h3>
+            <span>GAME CHARACTER</span>
+            <div class="clear"></div>
+        </div>
+        <div class="character-nav">
+            <ul>
+                <li class="current"><a href="javascript:void(0);">圣武士</a></li>
+                <li><a href="javascript:void(0);">狂战士</a></li>
+                <li><a href="javascript:void(0);">刺客</a></li>
+                <li><a href="javascript:void(0);">法师</a></li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+        <div class="character-con">
+            <div class="character-box" style="display:block;">
+                <div class="character-left">
+                    <dl>
+                        <dt>角色名</dt>
+                        <dd>埃文尼·普利司通</dd>
+                    </dl>
+                    <dl>
+                        <dt>武器</dt>
+                        <dd>双手剑/神圣法术</dd>
+                    </dl>
+                    <dl>
+                        <dt>职业</dt>
+                        <dd>圣武士</dd>
+                    </dl>
+                    <dl>
+                        <dt>上手难度</dt>
+                        <dd><img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-x.jpg" /></dd>
+                    </dl>
+                    <div class="video"><img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-video.jpg" /></div>
+                </div>
+                <div class="character-right">
+                    <img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-1.jpg" />
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="character-box">
+                <div class="character-left">
+                    <dl>
+                        <dt>角色名</dt>
+                        <dd>萨瑞斯·雷霆战斧</dd>
+                    </dl>
+                    <dl>
+                        <dt>武器</dt>
+                        <dd>巨斧</dd>
+                    </dl>
+                    <dl>
+                        <dt>职业</dt>
+                        <dd>狂战士</dd>
+                    </dl>
+                    <dl>
+                        <dt>上手难度</dt>
+                        <dd><img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-x.jpg" /></dd>
+                    </dl>
+                    <div class="video"><img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-video.jpg" /></div>
+                </div>
+                <div class="character-right">
+                    <img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-2.jpg" />
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="character-box">
+                <div class="character-left">
+                    <dl>
+                        <dt>角色名</dt>
+                        <dd>妙丽·瞬影</dd>
+                    </dl>
+                    <dl>
+                        <dt>武器</dt>
+                        <dd>双剑</dd>
+                    </dl>
+                    <dl>
+                        <dt>职业</dt>
+                        <dd>刺客</dd>
+                    </dl>
+                    <dl>
+                        <dt>上手难度</dt>
+                        <dd><img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-x.jpg" /></dd>
+                    </dl>
+                    <div class="video"><img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-video.jpg" /></div>
+                </div>
+                <div class="character-right">
+                    <img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-3.jpg" />
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="character-box">
+                <div class="character-left">
+                    <dl>
+                        <dt>角色名</dt>
+                        <dd>辛迪拉·阳光行者</dd>
+                    </dl>
+                    <dl>
+                        <dt>武器</dt>
+                        <dd>法杖</dd>
+                    </dl>
+                    <dl>
+                        <dt>职业</dt>
+                        <dd>法师</dd>
+                    </dl>
+                    <dl>
+                        <dt>上手难度</dt>
+                        <dd><img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-x.jpg" /></dd>
+                    </dl>
+                    <div class="video"><img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-video.jpg" /></div>
+                </div>
+                <div class="character-right">
+                    <img src="http://js.feiliu.com/static/lqzg/wap0525/images/character-4.jpg" />
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div class="news">
+        <div class="news-title">
+            <ul>
+                <li><a href="javascript:void(0);">游戏资讯</a></li>
+            <!--            
+                <li><a href="###">公告</a></li>
+                <li><a href="###">活动</a></li>
+                <li><a href="###">资讯</a></li> 
+            -->
+            </ul>
+            
+            <div class="clear"></div>
+        </div>
+        <div class="news-box">
+                                    <dl>
+                <dt><a href="http://lqzg.feiliu.com/wap/news/20150604175230.shtml">【新闻】 超嗲！GTV美女主播小陌解说《...</a></dt>
+                <dd>06/04</dd>
+            </dl>                    
+                        <dl>
+                <dt><a href="http://lqzg.feiliu.com/wap/news/20150604174712.shtml">【新闻】 《龙骑战歌》装备系统完全解析...</a></dt>
+                <dd>06/04</dd>
+            </dl>                    
+                        <dl>
+                <dt><a href="http://lqzg.feiliu.com/wap/news/20150526180744.shtml">【新闻】 《龙骑战歌》携手WCA电竞世界...</a></dt>
+                <dd>05/26</dd>
+            </dl>                    
+                        <dl>
+                <dt><a href="http://lqzg.feiliu.com/wap/news/20150526003912.shtml">【新闻】 《龙骑战歌》今日震撼内测携手滴...</a></dt>
+                <dd>05/26</dd>
+            </dl>                    
+                        <dl>
+                <dt><a href="http://lqzg.feiliu.com/wap/news/20150525180254.shtml">【新闻】 竞技级手游蓄势待发...</a></dt>
+                <dd>05/25</dd>
+            </dl>                    
+                        <dl>
+                <dt><a href="http://lqzg.feiliu.com/wap/news/20150521180002.shtml">【新闻】 2015中重度手游被看好...</a></dt>
+                <dd>05/21</dd>
+            </dl>                    
+                                    <div class="more"><a href="http://lqzg.feiliu.com/wap/list/newslist.shtml"><img src="http://js.feiliu.com/static/lqzg/wap0525/images/button_3.jpg" /></a></div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="feature">
+        <div class="feature-title">
+            <h3>游戏特色</h3>
+            <span>GAME FEATURE</span>
+            <div class="clear"></div>
+        </div>
+        <div class="feature-box">
+            <div class="slider autoplay">
+                <div><h3><div class="feature-mask"></div><p class="feature-text">游戏特色</p><a href="javascript:void(0);"><img src="http://js.feiliu.com/gameimg/lqzg/20150527182201.png" /></a></h3></div>
+                <div><h3><div class="feature-mask"></div><p class="feature-text">游戏特色</p><a href="javascript:void(0);"><img src="http://js.feiliu.com/gameimg/lqzg/20150527163140.jpg" /></a></h3></div>
+                <div><h3><div class="feature-mask"></div><p class="feature-text">游戏特色</p><a href="javascript:void(0);"><img src="http://js.feiliu.com/gameimg/lqzg/20150527163119.jpg" /></a></h3></div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <p>Powered by dsg.feiliu.com Certificate Copyright 2011-2015</p>
+    </div>
+
+
+
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+    $('.banner .autoplay').slick({
+        slidesToScroll: 1,
+        arrows: false,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        pauseOnHover: false
+    });
+
+    $('.feature-box .autoplay').slick({
+        slidesToScroll: 1,
+        arrows: false
+    });
+
+    $(".video").click(function(){
+        var iframeWidth=$(window).width()*0.88;
+        var ifremeHeight=(iframeWidth/4)*3;
+        $("#viframe").html("<iframe src='http://static.video.qq.com/TPout.swf?auto=1&vid=o0142c77i70' width='"+iframeWidth+"' height='"+ifremeHeight+"' scrolling='no' frameborder='0'></iframe>");
+        $("#video").show();
+    })  
+    $("#video_close").click(function(){
+        $("#video").hide();
+        $("#viframe").html("");
+    })
+});
+
+
+    function getArgs()
+    {
+        var argsArr = new Object();
+        var query = window.location.search;  
+        query = query.substring(1);
+        var pairs = query.split("&");
+        for(var i=0;i<pairs.length;i++)
+        {
+            var sign = pairs[i].indexOf("="); 
+            if(sign == -1)
+            {
+                continue; 
+            }
+            var aKey = pairs[i].substring(0,sign);
+            var aValue = pairs[i].substring(sign+1);         
+            argsArr[aKey] = unescape(aValue);
+
+        }
+        return argsArr;
+    }
+
+    var param = new Object();
+    param = getArgs();
+    var source = param.s;
+
+    if(!source)
+    {
+        source = '300021';
+    }
+
+    $('#android').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=6');
+
+    $('a').click(function(e){
+        var url = $(this).attr('href');
+        if(url != 'javascript:void(0);' && url != "javascript:alert('敬请期待！');");
+        {
+            e.preventDefault();
+            var url = $(this).attr('href');
+            if(url.indexOf('?') > -1)
+            {
+                var tourl = url + '&s='+source;
+            } else {
+                var tourl = url + '?s='+source;
+            }
+            window.location.href = tourl;   
+        }
+    }); 
+</script>
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

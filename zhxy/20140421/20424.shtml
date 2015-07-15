@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>精英副本系统</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <h1>
+	精英副本系统：<span></span> 
+</h1>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp; </span>副本房间列表界面<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家通过主界面的日常活动窗口进入到精英副本房间列表界面中，如下图：<span></span> 
+</p>
+<p class="MsoNormal">
+	<span></span> 
+</p>
+<p class="MsoNormal">
+	<span><img src="http://i0.feiliu.com/image/20140421/20140421162504_89331.jpg" width="500" height="334" alt="" /></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	在该界面里，可以查看当前服务器里其他玩家所创建的副本，玩家可以通过直接点击副本房间或者通过“快速加入”按钮进入到相应的房间内。<span></span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp; </span>副本选择界面<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	当玩家点击“创建房间”按钮，进入到副本选择界面，玩家可以通过选择当前条件下满足的副本创建，如下图：<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421162450_31237.jpg" width="500" height="338" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>3.&nbsp;&nbsp;&nbsp;&nbsp; </span>副本房间界面<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	创建或者加入所选择的副本后，则进入到副本房间界面内容，如下图：<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421163151_88005.jpg" width="500" height="334" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家进入副本房间后，系统将判断房间内的成员类型<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	队长：具备踢人离开房间的权限；具备邀请好友权限；当成员完成准备操作后开启副本权限<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	成员：具备邀请好友权限；具备准备完毕操作权限<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>4.&nbsp;&nbsp;&nbsp;&nbsp; </span>多人副本战斗界面<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	当队长点击开启后，界面跳转到战斗场景，如下图：<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421163223_41077.jpg" width="500" height="340" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	在多人副本中，玩家需要击杀副本内全部怪物才能完成通关条件。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>5.&nbsp;&nbsp;&nbsp;&nbsp; </span>多人副本奖励界面<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家完成副本的通关条件后，弹出多人副本奖励界面，参与这次副本挑战的玩家可以通过翻牌的形式抽取奖励，如下图<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span><img src="http://i0.feiliu.com/image/20140421/20140421163254_29081.jpg" width="500" height="331" alt="" />&nbsp;</span> 
+</p>
+<br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家所获得的经验和铜钱则根据该副本的通过评价给予（副本通过的时间越短，评价越高），获得的星级越多，评价的奖励越高<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>6.&nbsp;&nbsp;&nbsp;&nbsp; </span>多人副本收益次数<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	多人副本的收益次数决定了玩家在该副本内是否能够获得奖励，当玩家收益次数为<span>0</span>时，玩家每次进入该副本都无法抽取宝箱以及获得经验和铜钱。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	收益次数默认为<span>3</span>次，没消耗一次后，系统会开启收益次数回复时间，当回复时间结束时次数<span>+1</span>，当次数上限为<span>3</span>次时则不在计算回复时间。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家可以通过购买收益次数来减少等待的时间。<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<h2 style="margin-left:21.0pt;text-indent:-21.0pt;">
+	<span>7.&nbsp;&nbsp;&nbsp;&nbsp; </span>多人副本邀请<span></span> 
+</h2>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	玩家在房间时，可以通过邀请按钮请求好友或者门派玩家进入房间，如下图：<span></span> 
+</p><img src="http://i0.feiliu.com/image/20140421/20140421163323_10440.jpg" width="500" height="337" alt="" /><br />
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span>&nbsp;</span> 
+</p>
+<p class="MsoNormal">
+	同时点击“世界邀请”按钮可以通过聊天面板向全服玩家发送邀请信息，玩家在邀请面板内通过点击链接也可以进入房间内。<span></span> 
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

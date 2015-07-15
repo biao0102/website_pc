@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="UTF-8">
+<title>众妖之怒_腰精玩家大评选</title> 
+<meta content="众妖之怒_腰精玩家大评选" name="keywords">
+<meta content="众妖之怒_腰精玩家大评选" name="description">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="format-detection" content="telephone=no"/>
+<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/special/wap/20150520/css/style.css?v=5">
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/special/wap/20150520/js/adapt.js"></script>
+</head>
+<body>
+<script type="text/javascript">adaptFun(640/40);</script>
+<div class="wrap">
+	<header>
+		<section>
+			<!--<ul>
+				<li>
+					<span>谁是你心中的"腰"精</span><time><a href="http://zyzn.feiliu.com/wap/list/zt_20150518.shtml">返回活动</a></time>
+				</li>
+				<li>▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪</li>
+				<li><span>百家渠道票选PK</span><time><a href="http://zyzn.feiliu.com/wap/list/zt_20150520.shtml">返回活动</a></time></li>
+				<li>▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪</li>
+				<li>?<span>敬请期待</span><time>2015.5.19</time></li>
+			</ul>-->
+		</section>
+	</header>
+	<nav>哪里才是<i>“小妖精”</i>的产生地<span>Photos show</span></nav>
+	<article>
+		<div class="content">
+			<div class="bigImg-wrap">
+				<img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/1.jpg" alt="">
+			</div>
+			<div class="bigImg-info show">
+				<p><span>昵称：</span><span>张美男</span></p>
+				<p><span>所在公司：</span><span>优酷土豆</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>妖狐</span></p>
+				<p><span>角色昵称：</span><span>灵月花冢</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/1.png" alt=""></p>
+				<p><i id="count_0">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>王欣</span></p>
+				<p><span>所在公司：</span><span>应用汇</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>玉兔</span></p>
+				<p><span>角色昵称：</span><span>绻影暖颜</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/2.png" alt=""></p>
+				<p><i id="count_1">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>雅儿</span></p>
+				<p><span>所在公司：</span><span>小米</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>妖狐</span></p>
+				<p><span>角色昵称：</span><span>星恋鱼虫子</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/3.png" alt=""></p>
+				<p><i id="count_2">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>洪绯</span></p>
+				<p><span>所在公司：</span><span>豌豆荚</span></p>
+				<p><span>性别：</span><span>男</span></p>
+				<p><span>代表职业：</span><span>狂牛</span></p>
+				<p><span>角色昵称：</span><span>爱哭的紫璇</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/4.png" alt=""></p>
+				<p><i id="count_3">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>佩佩</span></p>
+				<p><span>所在公司：</span><span>同步推</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>玉兔</span></p>
+				<p><span>角色昵称：</span><span>雪菲菖蒲</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/5.png" alt=""></p>
+				<p><i id="count_4">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>罗媛媛</span></p>
+				<p><span>所在公司：</span><span>麟游互动</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>玉兔</span></p>
+				<p><span>角色昵称：</span><span>单纯伯年</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/6.png" alt=""></p>
+				<p><i id="count_5">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>晨</span></p>
+				<p><span>所在公司：</span><span>乐8助手</span></p>
+				<p><span>性别：</span><span>男</span></p>
+				<p><span>代表职业：</span><span>狂牛</span></p>
+				<p><span>角色昵称：</span><span>煎饼果子</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/7.png" alt=""></p>
+				<p><i id="count_6">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>瑾岚凌筱</span></p>
+				<p><span>所在公司：</span><span>快用</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>妖狐</span></p>
+				<p><span>角色昵称：</span><span>蝶舞狸猫</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/8.png" alt=""></p>
+				<p><i id="count_7">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>李朋</span></p>
+				<p><span>所在公司：</span><span>酷派</span></p>
+				<p><span>性别：</span><span>男</span></p>
+				<p><span>代表职业：</span><span>灵猴</span></p>
+				<p><span>角色昵称：</span><span>xdcssan</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/9.png" alt=""></p>
+				<p><i id="count_8">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>杰鹏</span></p>
+				<p><span>所在公司：</span><span>酷狗</span></p>
+				<p><span>性别：</span><span>男</span></p>
+				<p><span>代表职业：</span><span>灵猴</span></p>
+				<p><span>角色昵称：</span><span>水晶之鼠小妹</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/10.png" alt=""></p>
+				<p><i id="count_9">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>11</span></p>
+				<p><span>所在公司：</span><span>酷狗</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>玉兔</span></p>
+				<p><span>角色昵称：</span><span>爱哭的夏之夜</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/10.png" alt=""></p>
+				<p><i id="count_10">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>魔魔</span></p>
+				<p><span>所在公司：</span><span>金立</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>妖狐</span></p>
+				<p><span>角色昵称：</span><span>窗外的仙子</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/12.png" alt=""></p>
+				<p><i id="count_11">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>渃麟</span></p>
+				<p><span>所在公司：</span><span>狐狸助手</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>妖狐</span></p>
+				<p><span>角色昵称：</span><span>浅夏菊子</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/13.png" alt=""></p>
+				<p><i id="count_12">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>杨彤</span></p>
+				<p><span>所在公司：</span><span>海马</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>玉兔</span></p>
+				<p><span>角色昵称：</span><span>青春海蓝</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/14.png" alt=""></p>
+				<p><i id="count_13">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>黄迅</span></p>
+				<p><span>所在公司：</span><span>当乐</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>妖狐</span></p>
+				<p><span>角色昵称：</span><span>奈酱酱酱</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/15.png" alt=""></p>
+				<p><i id="count_14">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>夏微蓝</span></p>
+				<p><span>所在公司：</span><span>叉叉助手</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>妖狐</span></p>
+				<p><span>角色昵称：</span><span>紫夜绯樱闲</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/16.png" alt=""></p>
+				<p><i id="count_15">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>小辣椒</span></p>
+				<p><span>所在公司：</span><span>百度</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>玉兔</span></p>
+				<p><span>角色昵称：</span><span>恋恋宁珂</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/17.png" alt=""></p>
+				<p><i id="count_16">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>周昆</span></p>
+				<p><span>所在公司：</span><span>安智</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>玉兔</span></p>
+				<p><span>角色昵称：</span><span>嫣然优姬</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/18.png" alt=""></p>
+				<p><i id="count_17">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>罗德</span></p>
+				<p><span>所在公司：</span><span>爱思</span></p>
+				<p><span>性别：</span><span>男</span></p>
+				<p><span>代表职业：</span><span>灵猴</span></p>
+				<p><span>角色昵称：</span><span>单调皮皮虾</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/19.png" alt=""></p>
+				<p><i id="count_18">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>银丽</span></p>
+				<p><span>所在公司：</span><span>XY</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>玉兔</span></p>
+				<p><span>角色昵称：</span><span>玉兔妹妹</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/20.png" alt=""></p>
+				<p><i id="count_19">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>文英</span></p>
+				<p><span>所在公司：</span><span>PP助手</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>玉兔</span></p>
+				<p><span>角色昵称：</span><span>爱恋碧兰</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/21.png" alt=""></p>
+				<p><i id="count_20">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>黄倩</span></p>
+				<p><span>所在公司：</span><span>I苹果</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>妖狐</span></p>
+				<p><span>角色昵称：</span><span>梦海之红花</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/22.png" alt=""></p>
+				<p><i id="count_21">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>张维</span></p>
+				<p><span>所在公司：</span><span>itools</span></p>
+				<p><span>性别：</span><span>男</span></p>
+				<p><span>代表职业：</span><span>狂牛</span></p>
+				<p><span>角色昵称：</span><span>孤魂萧雪</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/23.png" alt=""></p>
+				<p><i id="count_22">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>伍蓉蓉</span></p>
+				<p><span>所在公司：</span><span>37手游</span></p>
+				<p><span>性别：</span><span>女</span></p>
+				<p><span>代表职业：</span><span>妖狐</span></p>
+				<p><span>角色昵称：</span><span>秋水赤枫</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/24.png" alt=""></p>
+				<p><i id="count_23">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+			<div class="bigImg-info">
+				<p><span>昵称：</span><span>Ricky</span></p>
+				<p><span>所在公司：</span><span>友游</span></p>
+				<p><span>性别：</span><span>男</span></p>
+				<p><span>代表职业：</span><span>灵猴</span></p>
+				<p><span>角色昵称：</span><span>哭泣猫</span></p>
+				<p class="p-img"><img src="http://js.feiliu.com/static/zyzn/special/web/20150520/images/cooplogo/25.png" alt=""></p>
+				<p><i id="count_24">0</i>票<a href="javascript:;" class="votebtn">约见</a></p>
+			</div>
+		</div>
+	</article>
+	<div class="photo-wrap">
+		<div class="photo">
+			<ul class="photo-ul">
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/1.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/2.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/3.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/4.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/5.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/6.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/7.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/8.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/9.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/10.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/11.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/12.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/13.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/14.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/15.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/16.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/17.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/18.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/19.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/20.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/21.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/22.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/23.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/24.jpg" alt=""></li>
+				<li><img src="http://js.feiliu.com/static/zyzn/special/wap/20150520/images/268-414/25.jpg" alt=""></li>
+			</ul>
+		</div>
+		<span class="left-btn"></span>
+		<span class="right-btn"></span>
+	</div>
+	<footer>
+		<a href=""></a><a href=""></a><a href=""></a>
+	</footer>
+
+	<!-- pop -->
+	<div class="pop hide" id="popdiv">
+	<!-- 弹出内容一 属性加hide为不显示-->
+		<form id="form" class="hide" action="">
+			<h2>验证投票<i>赢妹子</i></h2>
+			<input id="tel" type="text" placeholder="请输入您的手机号进行验证">
+			<a class="get-code" href="javascript:;"></a>
+			<div class="check">
+				<input id="code" type="text" placeholder="请输入您收到的验证码">
+				<a id="submit" href="javascript:;">确认提交</a>
+			</div>
+			<p>（如您获得实物奖励，我们的会在活动结束后三个工作日内与您联系）</p>
+		</form>
+	<!-- 弹出内容二 -->	
+		<div class="succeed hide" id="popdiv2">
+			<h2>恭喜您投票成功，今日您还可投票<span id="timesleft"></span>次</h2>
+			<p>你投票的《众妖之怒》形象大使，成为票数最多的前三名（包括第三名）， 即可100%获得《众妖之怒》 小腰礼包一枚，还有机会获得iPhone6、 iwatch、京东卡或该美女的签名照片哟</p>
+			<div class="btn-wrap">
+				<a href="">继续投票</a><a href="javascript:;" class="getprz">领取奖品</a>
+			</div>
+		</div>
+		<div class="succeed hide" id="popdiv3">
+			<h2>3次投票次数已用完，快去领奖吧~</h2>
+			<div class="btn-wrap">
+				<a href="javascript:;" style="margin-left:60px;margin-top:30px;" class="getprz">领取奖品</a>
+			</div>
+		</div>
+		<span class="back"></span>	
+	</div>
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/special/wap/20150520/js/zepto.js"></script>
+
+<script type="text/javascript">
+window.onload = function(){
+	getNumOfVotes();
+	
+	var left = 0;
+	var distance = 0;
+	$('.left-btn').on('touchstart', function(event) {
+		left --;
+		if(left > -21){
+			distance = distance - 3.12;
+			$('.photo-ul').animate({'left': distance+'em'}, 'swing', 300);	
+		}
+		else{
+			left ++;
+		}
+	});
+	$('.right-btn').on('touchstart', function(event) {
+		left ++;
+		if(left < 1){
+			distance = distance + 3.12;
+			if(distance<0.1 && distance >0){distance=0;}
+			$('.photo-ul').animate({'left': distance+'em'}, 'swing', 300);
+		}
+		else{
+			left--;
+		}
+		
+	});
+
+	// show bigImg
+	$('.photo-ul li').on('touchstart', function(event) {
+		var index = $(this).index();
+		var imgSrc = $(this).children('img').attr('src');
+		$(this).addClass('cur').siblings().removeClass('cur');
+		$('.bigImg-info').eq(index).addClass('show').siblings().removeClass('show');
+		$('.bigImg-wrap img').attr('src',imgSrc);
+	});
+
+	// pop hide
+	$('.back').on('touchstart', function(event) {
+		$('.pop').addClass('hide');
+	});
+	
+	//点击约见按钮
+	$(".votebtn").click(function(){
+		$("#popdiv").attr("class","pop");
+		$("#form").attr("class","hide");
+		var target = $(this).parent().parent().index();
+		$.ajax({
+			type : 'GET',
+			url : 'http://gameapi.feiliu.com/zyzn/zyactivity2/vote',	//投票接口，返回剩余次数
+			dataType : 'jsonp',
+			data : {'showgirlid' : target },
+			success : function(data){
+				if(data.timesleft >= 0){
+					target--;
+					var oldnum = parseInt($("#count_" + target).text());
+					$("#count_" + target).text(oldnum + 1);
+					$("#timesleft").text(data.timesleft);
+					$("#popdiv2").attr("class","succeed");
+				}else{
+					$("#popdiv3").attr("class","succeed");
+				}
+			}
+		});
+	});
+	
+	//领取奖品
+	$(".getprz").click(function(){
+		$("#popdiv").attr("class","pop");
+		$("#form").attr("class","");
+		$("#popdiv2").attr("class","succeed hide");
+		$("#popdiv3").attr("class","succeed hide");
+	});
+	
+	//获取验证码
+	var flag = true;
+	var sign = "";
+	var mobile = "";
+	$(".get-code").click(function(){
+		var mobile = $.trim($("#tel").val());
+		
+		if(mobile == "" || !mobile){
+			alert('请输入手机号码');
+			return false;
+		}else if(!/^(13[0-9]|1[4578][0-9])\d{8}$/i.test(mobile)){
+			alert("手机号码格式错误，请重新输入");
+			return false;		
+		}
+		
+		if(flag){
+			$.ajax({
+				type : 'GET',
+				url : 'http://gameapi.feiliu.com/zyzn/zyactivity2/sendVerify',	//获取验证码接口
+				dataType : 'jsonp',
+				data : {'mobile' : mobile },
+				success : function(data){
+					// data = { "success" : 1, }
+					if(data.code == 1){
+						sign = data.sign;
+						mobile = mobile;
+						flag = false;
+					}
+				}
+			});
+		}else{
+			alert("请勿重复发送，请耐心等待短信验证码短信");
+		}
+	});
+	
+	//提交验证码
+	$("#submit").click(function(){
+		var ccode = $.trim($("#code").val());
+		if(!/^\d{4}$/i.test(ccode)){
+			alert("验证码需要是4位数字，请重新输入");
+			return false;		
+		}
+		
+		$.ajax({
+			type : 'GET',
+			url : 'http://gameapi.feiliu.com/zyzn/zyactivity2/checkVerify',
+			dataType : 'jsonp',
+			data : {"inputVerify" : ccode, "sign" : sign},
+			success : function(data){
+				if(data.status == 1){
+					$.ajax({
+						type : 'GET',
+						url : 'http://gameapi.feiliu.com/zyzn/zyactivity2/sendGiftCode',	//发送获奖兑换码接口
+						dataType : 'jsonp',
+						data : {"mobile" : mobile},
+						success : function(data){
+							if(data.status == 1){
+								alert("奖品兑换码已经发放到您的手机号，请稍后查收短信！");
+							}else if(data.status == 0){
+								alert("领取失败");
+							}else if(data.status == -1){
+								alert("该手机号码已领取");
+							}
+						}
+					});
+				}else{
+					alert("验证码有误");
+				}
+			}
+		});
+	});
+}
+
+function getNumOfVotes(){
+	$.ajax({
+		type : 'GET',
+		url : 'http://gameapi.feiliu.com/zyzn/zyactivity2/getNumOfVotes',
+		dataType : 'jsonp',
+		data : {},
+		success : function(data){
+			if(data.status == 1){
+				var len = data.lists.length;
+				for(var i=0;i<len;i++){
+					$("#count_" + i).html(data.lists[i]);
+				}
+			}
+		}
+	});
+}
+</script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>	
+<script type="text/javascript" src="http://game.feiliu.com/flyme/wx/common-1.1.min.js"></script>
+<script type="text/javascript">
+	Flyme.wxShareInit('wx4739efbb76920078','C2', 8, '');
+</script>
+</body>
+</html>

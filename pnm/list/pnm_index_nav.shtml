@@ -1,0 +1,11 @@
+		<div class="focus-bg item1"></div>
+		<div class="focus-bg item2"></div>
+		<div class="focus-bg item3"></div>
+		<div class="focus-bg item4"></div>
+		<div class="menu">
+			<a class="btn1" href="http://pnm.feiliu.com" alt="官网首页"></a>
+			<a class="btn2" href="http://pnm.feiliu.com/list/pnm_list_allcol.shtml" alt="新闻公告"></a>
+			<a class="btn3" href="http://pnm.feiliu.com/list/pnm_list_gl.shtml" alt="游戏攻略"></a>
+			<a class="btn4" href="#" alt="游戏介绍"></a>
+			<a class="btn5" href="http://bbs.8783.com/" alt="官方论坛"></a>
+		</div>

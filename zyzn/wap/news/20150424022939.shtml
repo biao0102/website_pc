@@ -1,0 +1,60 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">《众妖》直追PC端大型Q萌西游</div>
+			<div class="news-con">
+				萌系西游唯美呈现<br />
+游戏采用了Unity3D引擎制作，在视觉上面有媲美PC端大型网游的品质，在游戏中我们可以安然自若的在村庄中行走，融入热闹非凡的山寨中，享受人生乐趣，也可以游荡在飘渺唯美的仙宫神殿书写自己的传奇。游戏以中国风作为整体风格，Q萌的人物形象让游戏更容易让玩家接受，同手借助光影效果完美呈现出神话般的唯美世界，并且加入昼夜交替效果，让玩家们拥有无比真实的代入感。<br />
+<br />
+<br />
+随心所欲的战斗操控<br />
+游戏在画面上的表现到达了手游的极致，而操作上面则选用经典的摇杆加按键控制，让玩家们可以轻松适应战斗过程。游戏中每一个角色人物都有自己的专属技能，玩家们通过固定按键来控制战斗，同时可以自由排列技能序列，打造属于自己的连招风格，让战斗更加随心所欲。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150424/20150424142926_53048.png" alt="" /><br />
+<br />
+人物成长系统清晰明了<br />
+游戏的整个内容丰富却不繁琐，小编个人最反感那些画面不好、操作不好，内容麻烦的要死的游戏。本作在人物上参考了传统的ARPG设置，玩家们可以对角色进行装备武器和升级，这些都是比较熟悉的，除此之外还加入了宠物系统，我们可以召唤宠物，给宠物们也穿戴装备一同战斗，让游戏的角色成长内容有更完美的表达。<br />
+<br />
+<br />
+多种副本等待挑战<br />
+游戏主要以冒险关卡挑战为主，玩家们可以在关卡中获得经验与装备等，以此来不断强化自己的角色实力。除了关卡之外还为玩家们提供了竞技场、多人副本、天梯赛和世界BOSS等多种挑战副本，各位喜欢PK的、喜欢组队的玩家们完全可以在此享受真人互动的乐趣。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150424/20150424142936_29307.png" alt="" /><br />
+<br />
+<br />
+<br />
+<br />
+跨服作战 高大上的选择<br />
+在玩家多人副本中加入了跨服系统，这是本作最大的亮点所在，玩家们可以在游戏中跨服夸区域组队，挑战难度更大的多人团队副本，齐心协力击杀世界BOSS，分享团队合作的乐趣。当然我们可以可以加入单人跨服对战系统，玩家们将于其它服务器的高手们一较高下，究竟鹿死谁手那就看各自的本事了。<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

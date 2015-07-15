@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=16" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>门派系统</h1>
+                        <span>2014-04-21</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal">
+	<b>游戏门派介绍</b><b><span>:</span></b>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>玩家级别到<span>14</span>级时，开启门派系统；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>玩家可以自行创建门派可以加入其它门派；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>门派等级越高可以加入的人数越多<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>门派等级可通过捐献来提升经验<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>捐献可分为铜钱捐献和元宝捐献<span></span>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	<b>游戏门派功能</b><b><span>:</span></b>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>添加好友：玩家加入门派后，可在门派成员例表中添加好友。<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>切磋：在门派成员例表中，寻找自己的切磋对象吧。<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>精英副本：精英副本一个人通过困难，邀请门派的玩家一起斩妖除魔。<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>仙门斗法：固定时间比武活动，叫上门派的朋友一起去战个痛。<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>开启门派聊天频道：同一门派的成员都可以在这里聊天。<span></span>
+</p>
+<p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal">
+	<b>游戏门派操作</b><b><span>:</span></b>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>加入门派：<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:39.0pt;text-indent:-18.0pt;">
+	<span>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>玩家等级到达<span>14</span>级，便可以自行创建或加入其它玩家创建的门派；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:39.0pt;text-indent:-18.0pt;">
+	<span>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>门派的名字可由创建者取名；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:39.0pt;text-indent:-18.0pt;">
+	<span>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>创建者为门派门主<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:39.0pt;text-indent:0cm;">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>门主：<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:39.0pt;text-indent:-21.0pt;">
+	<span>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>门主拥有转让门派、解散门派、发布门派公告等权利；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:39.0pt;text-indent:-21.0pt;">
+	<span>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>将门派成员提升至不同种类的职位；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:39.0pt;text-indent:-21.0pt;">
+	<span>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>职位的权利由门主分配；<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:39.0pt;text-indent:0cm;">
+	<span>&nbsp;</span>
+</p>
+<p class="MsoListParagraph" style="margin-left:18.0pt;text-indent:-18.0pt;">
+	<span>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>成员：<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	除门主外随后加入门派的其他玩家，便成为门派成员<span></span>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

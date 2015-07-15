@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>完美武侠_新闻列表页</title>
+<meta name="keywords" content="完美武侠，完美武侠官网，完美武侠游戏官网，完美武侠游戏下载，完美武侠礼包" />
+<meta  name="description" content="《完美武侠》由国际一线研发团队开发的一款以东方武侠为题材的卡牌游戏。集卡牌、角色扮演于一体的迭代型卡牌游戏。游戏以卡牌收集、卡牌培养、战斗为核心玩法。游戏画面精致华丽，战斗打击感十足。"/>
+<link href="http://js.feiliu.com/static/wmwx/css/main.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/wmwx/js/jquery1.6.4.js"></script>
+</head>
+
+<body class="inner">
+<div class="header">
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img src="http://js.feiliu.com/static/wmwx/images/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>
+<div class="sec1">
+	<!--首页头部导航模板开始-->	
+		<!--#include virtual="/list/index_wmwx_nav.shtml"-->
+	<!--首页头部导航模板结束-->
+</div>
+<div class="sec2">
+	<div class="wrap-main main">
+	
+		<!--首页左侧边栏模板开始-->	
+			<!--#include virtual="/list/index_wmwx_leftbar.shtml"-->
+		<!--首页左侧边栏模板结束-->
+		
+        <div class="content">
+        	<div class="list-header">
+            	<h1>新闻公告</h1>
+                <div class="pos">所在位置：<a href="#">首页</a> >> <a href="#">新闻</a></div>
+            </div>
+            <ul class="article-list">
+				
+									<li><a href="http://wmwx.feiliu.com/20140611/21047.shtml"><i>·</i>玩法介绍-冒险遭遇战</a><span>2014-06-11</span></li>
+									<li><a href="http://wmwx.feiliu.com/20140611/21046.shtml"><i>·</i>玩法介绍-冒险玩法</a><span>2014-06-11</span></li>
+									<li><a href="http://wmwx.feiliu.com/20140611/21042.shtml"><i>·</i>卡牌介绍-角色进阶</a><span>2014-06-11</span></li>
+									<li><a href="http://wmwx.feiliu.com/20140611/21041.shtml"><i>·</i>卡牌介绍-强化说明</a><span>2014-06-11</span></li>
+									<li><a href="http://wmwx.feiliu.com/20140611/21040.shtml"><i>·</i>卡牌介绍-技能介绍</a><span>2014-06-11</span></li>
+						
+            </ul>
+            <div class="pager">
+            	<a class="prev" href="#">首页</a>
+                <a class="current" href="#">[1]</a>
+                <a href="#">2</a>
+                <a href="#">3</a>
+                <a href="#">4</a>
+                <a href="#">5</a>
+                <a href="#">6</a>
+                <a class="next"  href="#">末页</a>
+            </div>
+        </div>
+	</div>
+</div>
+<div class="sec3">
+
+	<!--首页底部版权模板开始-->	
+        <!--#include virtual="/list/index_wmwx_footer.shtml"-->
+	<!--首页底部版权模板结束-->
+	
+</div>
+
+	<!--首页右侧浮动下载框模板开始-->	
+        <!--#include virtual="/list/index_wmwx_down.shtml"-->
+	<!--首页右侧浮动下载框模板结束-->
+	
+<script type="text/javascript">
+$(function(){
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+});
+</script>
+</body>
+</html>

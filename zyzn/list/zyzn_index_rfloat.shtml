@@ -1,0 +1,10 @@
+		<div class="tt02"> 
+			<img src="http://js.feiliu.com/static/zyzn/web/images/gua01.png"> 
+			<img src="http://js.feiliu.com/static/zyzn/web/images/gua02.png" border="0" usemap="#Map" class="swing" />
+			<map name="Map">
+				<area shape="rect" coords="6,7,121,129" href="#">
+				<area shape="rect" coords="5,149,122,274" href="http://zyzn.feiliu.com/list/zyzn_list_feature.shtml">
+				<area shape="rect" coords="9,292,122,408" href="#">
+				<area shape="rect" coords="7,427,120,550" href="http://zyzn.feiliu.com/list/zyzn_activity.shtml">
+			</map>
+		</div>

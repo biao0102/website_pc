@@ -1,0 +1,8 @@
+			<div class="vedio"> 
+				<a rel="video" target="_blank">
+					<!--<img rel="video"  style="cursor:pointer;" video="http://v.youku.com/v_show/id_XNzY4NDc1NzMy.html?qq-pf-to=pcqq.c2c&tiny=0" vw = "250" vh = "210" height src="http://js.feiliu.com/static/zyzn/web/images/vedio.jpg">-->
+					<img rel="video"  style="cursor:pointer;" data-src="http://v.qq.com/iframe/player.html?vid=o0142c77i70&tiny=0" vw = "250" vh = "210" height src="http://js.feiliu.com/static/zyzn/web/images/vedio.jpg">
+					<span class="playbtn"></span>
+					<span class="jiao"></span>
+				</a> 
+			</div>

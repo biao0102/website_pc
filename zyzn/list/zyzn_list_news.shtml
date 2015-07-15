@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>新闻列表页_《众妖之怒》官网</title>
+<meta name="keywords" content="众妖之怒,众妖之怒官网, 众妖之怒下载,众妖之怒礼包,众妖之怒攻略,众妖之怒安卓版, 众妖之怒ios版,东方奇幻动作手游." />
+<meta name="description" content="《众妖之怒》是一款Q版东方魔幻的3D大型动作RPG手机网游，拥有高品质的美术水准、创新的符文技能系统、炫爆眼球的跨服竞技，通过装备强化、技能升级、宠物养成以及参星悟道等创新玩法，提升自身的实力，体验到丰富多样的单人、多人副本挑战，更有单人轮回之塔等玩法，挑战你的自身极限，傲视群雄。" />
+<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/web/css/public.css?v=6"  type="text/css" />
+<link href="http://js.feiliu.com/static/zyzn/web/css/substyle.css?v=12" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/web/css/lightbox.css?v=6"  type="text/css" />
+</head>
+<body>
+<div class="wtap rel">
+  <div class="topnav">
+    <!--众妖之怒列表页头部导航模板start-->
+      <!--#include virtual="/list/zyzn_list_nav.shtml"-->
+    <!--众妖之怒列表页头部导航模板end--> 
+  </div>
+
+  <div class="con1000">
+    <div class="tt01">
+    <!--众妖之怒首页左侧Logo模板start-->
+      <!--#include virtual="/list/zyzn_list_logo.shtml"-->
+    <!--众妖之怒首页左侧Logo模板end-->  
+
+    <!--众妖之怒首页左侧下载模板start-->
+      <!--#include virtual="/list/zyzn_index_down.shtml"-->
+    <!--众妖之怒首页左侧下载模板end-->  
+
+    <!--众妖之怒首页左侧视频模板start-->
+      <!--#include virtual="/list/zyzn_index_video.shtml"-->
+    <!--众妖之怒首页左侧视频模板end-->
+    </div>
+    <div class="tt02 rel">
+      <div class="newstitle w100">
+        <h2 class="wihte tc fltt">新闻中心</h2>
+      </div>
+      <div class="add w100">您当前的位置：新闻列表</div>
+      <div class="top001" id="_show1">
+        <ul class="buttonbg">
+          <li class="li01"><a href="http://zyzn.feiliu.com/list/zyzn_list_news.shtml"><img src="http://js.feiliu.com/static/zyzn/web/images/p02.png" alt="">新闻</a></li>
+          <li class="li02"><a href="http://zyzn.feiliu.com/list/zyzn_list_hd.shtml"><img src="http://js.feiliu.com/static/zyzn/web/images/p03.png" alt="">活动</a></li>
+          <li class="li02"><a href="http://zyzn.feiliu.com/list/zyzn_list_gg.shtml"><img src="http://js.feiliu.com/static/zyzn/web/images/p04.png" alt="">公告</a></li>
+        </ul>
+        <div class="news01">
+          <ul>
+              
+              
+              <li><a href="http://zyzn.feiliu.com/20150505/23543.shtml" target="_blank">小妖爆火 《众妖之怒》次留与付费率远超业界水平</a><span class="date">05-05</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150428/23510.shtml" target="_blank">首充送大礼！《众妖之怒》明日越狱不删档内测</a><span class="date">04-28</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150424/23495.shtml" target="_blank">《众妖》直追PC端大型Q萌西游</a><span class="date">04-24</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150421/23476.shtml" target="_blank">热依扎化身《众妖之怒》小伙伴 萌萌妖精撸大炮</a><span class="date">04-21</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150420/23471.shtml" target="_blank">《众妖之怒》的自白书</a><span class="date">04-20</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150416/23451.shtml" target="_blank">热依扎献声《众妖之怒》 超嗲叫声宛如妖精</a><span class="date">04-16</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150413/23432.shtml" target="_blank">《众妖之怒》四大职业模特走秀</a><span class="date">04-13</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150408/23414.shtml" target="_blank">众妖宝石攻略</a><span class="date">04-08</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150403/23397.shtml" target="_blank"> [攻略心得] 众妖之怒升级攻略</a><span class="date">04-03</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150402/23392.shtml" target="_blank">屌丝逆袭白富美！《众妖之怒》玩家樱花树下激吻</a><span class="date">04-02</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150327/23350.shtml" target="_blank">高手在民间！《众妖之怒》玩家火车上偷拍睡姿</a><span class="date">03-27</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150326/23346.shtml" target="_blank">众妖之怒黑龙图鉴 黑龙属性技能介绍</a><span class="date">03-26</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150325/23341.shtml" target="_blank">众妖之怒壶妖图鉴 壶妖属性技能介绍</a><span class="date">03-25</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150324/23332.shtml" target="_blank">众妖之怒攻略之角色选择篇（上）</a><span class="date">03-24</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150320/23318.shtml" target="_blank"> 众妖熊锤萌萌哒</a><span class="date">03-20</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150319/23311.shtml" target="_blank">众妖蛮牛时装大会   </a><span class="date">03-19</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150318/23305.shtml" target="_blank">众妖之怒装备怎么得 装备系统详解</a><span class="date">03-18</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150317/23299.shtml" target="_blank">#称号获得攻略#众妖之怒称号怎么得 </a><span class="date">03-17</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150316/23291.shtml" target="_blank">众妖天梯赛攻略</a><span class="date">03-16</span></li>
+              
+              <li><a href="http://zyzn.feiliu.com/20150313/23268.shtml" target="_blank">众妖装备强化攻略</a><span class="date">03-13</span></li>
+                      </ul>
+        </div>
+      </div>
+      <!--
+        <div class="subpages">
+          <a href="">上一页 </a>
+          <a href="">1</a> 
+          <a href="">2</a>
+          <a href="">3</a>
+          <a href="">下一页</a>跳转到
+          <input name="" type="text" style="width:30px;">
+          页
+          <input type="button" style=" width:30px;" value="确定">
+        </div>
+      -->
+    </div>
+  </div>
+  <!-- con1000-->
+</div>
+
+<!--众妖之怒首页底部模板start-->
+  <!--#include virtual="/list/zyzn_index_foot.shtml"-->
+<!--众妖之怒首页底部模板end-->
+
+<script type="text/javascript" src="http://js.feiliu.com/static/zyzn/web/js/jquery.min.js"></script>
+<script type="text/javascript">	
+  	//视频弹窗
+	$('body').on('click','a[rel^=video]',function(){
+		var $img = $(this).find('img');
+		var src = $img.attr('video'),
+			vw = $img.attr('vw'),
+			vh = $img.attr('vh'),
+			ww = document.documentElement.clientWidth,
+			wh = document.documentElement.clientHeight,
+			width,height;
+			console.log(src);
+		if (src) {
+			if (vw/wh >= ww/wh) {
+				width = ww*0.6;
+				height = width*vh/vw;
+			}
+			else{
+				height = wh*0.8;
+				width = height*vw/vh;
+			}
+			$("<div id='videoboxOverlay' class='videoboxOverlay' style='display: block;top:0;position:fixed; left:0;width:100%;height:100%;z-index:10000;'></div><div id='videobox' class='videobox' style='display: block; width:"+ww+"px;height:"+wh+"px;position:fixed;top:"+(wh-height)/2+"px;left:0;z-index:100000'><div class='lb-outerContainer' style='position:relative;width:"+(width+8)+"px;height:"+(height+8)+"px;margin:0 auto;'><a class='lb-close' style='position:absolute;top:-30px;right:0;'></a><div class='lb-container' style='width:"+width+"px;height:"+height+"px;margin:0 auto;'><iframe class='lb-image' src='"+src+"' width="+width+" height="+height+" frameborder=0 allowfullscreen></iframe><div class='lb-loader'></div></div></div></div>").appendTo('body');
+			
+			//$('#lb-outerContainer').animate({width:width,height:height});
+		}
+	})
+	$('body').on("click","a.lb-close",function(){
+		$('#videoboxOverlay,#videobox').hide();
+	});
+
+
+	</script>
+</body>
+</html>

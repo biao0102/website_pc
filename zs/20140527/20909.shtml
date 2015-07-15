@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_副本攻略</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">《三国战神》双人轻松挑战郭嘉</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-05-27 21:34:07</span>
+																			</div>
+									<div class="w-d">
+										　　群英会里有很多BOSS 但是郭嘉作为一个大BOSS，刚开始我也想打 但是单挑打不过 想跟别人同队打还老被踢出来，作为一个<br />
+<br />
+　　首冲玩家，战斗力很显然不是很给力。在这里我就简单聊一下，是如何打郭嘉的。<br />
+　　首先，在战斗力不强的情况下，前期的小怪打的都很费劲，但是还好能打过，组个小队最少2个人，前期先吧小怪慢慢磨死吧 血瓶不够用也没关系，这样的副本不规定时间，死了还在副本里复活，所以只要你有时间，总会打过的，所以不用担心。<br />
+<br />
+　　然后，打到郭嘉的时候不要着急，两个人要配合好，利用一个人先把BOSS拉到复活点。<br />
+<br />
+　　切记一定不要两个人站在一条线上，这样容易被BOSS 的群攻打到！最好两个人，一个在BOSS 的前面，一个在BOSS 的后面，主要就是确保两个人不要同时死去。<br />
+<br />
+　　最后，就是两个人轮流打BOSS，如果其中一个人挂掉了，另外一个人，最好能抗住5秒。如果实在抗不住，方法也很容易，就是放风筝，拉这怪跑。等队友复活后在回到复活点，还是要注意就是不要两个人站在同一点，两个人不要同时死亡。<br />
+<br />
+　　虽然可以不断的死亡，慢慢打也可以打过去，但是拉到复活点打会省去很多的时间。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">三国战神官方客服：800032234</span><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">三国战神客服邮箱：</span><a style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;text-decoration:none;-webkit-text-stroke-width:0px;" href="mailto:800032234@qq.com">800032234@qq.com</a><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">三国战神QQ群：275507160</span><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">三国战神新浪官方微博：</span><a style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;text-decoration:none;-webkit-text-stroke-width:0px;" href="http://weibo.com/sgzsios">http://weibo.com/sgzsios</a><br style="text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;" />
+<span style="text-transform:none;text-indent:0px;display:inline !important;float:none;letter-spacing:normal;word-spacing:0px;-webkit-text-stroke-width:0px;">三国战神官方微信：sgzsIOS</span>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

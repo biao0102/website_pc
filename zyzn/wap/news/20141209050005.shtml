@@ -1,0 +1,70 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">葵花宝典之┏宠物攻略┓</div>
+			<div class="news-con">
+				<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	宠物攻略<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	众妖之怒的宠物现阶段共分为蓝，紫，橙三个品质等级。<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:24.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	首先我们要谈一谈宠物获得途径：&nbsp;宠物通过获得的宠物元神在宠物界面通过兑换获得完整的宠物，其中蓝色品质的两个宠物草原剑神和白骨精非常容易获得，草原剑神在玩家达到第<span >5</span><span >级的时候会由系统赠送，而白骨精则会在七日累计登陆的第二日奖励里获得。</span><o:p></o:p>
+</p>
+<p class="p0" style="text-indent:24.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	紫色品质的宠物则会在首充礼包以及寻宝抽奖中获得。<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:24.0000pt;margin-top:0pt;margin-bottom:0pt;">
+	橙色品质的宠物可以在累计充值活动中获得。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	我们提升宠物的属性及战力可以通过几个方面来进行：<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;1&nbsp;宠物驯养：玩家达到<span >29</span><span >级的时候，系统开放宠物驯养功能，玩家可以通过驯养提升驯养等级以及宠物属性，并且在更换宠物的时候，宠物会根据玩家的驯养等级调整到相应的属性。</span><o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;2&nbsp;<span >宠物技能</span>：宠物技能分为专有技能和共享技能，专有技能随着宠物等级提升而提升，而共享技能则需要消耗宠物技能书来升级；专有技能从属于单一宠物，共享技能则对所有宠物生效。<o:p></o:p>
+</p>
+<p class="p0" style="margin-top:0pt;margin-bottom:0pt;">
+	&nbsp;&nbsp;3&nbsp;<span >宠物装备：众妖之怒中宠物有属于自己的装备，装备可以通过装备界面进行强化升级，也可以镶嵌宝石。<br /><img src="http://js.feiliu.com/gameimg/zyzn/20141209165946.png" alt="" /></span><o:p></o:p>
+</p>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

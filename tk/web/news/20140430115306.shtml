@@ -1,0 +1,894 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+<div class="wrap minwidth">
+	<div class="contain minwidth rel">
+		<div class="subcon1120">
+			<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+			<div class="conri fltt">
+				<div class="address">
+					<h2>新闻中心</h2>
+					<p>
+						当前位置：
+						<a href="http://tk.feiliu.com">首页</a>>>
+												<a href="http://tk.feiliu.com/web/list/newslist.shtml?a=2">新闻</a>
+											</p>
+				</div>
+				<div class="subnews">
+					<div class="infotitle">《坦克风云》配件系统介绍</div>
+					<div class="article"><p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	l&nbsp; 配件是坦克单位的装备<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:21.0pt;text-indent:-21.0pt;">
+	l&nbsp; 配件类型对应单一类的坦克<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:42.3pt;text-indent:-21.0pt;">
+	²&nbsp; 坦克类：包括轻型<span>/</span>中型<span>/</span>重型坦克、豹式坦克和天启坦克。<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:42.3pt;text-indent:-21.0pt;">
+	²&nbsp; 歼击车类：包括轻型<span>/</span>中型<span>/</span>重型歼击车、追猎者歼击车、猛虎歼击车<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:42.3pt;text-indent:-21.0pt;">
+	²&nbsp; 自行火炮类：包括轻型<span>/</span>中型<span>/</span>重型自行火炮、野蜂自行火炮、黑豹自行火炮<span></span> 
+</p>
+<p class="MsoListParagraph" style="margin-left:42.3pt;text-indent:-21.0pt;">
+	²&nbsp; 火箭车类：包括轻型<span>/</span>中型<span>/</span>重型火箭车、冰雹火箭车、尖啸者火箭车<br />
+	<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border:none;">
+		<tbody>
+			<tr>
+				<td width="44" valign="top" style="border:solid black 1.0pt;background:#948A54;">
+					<p class="MsoNormal" style="text-align:justify;">
+						<b><span > &nbsp; &nbsp; &nbsp; &nbsp;类型<span></span></span></b> 
+					</p>
+				</td>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#948A54;">
+					<p class="MsoNormal">
+						<b><span >&nbsp; &nbsp; &nbsp; &nbsp; 序号<span></span></span></b> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#948A54;">
+					<p class="MsoNormal">
+						<b><span >&nbsp; &nbsp; &nbsp; &nbsp;位置<span></span></span></b> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#948A54;">
+					<p class="MsoNormal">
+						<b><span >&nbsp; &nbsp; &nbsp; &nbsp;名称<span></span></span></b> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#948A54;">
+					<p class="MsoNormal">
+						<b><span >&nbsp; &nbsp; &nbsp; &nbsp; 属性<span></span></span></b> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="44" rowspan="8" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal" align="center" style="text-align:center;">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 坦 &nbsp; &nbsp; 克<span></span></span> 
+					</p>
+				</td>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 1</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;裙板位<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;陶瓷装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护，装备位解锁需用户等级<span>10</span>级.</span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 2</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;火炮位<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;炮口制退器<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加攻击，装备位解锁需用户等级<span>15</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 3</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;炮塔弹药架<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;钨芯弹头 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加击破 ，装备位解锁需用户等级<span>20</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;4</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身后装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;记忆合金<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加生命，装备位解锁需用户等级<span>25</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 5</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身前装甲&nbsp;<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;反应装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护<span>&amp;</span>生命，装备位解锁需用户等级<span>30</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;6</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身驾驶位<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;仪表盘<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护<span>&amp;</span>击破，装备位解锁需用户等级<span>35</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 7</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身侧装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;复合装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加生命<span>&amp;</span>攻击，装备位解锁需用户等级<span>40</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;8</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;自动输弹机&nbsp;<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;火控装置<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加击破<span>&amp;</span>攻击，装备位解锁需用户等级<span>45</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="44" rowspan="8" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align:center;">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;歼 &nbsp; &nbsp; 击 &nbsp; &nbsp; 车<span></span></span> 
+					</p>
+				</td>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;1</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;裙板位<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;陶瓷装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护，装备位解锁需用户等级<span>10</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 2</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;火炮位<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;炮口制退器&nbsp;<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加攻击，装备位解锁需用户等级<span>15</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;3</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身弹药架<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;钨芯弹头&nbsp;<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加击破，装备位解锁需用户等级<span>20</span>级.<br />
+</span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 4</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身后装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;记忆合金<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加生命，装备位解锁需用户等级<span>25</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;5</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身前装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;反应装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护<span>&amp;</span>生命，装备位解锁需用户等级<span>30</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 6</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身驾驶位<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;仪表盘<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护<span>&amp;</span>击破，装备位解锁需用户等级<span>35</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;7</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身侧装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;复合装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加生命<span>&amp;</span>攻击，装备位解锁需用户等级<span>40</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 8</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;自动输弹机 <span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;火控装置&nbsp;<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加击破<span>&amp;</span>攻击，装备位解锁需用户等级<span>45</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="44" rowspan="8" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal" align="center" style="text-align:center;">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 自 &nbsp; &nbsp; 行 &nbsp; &nbsp; 火 &nbsp; &nbsp; 炮<span></span></span> 
+					</p>
+				</td>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;1&nbsp;</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;裙板位<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;陶瓷装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护，装备位解锁需用户等级<span>10</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;2</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;火炮位<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;炮口制退器<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加攻击，装备位解锁需用户等级<span>15</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 3</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身弹药架<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;钨芯弹头<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加击破，装备位解锁需用户等级<span>20</span>级.<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 4</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身后装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;记忆合金<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加生命，装备位解锁需用户等级<span>25</span>级，效果为百分比<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;5</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身前装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;反应装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护<span>&amp;</span>生命，装备位解锁需用户等级<span>30</span>级，效果为实数值和百分比<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;6</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身驾驶位<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;仪表盘<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护<span>&amp;</span>击破，装备位解锁需用户等级<span>35</span>级，效果为实数值<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 7</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身侧装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;复合装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加生命<span>&amp;</span>攻击，装备位解锁需用户等级<span>40</span>级，效果为百分比<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 8</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;炮架 <span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;火控装置<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;background:#92CDDC;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加击破<span>&amp;</span>攻击，装备位解锁需用户等级<span>45</span>级，效果为实数值和百分比<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="44" rowspan="8" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align:center;">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;火 &nbsp; &nbsp; 箭 &nbsp; &nbsp; 车<span></span></span> 
+					</p>
+				</td>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;1</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;裙板位<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;陶瓷装甲&nbsp;</span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护，装备位解锁需用户等级<span>10</span>级，效果为实数值<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 2</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;火箭发射器<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;发射制退器&nbsp;<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加攻击，装备位解锁需用户等级<span>15</span>级，效果为百分比<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;3</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;火箭<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;高爆弹头<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加击破，装备位解锁需用户等级<span>20</span>级，效果为实数值<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 4</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;履带<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;记忆合金<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加生命，装备位解锁需用户等级<span>25</span>级，效果为百分比<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;5</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身前装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;反应装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护<span>&amp;</span>生命，装备位解锁需用户等级<span>30</span>级，效果为实数值和百分比<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 6</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;驾驶室<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;仪表盘<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加防护<span>&amp;</span>击破，装备位解锁需用户等级<span>35</span>级，效果为实数值<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 7&nbsp;</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;车身侧装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;复合装甲<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加生命<span>&amp;</span>攻击，装备位解锁需用户等级<span>40</span>级，效果为百分比<span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="45" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp; 8</span> 
+					</p>
+				</td>
+				<td width="172" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;火箭发射架<span></span></span> 
+					</p>
+				</td>
+				<td width="162" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;火控装置<span></span></span> 
+					</p>
+				</td>
+				<td width="495" valign="top" style="border:solid black 1.0pt;">
+					<p class="MsoNormal">
+						<span >&nbsp; &nbsp; &nbsp; &nbsp;增加击破<span>&amp;</span>攻击，装备位解锁需用户等级<span>45</span>级，效果为实数值和百分比<br />
+</span> 
+					</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</p>
+<p class="MsoListParagraph" style="margin-left:42.0pt;text-indent:-21.0pt;">
+	<span></span> 
+</p>
+<span style="text-indent:-21pt;"><strong>ps：补分配件还未开放敬请期待哦</strong><br />
+<br />
+1.以上各个配件都有自己独特的图标，并根据品质分为</span><span style="text-indent:-21pt;">4</span><span style="text-indent:-21pt;">种颜色——绿蓝紫橙，品质越高同等级属性越高哦。<br />
+2.</span><span style="text-indent:-21pt;">击破和防护为新增属性，说明：<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;⑴<span style="text-indent:-28px;">击破：提高攻击造成的<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⑵<span style="text-indent:-28px;">防护：减少击破造成的伤害</span><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⑶以<span style="text-indent:-28px;">上两种属性相互对冲抵消</span><br />
+<b>关于补给线关卡的说明：<br />
+1.攻打补给线关卡不会损耗坦克<br />
+2.达到三星的补给线可扫荡<br />
+3.每日<span lang="EN-US">24</span>时自动重置次数<br />
+4.每日首次扫荡会消耗能量<br />
+5.每日金币重置后，攻打或扫荡都无消耗<br />
+6.每日补给线可以重置的次数与<span lang="EN-US">VIP</span>等级相关</b><br /><img src="http://i0.feiliu.com/image/20140430/20140430115105_59529.png" alt="" /><br />
+游戏官网：http://tk.feiliu.com/，《坦克风云》邀你与百万玩家展开铁血PK大战，体验激爽硬派机械化战争！<br />
+<br />
+</span></span><span style="text-indent:-21pt;"> 
+<p class="MsoListParagraph" style="margin-left:63.0pt;text-indent:-21.0pt;">
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+<br />
+<span></span> 
+</p>
+</span><span style="text-indent:-21pt;"> 
+<p class="MsoListParagraph" style="margin-left:42.0pt;text-indent:-21.0pt;">
+	<span></span> 
+</p>
+<br />
+</span><span></span> 
+<p>
+	<br />
+</p></div>
+				</div>
+			</div>
+		</div>			
+	</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

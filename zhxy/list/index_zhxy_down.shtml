@@ -1,0 +1,5 @@
+        <ul class="downs">
+        	<li><a href="javascript:void(0);" onclick="alert('敬请期待！')">AppStore下载</a></li>
+            <li><a href="http://zhxy.feiliu.com/count/download.php?cid=300021&type=2">越狱下载</a></li>
+            <li><a href="http://zhxy.feiliu.com/count/download.php?cid=300021&type=5">安卓游戏</a></li>
+        </ul>

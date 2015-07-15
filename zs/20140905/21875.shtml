@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_公告</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">中秋送惊喜 你来就有礼</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-09-05 21:59:18</span>
+																			</div>
+									<div class="w-d">
+										&nbsp; 中秋佳节马上就要到了，《三国战神》IOS运营组祝广大玩家中秋快乐，阖家幸福！中秋小长假，各位亲们不要忘记每天登陆《三国战神》哟，我们每天都会送出超多的福利，还有各种返利等你来拿！<br />
+<br />
+活动一：登陆送豪礼<br />
+【活动时间】：9月6日0:00—9月8日23:59<br />
+【活动区服】：《三国战神》IOS越狱所有大区<br />
+【活动形式】：在活动期间每天登陆游戏，即有豪礼相送。<br />
+【活动奖励】：<br />
+9月6日：1级强化石30，1级锻造石30，1级占星灵石30，1级战魂灵石30。<br />
+9月7日：130万铜币。<br />
+9月8日：2级强化石20，2级锻造石20，2级占星灵石20，2级战魂灵石20。<br />
+【注意事项】：活动奖励将以补偿的形式每日发放，有效期仅为当天有效，逾期未领取奖励将视为您自动放弃奖励，所以请大家一定要及时领取每天的奖励哦~~<br />
+<br />
+活动二：单笔充值大返利<br />
+【活动时间】：9月6日0:00—9月8日23:59<br />
+【活动区服】：《三国战神》IOS越狱所有大区<br />
+【活动形式】：在活动期间进行单笔充值，即可获得惊喜返利！<br />
+【活动奖励】：<br />
+单笔充值100元：1级坐骑进阶丹100个， 1级汗血晶石100个。<br />
+单笔充值200元：1级坐骑进阶丹200个， 1级汗血晶石200个。<br />
+单笔充值500元：2级坐骑进阶丹150个， 2级汗血晶石260个。<br />
+【注意事项】：<br />
+本活动奖励将于9月9日开始发放，预计1-3个工作日发放完毕，请大家注意上线领取奖励。<br />
+每位玩家只能获得一次奖励，单笔充值500元，可以同时获得500档，200档和100档的所有奖励，以此类推。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 三国战神IOS运营组<br />
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2014.09.05<br />
+<div>
+	<br />
+</div>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

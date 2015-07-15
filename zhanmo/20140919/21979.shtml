@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《战魔》任务系统介绍_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>《战魔》任务系统介绍</h2>
+          <p>&nbsp; &nbsp; &nbsp; 任务在《战魔》中是主要的升级手段，在《战魔》中任务种类多种多样，在玩家升级的同时，也可以让玩家体会到游戏爽快的的打击感及独有的游戏场景。<br /><img src="http://i0.feiliu.com/image/20140919/20140919150132_69410.png" alt="" /><br />
+&nbsp; &nbsp; &nbsp; 与传统游戏的任务系统相同，《战魔》中任务的主要方式也分为几个步骤：<br />
+&nbsp; &nbsp; &nbsp; 领取任务：需要到特定的NPC处领取相关任务&nbsp;<br />
+&nbsp; &nbsp; &nbsp; 到达任务地点：按照任务指引到达任务地点<br />
+&nbsp; &nbsp; &nbsp; 达到任务目的：不同的任务有不同的目的，但必须完成任务目的才可以交还任务<br />
+&nbsp; &nbsp; &nbsp; 交还任务：达到任务目的后，到特定的NPC处交还任务，即可获得任务奖励<br /><img src="http://i0.feiliu.com/image/20140919/20140919150144_72328.jpg" alt="" /><br />
+&nbsp; &nbsp; &nbsp; 还有在角色到达20级时开启日常任务，每日可随机抽取10个任务来完成。任务类型丰富，包括：强化装备、升级技能、通关副本、修炼心法、消费元宝、连击次数等。每日任务同样奖励大量经验与金币，是提升等级的重要途径之一。 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+<div >
+	<br />
+</div></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

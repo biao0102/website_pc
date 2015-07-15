@@ -1,0 +1,301 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">狂怒之狮</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-12-02</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <h1 style="text-align:center;">
+	狂怒
+</h1>
+<h1>
+	介绍
+</h1>
+<p class="p0" style="margin-left:58.4850pt;text-indent:-52.5000pt;">
+	活动形式：活动中以抽奖的形式产出2种新型坦克以及实物奖励！
+</p>
+<p class="p0">
+	&nbsp;活动类型：消费
+</p>
+<p class="p0" style="text-indent:5.2500pt;">
+	活动时间：7日&nbsp;
+</p>
+<h1>
+	活动界面
+</h1>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 活动分为【抽奖】和【排行榜】两部分组成，如下图：
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp;【抽奖】
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;l<img src="http://i0.feiliu.com/image/20141202/20141202181512_63752.png" width="320" height="480" alt="" /> 
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 活动结束后，打开活动，直接跳转排行榜页签
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 活动结束后，活动时间变为文字<span style="text-indent:-21pt;">&nbsp; <span><strong>“活动已结束，当前为领奖时间”</strong></span></span> 
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 活动结束后，抽奖按钮置灰无法点击
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;图中坦克可点击，点击后弹出坦克属性界面
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	抽奖区域
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;"><img src="http://i0.feiliu.com/image/20141202/20141202181526_31072.png" alt="" /> 
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; &nbsp;奖池中有9个宝箱，默认状态没有任何宝箱被选中
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; &nbsp;奖池中宝箱可点击，点击后弹出宝箱说明Tip面板，如下图：
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;"><img src="http://i0.feiliu.com/image/20141202/20141202181549_80914.png" alt="" /><br /><img src="http://i0.feiliu.com/image/20141202/20141202181600_24297.png" alt="" style="text-indent:-21pt;" /><span style="text-indent:-21pt;">为【狂怒宝箱】</span> 
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	<span style="text-indent:-21pt;">&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;描述：“打开将获得《狂怒》电影票一张，狂怒点为X-X!”</span><span style="text-indent:-21pt;">点击道具图标可弹出道具说明Tip。&nbsp;</span> 
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;玩家点击“抽奖”按钮后，黄框会在奖池中随机更换位置
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;玩家获得奖励后，奖池界面将会变更，展示获得的道具，如下图：
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;"><img src="http://i0.feiliu.com/image/20141202/20141202181609_78443.png" alt="" /><br />
+&nbsp;<span style="text-indent:-21pt;">抽中的宝箱将移动到屏幕正中（效果同“幸运抽奖”）</span> 
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; &nbsp; &nbsp; &nbsp;点击确定后，返回奖池初始状态
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; &nbsp; &nbsp; &nbsp;玩家每日可免费抽取一次奖励，次日0点重置次数
+</p>
+<p class="p17" style="margin-left:84.0000pt;text-indent:-21.0000pt;">
+	&nbsp;免费时，抽奖按钮变为绿色，且文字为免费。
+</p>
+<p class="p17" style="margin-left:84.0000pt;text-indent:-21.0000pt;">
+	&nbsp;当玩家有免费抽奖次数时，十连抽按钮置灰无法点击。
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; &nbsp; 【十连抽】
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; &nbsp; &nbsp; &nbsp;玩家点击“十连抽”按钮则会弹出“配件探索”十连抽界面，如下图：
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;"><img src="http://i0.feiliu.com/image/20141202/20141202181621_13324.png" alt="" /> 
+</p>
+<p class="p17" style="margin-left:84.0000pt;text-indent:-21.0000pt;">
+	&nbsp;动画展示方式，同“配件探索”十连抽
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	奖励物品描述：
+</p>
+<p class="p17" style="margin-left:84.0000pt;text-indent:-21.0000pt;">
+	&nbsp; “恭喜您获得【道具名称】X数量，同时得到狂怒点X！”
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; &nbsp;&nbsp; 【排行榜】
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;"><img src="http://i0.feiliu.com/image/20141202/20141202181630_18948.png" width="320" height="480" alt="" /> 
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 当玩家狂怒点大于300时，才在排行榜中显示
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 排行榜仅显示前十名
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp;&nbsp;当没有任何人上榜时，排名显示区域中心显示一行文字<span style="text-indent:-21pt;"><strong>&nbsp;“当前还没有任何人上榜，指挥官们加油！”</strong></span> 
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 活动结束后将预留1天的领奖时间。
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 奖励将根据活动结束的节点来确定排行榜最终排行
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 点击“奖励”说明书<img src="http://i0.feiliu.com/image/20141202/20141202181644_55919.png" alt="" />将会弹出说明Tip面板，如下图：
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;"><img src="http://i0.feiliu.com/image/20141202/20141202181655_87429.png" alt="" /> 
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 排名奖励为前十名，具体奖励内容详见数值配置
+</p>
+<h1>
+	活动规则
+</h1>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 抽奖
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 当实物奖励没有后，玩家则无法抽到该奖励
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 玩家每日可免费抽取一次奖励（单抽），0点刷新免费次数
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp;排行榜
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 排行榜为<span><strong>“狂怒点”</strong></span>排行他
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	<span style="text-indent:-21pt;">&nbsp; &nbsp;</span><span style="text-indent:-21pt;"> &nbsp;</span><span style="text-indent:-21pt;">“狂怒点”通过活动抽奖</span><span style="text-indent:-21pt;">获得，玩家抽取到不同的奖励将获得不同的狂怒点</span><span style="text-indent:-21pt;">:</span><br />
+<span style="text-indent:-21pt;"></span><span style="text-indent:-21pt;">每个道具OR坦克都有不同的狂怒点（详见配置），并且为区间值，例如：奖励“谢尔曼坦克”的狂怒</span><span style="text-indent:-21pt;">点为30-50，玩家抽到该坦克后将随机获得30-50的狂怒点。</span> 
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 该活动排行榜只有狂怒点达到300以上才会上榜
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 排行榜前十，才有奖励！
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 排行榜奖励为X组新型坦克奖励
+</p>
+<p class="p17" style="margin-left:84.0000pt;text-indent:-21.0000pt;">
+	X组新型坦克，具体数量根据获奖玩家的带兵量而定
+</p>
+<p class="p17" style="margin-left:84.0000pt;text-indent:-21.0000pt;">
+	例如：玩家获得1组新型坦克，该玩家的带兵量为500，那么该玩家获得的奖励为500辆新型坦克！
+</p>
+<h1>
+	活动文字
+</h1>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 抽奖活动说明：
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; “狂怒来袭，【谢尔曼】和【虎式】争相降世！更有机会获得《狂怒》电影票哦！”
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 抽奖感叹号：
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 1.活动期间进行抽奖，将有概率获得新式坦克【谢尔曼】和【虎式】，更有机会获得《狂怒》电影票一张！
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 2.每日0点将赠送1次免费抽奖的机会，次日重置不会累计！
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 3.活动结束后，将预留1天进行排行榜领奖时间，并且此时将无法继续抽奖
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp;&nbsp;排行榜说明：
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp;&nbsp; 玩家在活动中抽奖后将获得“狂怒点”，狂怒点数排名前10的玩家将获得丰厚大奖！
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp;&nbsp;排行奖励说明：
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 1.活动结束后，排行榜将最终确定获奖名单！
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 2.活动结束后将预留1天领奖时间，强玩家尽早领取奖励，以免造成不必要的损失！
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 3.一组新型坦克，即为玩家的带兵量，例如：您的带兵量为500，奖励为1组新型坦克，那么您领取的奖励就为500辆新型坦克。
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 排名奖励：&nbsp;
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 第1名：XXX
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 第2名：XXXX
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp;&nbsp;第3名：XXX
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp;&nbsp;第4-6名：XXX
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 第7-10名：XXXX
+</p>
+<h1>
+	活动公告
+</h1>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 当玩家抽到指定数量的新式坦克后将在聊天频道发布公告：<br />
+<span><strong></strong></span><span style="text-indent:-21pt;"><strong>“恭喜【玩家名称】在活动“狂怒”中获得了【坦克名称】！”</strong></span> 
+</p>
+<p class="p17" style="margin-left:42.0000pt;text-indent:-21.0000pt;">
+	&nbsp; 当玩家抽到实物奖励后，在聊天频道发布公告：
+</p>
+<p class="p17" style="margin-left:63.0000pt;text-indent:-21.0000pt;">
+	<span><strong>&nbsp;“【玩家名称】运气爆棚！竟然在活动“狂怒”中获得了《狂怒》电影票！”</strong></span><span style="display:none;" id="__kindeditor_bookmark_end_14__"></span> 
+</p>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

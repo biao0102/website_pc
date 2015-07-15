@@ -1,0 +1,70 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">西游记喜剧之王！《众妖之怒》逗比唐僧大评比</div>
+			<div class="news-con">
+				提起《西游记》中的唐三藏，相信大家都很熟悉。近些年来，为了满足观众的需要，唐僧在一些文艺作品中一改正派斯文的形象，担任起了搞笑任务。《大话西游》中罗家英饰演的唐僧就是其中的代表，像“人是人他妈生的，妖是妖他妈生的。”等经典台词让人记忆犹新。在首款东方奇幻3D手游《众妖之怒》中，唐僧的造型又是怎样的呢？今天我们就来场逗比唐僧大评比！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150127/20150127105928_86871.jpg" alt="" /><br />
+<br />
+<br />
+【经典永存 罗家英版唐僧】<br />
+<br />
+<br />
+&nbsp; 罗家英在《大话西游》中饰演个性长舌的唐僧，不但让齐天大圣孙悟空毫无招架之力，还让牛魔王的同伙纷纷举刀、上吊自尽，碎念功力惊人。那些经典的台词至今想来也非常搞笑，“你妈贵姓？”、“小心啊！打雷啦！下雨收衣服啊！”“人是人他妈生的，妖是妖他妈生的，如果妖有仁慈之心，那就不是妖，是人妖。”“乱扔会污染环境，砸到小朋友怎么办?”。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150127/20150127105938_73962.jpg" alt="" /><br />
+<br />
+【超级爆笑 小沈阳版唐僧】<br />
+<br />
+<br />
+&nbsp;在过去“笑转2009刘老根大舞台”的全国巡演中。赵本山爱徒小沈阳穿露背装演唐僧，和妻子台上对戏；后又穿古装演《倩女幽魂》中的宁采臣，演出中他“抛弃”爱妻，搂着女观众“小倩”打情骂俏，“小倩”则反抱着小沈阳陶醉不已。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150127/20150127105947_61827.jpg" alt="" /><br />
+<br />
+<br />
+【高手在民间 大妈版唐僧】<br />
+<br />
+<br />
+&nbsp; 在国庆节期间，细心的南昌市民总能在一些欢乐的活动现场里看到四位女版唐僧师徒的扮演者。她们演绎着三打白骨精、猪八戒背媳妇等经典片段，卖力的表演引得人们开怀大笑。图为齐天大圣很惹孩子们喜欢。经介绍，得知这些扮演者都是6旬年纪的老妇。<br />
+<br /><img src="http://i0.feiliu.com/image/20150127/20150127105957_30457.jpg" alt="" /><br />
+【超越过去 众妖之怒唐僧】<br />
+<br />
+<br />
+&nbsp; 首款东方奇幻3D手游《众妖之怒》讲述了西游记之后的故事，唐僧师徒四人取经归来本以为拯救了世界，但是……某日，玉皇大帝突然性情大变，下令天庭诸神设计将下界妖魔一网打尽，于是，天界妖界，势如水火。游戏中唐僧将以NPC的身份登场。他究竟有着怎样的故事呢？对于反对天庭的主人公一行人来说，究竟是敌是友呢？来《众妖之怒》一探究竟吧！<br />
+<br /><img src="http://i0.feiliu.com/image/20150127/20150127110006_74893.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 《众妖之怒》颠覆传统西游，让你一扫天神的权威，成为任性反骨英雄！《众妖之怒》是由曜石互动打造、飞流（FL Mobile）全平台独家代理发行的东方奇幻3D手游，妖行三界，怒战九天！<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

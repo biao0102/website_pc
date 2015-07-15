@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>1.4.033的更新时间与内容_《大侠别嚣张》文章页</title>
+<link href="http://js.feiliu.com/static/daxia/pc/css/index.css?v=1" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/daxia/pc/js/public.js"></script>
+</head>
+<body>
+    <!--大侠别嚣张首页浮动窗口模板start-->
+      <!--#include virtual="/list/daxia_index_float.shtml"-->
+    <!--大侠别嚣张首页浮动窗口模板end-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板start-->
+      <!--#include virtual="/list/daxia_index_fllink.shtml"-->
+    <!--大侠别嚣张首页头部飞流游戏链接模板end-->
+<div class="ttt">
+    <!--大侠别嚣张首页导航模板start-->
+      <!--#include virtual="/list/daxia_index_nav.shtml"-->
+    <!--大侠别嚣张首页导航模板end-->
+    <!--大侠别嚣张首页下载模板start-->
+      <!--#include virtual="/list/daxia_index_download.shtml"-->
+    <!--大侠别嚣张首页下载模板end-->
+</div>
+<div class="contain min1000">
+  <div class="containbg">
+      <div class="boxx">
+        <div class="sunconright">
+          <div class="topbg">
+           <span class="subaddr">
+           所在位置：<a href="http://daxia.feiliu.com/list/daxia_index.shtml">首页</a>>><a href="">公告</a>
+           </span>
+          </div>
+          <div class="gmcon">
+            <div class="infotxt01">
+             <div class="infotitle">1.4.033的更新时间与内容</div>
+              <p><!--StartFragment -->
+<div>
+	<br />
+亲爱的玩家，我们将于1月20日上午11点（更新应用宝）、1月21日上午11点（更新越狱与安卓全服）进行更新，<br />
+更新内容如下：<br />
+【新增】<br />
+1、主角升星规则调整，不再吞噬紫色大侠与橙色大侠，改为吞噬武魂卡（紫色）与仙魂卡（橙色）<br />
+2、天牢奖励调整，增加武魂卡掉落<br />
+3、神秘商店物品调整，增加武魂卡与仙魂卡<br />
+4、天牢增加额外掉落活动<br />
+5、论剑可以查看前10名玩家战力<br />
+<br />
+【优化】<br />
+1、月卡界面优化<br />
+2、帮派秘境分配记录，可查看物品详情<br />
+3、等级礼包界面去除“充值”按钮<br />
+4、优化新手攻略中关于主角升星规则的说明<br />
+<br />
+【BUG修正】<br />
+1、对方阵容显示战力不正确<br />
+2、帮派申请界面，点击“下一页”无法正常显示帮派列表<br />
+3、帮派秘境第十章无法通关<br />
+4、双倍掉落界面活动时间显示不正确<br />
+5、修正主角从紫色升星到橙色后，面板天赋数值显示不正确<br />
+<br />
+请玩家合理安排游戏时间，祝大家度过一个愉快的周末！<br />
+</div>
+<p>
+	<strong></strong>&nbsp;
+</p></p>
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/daxia/pc/images/down.jpg" width="971" height="17"/></div>
+        <div class="bottomcon">
+           <!--大侠别嚣张首页媒体合作模板start-->
+            <!--#include virtual="/list/daxia_index_mthz.shtml"-->
+          <!--大侠别嚣张首页媒体合作模板end-->  
+           <!--大侠别嚣张首页客服模板start-->
+            <!--#include virtual="/list/daxia_index_kf.shtml"-->
+          <!--大侠别嚣张首页客服模板end--> 
+        </div> 
+        </div>
+        <div class="clear"></div>
+      </div>
+  </div>
+</div>
+<!--大侠别嚣张首页底部版权模板start-->
+  <!--#include virtual="/list/daxia_index_foot.shtml"-->
+<!--大侠别嚣张首页底部版权模板end-->
+</body>
+</html>

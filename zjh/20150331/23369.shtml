@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>宝石系统_游戏攻略_最江湖官方网站</title>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/stop.jpg"  alt="新闻"/></h2>
+          </div>
+          <div class="clear"></div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle" style="color:#704e33;">宝石系统</div>
+              <div class="textTime"><span style="float:left; color:#393939; width:80px; padding-left:90px;">2015-03-31 21:50:42</span><span style="width:380px; float:right; padding-top:10px">
+                <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span></div>
+                <p></p>
+                <p class="MsoNormal" style="text-indent:21.0pt;">
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	宝石分为普通宝石、高级宝石和武魂宝石三种。<span>30</span>级以上的装备可以镶嵌普通宝石；<span>90</span>级以上的装备可以镶嵌高级宝石；<span>110</span>级以上的装备可以镶嵌武魂宝石。
+</p>
+<div style="text-align:center;">
+	<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331214513_74658.png" width="400" height="267" alt="" style="text-indent:21pt;" /><br />
+</div>
+<span></span>
+<p>
+	<br />
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<b>如何镶嵌宝石？<span></span></b>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	在装备界面，点击红框任意部位，即可进入相应的装备界面。点击右下角绿框处的圆圈即可进入宝石镶嵌界面。<span></span>
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 每件装备可以镶嵌<span>6</span>颗宝石，每种宝石只能镶嵌<span>1</span>颗。可以直接将<span>3</span>颗低级宝石合成为<span>1</span>颗更高<span>1</span>级的宝石。
+</p>
+<div style="text-align:center;">
+	<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331214541_30926.png" width="400" height="267" alt="" style="text-indent:21pt;" />
+</div>
+<span></span>
+<p>
+	<br />
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 侠客达到<span>90</span>级时，可以从宝石镶嵌界面右下角进入高级宝石融合界面。所穿戴的装备达到<span>90</span>级之后，才能镶嵌高级宝石。天虹与龙吟、赤练与神武、鹏程与无量互相排斥，无法同时镶嵌在同一个装备上。
+</p>
+<div style="text-align:center;">
+	<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331214620_46593.png" width="400" height="267" alt="" style="text-indent:21pt;" />
+</div>
+<span></span>
+<p>
+	<br />
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 神武、鹏程、龙吟<span>3</span>种<span>1</span>级宝石可以通过宝石融合系统融合为高级宝石，高级宝石将会拥有双重甚至<span>3</span>重属性，融合时有几率失败的哦！
+</p>
+<div style="text-align:center;">
+	<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331214711_67222.png" width="400" height="267" alt="" style="text-indent:21pt;" />
+</div>
+<span></span>
+<p>
+	<br />
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	侠客穿戴装备达到<span>110</span>级时，可以从宝装备界面宝石区域中间的黑色圆圈进入宝石融魂界面。<br />
+	<div style="text-align:center;">
+		<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331214743_54838.png" width="400" height="267" alt="" style="text-indent:21pt;" />
+	</div>
+<span></span>
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 每件装备只能镶嵌<span>1</span>颗武魂宝石，镶嵌和使用方式与普通宝石一样。<br />
+	<div style="text-align:center;">
+		<span ></span><img src="http://i0.feiliu.com/image/20150331/20150331214832_51383.png" width="400" height="267" alt=""  />
+	</div>
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	侠客的<span>6</span>件装备均镶嵌相同的武魂宝石时，可以触发武魂套装奖励.<br />
+	<div style="text-align:center;">
+		<span style="text-indent:21pt;"></span><img src="http://i0.feiliu.com/image/20150331/20150331215006_50973.png" width="400" height="267" alt="" style="text-indent:21pt;" /><br />
+<br />
+	</div>
+<span></span>
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8种<span>1</span>级普通宝石各<span>1</span>颗可以通过武魂提炼系统提炼出武魂宝石，武魂宝石直接增加侠客的攻击等属性值！提炼时，有几率失败哦！<br />
+	<div style="text-align:center;">
+		<span ></span><img src="http://i0.feiliu.com/image/20150331/20150331215029_63737.png" width="400" height="267" alt=""  />
+	</div>
+<span></span>
+</p>
+<p class="MsoNormal">
+	<span></span>
+</p>
+<p class="MsoNormal">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 宝石小窍门：<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:39.0pt;text-indent:-18.0pt;">
+	-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 前期大家都没有多少宝石，不要刻意的追求宝石的等级，而是要尽可能给所有上阵侠客的装备都镶嵌宝石。<span></span>
+</p>
+<p class="MsoListParagraph" style="margin-left:39.0pt;text-indent:-18.0pt;">
+	-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 不同的侠客适合不同的宝石，在镶嵌宝石时，注意界面上方的友情提示，提示会告诉您当前侠客最适合镶嵌的宝石类型。<span></span>
+</p>
+<br />
+<div style="text-align:center;">
+	<p class="MsoNormal" style="text-align:left;text-indent:21pt;">
+		<span lang="EN-US"><o:p></o:p></span>
+	</p>
+</div>
+<p>
+	<br />
+</p> 
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

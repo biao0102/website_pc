@@ -1,0 +1,22 @@
+<div id="i-topnews">
+      <div class="tab-menu"> <a href="http://zs.feiliu.com/list/list_zs_allzx.shtml" class="cur">全部</a> <a href="http://zs.feiliu.com/list/list_zs_gg.shtml">公告</a><a href="http://zs.feiliu.com/list/list_zs_news.shtml">新闻</a><a href="http://zs.feiliu.com/list/list_zs_hd.shtml">活动</a></div>
+      <div class="tab-ctn">
+		<!--首页头部全部栏目模板开始-->
+			<!--#include virtual="/list/index_zs_allcol.shtml"-->
+		<!--首页头部全部栏目模板结束-->
+
+		<!--首页头部公告栏目模板开始-->
+			<!--#include virtual="/list/index_zs_gg.shtml"-->
+		<!--首页头部公告栏目模板结束-->	
+  
+		<!--首页头部新闻栏目模板开始-->
+			<!--#include virtual="/list/index_zs_news.shtml"-->
+		<!--首页头部新闻栏目模板结束-->
+	  
+		<!--首页头部活动栏目模板开始-->
+			<!--#include virtual="/list/index_zs_hd.shtml"-->
+		<!--首页头部活动栏目模板结束-->
+		
+
+      </div>
+    </div>

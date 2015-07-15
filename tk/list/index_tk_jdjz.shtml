@@ -1,0 +1,33 @@
+              <div class="top002" id="_showa2">
+                <ul class="buttonbg01">
+                  <li class="tk02"><a href="#" onmousemove="__showa(1);">坦克展示</a></li>
+                  <li class="tk01"><a href="#" >基地建筑</a></li>
+                  <li class="tk02"><a href="#" onmousemove="__showa(3);">资源设施</a></li>
+                  <li class="tk02"><a href="#" onmousemove="__showa(4);">科研技术</a></li>
+                  <li class="tk02"><a href="#" onmousemove="__showa(5);">增益属性</a></li>
+                </ul>
+                <div class="tankzs">
+                 <span class="zhanshi02 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/jianzhu/cang_ku_building.png" /><br />
+                  仓库 </span>
+                   <span class="zhanshi02 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/jianzhu/dao_ju_building.png" /><br />
+                  装置车间 </span>
+                   <span class="zhanshi02 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/jianzhu/gai_zhuang_chang_building.png" /><br />
+                  改装车间 </span>
+                   <span class="zhanshi02 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/jianzhu/gong_hui_building.png" /><br />
+                  军团 </span>
+                   <span class="zhanshi02 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/jianzhu/ke_ji_zhong_xin_building.png" /><br />
+                  科技中心 </span>
+                   <span class="zhanshi02 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/jianzhu/outskirt_zhu_ji_di.png" /><br />
+                    基地 </span>
+                  油矿 </span>
+                  钛矿 </span>
+                               <span class="zhanshi03 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tank.png" /><br />
+                  资源设施 </span>
+                   <span class="zhanshi03 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tank.png" /><br />
+                  资源设施 </span>
+ <span class="zhanshi03 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tank.png" /><br />
+                  资源设施 </span>
+                   <span class="zhanshi03 fltt"> <img src="http://js.feiliu.com/static/tk/web/images/tank.png" /><br />
+                  资源设施 </span>
+                             </div>
+                        </div>

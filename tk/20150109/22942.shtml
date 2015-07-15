@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">坦克嘉年华</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2015-01-09</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <p class="MsoNormal">
+	<span >亲爱的指挥官：<br />
+坦克嘉年华火爆开启：</span>
+</p>
+<p class="MsoNormal">
+	活动名称：坦克嘉年华<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	参与方式：玩家使用金币进行抽奖，获得坦克大奖，<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	活动分为【单排模式】和【火力全开】两种抽奖形式<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	单排模式：<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	玩家点击后界面内仅显示中心一行，上下两行全部使用半透面板遮盖<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	点击后会提示：“恭喜您，获得了【奖品名称】<span lang="EN-US">X</span>数量、【奖品名称】<span lang="EN-US">X</span>数量！”<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	火力全开：<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	在火力全开中，数字球全部会变亮，并解锁所有的格子。
+</p>
+<p class="MsoNormal">
+	玩家点击拉霸，并且抽奖动画播放完成后，则弹出获奖界面。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	当玩家抽到大奖时，则会播放礼花动画。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	活动规则：<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	1、活动中抽奖即可获得奖励<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	2、活动中有几率抽到金币的哦<span lang="EN-US">~<br /><img src="http://i0.feiliu.com/image/20150109/20150109155026_55685.jpg" alt="" /><br />
+</span><span lang="EN-US"><br />
+<span >《战地坦克》游戏官网：http://tk.feiliu.com</span><br  />
+<span >《战地坦克》iOS正版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8</span><br  />
+<span >《战地坦克》iOS越狱版下载：http://js.feiliu.com/ipa/tk/tk_300021.ipa<br />
+	<div style="text-align:center;">
+		活动最终解释权，归战地坦克项目组所有
+	</div>
+</span></span>
+</p>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

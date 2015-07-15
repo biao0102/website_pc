@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">
+        <title>《神谱》职业介绍-精灵 _ 《神谱》飞流官网</title> 
+        <meta content="神谱之刃,神谱之刃官网,神谱之刃飞流九天," name="keywords">
+        <meta content="" name="description">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="format-detection" content="telephone=no"/>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/js.js"></script>
+        <link rel="stylesheet" href="http://js.feiliu.com/static/shenpu/webnew/css/style.css?v=13">
+        <!--[if IE 6]>
+        <script src="js/png.js"></script>
+        <script>
+                PNG.fix('*');
+        </script>
+        <![endif]--> 
+    </head>
+    <body>
+        <!-- 首页导航模板start-->
+        <!--#include virtual="/list/shenpu_index_nav.shtml"-->
+        <!-- 首页导航模板end--> 
+        <style>
+
+            
+        </style>
+        <section class="section4">
+            <div class="hot-main">
+                <a href="" class="logo"></a>
+                <div class="hotnews newspage">
+                    <div class="article-inner">
+                        <div class="art">
+                        <h2 class="article-title">《神谱》职业介绍-精灵</h2>
+                        <p class="article-pubtime">2014-09-26</p>
+                        <div class="article-content"><p class="MsoNormal" >
+	<b>职业介绍<span lang="EN-US">-</span>精灵<span lang="EN-US"><o:p></o:p></span></b>
+</p>
+<p class="MsoNormal" style="text-indent:21pt;">
+	攻击型英雄，拥有卓越魔法才能的天才少女。对自己的才能充满自信，并对未来充满希望，因此眼光很高。自尊心很强。对认可自己能力的人，表现出很强的依赖心。<br />
+<br /><img src="http://i0.feiliu.com/image/20140926/20140926110036_90697.jpg" alt="" /><br />
+<br />
+基础属性<br />
+血量	★★★<br />
+攻击	★★★★★<br />
+防守	★★<br />
+操控	★★★★★<br />
+<br />
+初始技能<br />
+技能名称：技能描述<br />
+奥术飞弹： 侧身长立，意念所化形成奥术，对敌方造成7次90%的技能伤害<br />
+冰龙雪魄： 凝意成冰，像前方跃出，遭敌人造成7次100%的技能伤害<br />
+龙啸九天： 以自身之力，召唤巨大魔法阵环绕周身并攻击所有目标，对敌人造成8次80%的技能伤害<br />
+<br />
+变身技能<br />
+技能名称：技能描述<br />
+致死打击：对于血量低于20%的敌人，伤害增加5%<br />
+精灵 &nbsp; &nbsp;：法师的小精灵，每过4秒，会帮助你进行一次攻击，攻击力为你物理伤害的70%<br />
+怒发冲冠：你的攻击有1%的几率使对方沉默3秒<br />
+</p></div>
+                        </div>
+                     </div>
+                     <div class="article-btm"></div>
+                </div>
+            </div>
+        </section>
+        <!--公共底部模板start-->
+        <!--#include virtual="/list/shenpu_index_foot.shtml"-->
+        <!--公共底部模板end-->
+    </body>
+</html>	

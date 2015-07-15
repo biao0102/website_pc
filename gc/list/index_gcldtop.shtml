@@ -1,0 +1,10 @@
+<div class="header">
+            <ul class="nav">
+                <li class="index"><a href="http://gc.feiliu.com" title="官网首页"></a></li>
+                <li class="newsCenter"><a href="http://gc.feiliu.com/list/gcld_news.shtml" title="新闻中心"></a></li>
+                <li class="gameBook"><a href="http://gc.feiliu.com/list/gcld_yxzl.shtml" title="游戏资料"></a></li>
+                <li class="sourceBook"><a href="http://gc.feiliu.com/list/gcld_gl.shtml" title="王者攻略"></a></li>
+                <li class="charge"><a href="#" title="游戏充值" target="_top"></a></li>
+                <li class="bbs"><a href="http://bbs.8783.com/forum-64-1.html" title="群英论坛" target="_top"></a></li>
+            </ul>
+        </div>

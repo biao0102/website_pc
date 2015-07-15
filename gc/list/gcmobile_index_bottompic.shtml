@@ -1,0 +1,12 @@
+<div class="imgbox" id="imgbox">
+                    <a href="#" style="display: block;"><img src="http://js.feiliu.com/static/gcwap/images/zh640.jpg" alt="" /></a>
+                    <a href="#"><img src="http://js.feiliu.com/static/gcwap/images/gz640.jpg" alt="" /></a>
+                    <a href="#"><img src="http://js.feiliu.com/static/gcwap/images/wj640.jpg" alt="" /></a>
+                    <a href="#"><img src="http://js.feiliu.com/static/gcwap/images/zb640.jpg" alt="" /></a>
+                </div>
+                <ul class="tese_nav" id="tese_nav">
+                    <li class="btn01"><a href="javascript:;" class="current">语音国战</a></li>
+                    <li class="btn02"><a href="javascript:;">超大战场</a></li>
+                    <li class="btn03"><a href="javascript:;">武将云集</a></li>
+                    <li class="btn04"><a href="javascript:;">极品策略</a></li>
+                </ul>

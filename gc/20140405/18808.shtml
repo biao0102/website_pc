@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="你玩游戏我充值，5000金币等你拿_" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>你玩游戏我充值，5000金币等你拿 攻城掠地_热点</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+															<div class="news_head">
+										
+										<ul class="news_tab">
+											<li><a href="http://gc.feiliu.com/list/list_gcld_gg.shtml">公告</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_news.shtml">新闻</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_rd.shtml"  class="current">热点</a></li>
+											<li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_hd.shtml">活动</a></li>
+										</ul>
+										<p>所在位置： <a href="http://gc.feiliu.com">首页</a> &gt;&gt; 热点 </p>
+									                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">你玩游戏我充值，5000金币等你拿</a></div>
+                                    <div class="news_date">发布时间：2014-04-05 14:59:57</div>
+                                    <div class="news_main">
+										&nbsp;2014年04月03日，攻城掠地手游版正式开始公测，又巧逢清明假期。因此8783特别为各位主公准备了你玩游戏我充值活动，踩中相应楼层，即可获得游戏内免费充值的机会，还不快来参加~<br />
+<br /><img src="http://i0.feiliu.com/image/20140405/20140405145846_39860.jpg" alt="" /><br />
+<br />
+<div>
+	活动时间：<span ><strong>2014年4月5日12时—2014年4月7日24时</strong></span>
+</div>
+<div>
+	奖品及获奖楼层：
+</div>
+<div>
+	特等奖：价值200元RMB的游戏金币1名&nbsp; &nbsp;&nbsp;楼层数第88%层
+</div>
+<div>
+	一等奖：价值100元RMB的游戏金币1名&nbsp; &nbsp;&nbsp;楼层数第50%层
+</div>
+<div>
+	二等奖：价值50元RMB的游戏金币1名&nbsp; &nbsp;&nbsp;&nbsp;楼层数第20%层
+</div>
+<div>
+	三等奖：价值20元RMB的游戏金币2名&nbsp; &nbsp;&nbsp;&nbsp;楼层数第10%、70%层
+</div>
+<div>
+	四等奖：价值10元RMB的游戏金币11名&nbsp; &nbsp;楼层数第2%、16%、24%、29%、37%、45%、57%、63%、77%、82%、98%<br />
+<br />
+活动详情请点击：<a href="http://bbs.8783.com/thread-41952-1-1.html">http://bbs.8783.com/thread-41952-1-1.html</a>
+</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

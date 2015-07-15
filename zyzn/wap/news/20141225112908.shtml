@@ -1,0 +1,64 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">热依扎代言《众妖之怒》！全新3D奇幻手游来袭</div>
+			<div class="news-con">
+				&nbsp; &nbsp; &nbsp;今日（12月25日），飞流（FL Mobile）正式公开宣布，签约新一代短发女神“热依扎”担任其独家代理发行的手游《众妖之怒》代言人。而这也是热依扎首次为手游产品代言。同时，作为飞流2015年的重点产品，《众妖之怒》将于2015年1月6日开启越狱内测。相信热依扎的代言和《众妖之怒》万众瞩目的品质，能赢得市场及玩家的认可。<br />
+<br />
+<br />
+《众妖之怒》预约活动页面：http://zyzn.feiliu.com/list/zyzn_activity.shtml<br />
+《众妖之怒》官方网站：http://zyzn.feiliu.com<br />
+《众妖之怒》官方QQ群：263683777　　<br />
+《众妖之怒》客服 QQ：800032234<br /><img src="http://i0.feiliu.com/image/20141225/20141225112807_96840.jpg" alt="" /><br />
+<br />
+【时尚女神 热依扎“处女”手游代言】<br />
+<br />
+<br />
+&nbsp; 热依扎是国内当红新一代短发女神，15岁时便成为《瑞丽》最年轻的封面女郎。凭借2011年中出演《后宫甄嬛传》饰“宁贵人”后，热依扎开始受到广泛关注。此后，热依扎先后出演《爱情自有天意》、《平安岛》、《有一个地方只有我们知道》等影视剧，并在近期参加《天天向上》、《奔跑吧兄弟2》等热播娱乐节目，成为备受关注的时尚New Face。虽然此前热依扎曾代言卡西欧、NIKE、丁家宜等产品，但此次担任《众妖之怒》代言人也是她在互联网行业代言中的首次。<br />
+<br /><img src="http://i0.feiliu.com/image/20141225/20141225112832_69921.jpg" alt="" /><br />
+<br />
+【量身定制妖狐 演绎时尚妩媚】<br />
+<br />
+<br />
+&nbsp; 《众妖之怒》拥有妖狐、蛮牛、灵猴、玉兔四大职业，其中在外形最为魅惑性感的则是妖狐。热依扎作为一个新疆女孩，天生的深眼窝、高鼻梁、大眼睛、长睫毛，配合上天生模特身材和演员气质，极为适合饰演娇艳的妖狐。热依扎将COS游戏内的妖狐职业，拍摄一系列照片、视频，让玩家通过热依扎的装扮直观了解这一职业的精彩。据飞流透露消息称，热依扎还将在游戏内出现并且为NPC配音，与玩家在游戏内进行丰富的互动。<br />
+<br /><img src="http://i0.feiliu.com/image/20141225/20141225112847_60628.jpg" alt="" /><br />
+<br />
+【妖行三界 内测预约豪礼派送】<br />
+<br />
+<br />
+&nbsp; 《众妖之怒》即将于2015年1月6日正式开启越狱版本的内测。为了让所有玩家初进游戏便能体验战斗的激情，《众妖之怒》即日起至1月5日18：00期间开启“内测预约初体验”活动，所有玩家只要输出手机号便能获得包含多重豪礼的大礼包，同时还有iPhone6、充值卡等劲爆大礼派送。而且，输入手机号后还能第一时间了解游戏讯息，绝对不会让你错过抢先进入游戏的时机。<br /><img src="http://i0.feiliu.com/image/20141225/20141225112859_34482.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; 《众妖之怒》即将亮相，热依扎代言的手游会有何种精彩表现？她COS的妖狐又会是如何性感和魅惑呢？让我们一起期待《众妖之怒》越狱内测的开启！<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

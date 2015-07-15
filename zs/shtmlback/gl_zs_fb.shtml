@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网副本攻略</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_list.css">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		  <div class="headerT1">
+    <nav>
+      <ul>
+        <li><a href="http://zs.feiliu.com/list/index_zs.shtml" target="_blank">首页</a></li>
+        <li><a href="http://zs.feiliu.com/list/list_zs_allzx.shtml" target="_blank">资讯中心</a></li>
+        <li><a href="http://zs.feiliu.com/list/down_zs.shtml" target="_blank">下载专区</a></li>
+        <li class="sub"><a href="http://zs.feiliu.com/list/list_zs_zl.shtml">资料大全</a>
+        	<div class="sub-forbg"></div>
+        	<div class="sub-box">
+            	<a href="http://zs.feiliu.com/list/list_zs_zl.shtml">资料站</a>
+                <a href="#">新手指南</a>
+                <a href="http://zs.feiliu.com/list/focus_zs_list.shtml">职业专题</a>
+                <a href="http://zs.feiliu.com/list/video_zs_yxsp.shtml" class="nobor">游戏视频</a>
+            </div>
+        </li>
+        <li><a href="#" target="_blank">服务中心</a></li>
+        <li><a href="http://bbs.8783.com/forum-70-1.html" target="_blank">社区中心</a></li>
+      </ul>
+    </nav>
+  </div>
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		        <div class="showbg">
+        	<img src="http://js.feiliu.com/static/zs/images/slt1_01.jpg">
+            <img src="http://js.feiliu.com/static/zs/images/slt1_02.jpg">
+            <img src="http://js.feiliu.com/static/zs/images/slt1_03.jpg">
+        </div>
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+                    	<h1 class="ctn-title">副本攻略</h1>
+                        <div class="curLocation">
+                        	你的位置：<a href="#" target="_blank" class="tohome">首页</a>><span>副本攻略</span>
+                        </div>
+                        <div class="nrarea">
+                        	<div id="newslist" class="mt10">
+								<nav class="tabMenu">
+									<ul>
+										<li class="slp"><a href="http://zs.feiliu.com/list/gl_zs_xs.shtml">新手攻略</a></li>
+										<li class="slp cur"><a href="http://zs.feiliu.com/list/gl_zs_fb.shtml">副本攻略</a></li>
+										 <li class="slp"><a href="http://zs.feiliu.com/list/gl_zs_jj.shtml">进阶攻略</a></li>		
+									</ul>
+								</nav>
+								<div class="tabContent" style="display:block;">
+									<ul class="newslist-item">
+										
+										  
+											<li><em>[副本]</em><a href="http://zs.feiliu.com/20140603/20958.shtml" title="蛮族入侵BOSS大揭秘">蛮族入侵BOSS大揭秘</a><time>[2014-06-03]</time></li>
+										  
+											<li><em>[副本]</em><a href="http://zs.feiliu.com/20140527/20909.shtml" title="《三国战神》双人轻松挑战郭嘉">《三国战神》双人轻松挑战郭嘉</a><time>[2014-05-27]</time></li>
+										  
+											<li><em>[副本]</em><a href="http://zs.feiliu.com/20140527/20908.shtml" title="教你神秘地牢怎么打">教你神秘地牢怎么打</a><time>[2014-05-27]</time></li>
+										  
+											<li><em>[副本]</em><a href="http://zs.feiliu.com/20140527/20904.shtml" title="天机刷活动攻略">天机刷活动攻略</a><time>[2014-05-27]</time></li>
+										  
+											<li><em>[副本]</em><a href="http://zs.feiliu.com/20140527/20903.shtml" title="守卫汉帝技巧">守卫汉帝技巧</a><time>[2014-05-27]</time></li>
+										  
+											<li><em>[副本]</em><a href="http://zs.feiliu.com/20140526/20859.shtml" title="三国征途路漫漫——快速升级篇">三国征途路漫漫——快速升级篇</a><time>[2014-05-26]</time></li>
+																			</ul>
+									<div class="pager" id="paging"></div>
+								</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="cnt-zsr"></div>
+            </div>
+		<!--列表页侧边栏模板开始-->
+			        	<sidebar id="sbar">
+            	<div class="arrimg">
+                	<img src="http://i0.feiliu.com/201406/78/78eec346607e0205744cb2b1721aeaba.jpg" usemap="#Map"/>
+                    <map name="Map">
+                      <area shape="rect" coords="20,23,252,91" href="http://zs.feiliu.com/list/down_zs.shtml">
+                      <area shape="rect" coords="18,129,260,198" href="http://act.feiliu.com/zs/lb#userconsent#">
+                      <area shape="rect" coords="62,222,210,257" href="http://bbs.8783.com/member.php?mod=register87">
+                      <area shape="rect" coords="62,268,208,301" href="http://zs.feiliu.com/list/list_zs_zl.shtml">
+                      <area shape="rect" coords="63,310,208,341" href="http://zs.feiliu.com/list/focus_zs_list.shtml">
+                      <area shape="rect" coords="66,348,211,384" href="#">
+                    </map>
+                </div>
+                <div class="xiangguan">
+                	<div class="hotTj">
+                    	<a href="http://zs.feiliu.com/20140522/20786.shtml">技能介绍</a>|<a href="http://zs.feiliu.com/20140521/20780.shtml">装备强化</a>|<a href="http://zs.feiliu.com/20140521/20773.shtml">战魂系统</a><a href="http://zs.feiliu.com/20140521/20765.shtml">VIP介绍 </a>|<a href="http://zs.feiliu.com/20140522/20802.shtml">护送粮草</a>|<a href="http://zs.feiliu.com/20140522/20798.shtml">千里走单骑</a>
+                    </div>
+                    <div class="kefu">
+                    	<p class="kf-info">
+                        	客服 Q Q：800032234<br/>
+                            客服邮箱：800032234@b.qq.com<br/>
+                            官方QQ群：1群：(275507160)<br>　　　　　2群：(361552040)<br>
+							<label class="pl60"></label>
+                        </p>
+                        <p class="erm">
+                        <img src="http://js.feiliu.com/static/zs/images/weixin.jpg">
+                        <em>公共账号：sgzsios</em>
+                        <span>微信搜索sgzsios添加或扫描二维码添加关注</span>
+                        </p>
+                    </div>
+                </div>
+            </sidebar>
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			  <footer id="footer">
+    <p> About.us | Copyright@北京飞流九天科技有限公司<br>
+      地址：北京市东城区和平里东街11号雍和航星科技园2号楼北侧3层  联系电话：010-84229729<br>
+      爱游戏，爱生活，也爱美女。<br>
+      飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！<br>
+      我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！<br>
+      Love is love!<br>
+    </p>
+  </footer>
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5915744'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5915744' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+		<!--公共底部结束-->
+    </div>
+	
+	<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+	<!--list分页-底部start--> 
+	<script language="javascript"> 
+	var f_pagecount = 1 
+	//最大页数
+var maxpage=f_pagecount;
+//最小页数
+var minpage=1;
+var docUrl = document.location.href;
+var endstr = docUrl.lastIndexOf("/");
+var curfile = docUrl.substring(endstr+1);
+var curpage = curfile.substring(curfile.lastIndexOf("-")+1,curfile.lastIndexOf("."));
+if(curfile.lastIndexOf("-")<0){
+	curpage = maxpage;
+}
+if(isNaN(curpage)){
+		curpage = maxpage;
+}
+var locURL = docUrl.substring(0,docUrl.lastIndexOf("-"));
+if(docUrl.lastIndexOf("-")<0) locURL = docUrl.substring(0,docUrl.lastIndexOf("."));
+
+var htmlcode='';
+var p;
+var sp;
+var curpage1 = maxpage-curpage;
+if(curpage1==0)  curpage1=1;
+if(curpage1==1) locURL = docUrl.substring(0,docUrl.lastIndexOf("."));
+//alert(locURL);
+//alert(curpage1);
+try{
+	
+	//处理上一页
+	sy_htmlcode = "<a href=\""+ locURL +".shtml\" target=\"_self\" class=\"prev\">首页</a>&nbsp;";
+	htmlcode = "<a class=\"prev\" href=\""+locURL + "-" + (curpage-(-1)) + ".shtml\" target=\"_self\" >上一页</a>";
+	if(curpage1==2) htmlcode = "<a  class=\"prev\" href=\""+locURL + ".shtml\" target=\"_self\" >上一页</a>";
+	if(curpage1==1) htmlcode = "<a class=\"prev\">上一页</a>";
+
+	if(curpage1>8) htmlcode = htmlcode + "<a href=\""+locURL +".shtml\" target=\"_self\" >1</a><a href=\""+locURL + "-" + (maxpage-2) + ".shtml\" target=\"_self\" >2</a>...";
+
+	var i1=(curpage1+5);i2=curpage1-5;
+	if(curpage1<9 && maxpage<=10){ i1=maxpage;i2=1;}
+	if(curpage1<9 && maxpage>10){ i1=10;i2=1;}
+
+	for(i=i1; i>=i2; i--){		
+		sp = i2+(i1-i);
+		if(sp>maxpage) break;
+		p = "-" + (maxpage-sp);
+		if(sp==1) p='';
+		
+		if(sp==curpage1){
+			htmlcode = htmlcode + "<a  class=\"current\">" +sp+"</a>";
+		}else{
+			htmlcode = htmlcode + "<a href=\""+locURL + p +".shtml\" target=\"_self\" >"+sp+"</a>";
+		}
+	}
+	if(maxpage>10 && (maxpage-curpage1)>5) htmlcode = htmlcode + "...<a href=\""+locURL +"-1.shtml\" target=\"_self\" >"+(maxpage-1)+"</a><a href=\""+locURL + "-0.shtml\" target=\"_self\" >"+maxpage+"</a>";
+	
+	//处理下一页
+	if(curpage1==maxpage){
+		htmlcode = htmlcode + "<a class=\"next\">下一页</a>";
+	}else if(curpage1==1){
+		htmlcode = htmlcode + "<a class=\"next\" href=\""+locURL + "-" + (curpage-2) +".shtml\" target=\"_self\" >下一页</a>";
+	}else{
+		htmlcode = htmlcode + "<a class=\"next\" href=\""+locURL + "-" + (curpage-1) +".shtml\" target=\"_self\" >下一页</a>";
+	}
+	
+	//处理末页
+	if(curpage1==maxpage){
+		htmlcode = htmlcode +  "&nbsp;<a href=\"" + "\" target=\"_self\" class=\"next\">末页</a>";
+	}else{
+		htmlcode = htmlcode +  "&nbsp;<a href=\"" + locURL + "-0.shtml\" target=\"_self\" class=\"next\">末页</a>";
+	}
+	htmlcode = sy_htmlcode + htmlcode;
+}catch(e){
+	alert("Sorry:" + e);
+}
+document.getElementById("paging").innerHTML=htmlcode;
+ 
+	</script> 
+	<!--list分页-底部end-->
+</body>
+
+</html>

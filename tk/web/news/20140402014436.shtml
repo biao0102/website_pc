@@ -1,0 +1,120 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+<div class="wrap minwidth">
+	<div class="contain minwidth rel">
+		<div class="subcon1120">
+			<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+			<div class="conri fltt">
+				<div class="address">
+					<h2>新闻中心</h2>
+					<p>
+						当前位置：
+						<a href="http://tk.feiliu.com">首页</a>>>
+												<a href="http://tk.feiliu.com/web/list/newslist.shtml?a=2">新闻</a>
+											</p>
+				</div>
+				<div class="subnews">
+					<div class="infotitle">混编是王道！《坦克风云》最强阵型研究</div>
+					<div class="article">由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团对战手游《坦克风云》即将迎来铁血内测！在《坦克风云》中，不同种类的战车之间存在兵种相克的设定，使战斗更加真实。如何针对敌人的战车军团，调整自己的阵型，成了各位《坦克风云》指挥官们时常讨论的问题。今天，为大家带来《坦克风云》战车搭阵型详解，让你的钢铁雄狮从此所向披靡！<br />
+<br />
+<br />
+欢迎访问游戏官网：http://tk.feiliu.com/<br />
+点击下载ios版：http://tk.feiliu.com/count/download.php?type=8&amp;ismobile=1&amp;source=news<br />
+点击下载ios越狱版：http://tk.feiliu.com/count/download.php?type=2&amp;ismobile=1&amp;source=news<br /><img src="http://i0.feiliu.com/image/20140402/20140402134146_78424.jpg" alt="" /><br />
+【战车种类相生相克】<br />
+在《坦克风云》中并不意味着坦克主宰一切，游戏中各种战车都存在相生相克的适应性。因此当大家基地建设起来了、资源充足了，该开始大规模建造战车的时候，不要一味的只建造某一种战车，而是近战、远程、单体、群体类战车多样搭配，组建一支毫无死角的机械化混编军团，才能真正在战场上叱咤风云。<br /><img src="http://i0.feiliu.com/image/20140402/20140402134216_24886.jpg" alt="" /><br />
+战车适应性一览：<br />
+坦克：对火箭车造成125%的伤害;<br />
+歼击车：对坦克造成125%的伤害，对自行火炮造成80%的伤害;<br />
+自行火炮：对歼击车造成125%的伤害，对坦克炮造成80%的伤害;<br />
+火箭车：对自行火炮造成125%的伤害，对歼击车炮造成80%的伤害;<br />
+<br /><img src="http://i0.feiliu.com/image/20140402/20140402134246_59754.jpg" alt="" /><br />
+战车种类的不同，不仅影响军团作战能力与作战适应性，更直接产生不同BUFF作用于全体出战军团——坦克能够增加全体友军伤害，歼击车可以增加全体友军爆击，自行火炮将有效减少受到的穿甲弹伤害，而火箭车则减少对方火箭的直接伤害。<br />
+<div ><img src="http://i0.feiliu.com/image/20140402/20140402134315_73744.jpg" alt="" /><br />
+<br />
+因此最为合理、高效的战车军团阵型，应该尽量保证战车种类齐全，坦克、歼击车、火箭车混编。这样才能同时配合进攻发动立体攻势——前排坦克压住阵脚防守住敌人第一轮炮火，火箭车范围攻击重创对手战车集团，突击战车趁势集中攻击点杀对面重要目标，自行火炮在后排对残存敌军发动致命一击清场……针对敌人随时调整自己的部队，才是王道。<br />
+	<div ><img src="http://i0.feiliu.com/image/20140402/20140402134356_97768.jpg" alt="" /><br />
+<br />
+《坦克风云》铁血内测，即将开启！指挥各国主战坦克集团撕裂对手防线，体验爽快硬派的机械化战争。更多详细情报欢迎访问游戏官网：http://tk.feiliu.com/<br /><img src="http://i0.feiliu.com/image/20140402/20140402134425_48406.jpg" alt="" /><br />
+<br />
+		<div >
+			<br />
+		</div>
+<br />
+	</div>
+<br />
+</div>
+<br />
+<br />
+<div >
+	<br />
+</div>
+<br /></div>
+				</div>
+			</div>
+		</div>			
+	</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

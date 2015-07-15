@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>感恩大回馈_文章页</title>
+<link href="http://js.feiliu.com/static/zhanmo/web/css/index.css?v=5" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zhanmo/web/scripts/public.js?v=3"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--战魔公共浮动窗口模板start-->
+        <!--#include virtual="/list/index_zhanmo_float.shtml"-->
+      <!--战魔公共浮动窗口模板end--> 
+  <div class="head">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <!--战魔公共导航模板start-->
+        <!--#include virtual="/list/index_zhanmo_nav.shtml"-->
+      <!--战魔公共导航模板end--> 
+      <!--战魔首页轮播图模板start-->
+        <!--#include virtual="/list/index_zhanmo_lb.shtml"-->
+      <!--战魔首页轮播图模板end--> 
+    </div>
+  </div>
+  <div class="con1000">
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">新闻公告</span></h2>
+        <div class="subnewsccon">
+          <h2>感恩大回馈</h2>
+          <p><p class="MsoNormal">
+	【活动时间】下次测试开启后<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	【活动内容】本次封测结束后，等级达到<span lang="EN-US">40</span>级，可在下次测试开启后获得相对应的奖励。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal">
+	【活动奖励】元宝<span lang="EN-US">*300</span><o:p></o:p>
+</p>
+<p class="MsoNormal">
+	【参与方式】封测结束后，官方会调取服务器相关数据，请达到相应级别的老玩家在下次测试开启后，向官方客服提供正确的封测账号信息和新一轮测试的账号信息，核实正确后会为新账号发放相应奖励，这样也是为了避免封测账号被其他玩家注册。<span lang="EN-US"><o:p></o:p></span>
+</p>
+<p class="MsoNormal" align="left">
+	【联系方式】官方<span lang="EN-US">QQ</span>群：249564701<o:p></o:p>
+</p></p>
+        </div>
+      </div>
+       <div class="kong fltt "></div>
+      <img src="http://js.feiliu.com/static/zhanmo/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <div class="box02 fltt">
+      <!--战魔公共客服模板start-->
+        <!--#include virtual="/list/index_zhanmo_kf.shtml"-->
+      <!--战魔公共客服模板end-->
+      <!--战魔公共媒体合作模板start-->
+        <!--#include virtual="/list/index_zhanmo_mthz.shtml"-->
+      <!--战魔公共媒体合作模板end-->
+    </div>
+    
+  <!--战魔公共底部模板start-->
+    <!--#include virtual="/list/index_zhanmo_foot.shtml"-->
+  <!--战魔公共底部模板end-->
+  </div>
+</div>
+</body>
+</html>

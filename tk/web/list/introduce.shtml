@@ -1,0 +1,97 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+	<div class="wrap minwidth">
+		<div class="contain minwidth rel">
+			<div class="subcon1120">
+				<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+				<div class="conri fltt">
+					<div class="address">
+						<h2>游戏介绍 </h2>
+					</div>
+					<div class="newhands rel">
+						<h2>一、游戏简介</h2>
+						<p class="fltt">
+							这里有辽阔的战场，能够容纳成千上万只装甲集团在这里从横拼杀；这里汇聚了古今中外战场上各式威名赫赫的主战坦克，能够让您组建一支前所未有的请打陆战之师；这里集中了最具现代化科学技术与高效装甲部队相合，能够让您体验到现代化科技战争的无穷魅力。而这一切，只要您动动手指，即可体验“弹指间，樯橹灰飞烟灭”的快感！
+						</p>
+						<h2>二、注册账号</h2>
+						<p class="nh02">
+							在您安装客户端后，进入游戏后点击“登陆游戏”进入后显示：飞流账号登陆，点击右下角的“注册账号”可以使用手机号或者用户名进行注册，各位指挥官大人注册账号后进入游戏，就可以征战四方了<br><br><br><br><br><br>
+						</p>
+						<img src="http://js.feiliu.com/static/tk/web0506/images/nh01.jpg" alt="" class="nh02pics asb">
+						<h2>三、进入游戏</h2>
+						<p class="nh02">
+							各位指挥官点击登陆后完成新手指导后，创建您最爱的角色名称，就可以在游戏中大展宏图，一显身手了
+						</p>
+						<h2>四、开始游戏</h2>
+						<p class="nh02">
+							指挥官可以在世界中进行掠夺资源，为了你的女人，你的地盘。大肆战斗吧
+						</p>
+						<img src="http://js.feiliu.com/static/tk/web0506/images/nh02.jpg" alt="" class="nh02pics01 asb">
+					</div>
+				</div>
+			</div>			
+		</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

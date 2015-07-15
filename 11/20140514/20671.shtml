@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="《足球》官方网站" />
+    <meta name="description" content="《足球》官方网站" />
+    <title>《冠军11人》之杯赛玩法 《足球》官方网站_新闻</title>
+    <link href="http://js.feiliu.com/static/11/style/master.css?v=10" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/11/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://www.wanmei.com/public/js/swfobject.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/11/js/11.js"></script>
+</head>
+<body>
+    <!--公共头部导航开始-->
+		<!--#include virtual="/list/index_11_nav.shtml"-->
+	<!--公共头部导航结束-->
+    <div class="wrap news_wrap">
+        <div class="content">
+            <div class="content_kong news_kong">
+                <div id="flash_box"></div>
+            </div>
+            <div class="main clearfix">
+                <div class="main_l">
+                    <!--公共下载开始-->	
+						<!--#include virtual="/list/index_11_down.shtml"-->
+					<!--公共下载结束-->
+                    <div class="left_box">
+                        <!--列表页左侧公共微信开始-->	
+							<!--#include virtual="/list/list_11_weixin.shtml"-->
+						<!--列表页左侧公共微信结束-->
+						
+						<!--公共左侧客服媒体开始-->	
+							<!--#include virtual="/list/index_11_kfmt.shtml"-->
+						<!--公共左侧客服媒体开始-->
+                    </div>
+                </div>
+                <div class="main_r">
+                    <div class="news_box">
+                        <h2>《冠军11人》之杯赛玩法</h2>
+                        <div class="news_share"></div>
+                        <div class="news_content">
+							<span >杯赛是一个玩家相互之间相互比拼的</span><span>VP</span><span >的玩法内容。在这里你可以通过与其他玩家的互动，看看谁才是真正的王者。</span><br />
+&nbsp;
+<p class="MsoListParagraph" style="text-indent:-21pt;margin-left:21pt;">
+	<span><span>一、</span></span><span >杯赛玩法流程：<br />
+</span><span><span>1、<span>&nbsp; </span></span></span><span >在首页点击</span> <span >“杯赛”按钮进入杯赛页面</span><span></span> 
+</p>
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514154803_57445.png" />&nbsp;<br />
+<br />
+<span><span>2、<span>&nbsp; </span></span></span><span >在最下排的</span><span>5</span><span >个玩家爱头像中选择一个对手，进行比赛</span><span></span><br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140514/20140514154924_99746.png" /><span><br />
+<br />
+3</span><span >、胜利之后进入下一轮，直到失败或者夺得三连冠。</span><span></span><br />
+&nbsp;
+<p class="MsoNormal">
+	<span >二、小贴士：</span><span></span>&nbsp;<br />
+&nbsp;<br />
+<span>1</span><span >、每半天参加</span><span>5</span><span >次杯赛，每次三轮，每次杯赛系统都会匹配</span><span>5</span><span >个实力与玩家差不多的候选球队供玩家选择，玩家每轮可以从中选择一个来作为对手，胜利之后进入下一轮，直到失败或者夺得三连冠。</span><span></span> 
+</p>
+<span><br />
+2</span><span >、杯赛每天</span><span>3</span><span >点和</span><span>15</span><span >点重置。</span><span></span>&nbsp;<br />
+<span><br />
+3</span><span >、杯赛中玩家可以随机获得球员训练卡、技能训练卡等道具。</span><br />
+						</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<!--公共底部开始-->
+        <!--#include virtual="/list/index_11_footer.shtml"-->
+	<!--公共底部结束-->
+</body>
+</html>

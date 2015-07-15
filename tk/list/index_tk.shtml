@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="keywords" content="战地坦克,战地坦克官网,战地坦克越狱版下载，战地坦克IOS版下载，战地坦克安卓版下载，战地坦克游戏" />
+<meta name="description" content="战地坦克首款坦克题材SLG手游，这里有辽阔的战场，能够容纳成千上万只装甲集团军在这里纵横拼杀，这里汇聚了古今中外战场上各式威名赫赫的主战坦克，能够让您组建一支前所未有的强大陆战之师，这里集中了最具现代化科学技术与高效装甲部队相结合，能够让您体验到现代化科技战争的无穷魅力，而这一切，只要您动动手指，即可体验弹指间，樯橹灰飞烟灭的快感。" />
+<title>《战地坦克》官方网站</title>
+<link href="" rel="shortcut icon" />
+<link href="" rel="Bookmark" />
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=2014063023" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/is_mobile.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/imgAuto.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+<script language="javascript"> 
+function __show(val1){
+	$("#_show1").hide();
+	$("#_show2").hide();
+	$("#_show3").hide();
+	$("#_show4").hide();
+	$("#_show" + val1).show();
+}
+ 
+function __showa(val1){
+	$("#_showa1").hide();
+	$("#_showa2").hide();
+	$("#_showa3").hide();
+	$("#_showa4").hide();
+	$("#_showa5").hide();
+	$("#_showa" + val1).show();
+}
+
+function __showb(val1){
+	$("#_showb1").hide();
+	$("#_showb2").hide();
+	$("#_showb3").hide();
+	$("#_showb4").hide();
+	$("#_showb5").hide();
+	$("#_showb" + val1).show();
+}
+
+
+function __showc(val1){
+	$("#_showc1").hide();
+	$("#_showc2").hide();
+	$("#_showc3").hide();
+	$("#_showc4").hide();
+	$("#_showc5").hide();
+	$("#_showc" + val1).show();
+}
+
+
+function __showd(val1){
+	$("#_showd1").hide();
+	$("#_showd2").hide();
+	$("#_showd3").hide();
+	$("#_showd4").hide();
+	$("#_showd5").hide();
+	$("#_showd" + val1).show();
+}
+
+function __showe(val1){
+	$("#_showe1").hide();
+	$("#_showe2").hide();
+	$("#_showe3").hide();
+	$("#_showe4").hide();
+	$("#_showe5").hide();
+	$("#_showe" + val1).show();
+}
+ 
+</script>
+<SCRIPT>
+$(function () {
+	gundong();
+    function gundong() {
+        var box = $("#hz_list");
+        var owidth = box.children("li").eq(0).outerWidth();
+        var num = box.children("li").length;
+        var i = 0;
+        var timer = null;
+        var time = 20;
+
+        if (num > 7) {
+            box.append(box.html());
+            box.css("width", 2 * owidth * num + "px");
+            timer = setInterval(gdAnimate, time);
+            box.hover(function () {
+                clearInterval(timer);
+                timer = null;
+            }, function () {
+                timer = setInterval(gdAnimate, time);
+            });
+        }
+        function gdAnimate() {
+            i = i > owidth * num ? 0 : i + 1;
+            box.css("left", -i + "px");
+        }
+    }
+})
+  
+</SCRIPT>
+</head>
+<body>
+
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+
+<div class="contain minwidth">
+  <div class="containbg">
+    <div class="con1000">
+      <div class="box">
+        <div class="topcon">
+          <div class="topleft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end-->
+
+            <!-- 飞流-下载区 -->
+            <div class="leftbottom02 fltt">
+               <span><img src="http://js.feiliu.com/static/activity/sq/qrcode/gw_zdtk.png?v=1" /></span>
+               <a href="http://game.feiliu.com/youxishequ/index.html?s=C0801zdtk_A004_shequ_908011003" class="downfl">下载游戏社区</a>
+            </div>
+            <!--飞流-下载区 -->
+
+          </div>
+          
+          <div class="topright">
+
+            <!--战地坦克首页轮播图模板start-->
+              <!--#include virtual="/list/index_tk_lb.shtml"-->
+            <!--战地坦克首页轮播图模板end-->
+
+            <!--战地坦克首页资讯栏目模板start-->
+              <!--#include virtual="/list/index_tk_col.shtml"-->
+            <!--战地坦克col资讯栏目模板end-->
+
+            <div class="clear"></div>
+
+            <!--战地坦克首页坦克图片展示模板start-->
+              <!--#include virtual="/list/index_tk_tkpic.shtml"-->
+            <!--战地坦克首页坦克图片展示模板end-->
+
+            <div class="clear"></div>
+
+            <!--战地坦克首页指南攻略模板start-->
+              <!--#include virtual="/list/index_tk_zngl.shtml"-->
+            <!--战地坦克首页指南攻略模板end-->
+
+            <div class="clear"></div>
+
+            <!--战地坦克首页游戏美图模板start-->
+              <!--#include virtual="/list/index_tk_gamepic.shtml"-->
+            <!--战地坦克首页游戏美图模板end-->
+
+            <!--战地坦克首页媒体专区模板start-->
+              <!--#include virtual="/list/index_tk_mtzq.shtml"-->
+            <!--战地坦克首页媒体专区模板end-->
+
+            <!--战地坦克首页合作媒体模板start-->
+              <!--#include virtual="/list/index_tk_hzmt.shtml"-->
+            <!--战地坦克首页合作媒体模板end-->
+          </div>
+        </div>
+
+        <!--战地坦克首页底部模板start-->
+          <!--#include virtual="/list/index_tk_footer.shtml"-->
+        <!--战地坦克首页底部模板end-->
+
+        <div class="clear"></div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

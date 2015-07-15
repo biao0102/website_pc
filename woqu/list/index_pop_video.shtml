@@ -1,0 +1,3 @@
+<div id="video_title"></div>
+    <span class="close" onclick="lightbox.openScreen('pop')">X</span>
+    <div id="video_b"></div>

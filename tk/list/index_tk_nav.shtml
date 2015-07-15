@@ -1,0 +1,41 @@
+<!--
+<div id="fl">
+  <div id="fl_wrap"> <img style="position: absolute;left: 200px;top: 1px;" src="http://cdnpush.feiliu.com/uploadimage/papasanguostatic/images/papapa.jpg" />
+    <div id="fl_logo"><img src="http://cdnpush.feiliu.com/uploadimage/public/logo.png" /></div>
+    <div id="flgame">
+      <div id="fl_head">飞流游戏</div>
+      <div id="flgame_list_area">
+        <table id="flgame_list">
+          <tr>
+            <td><a href="http://dsg.feiliu.com" target="_blank" class="hot">斗三国</a></td>
+            <td><a href="http://papasg.feiliu.com" target="_blank" class="hot">啪啪三国</a></td>
+            <td><a href="http://xyq.feiliu.com" target="_blank" class="hot">悟空去哪儿</a></td>
+            <td><a href="http://woqu.feiliu.com" target="_blank" class="hot">我去西游</a></td>
+            <td><a href="http://ds.feiliu.com" target="_blank" >龙之召唤</a></td>
+            <td><a href="http://hlqk.feiliu.com" target="_blank" >火力全开</a></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+    window.onload = function(){
+        var $list = $('#flgame_list_area');
+        $('#flgame').hover(function(){
+            $list.stop(true,true).show();
+        },function(){
+            $list.stop(true,true).hide();
+        });
+    }
+</script>
+<div class="ttt">
+  <div class="gamelogo"><a href="http://tk.feiliu.com"><img src="http://js.feiliu.com/static/tk/web/images/gamelogo.png" /></a></div>
+  <div class="topnav"> 
+<a href="http://tk.feiliu.com" class="nave01"><img src="http://js.feiliu.com/static/tk/web/images/nav01.png" alt="官网首页" /></a> 
+<a href="http://tk.feiliu.com/list/list_tk_xsyd.shtml" class="nave02"><img src="http://js.feiliu.com/static/tk/web/images/nav02.png" alt="新手引导" /></a>
+ <a href="" class="nave03"><img src="http://js.feiliu.com/static/tk/web/images/nav03.png" alt="游戏资料"/></a> 
+<a href="http://tk.feiliu.com/list/list_tk_allcol.shtml" class="nave04"><img src="http://js.feiliu.com/static/tk/web/images/nav04.png" alt="新闻中心" /></a> 
+<a href="" class="nave05"><img src="http://js.feiliu.com/static/tk/web/images/nav05.png"  alt="官网论坛"/></a> 
+</div>
+</div>-->

@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>副本玩法 文章页 游戏资料 </title>
+<link href="http://js.feiliu.com/static/daxia/css/main.css?v=07171852" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+</head>
+
+<body class="inner">
+			<!--乱斗江湖内容页顶部模板start-->
+				<!--#include virtual="/list/index_daxia_header.shtml"-->
+			<!--乱斗江湖内容页顶部模板end-->
+<div class="bg1">
+			<!--乱斗江湖内容页顶部导航模板start-->
+				<!--#include virtual="/list/index_daxia_nav.shtml"-->
+			<!--乱斗江湖内容页顶部导航模板end-->
+</div>
+<div class="bg4">
+	<div class="wrap">
+			<!--乱斗江湖内容页左侧浮动框模板start-->
+				<!--#include virtual="/list/index_daxia_side.shtml"-->
+			<!--乱斗江湖内容页左侧浮动框模板end-->
+         <div class="main">
+<!--          	<div class="tab-header">
+            	<a class="tab-news tab-news-active" href="#"></a>
+                <a class="tab-res" href="#"></a>
+                <a class="tab-more" href="#">更多>></a>
+            </div> -->
+			<div class="maincon">
+				<div class="mailtop"></div>
+				<div class="maintxt article">         	
+	        		<h1>副本玩法</h1>
+	                <p><p class="MsoNormal" align="left">
+	副本战役<span>:</span>副本是最主要的闯关形式，每次成功通关都会消耗一定的体力，当玩家体力不足或未达到副本要求时不能进行副本操作。<span></span>
+</p>
+<p class="MsoNormal" align="left">
+	副本界面：<span></span>
+</p>
+<p class="MsoNormal" align="left">
+	<br />
+</p>
+<p class="MsoNormal" align="left">
+	副本会有探和闯<span>2</span>种玩法：探可以随机切开坛子，获得经验和银子。<span></span>
+</p>
+<p class="MsoNormal" align="left">
+</p>
+<p class="MsoNormal" align="left">
+	遇到守关的<span>boss</span>，就需要选择伙伴进行战斗。<span></span>
+</p>
+<p class="MsoNormal" align="left"><img width="554" height="367" src="file://C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg" />
+</p>
+<p class="MsoNormal" align="left"><img width="553" height="366" src="file://C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg" />
+</p>
+<p class="MsoNormal" align="left">
+	&nbsp;
+</p>
+<p class="MsoNormal" align="left">
+	战斗胜利：<span></span>
+</p>
+<p class="MsoNormal" align="left"><img width="554" height="372" src="file://C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg" />
+</p>
+<p class="MsoNormal" align="left" >
+	&nbsp;
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p></p>
+	            </div>
+	            <div class="mailbottom"><img src="http://js.feiliu.com/static/daxia/images/mailbottom.jpg" /></div>
+	        </div>
+        </div>
+    </div>
+</div>
+<div class="bg3">
+			<!--乱斗江湖内容页底部媒体合作模板start-->
+				<!--#include virtual="/list/index_daxia_mt.shtml"-->
+			<!--乱斗江湖内容页底部媒体合作模板end-->
+
+			<!--乱斗江湖内容页底部说明模板start-->
+				<!--#include virtual="/list/index_daxia_footer.shtml"-->
+			<!--乱斗江湖内容页底部说明模板end-->
+</div>
+</body>
+</html>

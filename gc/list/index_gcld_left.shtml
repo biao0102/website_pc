@@ -1,0 +1,40 @@
+<div class="left">
+                <ul class="btn_list">
+                    <li class="btn01"><a href="https://itunes.apple.com/cn/app/gong-cheng-e-de/id726652663?mt=8" >
+                        <img  id="down_ios" src="http://js.feiliu.com/static/flgc/images/btn01.jpg" alt=""/></a></li>
+                    <li class="btn02"><a href="http://gc.feiliu.com/download/yy.php" target="_blank">
+                        <img  id="down_yy" src="http://js.feiliu.com/static/flgc/images/btn02.jpg" alt=""/></a></li>
+                    <li class="btn03"><a href="http://gc.feiliu.com/download/android.php" target="_blank">
+                        <img  id="down_android" src="http://js.feiliu.com/static/flgc/images/btn03.jpg" alt=""/></a></li>
+                </ul>
+<div class="weixin_box">
+                    <div class="weixin_img">
+                        <img src="http://js.feiliu.com/static/flgc/images/qrcode_for_gh_6f61ac53e61a_258.gif" alt="">
+                    </div>
+                    <ul class="weixin_list">
+                        <li><a href="http://weibo.com/gongcld"><img src="http://js.feiliu.com/static/flgc/images/btn07.jpg"></a></li>
+                        <li><a href="http://t.qq.com/gongcld"><img src="http://js.feiliu.com/static/flgc/images/btn06.jpg"></a></li>
+                    </ul>
+                </div>
+                <ul class="btn_list2">
+                    <li class="btn01"><a href="http://bbs.8783.com/thread-39033-1-1.html" target="_blank">
+                        <img src="http://js.feiliu.com/static/flgc/images/btn04.jpg" alt=""/></a></li>
+                    <li class="btn02">
+                        <img src="http://js.feiliu.com/static/flgc/images/btn05.jpg" alt=""/></li>
+                </ul>
+                <!-- 健康游戏公告 -->
+                <div class="jkyxgg">
+                    <h1></h1>
+                    <ul>
+                        <li>抵制不良游戏</li>
+                        <li>拒绝盗版游戏</li>
+                        <li>注意自我保护</li>
+                        <li>谨防上当受骗</li>
+                        <li>适度游戏益脑</li>
+                        <li>沉迷游戏伤身</li>
+                        <li>合理安排时间</li>
+                        <li>享受健康生活</li>
+                    </ul>
+                </div>
+  </div>
+  

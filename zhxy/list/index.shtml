@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="战魂西游,战魂西游官网, 战魂西游下载,战魂西游攻略,战魂西游礼包,战魂西游安卓版, 战魂西游ios版" />
+    <meta name="description" content="战魂西游官网提供战魂西游下载,战魂西游攻略,ios安卓礼包发放。战魂西游是以西游记为题材的ARPG游戏,街机手动操作战斗,超爽快的动作打击效果,无限的动作连击以及角色多样化养成,在工作、学习的短暂闲暇中即可畅快游戏。" />
+<meta name="baidu-site-verification" content="i2T25XFo44" />
+    <title>《战魂西游》_战魂西游官网_下载_攻略_安卓iOS战魂西游礼包</title>
+    <link href="http://js.feiliu.com/static/zhxy/style/master.css?v=210" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://js.feiliu.com/static/zhxy/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/zhxy/js/zhxy.js"></script>
+
+</head>
+
+<body>
+	<div class="top">
+		<div class="top_main">
+			<img src="http://js.feiliu.com/static/zhxy/images/top.jpg" alt="" />
+		</div>
+	</div>
+	<div id="wrap" class="wrap">
+		<div class="content">
+			<div class="nav">
+				<!-- 主导航部分-->
+				<!--#include virtual="/list/index_nav_zhxy.shtml"-->
+				
+			</div>
+			<div class="header">
+				<!-- 主背景图片-->
+				<!--#include virtual="/list/index_bg_zhxy.shtml"-->
+				
+			</div>
+			<div class="main main_bg clearfix">
+				<div class="down">
+					<!-- 首页下载链接-->
+					<!--#include virtual="/list/index_download_zhxy.shtml"-->
+				</div>
+				<div class="main_m">
+					<div class="main_ml">
+						<!-- 首页左侧导航-->
+						<!--#include virtual="/list/index_left_nav_zhxy.shtml"-->
+					</div>
+					<div class="news">
+						<div class="news_nav" id="news_nav">
+							
+							<!--新闻公告部分-->
+							<!--#include virtual="/list/index_gg_nav_zhxy.shtml"-->
+						</div>
+						<span class="news_more"><a href="http://zhxy.feiliu.com/list/list_zhxy_latest.shtml" target="_blank" class="more"></a></span>
+						<div class="news_panes" id="news_panes">
+							<!--最新新闻-->
+							<!--#include virtual="/list/index_latest_zhxy.shtml"-->
+							<!--#include virtual="/list/index_news_list_zhxy.shtml"-->
+							<!--#include virtual="/list/index_gg_list_zhxy.shtml"-->
+							<!--#include virtual="/list/index_hd_list_zhxy.shtml"-->
+							
+						</div>
+					</div>
+					
+				</div>
+				<div class="main_b">
+					<!--联系方式-->
+					<!--#include virtual="/list/index_contact_zhxy.shtml"-->
+					<!--合作媒体-->
+					<!--#include virtual="/list/index_hzmt_zhxy.shtml"-->
+				</div>
+				<div class="bottom clearfix">
+					<p>About.us | Copy right@北京飞流九天科技有限公司</p>
+					<p>爱游戏，爱生活，也爱美女。</p>
+					<p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+					<p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+					<p>Love is love!</p>
+				</div>
+			</div>
+		</div>
+	</div>
+<div id="fix">
+	<img src="http://js.feiliu.com/static/zhxy/images/index/bgfixed.png" alt="" width="240px" height="420px">
+	<img class="ercode" src="http://js.feiliu.com/static/zhxy/images/index/qrcode.png?v=2" alt="" width="180px" height="180px">
+	<a href="#top" title="回到顶部"></a>
+</div>
+</body>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fb3799e49c6ba0236a9983ae3f30837b1' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>

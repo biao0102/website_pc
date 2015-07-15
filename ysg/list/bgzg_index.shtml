@@ -1,0 +1,63 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="wrap rel minwidth">
+	<!--<div class="toptiao"></div>-->
+		<div class="main rel">
+			<div class="logo asb"></div>
+			<div class="slogen asb"></div>
+
+		<!--首页视频模板开始--> 
+			<!--#include virtual="/list/bgzg_index_video.shtml"-->
+		<!--首页视频模板结束-->
+
+		<!--首页轮播图模板开始--> 
+			<!--#include virtual="/list/bgzg_index_lb.shtml"-->
+		<!--首页轮播图模板结束-->	
+
+		<!--首页下载模板开始--> 
+			<!--#include virtual="/list/bgzg_index_down.shtml"-->
+		<!--首页下载模板结束-->	
+
+		<!--首页资料论坛客服模板开始--> 
+			<!--#include virtual="/list/bgzg_index_bbs.shtml"-->
+		<!--首页资料论坛客服模板结束-->
+
+			<div class="bottomcon asb">	
+
+			<!--首页微博微信关注模板开始--> 
+				<!--#include virtual="/list/bgzg_index_guanzhu.shtml"-->
+			<!--首页微博微信关注模板结束-->
+
+			<!--首页栏目模板开始--> 
+				<!--#include virtual="/list/bgzg_index_col.shtml"-->
+			<!--首页栏目模板结束-->
+
+			<!--首页专题模板开始--> 
+				<!--#include virtual="/list/bgzg_index_zt.shtml"-->
+			<!--首页专题模板结束-->
+
+			<!--首页公共底部模板开始--> 
+				<!--#include virtual="/list/bgzg_index_hzmt.shtml"-->
+			<!--首页公共底部模板结束-->
+			</div>		
+		</div>
+
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+
+	</div>
+
+	<script type=text/javascript src="http://js.feiliu.com/static/bgzg/pc/js/jquery.min.js"></script>
+	<script type=text/javascript src="http://js.feiliu.com/static/bgzg/pc/js/public.js?v=2"></script>
+	<script>
+	$(".flu a").hover(function(){
+		$(this).next().show();
+	},function(){
+		$(this).next().hide();
+	});
+	</script>
+</body>
+</html>

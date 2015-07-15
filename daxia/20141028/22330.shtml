@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<title>更新公告20141030 文章页 公告 </title>
+<link href="http://js.feiliu.com/static/daxia/css/main.css?v=07171852" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+</head>
+
+<body class="inner">
+			<!--乱斗江湖内容页顶部模板start-->
+				<!--#include virtual="/list/index_daxia_header.shtml"-->
+			<!--乱斗江湖内容页顶部模板end-->
+<div class="bg1">
+			<!--乱斗江湖内容页顶部导航模板start-->
+				<!--#include virtual="/list/index_daxia_nav.shtml"-->
+			<!--乱斗江湖内容页顶部导航模板end-->
+</div>
+<div class="bg4">
+	<div class="wrap">
+			<!--乱斗江湖内容页左侧浮动框模板start-->
+				<!--#include virtual="/list/index_daxia_side.shtml"-->
+			<!--乱斗江湖内容页左侧浮动框模板end-->
+         <div class="main">
+<!--          	<div class="tab-header">
+            	<a class="tab-news tab-news-active" href="#"></a>
+                <a class="tab-res" href="#"></a>
+                <a class="tab-more" href="#">更多>></a>
+            </div> -->
+			<div class="maincon">
+				<div class="mailtop"></div>
+				<div class="maintxt article">         	
+	        		<h1>更新公告20141030</h1>
+	                <p><h4>
+	亲爱的玩家：<br />
+&nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp;为了给玩家更好的游戏体验，并不断丰富游戏内容。《大侠别嚣张》游戏将于2014年10月30日9点半-11点进行更新维护。更新后需下载更新包才能继续游戏，在此过程中如给大家带来不便，敬请谅解。<br />
+&nbsp; &nbsp;<br />
+【新增内容】<br />
+&nbsp;<br />
+1、魔教教务玩法，30级开放，处理魔教教务获得丰厚奖励。<br />
+<br />
+2、试炼场玩法-沙袋和尚，40级开放，玩家造成的伤害越高奖励也就越高。<br />
+<br />
+3、试炼场玩法-煞气大侠，40级开放，玩家持续的回合数越高奖励也就越高。<br />
+<br />
+&nbsp;&nbsp;<br />
+【调整内容】<br />
+&nbsp;<br />
+1、增加30天后的签到奖励，玩家将获得更多福利。<br />
+<br />
+2、升级体力调整，由原来的回满100体力变成赠送固定体力点数，赠送点数随等级提升而增加。<br />
+<br />
+3、金子回复体力调整为固定增加100点体力。<br />
+<br />
+4、体力超过500点后不能使用体力丹。<br />
+<br />
+5、论剑贴、闯关贴、掠夺调整收改成阶梯收费。<br />
+<br />
+6、玩家现在可以看到大侠、武功、装备的成长系数、潜力值。<br />
+&nbsp;<br />
+<br />
+【优化内容】<br />
+&nbsp;<br />
+1、道具购买成功后优化网络链接。<br />
+<br />
+2、累充活动活动显示优化。<br />
+<br />
+3、天牢积分兑换增加物品详情提示。<br />
+<br />
+4、新功能开启界面优化。<br />
+<br />
+5、预加载最新公告内容。<br />
+<br />
+6、优化好友添加失败的提示。<br />
+<br />
+【bug修正】<br />
+<br />
+1、修正了所有关卡通关、关卡进度的显示问题。<br />
+<br />
+欢迎加入官方交流QQ群（192947329）进行讨论！<br />
+&nbsp;
+</h4></p>
+	            </div>
+	            <div class="mailbottom"><img src="http://js.feiliu.com/static/daxia/images/mailbottom.jpg" /></div>
+	        </div>
+        </div>
+    </div>
+</div>
+<div class="bg3">
+			<!--乱斗江湖内容页底部媒体合作模板start-->
+				<!--#include virtual="/list/index_daxia_mt.shtml"-->
+			<!--乱斗江湖内容页底部媒体合作模板end-->
+
+			<!--乱斗江湖内容页底部说明模板start-->
+				<!--#include virtual="/list/index_daxia_footer.shtml"-->
+			<!--乱斗江湖内容页底部说明模板end-->
+</div>
+</body>
+</html>

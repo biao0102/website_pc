@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="UTF-8">
+<title>《碰你妹》游戏官网 -- 刘皇叔说：“猛戳这里可以迅速了解游戏！”_详情页</title> 
+<meta content="碰你妹,碰你妹官网,碰你妹下载" name="keywords">
+<meta content="" name="description">
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/pc/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/pnm/pc/js/js.js"></script>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/pnm/pc/css/news.css?v=10271666">
+</head>
+<body>
+<div class="wrap">
+	<div class="nav">
+		<div class="logo"></div>
+		<div class="nav_btn"></div>
+	</div>
+	<div class="focus">
+		<!--首页头部导航模板开始--> 
+		<!--#include virtual="/list/pnm_index_nav.shtml"-->
+		<!--首页头部导航模板结束-->
+	</div>
+	<div class="main">
+		<div class="left">
+			<div class="download">
+				<!--首页下载模板开始--> 
+				<!--#include virtual="/list/pnm_index_download.shtml"-->
+				<!--首页下载模板结束-->
+			</div>
+			<div class="forlum"><a href=""></a></div>
+			<!--列表页热门推荐模板开始--> 
+			<!--#include virtual="/list/pnm_list_hot.shtml"-->
+			<!--列表页热门推荐模板结束-->
+			<!--首页微信QQ模板开始--> 
+			<!--#include virtual="/list/pnm_index_weixin.shtml"-->
+			<!--首页微信QQ模板结束-->
+		</div>
+		<div class="right">
+			<div class="article">
+				<div class="art_top">
+					<div class="title"></div>
+				</div>
+				<div class="art_center">
+					<h2>刘皇叔说：“猛戳这里可以迅速了解游戏！”</h2>
+					<div class="share">
+						<span class="time">2014-10-27</span>
+						<span class="shareto">分享到：</span>
+						<div class="shr">
+							<div class="bdsharebuttonbox" data-bd-bind="1411120986130" style="dispaly: block; float:right; margin:-2px 210px 0 0;">
+								<a href="#" class="bds_more" data-cmd="more"></a>
+								<a title="分享到QQ空间" href="#" class="bds_qzone" data-cmd="qzone"></a>
+								<a title="分享到新浪微博" href="#" class="bds_tsina" data-cmd="tsina"></a>
+								<a title="分享到腾讯微博" href="#" class="bds_tqq" data-cmd="tqq"></a>
+								<a title="分享到人人网" href="#" class="bds_renren" data-cmd="renren"></a>
+								<a title="分享到微信" href="#" class="bds_weixin" data-cmd="weixin"></a>
+							</div>
+						</div>
+					</div>
+					<p>
+					<strong>玩法介绍</strong><br />
+单人副本：玩家自己出战3个武将，好友或者陌生人提供1个协助者作战。适合独行侠、网络不稳定、只能断断续续的玩等情形。<br />
+<br />
+多人副本：2-4人的联机战斗，奖励更为丰厚，适合网络稳定时间充裕的高玩。<br />
+<br />
+强化：提升武将的等级，高等级的武将战斗能力更强大<br />
+<br />
+进化：武将进化后，属性和技能都有所提升，等级上限也有所提高<br />
+<br />
+进阶：高品质武将可以通过进阶获得更为强大的力量<br />
+<br />
+招募：招募是快速获得武将的办法，友情招募有机会获得瑞兽玄武朱雀，元宝招募是获得稀有武将的捷径<br />
+<br />
+好友：使用好友作为协助者出战可以获得双倍的友情点数奖励，也可以通过邮件功能聊天<br />
+<br />
+月卡：月卡是性价比最高的消费方案，购买后立即获得300金元宝，立即可以每天领取120金元宝<br />
+<br />
+<strong>游戏技巧</strong><br />
+<br />
+1.武将分为反射和贯穿2种，反射的武将碰到怪物后会反弹，而贯穿的武将会直接穿透目标 <br />
+<br />
+2.buff分为恢复、加速、攻击、CD减少、路径展示5种 <br />
+<br />
+3.属性克制：火&gt;木&gt;水&gt;火,光暗互克,攻击怪物时优势方会有伤害加成，弱势方伤害会减少 <br />
+<br />
+4.主将副将怪物都有弱点，攻击弱点可以造成巨大的伤害 <br />
+<br />
+5.大部分武将拥有队长技能，合理的武将组合能战胜强大的敌人 <br />
+<br />
+6.指定回合之内击败敌方主将可以获得额外的宝箱奖励 <br />
+<br />
+7.强化和进化是提升武将实力的好方法<br />
+<br />
+8.虎、熊、马在强化的时候可以直接提升武将属性 <br />
+<br />
+9.部分怪物拥有一定的防御力，攻击型队伍和无视防御队伍比较适合对付它们 <br />
+<br />
+10.降临副本开放时间短，奖励丰厚 <br />
+<br />
+11.周常副本里掉落进化材料、银元宝(卖掉朱雀可以获得大量的银元宝) <br />
+<br />
+12.瑞兽玄武每天在中午和晚上出现，它们提供大量的武将经验值 <br />
+<br />
+13.敌人有时候会狂暴，优先击杀狂暴的敌人是个好主意 <br />
+<br />
+14.提升自身等级可以提升体力上限和好友上限 <br />
+<br />
+15.收藏你喜爱的武将，可以防止不小心出售或者强化时被吃掉 <br />
+<br />
+16.除了大灵石，进化材料是可以向上合成的，龙珠也可以通过合成获得 <br />
+<br />
+17.盾牌保护着boss的弱点，带破盾队长技能的武将是它们的克星 <br />
+<br />
+18.重力能减缓武将移动速度，带反重力队长技能的武将是它们的克星<br />
+<br />
+19.火墙伤害很致命，带无视火墙队长技能的武将是它们的克星 <br />
+<br />
+20.坚持连续登陆游戏可以获得不错的奖励 <br />
+<br />
+21.注意：只有同名的武将强化时才能转移"+"值 <br />
+<br />
+22.武将等级达到上限才能进化<br />
+<br />
+23.大部分品质较高的武将可以通过进阶提升属性，平时注意收集进阶所需的材料吧<br />
+<br />
+24.谋士型武将友情技能威力大，攻击型武将友情技能威力小<br />
+<br />
+25.强化时吃掉同属性的武将可以提供更多的经验值<br />
+<br />
+<br />
+《碰你妹》运营团队<br />
+					</p>
+				</div>
+				<div class="art_bottom"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--首页公共底部版权模板开始--> 
+<!--#include virtual="/list/pnm_index_footer.shtml"-->
+<!--首页公共底部版权模板结束-->
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</body>
+</html>

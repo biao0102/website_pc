@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网 下载页</title>
+    <meta name="keywords" content="三国战神，三国战神官网， 三国战神下载，三国战神礼包，三国战神攻略，三国战神安卓版， 三国战神ios版，三国战神手游" />
+    <meta name="description" content="《三国战神》基于U3D引擎开发，是一款真3D硬派PK网游，以大众熟知的三国题材为背景，通过国际化顶级标准的唯美中国风游戏画面，华丽的全屏3D绝技，随意变身三国名将“战魂”系统等特色，将每一个参与游戏的玩家深深带入其中，尤其对于曾经的剑侠、传奇、征途类游戏玩家来说，将深刻感受到相识的酷爽感觉。对于没有太多时间的端游老玩家来说，绝对能勾起美好的回忆，倍感惬意" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/download.css">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time","section"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+
+<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+  <div class="showbg"> <img src="http://js.feiliu.com/static/zs/images/dwd_oyimg_01.jpg"> <img src="http://js.feiliu.com/static/zs//images/dwd_oyimg_02.jpg"> <img src="http://js.feiliu.com/static/zs/images/dwd_oyimg_03.jpg"> <img src="http://js.feiliu.com/static/zs/images/dwd_rturn.jpg" usemap="#Map">
+    <map name="Map">
+      <area shape="rect" coords="422,28,582,83" href="http://zs.feiliu.com/list/index_zs.shtml">
+    </map>
+  <img src="http://js.feiliu.com/static/zs/images/dwd_btn.jpg" usemap="#Map2">
+  <map name="Map2">
+    <area shape="rect" coords="158,58,422,147" href="#">
+    <area shape="rect" coords="562,52,826,151" href="http://zs.feiliu.com/count/download.php?cid=300021&type=2
+">
+  </map>
+  </div>
+  <div class="dwdMain">
+  	<ul class="dwd-des fios">
+    	<li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+        <li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+        <li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+    </ul>
+    <ul class="dwd-des fyueyu">
+    	<li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+        <li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+        <li>·<a href="#">根据设备系统，选择对应择对应的客户端版本</a></li>
+    </ul>
+    <div class="dwd-ewm eios"><img src="http://i0.feiliu.com/201405/d9/d9622ae78edf1df3d4dd277ce2d94247.jpg"></div>
+    <div class="dwd-ewm efyueyu"><img src="http://i0.feiliu.com/201405/10/10da75bf88e2cfa0f2bcb46ca84832a0.png"></div>
+  </div>
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+</div>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        		</div>
+	    			<div class="infotitle">武将职业自由切换 三国名将玩味无穷</div>
+		        	<div class="textTime">2014-10-20</div>
+		    		<div class="article">
+						<p style="text-indent:2em;">
+	三国时代的名将可是身兼数职，例如关羽就是武力、策略、智慧都超群的传奇。《<span >就是要三国</span>》纯正还原三国历史，创新性地赋予游戏中每位将领帅、将、谋三大职业让玩家可以自由切换。武将担任帅时，可以将行动点分配给将、谋，而将和谋则将使用行动点发出不同的技能。自由搭配将领阵容、自由选择将领职业，在给玩家更灵活丰富的游戏体验同时，也大幅提升游戏耐玩度。
+</p>
+<div style="text-align:center;">
+	<br />
+</div>
+<p>
+	<br />
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

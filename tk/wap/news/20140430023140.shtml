@@ -1,0 +1,36 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>战地坦克</title>
+	<meta name="keywords" content="战地坦克" />
+	<meta name="description" content="战地坦克" />
+	<meta name="format-detection" content="telephone=no"/>
+	<meta name="format-detection" content="address=no"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/tk/wap0506/css/style.css">
+</head>
+<body>
+	<div class="wrap">
+		<section class="newscon" id="top">
+			<h2 class="subh2">
+				新闻			
+				<a href="javascript:history.go(-1);" class="backto">返回</a>
+			</h2>
+			<div id="thegame">
+				<h2>坦克配件系统说明公告</h2>
+				<img src="http://i0.feiliu.com/image/20140430/20140430142805_64451.jpg" alt="" /><br />
+亲爱的战友们在即将到来的5.1期间我们推出了，最强火力加持装备系统，让广大的战友们战力飙升，打爆一切。<br /><img src="http://i0.feiliu.com/image/20140430/20140430142843_50274.jpg" alt="" /><br />
+<span></span><span>尊敬的指挥官：您好！ 当您的等级达到8级时，配件系统会自动开启。配件可分别用于给四类坦克（坦克、歼击车、自行火炮、火箭车）提升自身的属性。 1、如何获取配件：跟随配件系统开启的是补给线关卡，玩家伏击补给线关卡中的敌军，将会有100%的几率掉落配件和改造配件需要的材料。 2、如何使用配件：只要在配件界面中选择一类坦克中的配件部位，便会自动装配上配件仓库中属性最好的配件，操作简单一键完成。 3、如何升级配件：配件可进行强化和改造，强化仅需要水晶即可，强化等级的提升能带来属性的增长；而改造需要的材料非常丰富，如同自己亲手设计进行操作一般，改造带来的属性变化更加惊人。 4、分解无用的配件：每种配件只能挂载一个，多余的配件可以分解成改造材料，用来对最好的那个配件进行改造。<br /><img src="http://i0.feiliu.com/image/20140430/20140430143019_41899.png" alt="" /><br />
+<br /><img src="http://i0.feiliu.com/image/20140430/20140430143136_46831.jpg" alt="" /><br />
+<span >如此强大的阵容你还等什么，快来打副本那装备吧！</span></span>
+			</div>
+		</section>	
+		<section class="bottom">
+			<div class="bottom_sm">
+				<p>版权所有©北京飞流九天科技有限公司 2009-2013 </p>
+			</div>
+		</section>
+	</div>
+</body>
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="article-header">
+                    	<h1>《战魂西游》7月15日11点内测火爆开启</h1>
+                        <span>2014-07-14</span>
+                    </div>
+                    <div class="article-content">
+                        <p class="MsoNormal">
+	<br />
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	《战魂西游》2014年最热血的格斗网游不删档内测火爆开启！炫丽流畅的连招，震撼真实的打击，群雄争霸的登天路，强强对决的仙门斗法，众多独特游戏系统，编织起一个梦幻般的西游世界！还有一系列精彩活动，邀您来加入！
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	经历了两次删档封测，在大家的关注下不断优化、更新、解决问题！每一次的努力，只为了给玩家更好的体验，呈现更精彩的《战魂西游》！
+</p>
+<div style="text-align:center;">
+	<span ></span><img src="http://i0.feiliu.com/image/20140715/20140715175629_91492.jpg" alt=""  />
+</div>
+<p>
+	<br />
+</p>
+<h4 style="vertical-align:baseline;">
+	一、内测开服时间：2014年7月15日11:00
+</h4>
+<h4 style="vertical-align:baseline;">
+	二、内测新服服务器名称：S1 -【斗战圣佛】、X1 - 【灵猴问世】
+</h4>
+<h4 style="vertical-align:baseline;">
+	三、内测活动：<a href="http://zhxy.feiliu.com/20140715/21335.shtml" target="_blank">http://zhxy.feiliu.com/20140715/21335.shtml</a>
+</h4>
+<h4 style="vertical-align:baseline;">
+	四、精彩内容：
+</h4>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	1.开放充值功能，首充双倍以及首充超值礼包。
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	2.全面优化游戏运行速度和画面体验。
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	3.全新功能通天塔火热上线。
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	4.开放更多丰富的活动。
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	5.修复封测期间存在的BUG。
+</p>
+<div style="text-align:center;">
+	<span ></span><img src="http://i0.feiliu.com/image/20140715/20140715175727_28254.jpg" alt=""  />
+</div>
+<p>
+	<br />
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	《战魂西游》官网网址：<a href="http://zhxy.feiliu.com/" target="_blank">http://zhxy.feiliu.com/</a> 
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	《战魂西游》官方论坛：<a href="http://bbs.8783.com/forum-90-1.html" target="_blank">http://bbs.8783.com/forum-90-1.html</a> 
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	《战魂西游》官方iOS群：363153854
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	《战魂西游》官方Android群：234643062
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	微信服务号：ZHXYOL
+</p>
+<div style="text-align:left;"><img src="http://i0.feiliu.com/image/20140715/20140715175814_71092.jpg" alt=""  />
+</div>
+<p>
+	<br />
+</p>
+<p class="MsoNormal" align="left" style="vertical-align:baseline;">
+	<span>官方媒体礼包领取：<a href="http://bbs.8783.com/thread-54248-1-1.html" target="_blank">http://bbs.8783.com/thread-54248-1-1.html</a></span> 
+</p>
+<p>
+	<br />
+</p>
+                    </div>
+                </div>
+            </div>
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+</html>

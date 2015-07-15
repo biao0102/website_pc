@@ -1,0 +1,51 @@
+<!--头部公共文件模块开始-->
+	<!--#include virtual="/list/abc_index_topfile.shtml"-->
+<!--头部公共文件模块结束-->
+<body>
+<div class="wrap minwidth rel">
+	<!--公共导航模块开始-->
+		<!--#include virtual="/list/abc_index_nav.shtml"-->
+	<!--公共导航模块结束-->
+	<div class="contain minwidth rel">
+		<div class="con920">
+			<div class="subtop rel">
+				<img src="http://js.feiliu.com/static/abc/web/images/zhu.png" alt="" class="zhu asb">
+				<img src="http://js.feiliu.com/static/abc/web/images/subtitle03.jpg" alt="" class="st00 asb">
+			</div>
+			<div class="subline">
+					<div class="gamepiccon">
+						<a rel="video" class="vdo" target="_blank"><img rel="video"  style="cursor:pointer;" video="http://player.youku.com/player.php/sid/XNzk5OTMwOTY0/v.swf" vw = "250" vh = "210" src="http://js.feiliu.com/gameimg/abs/20150319100221.jpg"></a>
+						<a rel="video" class="vdo" target="_blank"><img rel="video"  style="cursor:pointer;" video="http://player.youku.com/player.php/sid/XNzM1MzQyNzA0/v.swf" vw = "250" vh = "210" src="http://js.feiliu.com/gameimg/abs/20150319100244.jpg"></a>
+						<a rel="video" class="vdo" target="_blank"><img rel="video"  style="cursor:pointer;" video="http://player.youku.com/player.php/sid/XMzYyNzMxNjA4/v.swf" vw = "250" vh = "210" src="http://js.feiliu.com/gameimg/abs/20150319100257.jpg"></a>
+						<a rel="video" class="vdo" target="_blank"><img rel="video"  style="cursor:pointer;" video="http://player.youku.com/player.php/sid/XNDIzMTExOTgw/v.swf" vw = "250" vh = "210" src="http://js.feiliu.com/gameimg/abs/20150319100311.jpg"></a>
+						<a rel="video" class="vdo" target="_blank"><img rel="video"  style="cursor:pointer;" video="http://player.youku.com/player.php/sid/XNTU1NDYzOTM2/v.swf" vw = "250" vh = "210" src="http://js.feiliu.com/gameimg/abs/20150319100323.jpg"></a>
+						<a rel="video" class="vdo" target="_blank"><img rel="video"  style="cursor:pointer;" video="http://player.youku.com/player.php/sid/XNTczNDg5MDcy/v.swf" vw = "250" vh = "210" src="http://js.feiliu.com/gameimg/abs/20150319100334.jpg"></a>
+					<!-- 
+						<div class="subpages spm">
+						 	<a href="">首页</a> 
+						 	<a href="" class="cur">1</a>
+						 	<a href="">2</a>
+						 	<a href="">3</a>
+						 	<a href="">4</a>
+						 	<a href="">5</a>
+						 	<a href="">6</a>
+						 	<a href="">末页</a>
+					 	</div>
+					-->	
+					</div>     
+			</div>
+			<div class="subbottom"></div>
+		</div>
+		<!--底部公共模块开始-->
+			<!--#include virtual="/list/abc_index_foot.shtml"-->
+		<!--底部公共模块结束-->
+	</div>
+</div>
+<!--右侧漂浮模块开始-->
+	<!--#include virtual="/list/abc_index_float.shtml"-->
+<!--右侧漂浮模块结束-->
+<!--底部公共js文件模块开始-->
+	<!--#include virtual="/list/abc_index_jsfile.shtml"-->
+<!--底部公共js文件模块结束-->
+</body>
+</html>

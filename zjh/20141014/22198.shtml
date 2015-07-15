@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>运镖天下_游戏攻略_最江湖官方网站</title>
+<link href="http://js.feiliu.com/static/zjh/web/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zjh/web/js/public.js"></script>
+</head>
+<body>
+<!--最江湖公共浮动窗口模板start-->
+  <!--#include virtual="/list/index_zjh_float.shtml"-->
+<!--最江湖公共浮动窗口模板end-->
+<!--最江湖公共头部飞流链接模板start-->
+  <!--#include virtual="/list/index_zjh_fllink.shtml"-->
+<!--最江湖公共头部飞流链接模板end-->
+<!--最江湖首页头部导航模板start-->
+  <!--#include virtual="/list/index_zjh_nav.shtml"-->
+<!--最江湖首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+        <!--最江湖列表页左侧下载模板start-->
+          <!--#include virtual="/list/list_zjh_down.shtml"-->
+        <!--最江湖列表页左侧下载模板end-->
+        <!--最江湖列表页游戏资料模板start-->
+          <!--#include virtual="/list/list_zjh_zlmenu.shtml"-->
+        <!--最江湖列表页游戏资料模板end-->
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2><img src="http://js.feiliu.com/static/zjh/web/images/stop.jpg"  alt="新闻"/></h2>
+          </div>
+          <div class="clear"></div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle" style="color:#704e33;">运镖天下</div>
+              <div class="textTime"><span style="float:left; color:#393939; width:80px; padding-left:90px;">2014-10-14 19:17:03</span><span style="width:380px; float:right; padding-top:10px">
+                <div class="bshare-custom"><a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到人人网" class="bshare-renren"></a><a title="分享到腾讯微博" class="bshare-qqmb"></a><a title="分享到网易微博" class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+                <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span></div>
+                <p></p>
+                <h1 style="margin-bottom:0pt;margin-top:0pt;text-align:center;">
+	运镖天下<o:p></o:p>
+</h1>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	等级达到50级后，开启运镖功能，每人每天可以进行一次运镖。<o:p></o:p>
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	运镖前需要选择一辆镖车，由于每日运镖前需要交纳一定的押金，若您的镖车在途中被其他玩家劫走，押金可是不退还的哦，所以您在选择镖车时一定要量力而行，如果实力差就选个耐久度高的镖车吧！<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;"><img src="http://i0.feiliu.com/image/20141014/20141014191613_86140.png" width="360" height="240" alt="" />&nbsp;
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	等级越高，运镖任务所需穿越的片区就越多。如50级时的运镖任务只需要在穿过黑风林即可。<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;"><img src="http://i0.feiliu.com/image/20141014/20141014191624_85234.png" width="360" height="240" alt="" />&nbsp;
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	进入运镖任务地图后，带领镖车一路向右走，小心被其他玩家劫镖哦！<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;"><img src="http://i0.feiliu.com/image/20141014/20141014191633_75402.png" width="360" height="240" alt="" />&nbsp;
+</p>
+<p class="p0" style="text-indent:21.0000pt;margin-bottom:0pt;margin-top:0pt;">
+	将镖车交给镖头即可获得奖励，然后就可以回城了。如果是需要运镖到其他地图，需要进入右侧的传送阵进入下一地图，穿越后提交走镖任务。<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;"><img src="http://i0.feiliu.com/image/20141014/20141014191642_84060.png" width="360" height="240" alt="" />&nbsp;
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;">
+	提交运镖任务后，玩家和上阵的侠客均可获得大量的经验奖励，经验跟等级挂钩。此外，还可以获得银两奖励，接取任务时的100元宝押金也将退还给您。<o:p></o:p>
+</p>
+<p class="p0" style="margin-bottom:0pt;margin-top:0pt;"><img src="http://i0.feiliu.com/image/20141014/20141014191654_39809.png" width="360" height="240" alt="" />&nbsp;
+</p> 
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/zjh/web/images/subbt.jpg" /></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!--最江湖列表页底部模板start-->
+      <!--#include virtual="/list/list_zjh_foot.shtml"-->
+    <!--最江湖列表页底部模板end-->
+</body>
+</html>

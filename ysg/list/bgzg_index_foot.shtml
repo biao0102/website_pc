@@ -1,0 +1,16 @@
+		<div class="footer">
+			<div class="foottxt">
+				<span class="feiliu_logo"><img src="http://js.feiliu.com/static/bgzg/pc/images/feiliu_logo.png" alt=""></span>
+				<span class="company_txt01">
+					版权所有©北京飞流九天科技有限公司 2009-2013<br />
+					京ICP证101164号 京ICP备09095411号
+				</span>
+				<span class="company_txt02">
+					京网文[2012]0293-085号<br />
+					增值电信业务经营许可证：京B2-20100093
+				</span>
+			</div>
+			<div style="display:none;">
+				<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253419187'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s6.cnzz.com/stat.php%3Fid%3D1253419187' type='text/javascript'%3E%3C/script%3E"));</script>
+			</div>
+		</div>

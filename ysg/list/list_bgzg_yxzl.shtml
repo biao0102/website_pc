@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>《报告主公》 游戏资料列表页</title>
+    <meta name="keywords" content="报告主公，报告主公官网，报告主公下载，报告主公礼包，报告主公攻略，报告主公安卓版，报告主公ios版，报告主公手游" />
+    <meta name="description" content="《报告主公》根据历史为玩家提供了魏、蜀、吴三国阵营选择，在选择其中一个阵营后，游戏便会自动将玩家分配至相应的国家地图，玩家则需要一步步通关历史上真实发生的各种经典战役，统一自己的属地。" />
+<link href="http://js.feiliu.com/static/bgzg/web/css/index.css?v=6" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/bgzg/web/scripts/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/bgzg/web/scripts/jquery.jslides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/bgzg/web/scripts/public.js?v=5"></script>
+</head>
+<body>
+<div class="contain fltt">
+      <!--首页左侧浮动框模板开始--> 
+        <!--#include virtual="/list/index_bgzg_float.shtml"-->
+      <!--首页左侧浮动框模板结束-->
+  <div class="head minwidth">
+    <div class="headcon">
+      <div class="glogo fltt"></div>
+      <div style="clear:both"></div>
+      <!--首页头部导航模板开始--> 
+        <!--#include virtual="/list/index_bgzg_nav.shtml"-->
+      <!--首页头部导航模板结束-->
+      <div style="clear:both"></div>
+      <!--首页轮播图模板开始--> 
+        <!--#include virtual="/list/index_bgzg_lb.shtml"-->
+      <!--首页轮播图模板结束-->
+    </div>
+  </div>
+  <div class="con1000">
+    <!--box01 -->
+    <div class="box011 fltt rel">
+      <div class="subnews  fltt">
+        <h2><span class="txt01">游戏资料</span>
+          <!--span class="txt02"><a href="">More</a></span-->
+        </h2>
+        <div class="subnewsccon">
+          <ul>
+              
+              
+            <li><a href="http://ysg.feiliu.com/20150113/23003.shtml" target="_blank">《就是要三国》签到系统</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/23002.shtml" target="_blank">《就是要三国》活动系统</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/23001.shtml" target="_blank">《就是要三国》邮件系统</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/23000.shtml" target="_blank">《就是要三国》兵科系统</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/22999.shtml" target="_blank">《就是要三国》集市商店</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/22998.shtml" target="_blank">《就是要三国》功勋商店</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/22997.shtml" target="_blank">《就是要三国》任务系统</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/22996.shtml" target="_blank">《就是要三国》御龙旗系统</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/22995.shtml" target="_blank">《就是要三国》排名系统</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/22994.shtml" target="_blank">《就是要三国》官位系统</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/22993.shtml" target="_blank">《就是要三国》讨伐系统</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/22991.shtml" target="_blank">《就是要三国》战场之山寨系统</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/22990.shtml" target="_blank">《就是要三国》战场之城池系统</a><span class="date">2015-01-13</span></li>
+              
+            <li><a href="http://ysg.feiliu.com/20150113/22989.shtml" target="_blank">《就是要三国》战役系统</a><span class="date">2015-01-13</span></li>
+                      </ul>
+        </div>
+      </div>
+      <!--
+      <div class="subpages fltt ">
+        <a href="">上一页</a> 
+        <a href="">1</a> 
+        <a href="">2</a> 
+        <a href="">3</a> 
+        <a href="">下一页</a>
+      </div>
+      -->
+      <img src="http://js.feiliu.com/static/bgzg/web/images/bottom.jpg" width="960" height="4" /> </div>
+    <!--box01 -->
+    <div class="box02 fltt">
+      <!--首页微信客服模板开始--> 
+        <!--#include virtual="/list/index_bgzg_kf.shtml"-->
+      <!--首页微信客服模板结束-->
+      <!--首页合作媒体模板开始--> 
+        <!--#include virtual="/list/index_bgzg_hzmt.shtml"-->
+      <!--首页合作媒体模板结束-->
+    </div>
+      <!--首页底部版权模板开始--> 
+        <!--#include virtual="/list/index_bgzg_foot.shtml"-->
+      <!--首页底部版权模板结束-->
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,440 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>龙骑战歌官方网站</title> 
+    <meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+    <meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<link href="http://js.feiliu.com/static/lqzg/web0525/css/index.css?v=4" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/slides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/index.js?v=1"></script>
+<script>
+        function getArgs()
+        {
+            var argsArr = new Object();
+            var query = window.location.search;  
+            query = query.substring(1);
+            var pairs = query.split("&");
+            for(var i=0;i<pairs.length;i++)
+            {
+                var sign = pairs[i].indexOf("="); 
+                if(sign == -1)
+                {
+                    continue; 
+                }
+                var aKey = pairs[i].substring(0,sign);
+                var aValue = pairs[i].substring(sign+1);         
+                argsArr[aKey] = unescape(aValue);
+
+            }
+            return argsArr;
+        }
+
+        var param = new Object();
+        param = getArgs();
+        var source = param.s;
+
+        if(!source)
+        {
+            source = '300021';
+        }
+
+
+		function isMobile(args) {
+			var sUserAgent= navigator.userAgent.toLowerCase();
+			var bIsIpad= sUserAgent.match(/ipad/i) == "ipad";
+			var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsMidp= sUserAgent.match(/midp/i) == "midp";
+			var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+			var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb";
+			var bIsAndroid= sUserAgent.match(/android/i) == "android";
+			var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce";
+			var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile";
+			if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) 
+			{
+				window.location.href= 'http://lqzg.feiliu.com/wap/list/index.shtml?s='+source;
+			}
+		}
+		isMobile();
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
+<body>
+
+<div class="page">
+    <div class="nav">
+    <div class="nav-con">
+        <a href="http://lqzg.feiliu.com/index.shtml"><img src="http://js.feiliu.com/static/lqzg/web0525/images/logo.png" alt="logo" class="logo" /></a>
+        <ul>
+            <li><a href="http://lqzg.feiliu.com/web/list/home.shtml">首页</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml">新闻公告</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/index.shtml">玩法特色</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/notice.shtml">职业介绍</a></li>
+            <li><a href="javascript:alert('敬请期待');">游戏活动</a></li>
+            <li><a href="http://bbs.8783.com/forum-178-1.html">论坛</a></li>
+        </ul>
+    </div>
+</div>
+
+
+    <div class="header">
+        <div class="header-con">
+            <div class="video" data-src="http://v.qq.com/iframe/player.html?vid=c0151ynro6a&tiny=0"></div>
+            <div class="d-code">
+                <img src="http://js.feiliu.com/gameimg/lqzg/20150526115702.png" alt="d-code" />
+                <ul>
+                    <li class="ios-link"><a href="javascript:;" onclick="alert('敬请期待！');"></a></li>
+                    <li class="android-link"><a href="http://lqzg.feiliu.com/download?cid=300021&type=5"></a></li>
+                    <li class="raiders-link"><a href="javascript:;"  onclick="alert('敬请期待！');"></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="banner-news">
+        <div class="banner-news-con">
+            <div class="banner">
+                <ul id="banner">
+                                                            <li><a href="javascript:void(0);" ><img src="http://js.feiliu.com/gameimg/lqzg/20150526160226.jpg" alt="1"/></a></li>                       
+                                        <li><a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml" target="_blank"><img src="http://js.feiliu.com/gameimg/lqzg/20150526121411.jpg" alt="2"/></a></li>                       
+                                        <li><a href="https://jinshuju.net/f/9tA5qh" target="_blank"><img src="http://js.feiliu.com/gameimg/lqzg/20150415185257.jpg" alt="3"/></a></li>                       
+                                                        </ul>
+                <div id="navContainer"></div>
+            </div>
+            <div class="news-bg"></div>
+            <div class="news">
+                <div class="news-nav">
+                    <ul>
+                        <li class="current"><a href="http://lqzg.feiliu.com/web/list/newslist.shtml">最新</a></li>
+                        <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml?t=2">新闻</a></li>
+                        <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml?t=4">公告</a></li>
+                        <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml?t=5">资讯</a></li>
+                        <li class="more"><a href="http://lqzg.feiliu.com/web/list/newslist.shtml" target="_blank">&nbsp;</a></li>
+                    </ul>
+                </div>
+                <div class="news-box" style="display:block;">
+                                                            <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150604175230.shtml" target="_blank">【新闻】 超嗲！GTV美女主播小陌解说《...</a></dt>
+                        <dd>06/04</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150604174712.shtml" target="_blank">【新闻】 《龙骑战歌》装备系统完全解析...</a></dt>
+                        <dd>06/04</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150526180744.shtml" target="_blank">【新闻】 《龙骑战歌》携手WCA电竞世界...</a></dt>
+                        <dd>05/26</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml" target="_blank">【新闻】 《龙骑战歌》今日震撼内测携手滴...</a></dt>
+                        <dd>05/26</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150525180254.shtml" target="_blank">【新闻】 竞技级手游蓄势待发...</a></dt>
+                        <dd>05/25</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150521180002.shtml" target="_blank">【新闻】 2015中重度手游被看好...</a></dt>
+                        <dd>05/21</dd>
+                    </dl>                    
+                                                        </div>
+                <div class="news-box">
+                                                            <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150604175230.shtml" target="_blank">【新闻】 超嗲！GTV美女主播小陌解说《...</a></dt>
+                        <dd>06/04</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150604174712.shtml" target="_blank">【新闻】 《龙骑战歌》装备系统完全解析...</a></dt>
+                        <dd>06/04</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150526180744.shtml" target="_blank">【新闻】 《龙骑战歌》携手WCA电竞世界...</a></dt>
+                        <dd>05/26</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml" target="_blank">【新闻】 《龙骑战歌》今日震撼内测携手滴...</a></dt>
+                        <dd>05/26</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150525180254.shtml" target="_blank">【新闻】 竞技级手游蓄势待发...</a></dt>
+                        <dd>05/25</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150521180002.shtml" target="_blank">【新闻】 2015中重度手游被看好...</a></dt>
+                        <dd>05/21</dd>
+                    </dl>                    
+                                                        </div>
+                <div class="news-box">
+                                                            <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150412194911.shtml" target="_blank">【公告】 《龙骑战歌》先锋体验深圳站...</a></dt>
+                        <dd>04/12</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150401194525.shtml" target="_blank">【公告】 《龙骑战歌》先锋体验北京站将启...</a></dt>
+                        <dd>04/01</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150202192349.shtml" target="_blank">【公告】 《龙骑战歌》种族猜想：人兽大战...</a></dt>
+                        <dd>02/02</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20140813175240.shtml" target="_blank">【公告】 《龙骑战歌》探秘系列三：创亿计...</a></dt>
+                        <dd>08/13</dd>
+                    </dl>                    
+                                                        </div>
+                <div class="news-box">
+                                                            <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150520175858.shtml" target="_blank">【资讯】 复仇者手游联盟：它们是重度手游...</a></dt>
+                        <dd>05/20</dd>
+                    </dl>                    
+                                        <dl>
+                        <dt><a href="http://lqzg.feiliu.com/web/news/20150515175114.shtml" target="_blank">【资讯】 评测：《龙骑战歌》亿元打造中国...</a></dt>
+                        <dd>05/15</dd>
+                    </dl>                    
+                                                        </div>
+            </div>
+        </div>
+    </div>
+    <div class="profession">
+        <div class="profession-con">
+            <div class="profession-left">
+                <h5>职业展示</h5>
+                <div class="profession-bg"></div>
+                <ul>
+                    <li class="current">圣武士</li>
+                    <li>狂战士</li>
+                    <li>刺客</li>
+                    <li>法师</li>
+                </ul>
+                <div class="profession-box">
+                    <div class="sws profession-style">
+                        <div>
+                            <p><strong>角色名：</strong>埃文尼·普利司通</p>
+                            <p><strong>职业：</strong>圣武士</p>
+                            <p><strong>武器：</strong>双手剑/神圣法术</p>
+                            <p><strong>种族：</strong>人类</p>
+                            <p><strong>操作难易度：</strong>★★★☆</p>
+                            <a href="http://lqzg.feiliu.com/web/list/hero01.shtml" target="_blank">查看更多</a>
+                        </div>
+                        <span></span>
+                    </div>
+                    <div class="kzs profession-style">
+                        <div>
+                            <p><strong>角色名：</strong>埃文尼·普利司通</p>
+                            <p><strong>职业：</strong>狂战士</p>
+                            <p><strong>武器：</strong>双手剑/神圣法术</p>
+                            <p><strong>种族：</strong>人类</p>
+                            <p><strong>操作难易度：</strong>★★★☆</p>
+                            <a href="http://lqzg.feiliu.com/web/list/hero02.shtml" target="_blank">查看更多</a>
+                        </div>
+                        <span></span>
+                    </div>
+                    <div class="ck profession-style">
+                        <div>
+                            <p><strong>角色名：</strong>埃文尼·普利司通</p>
+                            <p><strong>职业：</strong>刺客</p>
+                            <p><strong>武器：</strong>双手剑/神圣法术</p>
+                            <p><strong>种族：</strong>人类</p>
+                            <p><strong>操作难易度：</strong>★★★☆</p>
+                            <a href="http://lqzg.feiliu.com/web/list/hero03.shtml" target="_blank">查看更多</a>
+                        </div>
+                        <span></span>
+                    </div>
+                    <div class="fs profession-style">
+                        <div>
+                            <p><strong>角色名：</strong>埃文尼·普利司通</p>
+                            <p><strong>职业：</strong>法师</p>
+                            <p><strong>武器：</strong>双手剑/神圣法术</p>
+                            <p><strong>种族：</strong>人类</p>
+                            <p><strong>操作难易度：</strong>★★★☆</p>
+                            <a href="http://lqzg.feiliu.com/web/list/hero04.shtml" target="_blank">查看更多</a>
+                        </div>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+            <div class="profession-right">
+                <a href="javascript:;"   onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114758.jpg" alt="" /></a>
+                <a href="javascript:;"   onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114939.jpg" alt="" /></a>
+                <a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150526115157.jpg" alt="" /></a>
+            </div>
+        </div>
+    </div>
+    <div class="game-data">
+        <div class="game-data-con">
+            <h5>游戏资料</h5>
+            <ul>
+                <li class="zn">
+                    <a href="javascript:;"  onclick="alert('敬请期待！');"><span>新手指南</span></a>
+                </li>
+                <li class="gl">
+                    <a href="javascript:;"  onclick="alert('敬请期待！');"><span>游戏攻略</span></a>
+                </li>
+                <li class="jn">
+                    <a href="javascript:;"  onclick="alert('敬请期待！');"><span>技能展示</span></a>
+                </li>
+                <li class="fb">
+                    <a href="javascript:;"  onclick="alert('敬请期待！');"><span>副本展示</span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="game-img">
+        <div class="game-img-con">
+            <h5><span>游戏美图</span><a href="javascript:void(0);"></a></h5>
+            <div>
+                <a href="javascript:;" data-src="http://v.qq.com/iframe/player.html?vid=c0151ynro6a&tiny=0"><img src="http://js.feiliu.com/gameimg/lqzg/20150526151103.png" /></a>
+                <ul>
+                    <li><a href="javascript:void(0);" data-src="http://v.qq.com/iframe/player.html?vid=w0151himd7g&tiny=0"><img src="http://js.feiliu.com/gameimg/lqzg/20150526151136.png" /></a></li>
+                    <li><a href="javascript:void(0);" data-src="http://v.qq.com/iframe/player.html?vid=x0151b6aqfy&tiny=0"><img src="http://js.feiliu.com/gameimg/lqzg/20150526151200.png" /></a></li>
+                    <li><a href="javascript:void(0);" data-src="http://v.qq.com/iframe/player.html?vid=e0151nhcdra&tiny=0"><img src="http://js.feiliu.com/gameimg/lqzg/20150526151219.png" /></a></li>
+                    <li><a href="javascript:void(0);" target="_blank"><img src="http://js.feiliu.com/gameimg/lqzg/20150526151323.png" /></a></li>
+                    <li><a href="javascript:void(0);" target="_blank"><img src="http://js.feiliu.com/gameimg/lqzg/20150526151339.png" /></a></li>
+                    <li><a href="javascript:void(0);" target="_blank"><img src="http://js.feiliu.com/gameimg/lqzg/20150526151357.png" /></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="media">
+        <div class="media-con">
+            <h5>合作媒体</h5>
+            <div>
+                <ul>
+                    <li><a href="###" target="_blank"><img src="http://js.feiliu.com/static/lqzg/web0525/images/media-logo.png" /></a></li>
+                                                            <li><a href="http://www.15153.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15153.jpg" /></a></li>
+                                        <li><a href="http://news.7k7k.com/m" target="_blank"><img src="http://js.feiliu.com/images/hzmt/7k7k.jpg" /></a></li>
+                                        <li><a href="http://www.shouyou.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/shouyou.jpg" /></a></li>
+                                        <li><a href="http://games.qq.com/mobile/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/qq.jpg" /></a></li>
+                                        <li><a href="http://www.7xz.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/7xz.jpg" /></a></li>
+                                        <li><a href="http://www.18touch.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/18touch.png" /></a></li>
+                                        <li><a href="http://shouyou.52pk.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/52pk.jpg" /></a></li>
+                                        <li><a href="http://www.91weile.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/91weile.jpg" /></a></li>
+                                        <li><a href="http://game.163.com/shouyou" target="_blank"><img src="http://js.feiliu.com/images/hzmt/163.gif" /></a></li>
+                                        <li><a href="http://www.178.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/178.png" /></a></li>
+                                        <li><a href="http://sy.766.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/766.jpg" /></a></li>
+                                        <li><a href="http://www.5253.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/5253.jpg" /></a></li>
+                                        <li><a href="http://www.15666.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15666.jpg" /></a></li>
+                                        <li><a href="http://www.18183.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/18183.png" /></a></li>
+                                        <li><a href="http://www.61166.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/61166.jpg" /></a></li>
+                                        <li><a href="http://www.97973.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/97973.jpg" /></a></li>
+                                        <li><a href="http://www.anqu.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/anqu.jpg" /></a></li>
+                                        <li><a href="http://www.appgame.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/appgame.jpg" /></a></li>
+                                        <li><a href="http://www.banma.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/banma.jpg" /></a></li>
+                                        <li><a href="http://www.bufan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/bufan.jpg" /></a></li>
+                                        <li><a href="http://www.candou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/candou.jpg" /></a></li>
+                                        <li><a href="http://i.china.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/china.jpg" /></a></li>
+                                        <li><a href="http://www.d1758.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/d1758.jpg" /></a></li>
+                                        <li><a href="http://games.enet.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/enet.jpg" /></a></li>
+                                        <li><a href="http://www.ewoka.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/ewoka.png" /></a></li>
+                                        <li><a href="http://www.g1080.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/g1080.jpg" /></a></li>
+                                        <li><a href="http://game.91.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/game91.jpg" /></a></li>
+                                        <li><a href="http://www.gamedog.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gamedog.png" /></a></li>
+                                        <li><a href="http://www.gao7.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gao7.jpg" /></a></li>
+                                        <li><a href="http://www.gm86.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/gm86.jpg" /></a></li>
+                                        <li><a href="http://www.joyme.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/joyme.jpg" /></a></li>
+                                        <li><a href="http://www.maoren8.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/maoren8.jpg" /></a></li>
+                                        <li><a href="http://www.mofang.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/mofang.jpg" /></a></li>
+                                        <li><a href="http://sy.pcgames.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pcgames.jpg" /></a></li>
+                                        <li><a href="http://game.pchome.net" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pchome.jpg" /></a></li>
+                                        <li><a href="http://www.pipaw.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/pipaw.jpg" /></a></li>
+                                        <li><a href="http://www.play.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/play.jpg" /></a></li>
+                                        <li><a href="http://www.ptbus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/ptbus.jpg" /></a></li>
+                                        <li><a href="http://www.shouyoubus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/shouyoubus.jpg" /></a></li>
+                                        <li><a href="http://games.sina.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/sina.jpg" /></a></li>
+                                        <li><a href="http://www.smzdwan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/smzdwan.jpg" /></a></li>
+                                        <li><a href="http://www.te6.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/te6.jpg" /></a></li>
+                                        <li><a href="http://ol.tgbus.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/tgbus.jpg" /></a></li>
+                                        <li><a href="http://g.uuu9.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/uuu9.jpg" /></a></li>
+                                        <li><a href="http://www.wankr.com.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/wankr.jpg" /></a></li>
+                                        <li><a href="http://www.youxiduo.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/youxiduo.png" /></a></li>
+                                        <li><a href="http://www.yoyou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yoyou.jpg" /></a></li>
+                                        <li><a href="http://www.yxzoo.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yxzoo.jpg" /></a></li>
+                                        <li><a href="http://www.7659.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/7659.jpg" /></a></li>
+                                        <li><a href="http://www.4399.cn" target="_blank"><img src="http://js.feiliu.com/images/hzmt/4399.jpg" /></a></li>
+                                        <li><a href="http://www.66u.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/66u-logo.jpg" /></a></li>
+                                        <li><a href="http://www.aiyou.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/爱游.png" /></a></li>
+                                        <li><a href="http://www.1688wan.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/1688wan.jpg" /></a></li>
+                                        <li><a href="http://www.youxiniao.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/游戏鸟.jpg" /></a></li>
+                                        <li><a href="http://mg.shunwang.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/顺网.jpg" /></a></li>
+                                        <li><a href="http://www.kela001.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/克拉手游100-46.jpg" /></a></li>
+                                        <li><a href="http://www.zhanggame.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/掌游网100-46.jpg" /></a></li>
+                                        <li><a href="http://www.mkzoo.com/ " target="_blank"><img src="http://js.feiliu.com/images/hzmt/猿.jpg" /></a></li>
+                                        <li><a href="http://ka.sina.com.cn/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/新浪游戏.jpg" /></a></li>
+                                        <li><a href="javascript:void(0);" target="_blank"><img src="http://js.feiliu.com/images/hzmt/72G LOGO.jpg" /></a></li>
+                                        <li><a href="http://www.72g.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/72G LOGO.jpg" /></a></li>
+                                        <li><a href="http://www.87g.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/87G-logo.jpg" /></a></li>
+                                        <li><a href="http://www.anfan.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/安锋网.jpg" /></a></li>
+                                        <li><a href="http://www.benshouji.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/benshouji.jpg" /></a></li>
+                                        <li><a href="http://www.bianwanjia.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/bianwanjia.jpg" /></a></li>
+                                        <li><a href="http://sj.xiaopi.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/xiaopi.jpg" /></a></li>
+                                        <li><a href="http://www.yoyojie.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/yoyojie.png" /></a></li>
+                                        <li><a href="http://www.zshouyou.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/zshouyou.jpg" /></a></li>
+                                        <li><a href="http://www.15666.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/15666.jpg" /></a></li>
+                                        <li><a href="http://www.808w.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/100-46-808玩.jpg" /></a></li>
+                                        <li><a href="http://www.xiaoyuzhongchou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/LOGO.jpg" /></a></li>
+                                        <li><a href="http://www.xiaoyuzhongchou.com" target="_blank"><img src="http://js.feiliu.com/images/hzmt/xyzc.jpg" /></a></li>
+                                        <li><a href="http://www.47473.com/" target="_blank"><img src="http://js.feiliu.com/images/hzmt/47473.jpg" /></a></li>
+                                                        </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="video-sourse disN">
+        <div class="video-sourse-wrap">
+        </div>
+        <div class="videoback">关闭视频</div>
+    </div>
+    <div class="fixed-bg"></div>
+
+    <div class="footer">
+        <div class="footer-con">
+            <p>About.us | Copy right@北京飞流九天科技有限公司</p>
+            <p>爱游戏，爱生活，也爱美女。</p>
+            <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+            <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+            <p>Love is love!</p>
+        </div>
+    </div>
+</div>
+    <script>
+        var link = $('.android-link').attr('href');
+        if(!link)
+        {
+        	$('.android-link a').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }else{
+        	$('.android-link').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }
+        
+        $('a').click(function(e){
+            var url = $(this).attr('href');
+            if(url != 'javascript:void(0);' && url != "javascript:;");
+            {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                if(url.indexOf('?') > -1)
+                {
+                    var tourl = url + '&s='+source;
+                } else {
+                    var tourl = url + '?s='+source;
+                }
+                window.location.href = tourl;   
+            }
+        });
+
+
+    </script>
+    <script>$.ajax({ url:"http://gameapi.feiliu.com/game/netlog",type:'GET',dataType:'jsonp',success: function(data){}});</script>
+    <div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

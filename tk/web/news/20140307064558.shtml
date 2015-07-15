@@ -1,0 +1,214 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="战地坦克" name="keywords">
+	<meta content="战地坦克" name="description">
+	<link rel="stylesheet" href="http://js.feiliu.com/static/tk/web0506/css/style.css">
+</head>
+<body>
+<div class="tt">
+	<div class="nav">
+		<a href="http://tk.feiliu.com" class="ml01 pop">官网首页</a>
+		<a href="http://tk.feiliu.com/web/list/introduce.shtml" class="pop">游戏介绍</a>
+		<a href="http://tk.feiliu.com/web/list/newslist.shtml" class="pop">游戏资料</a>
+		<a href="http://tk.feiliu.com/web/list/vip.shtml" class="ml02 pop">VIP贵宾</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">飞流社区</a>
+		<a href="javascript:alert('敬请期待！');" class="pop">官方论坛</a>
+	</div>
+	<img src="http://js.feiliu.com/static/tk/web0506/images/logo.png" alt="" class="logo">	
+</div>
+<div class="wrap minwidth">
+	<div class="contain minwidth rel">
+		<div class="subcon1120">
+			<div class="conlf fltt">
+	<div class="download flu">
+		<a href="#" class="downbtn01"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="AppStore下载" />
+		</div>
+		<a href="#" class="downbtn02"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="安卓版下载" />
+		</div>
+		<a href="#" class="downbtn03"><div class="shine"></div></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/static/tk/web0506/images/code.jpg"  alt="越狱版下载" />
+		</div>
+	</div>
+	<div class="code">
+		微信扫一扫
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code02.jpg" alt="">
+		下载飞流社区
+		<img src="http://js.feiliu.com/static/tk/web0506/images/code03.jpg" alt="">
+	</div>
+	<div class="kefu">
+		<p class="f16">官方微信: flgames</p>
+		<p class="f16"><img src="http://js.feiliu.com/static/tk/web0506/images/sm01.png" alt="">客服中心</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm02.png" alt="">800032231</p>
+		<p class="ml03"><img src="http://js.feiliu.com/static/tk/web0506/images/sm03.png" alt="">4006609729</p>
+	</div>
+</div>
+			<div class="conri fltt">
+				<div class="address">
+					<h2>新闻中心</h2>
+					<p>
+						当前位置：
+						<a href="http://tk.feiliu.com">首页</a>>>
+												<a href="http://tk.feiliu.com/web/list/newslist.shtml?a=2">新闻</a>
+											</p>
+				</div>
+				<div class="subnews">
+					<div class="infotitle">坦克风云角色介绍</div>
+					<div class="article"><p class="MsoNormal">
+	<b>
+	<p class="MsoNormal">
+		《坦克风云》中您需要率领一支部队在广袤的大陆上战斗，另一大重要要素就是要有一个指挥有力的将军，下面看看什么样的将军才是我们要的强而有力的得力助手。<br /><img src="http://i0.8783.com/image/20140307/20140307184531_63471.jpg" alt="" />
+	</p>
+<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>角色属性<span></span></b>
+</p>
+<p class="MsoNormal" style="margin-left:27.0pt;text-indent:-27.0pt;">
+	统率：统率为玩家的带兵量，提升统率等级可以提升玩家的带兵量上限；<span><br />
+</span>提升统率需要使用“统率书”；<span><br />
+</span>“统率书”可以通过购买、攻打资源点和相应活动中获得。<span></span>
+</p>
+<p class="MsoNormal" style="margin-left:27.0pt;text-indent:-27.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:-36.0pt;">
+	战斗力：战斗力只会计算当前所有坦克能组成的最强一支坦克部队的战力；<br />
+战斗力可通过生产高级坦克、研发科技、升级技能、提升统率等级来获得；<span></span>
+</p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:-36.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-left:27.0pt;text-indent:-27.0pt;">
+	军衔：通过军衔的提升可领取更多的声望值奖励；<span><br />
+</span>军衔等级越高，可领取的声望越高；<span><br />
+</span>军衔的提升需要角色达到预定的等级后，通过花费相应数量的水晶来提升。
+</p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:-36.0pt;">
+	声望：声望等级为可研发科技等级的上限；<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:18.0pt;">
+	声望值可通过授勋、攻打关卡、攻打资源点、军团捐献或者活动获得。<span></span>
+</p>
+<p class="MsoNormal" style="text-indent:18.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:18.0pt;">
+	<br />
+荣誉：荣誉为玩家之间战斗胜利的荣誉值；<span><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>通过在世界地图战胜其他玩家获得，并且可以在角色面板和荣誉排行榜查看。 <span></span>
+</p>
+<p class="MsoNormal" style="text-indent:18.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:18.0pt;">
+	&nbsp;&nbsp;&nbsp;
+</p>
+<p class="MsoNormal">
+	<b>角色科技<span></span></b>
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	科技说明：角色科技需要通过“科研中心”进行科技的升级和开放；<span><br />
+</span>科技的等级提升受限于声望等级，升级科技并且消耗资源和时间；<br />
+同一时间只能研发一项科技，但是提升<span>VIP</span>等级可增加等待队列。<span></span>
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	科技类型：铁矿冶炼：每级增加铁矿基础产量<span>5%<br />
+</span>坦克维护：每级增加坦克生命值<span>5%<br />
+</span>加强型火炮：每级增加坦克攻击力<span>5%<br />
+</span>石油分馏：每级增加石油基础产量<span>5%<br />
+</span>歼击车维护：每级增加歼击车生命值<span>5%<br />
+</span>穿甲炮弹：每级增加歼击车攻击力<span>5%<br />
+</span>铅矿冶炼：每级增加铅矿基础产量<span>5%<br />
+</span>自行火炮维护：每级增加自行火炮生命值<span>5%<br />
+</span>爆裂弹头：每级增加自行火炮攻击力<span>5%<br />
+</span>钛矿提纯：每级增加钛矿基础产量<span>5%<br />
+</span>火箭车维护：每级增加火箭车生命值<span>5%<br />
+</span>制导弹头：每级增加火箭车攻击力<span>5%<br />
+</span>建筑学：每级增加建筑建筑速度<span>5%<br />
+</span>水晶打磨：每级增加水晶基础产量<span>5%<br />
+</span>存储技术：每级增加所有资源容量<span>5%</span>，增加仓库保护量<span>5%<br />
+</span>战斗经验：每级增加战斗经验<span>5%<br />
+</span>引擎强化：每级增加行军速度<span>5%</span>
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-left:52.7pt;text-indent:-52.7pt;">
+	<b>角色技能<span></span></b>
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	技能说明：升级技能可大幅度提升玩家部队的实力<br />
+升级技能需要消耗等同于等级数量的“荣誉勋章”<span><br />
+</span>“荣誉勋章”可通过关卡战斗、攻打资源点、幸运抽奖、军团副本、活动获得<span></span>
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	技能类型：精准：每提升一级增加<span>1%</span>的命中概率<span><br />
+</span>闪避：每提升一级增加<span>1%</span>的闪避，令对方攻击击空<br />
+暴击：每提升一级增加<span>1%</span>的暴击概率，可造成双倍伤害<span><br />
+</span>装甲：每提升一级增加<span>1%</span>的装甲，抵消对方的暴击概率<span><br />
+</span>火炮指挥：每提升一级增加坦克<span>1%</span>的火炮伤害<span><br />
+</span>穿甲指挥：每提升一级增加歼击车<span>1%</span>的穿甲伤害<span><br />
+</span>爆裂指挥：每提升一级增加自行火炮<span>1%</span>的爆裂伤害<span><br />
+</span>火箭指挥：每提升一级增加火箭车<span>1%</span>的火箭伤害<span><br />
+</span>坦克维护：每提升一级增加<span>1%</span>的坦克生命值<span><br />
+</span>歼击车维护：每提升一级增加<span>1%</span>的歼击车生命值<span><br />
+</span>自行火炮维护：每提升一级增加<span>1%</span>的自行火炮生命值<span><br />
+</span>火箭车维护：每提升一级增加<span>1%</span>的火箭车生命值<span></span>
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-left:45.0pt;text-indent:-45.0pt;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="margin-left:52.7pt;text-indent:-52.7pt;">
+	<b><span>&nbsp;</span></b>
+</p>
+<p class="MsoNormal">
+	<span>&nbsp;</span>
+</p></div>
+				</div>
+			</div>
+		</div>			
+	</div>
+	<div class="footer fltt">
+		<P>About.us | Copy right@北京飞流九天科技有限公司</P>
+		<P>爱游戏，爱生活，也爱美女。</P>
+		<P>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</P>
+		<P>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</P>
+		<P>Love is love!</P>
+	</div>
+</div>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/jquery.min.js"></script>
+<script type=text/javascript src="http://js.feiliu.com/static/tk/web0506/js/public.js"></script>
+<script>
+$(".flu a").hover(function(){
+	$(this).next().show();
+},function(){
+	$(this).next().hide();
+});
+</script>
+</body>
+</html>

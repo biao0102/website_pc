@@ -1,0 +1,9 @@
+	<div class="wrap">
+        <div class="down_btns">
+       <!--     <a class="ios" target="_blank" href="http://daxia.feiliu.com/count/download.php?cid=300021&type=8"></a>-->
+<a class="ios" target="_self" href="javascript:alert('敬请期待！');" ></a>
+            <a class="yueyu" target="_blank" href="http://daxia.feiliu.com/count/download.php?cid=300021&type=2"></a>
+           <!-- <a class="android" target="_blank" href="http://daxia.feiliu.com/count/download.php?cid=300021&type=5"></a>-->
+<a class="android" target="_self" href="javascript:alert('敬请期待！');"></a>
+        </div>
+    </div>

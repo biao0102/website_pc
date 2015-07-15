@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">关注微信 豪礼送不停</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-08-19</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              <p class="MsoNormal" style="text-indent:21.0pt;">
+	外号外<span>~</span>“飞流九天科技”微信公众号上线了<span>~</span>为了回馈广大玩家，飞流九天科技微信号为大家带来了两大<b>惊喜</b>!!
+</p>
+<p class="MsoNormal">
+	<b>惊喜一：关注微信 特权礼包免费领！<span></span></b>
+</p>
+<br />
+<p class="MsoNormal">
+	<b>【活动规则】<span></span></b>
+</p>
+<p class="MsoNormal">
+	1、搜索关注飞流九天科技（微信号：<span>flgames</span>）；<span></span>
+</p>
+<p class="MsoNormal">
+	2、在微信菜单点击“<b>游戏福利</b>”<span>-</span>“<b>特权礼包</b>”，领取礼包兑换码。<span></span>
+</p>
+<p class="MsoNormal">
+	<b>【礼包内容】<span></span></b>
+</p>
+<p class="MsoNormal">
+	<b>战地坦克：</b>荣誉勋章<span>*5</span>、统率书<span>*2</span>、幸运币<span>*2</span>、中型火箭车<span>*40&nbsp;<br />
+	<p class="MsoNormal">
+		<b>惊喜二：五星评价 赢取精美周边礼品！<span></span></b>
+	</p>
+	<p class="MsoNormal">
+		<b>【活动时间】：</b>2014.8.19 —<span>2014.8.26</span>
+	</p>
+	<p class="MsoNormal">
+		<b>【活动规则】<span></span></b>
+	</p>
+	<p class="MsoNormal">
+		1、玩家在<span>App Store</span>中搜索《<b>战地坦克</b>》，给游戏五星评价；<span></span>
+	</p>
+	<p class="MsoNormal">
+		2、将<b>评价截图</b>和<b>您的<span>Apple </span>用户名</b>发送到“飞流九天科技”微信公众号（微信号<span>:flgames</span>），我们将根据评价后台记录抽出<span>10</span>名幸运玩家。<span></span>
+	</p>
+	<p class="MsoNormal">
+		3、好评内容请大家自由发挥，我们会从中选取<span>2</span>名最佳评论奖哦！<br />
+<span>
+		<p class="MsoNormal">
+			<b>【活动奖励】<span></span></b>
+		</p>
+		<p class="MsoNormal">
+			最佳评论奖<span>2</span>名：获得飞流吉祥物<span>-</span>情侣小海豚一对<span></span>
+		</p>
+		<p class="MsoNormal">
+			幸运参与奖<span>8</span>名：获得飞流文具纪念品<span></span>
+		</p>
+		<p class="MsoNormal">
+			<b>【注意事项】<span></span></b>
+		</p>
+		<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;">
+			1、严禁盗图<span>/P</span>图，严重者取消获奖资格。<span></span>
+		</p>
+		<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;">
+			2、活动结束后，我们会在<span>3</span>个工作日内，通过微信通知获奖玩家。<span></span>
+		</p>
+		<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;">
+			3、活动最终解释权归飞流九天科技所有。<span></span>
+		</p>
+		<p class="MsoNormal">
+			<b>&nbsp;</b>
+		</p>
+		<p class="MsoNormal">
+			<b>内容<span>:</span></b>
+		</p>
+		<p class="MsoNormal" align="center" style="text-align:center;">
+			<b>关注“飞流九天科技”微信 礼包豪礼送不停<span></span></b>
+		</p>
+		<p class="MsoNormal" style="text-indent:21.0pt;">
+			号外号外<span>~</span>“飞流九天科技”微信公众号上线了<span>~</span>为了回馈广大玩家，<b>飞流九天科技微信号</b>为大家带来了两大<b>惊喜</b>!!
+		</p>
+		<p class="MsoNormal">
+			<b>惊喜一：关注微信 特权礼包免费领！<span></span></b>
+		</p>
+		<p class="MsoNormal">
+			<b>【活动规则】<span></span></b>
+		</p>
+		<p class="MsoNormal">
+			1、搜索关注飞流九天科技（<b>微信号：<span>flgames</span></b>）；<span></span>
+		</p>
+		<p class="MsoNormal">
+			2、在微信菜单点击“<b>游戏福利</b>”<span>-</span>“<b>特权礼包</b>”，领取礼包兑换码。<span></span>
+		</p>
+		<p class="MsoNormal">
+			<b>【礼包内容】</b>
+		</p>
+		<p class="MsoNormal">
+			<b>战地坦克：</b>荣誉勋章<span>*5</span>、统率书<span>*2</span>、幸运币<span>*2</span>、中型火箭车<span>*40 </span>
+		</p>
+		<p class="MsoNormal">
+			<b><i>(</i></b><b>是不是很强大？</b><b><i>)</i></b>
+		</p>
+		<p class="MsoNormal">
+			<b>&nbsp;</b>
+		</p>
+		<p class="MsoNormal">
+			<b>惊喜二：五星评价 赢取精美周边礼品！<span></span></b>
+		</p>
+		<p class="MsoNormal">
+			<b>【活动时间】：</b>2014.8.19—<span>2014.8.26</span>
+		</p>
+		<p class="MsoNormal">
+			<b>【活动规则】<span></span></b>
+		</p>
+		<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;">
+			1、玩家在<span>App Store</span>中搜索《<b>战地坦克</b>》，下载游戏并进行五星评价；
+		</p>
+		<p class="MsoNormal">
+			2、将<b>评价截图</b>和<b>您的<span>Apple </span>用户名</b>发送到“飞流九天科技”微信公众号（微信号<span>:flgames</span>），我们将根据评价后台记录，每个游戏抽出<span>10</span>名，总共是<span>20</span>名幸运玩家。<span></span>
+		</p>
+		<p class="MsoNormal">
+			3、好评内容请大家自由发挥，我们会从中选取<span>4</span>名最佳评论奖哦！<span></span>
+		</p>
+		<p class="MsoNormal">
+			<b>【活动奖励】<span></span></b>
+		</p>
+		<p class="MsoNormal">
+			<b>最佳评论奖<span>4</span>名：</b>获得飞流吉祥物<span>-</span>情侣小海豚一对<span></span>
+		</p>
+		<p class="MsoNormal">
+			<b>幸运参与奖<span>16</span>名：</b>获得飞流文具纪念品<span></span>
+		</p>
+		<p class="MsoNormal">
+			<b>【注意事项】<span></span></b>
+		</p>
+		<p class="MsoNormal">
+			1、严禁盗图<span>/P</span>图，严重者取消获奖资格。<span></span>
+		</p>
+		<p class="MsoNormal">
+			2、活动结束后，我们会在<span>3</span>个工作日内，通过微信通知获奖玩家。<span></span>
+		</p>
+		<p class="MsoNormal">
+			3、活动最终解释权归飞流九天科技所有。<span></span>
+		</p>
+		<p class="MsoNormal">
+			<b>【<span>AppStore</span>下载地址】<span></span></b>
+		</p>
+		<p class="MsoNormal">
+			<br />
+		</p>
+		<p class="MsoNormal">
+			《战地坦克》<span>https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8</span>
+		</p>
+		<p class="MsoNormal">
+			<i><br />
+</i>
+		</p>
+</span>
+	</p>
+</span>
+</p>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

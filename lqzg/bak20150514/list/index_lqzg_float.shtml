@@ -1,0 +1,23 @@
+<div id="ripiao">
+<span><img src="http://js.feiliu.com/static/activity/sq/qrcode/gw_lqzg.png" /></span>
+<a href="http://game.feiliu.com/youxishequ/index.html?s=C08010000_App_shequ_908010000" class="downfl">下载游戏社区</a>
+</div>
+	
+<div class="dialog_right" id="dialog_right" style="display:none;"><a href="javascript:;" class="close" id="dialog_close">close</a>
+		<div class="dialog_btn" id="dialog_btn"></div>
+			<div class="dialog_box" id="dialog_box">
+				<div class="shuru">
+					<input id="mobi" type="text" class="kuang" value="--- 请输入预约手机号 ---" placeholder="--- 请输入预约手机号 ---">
+				</div>
+				<div class="suanze">
+					<div id="radiolist">
+						<input id="app" name='r' type="radio" value='1' style="display:none;"/><label class="hRadio" for="app"></label>
+						<input id="andr" name='r' type="radio" value='2'  style="display:none;"/><label class="hRadio" for="andr"></label>
+						<input id="ipa" name='r' type="radio" value='3'  style="display:none;"/><label class="hRadio" for="ipa"></label>
+					</div>
+				</div>
+				<a href="javascript:void(0)" id="subscribe" class="yuyue" title="预约礼包">预约礼包</a>
+				<img src="http://js.feiliu.com/static/lqzg/web/images/scanpic.jpg" class="scanpic">
+			</div>
+		</div>
+	</div>

@@ -1,0 +1,54 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit"> [攻略心得] 众妖之怒升级攻略</div>
+			<div class="news-con">
+				众妖之怒既然是一款网游，那么网游该有的元素自然不能少，像副本这样经典的元素就更是不会少了。<br />
+&nbsp; &nbsp; &nbsp; &nbsp;在游戏中，玩家每天进行副本不仅能够获得海量的经验，更有机会获得极品的掉落物品。当玩家的等级慢慢 &nbsp; 提高之后，就会发现副本越来越多了，这个时候各种套装或者极品属性的装备出现了，玩家为了追求某件或某套装备就要有选择的不断刷某个或某些副本了，然而，随着级别越高，副本也慢慢的多起来，由于任务的要求，或者装备的追求，我们需要更多的精力和时间去循环的刷副本。那么，为了节省时间，我们急切需要一个捷径，快速通关的捷径。此时，单人副本扫荡功能便应运而生了。<br />
+&nbsp; &nbsp; &nbsp; 每个玩家在进行单人副本挑战的时候都会在角色的等级上受到限制，只有达到了限定的等级才能进行特定副本的挑战，所以玩家们想要进行单人副本的挑战可是一定要注意自己的等级的提升哟!每个副本的关卡所显现出来的挑战地图都是大不相同的，最开始的时候都是呈现灰色的状态，玩家只有通过了该关卡才会改变颜色!<br />
+下面是我们在打副本的时候要注意的一些东西。<br />
+&nbsp; &nbsp;<br />
+<br />
+<br />
+1 玩家要对副本进行扫荡的话，首要条件就是要先打通副本。玩家打开副本选项，找到已经通关过并且想要进行扫荡的副本，在副本的界面中玩家可以看到扫荡和进入两个选项，选择扫荡点击。<br />
+<br />
+<br />
+2扫荡需要消耗玩家的体力。扫荡的时候，会在界面上显示出玩家扫荡获得的经验和物品等。<br />
+<br />
+<br />
+3 通关副本时会根据所用时间给予不同星数评价，玩家在一张地图上的各个副本通关所获得星数总和达到要求时可以点击地图右下的宝箱，来获得副本星级奖励<br />
+<div >
+	<br />
+</div>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

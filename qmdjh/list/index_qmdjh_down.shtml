@@ -1,0 +1,10 @@
+<div class="float-bar">
+	<div class="floatbar-in">
+        <img src="http://js.feiliu.com/static/qmdjh/images/qrcode_android.png" />
+        <h2>安卓版二维码下载</h2>
+       	<img src="http://js.feiliu.com/static/qmdjh/images/qrcode_ios.png" />
+        <h2>iOS版二维码下载</h2>
+        <img src="http://js.feiliu.com/static/qmdjh/images/qrcode_ios.png" />
+        <h2>越狱版二维码下载</h2>
+    </div>
+</div>

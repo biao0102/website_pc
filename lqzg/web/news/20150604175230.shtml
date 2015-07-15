@@ -1,0 +1,168 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>龙骑战歌官方网站</title> 
+    <meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+    <meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<link href="http://js.feiliu.com/static/lqzg/web0525/css/index.css?v=4" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/slides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/index.js?v=1"></script>
+<script>
+        function getArgs()
+        {
+            var argsArr = new Object();
+            var query = window.location.search;  
+            query = query.substring(1);
+            var pairs = query.split("&");
+            for(var i=0;i<pairs.length;i++)
+            {
+                var sign = pairs[i].indexOf("="); 
+                if(sign == -1)
+                {
+                    continue; 
+                }
+                var aKey = pairs[i].substring(0,sign);
+                var aValue = pairs[i].substring(sign+1);         
+                argsArr[aKey] = unescape(aValue);
+
+            }
+            return argsArr;
+        }
+
+        var param = new Object();
+        param = getArgs();
+        var source = param.s;
+
+        if(!source)
+        {
+            source = '300021';
+        }
+
+
+		function isMobile(args) {
+			var sUserAgent= navigator.userAgent.toLowerCase();
+			var bIsIpad= sUserAgent.match(/ipad/i) == "ipad";
+			var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsMidp= sUserAgent.match(/midp/i) == "midp";
+			var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+			var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb";
+			var bIsAndroid= sUserAgent.match(/android/i) == "android";
+			var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce";
+			var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile";
+			if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) 
+			{
+				window.location.href= 'http://lqzg.feiliu.com/wap/list/index.shtml?s='+source;
+			}
+		}
+		isMobile();
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
+<body>
+<div class="page">
+    <div class="nav">
+    <div class="nav-con">
+        <a href="http://lqzg.feiliu.com/index.shtml"><img src="http://js.feiliu.com/static/lqzg/web0525/images/logo.png" alt="logo" class="logo" /></a>
+        <ul>
+            <li><a href="http://lqzg.feiliu.com/web/list/home.shtml">首页</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml">新闻公告</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/index.shtml">玩法特色</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/notice.shtml">职业介绍</a></li>
+            <li><a href="javascript:alert('敬请期待');">游戏活动</a></li>
+            <li><a href="http://bbs.8783.com/forum-178-1.html">论坛</a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="public-top"></div>
+    <div class="public-con">
+        <div class="public-box">
+            <div class="public-left">
+    <div class="public-code">
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="ios-link"></a>
+        <a href="http://lqzg.feiliu.com/download?cid=300021&type=5" class="android-link"></a>
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="raiders-link"></a>
+        <div>
+            <p>扫一扫关注龙骑战歌</p>
+            <img src="http://js.feiliu.com/static/lqzg/web0525/images/public-code.jpg" />
+        </div>
+    </div>
+    <ul class="public-adv">
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114758.jpg" alt="" /></a></li>
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114939.jpg" alt="" /></a></li>
+        <li><a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150526115157.jpg" alt="" /></a></li>
+    </ul>
+</div>
+            <div class="public-right">
+                <div class="public-title">
+                    <h5>新闻公告</h5>
+                    <a href="http://lqzg.feiliu.com/web/list/newslist.shtml"><<返回</a>
+                </div>
+                <div class="newsDetail">
+                    <h5>超嗲！GTV美女主播小陌解说《龙骑战歌》初体验</h5>
+                    <dl>
+                        <dt>发布于<span>2015-06-04 17:52:30</span></dt>
+                        <dd><span>分享到</span><div><a href="javascript:void(0);" class="weixin"></a><a href="javascript:void(0);" class="qzone"></a><a href="javascript:void(0);" class="tsina"></a><a href="javascript:void(0);" class="tqq"></a><a href="javascript:void(0);" class="renren"></a></div></dd>
+                    </dl>
+                    <div class="newsDetail-con">
+                        <p><span style="color: rgb(255, 0, 0); text-decoration: underline;">超嗲！GTV美女主播小陌解说《龙骑战歌》初体验</span></p><p>&nbsp; WCA&amp;GTV《电竞世界：龙骑战歌》专辑强档热播，美女主持小陌超嗲解说游戏初体验！作为一款竞技级3D魔幻骑战动作手游，《龙骑战歌》以“高清3D画面”、“骑战”、“伙伴轮番作战”等特色横空出世，内测一经开启便迅速爆火。在《电竞世界：龙骑战歌》专辑中，小陌和逸凡将一步步带领玩家共同体验游戏精彩，为所有热爱竞技和战斗的玩家奉上一场场视觉盛宴。</p><p><span style="color: rgb(255, 0, 0); text-decoration: underline;">《龙骑战歌》官方网站：</span><a href="http://lqzg.feiliu.com">http://lqzg.feiliu.com</a></p><p><img title="20150604175059.jpg" alt="图1：GTV美女主持小陌解说《龙骑战歌》初体验.jpg" src="http://js.feiliu.com/gameimg/lqzg/20150604175059.jpg"/></p><p><span style="color: rgb(255, 0, 0); text-decoration: underline;">【《电竞世界》首款演示手游 超强竞技快感】</span></p><p>&nbsp; 《电竞世界》作为GTV热播栏目，历来都是以分析、解说DOTA、LOL、WAR3等以战斗、竞技为核心，风靡全球的PC端游而备受玩家热捧。而《龙骑战歌》凭借其高清3D画面、极高的操作性、多元的竞技元素、超爽的骑战作战等超越传统手游的诸多特色，成为《电竞世界》有史以来解说的首款手游。GTV当红主持小陌和逸凡更是连续8期从初体验到核心玩法，带领玩家领略《龙骑战歌》的全部激情。</p><p><img title="20150604175112.jpg" alt="图2：逸凡与小陌解说《龙骑战歌》.jpg" src="http://js.feiliu.com/gameimg/lqzg/20150604175112.jpg"/></p><p><span style="color: rgb(255, 0, 0); text-decoration: underline;">【四大职业解析 小陌最爱狂战士】</span></p><p>&nbsp; 《龙骑战歌》现开放圣武士、狂战士、法师、刺客四大职业，每个职业都有各自不同的能力以及五维属性偏好。美女小陌则喜欢外表狂放，操作难度仅有2星，属性偏好防御与控制的物理近战输出职业“狂战士”。逸凡调侃是因为矮矮胖胖的形象很适合小陌，但小陌则说是狂战士太过“霸气”。</p><p><img title="20150604175134.jpg" alt="图3：小陌在休息时间也放不下《龙骑战歌》.jpg" src="http://js.feiliu.com/gameimg/lqzg/20150604175134.jpg"/></p><p><span style="color: rgb(255, 0, 0); text-decoration: underline;">【游戏初体验 画面操作惊呆小陌】</span></p><p>&nbsp; 在进入游戏后，单在新手引导阶段便引得小陌惊叹连连。她不止在主持中为新手引导配音，“点击一下，好的，我们再来点击一下！”简直嗲到不能忍，而游戏中足以媲美以画面著称的大型网游、操作方面的灵活精妙、技能特效的震撼都让小陌连呼“哦！哦！哇！好厉害！”，当骑乘巨龙的骑士出现的时候，更是赞叹“哇！太霸气了……”。</p><p><img title="20150604175143.jpg" alt="图4：超高品质游戏惊呆小陌.jpg" src="http://js.feiliu.com/gameimg/lqzg/20150604175143.jpg"/></p><p>&nbsp; 想到与小陌一起了解《龙骑战歌》的精彩，那就快去搜索“电竞世界《龙骑战歌》”。数字频道GTV12:45、17:45首播，多个时档重播，互联网同步播放，连续8期节目，绝对让你能尽情感受竞技级手游的巅峰激情！现在《龙骑战歌》正在火爆内测，精彩的游戏内容与大量豪礼等你来！<br/>&nbsp;</p><p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-con">
+            <p>About.us | Copy right@北京飞流九天科技有限公司</p>
+            <p>爱游戏，爱生活，也爱美女。</p>
+            <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+            <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+            <p>Love is love!</p>
+        </div>
+    </div>
+</div>
+    <script>
+        var link = $('.android-link').attr('href');
+        if(!link)
+        {
+        	$('.android-link a').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }else{
+        	$('.android-link').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }
+        
+        $('a').click(function(e){
+            var url = $(this).attr('href');
+            if(url != 'javascript:void(0);' && url != "javascript:;");
+            {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                if(url.indexOf('?') > -1)
+                {
+                    var tourl = url + '&s='+source;
+                } else {
+                    var tourl = url + '?s='+source;
+                }
+                window.location.href = tourl;   
+            }
+        });
+
+
+    </script>
+    <script>$.ajax({ url:"http://gameapi.feiliu.com/game/netlog",type:'GET',dataType:'jsonp',success: function(data){}});</script>
+    <div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+	<div class="wrap">
+    	<ul class="nav">
+            <li><a class="home" href="http://qmdjh.feiliu.com">首页</a></li>
+            <li><a class="news" href="http://qmdjh.feiliu.com/list/list_qmdjh_zx.shtml">新闻公告</a></li>
+            <li class="gap"></li>
+            <li><a class="res" href="http://qmdjh.feiliu.com/list/list_qmdjh_zx.shtml">游戏攻略</a></li>
+            <li><a class="bbs" href="javascript:void(0);">官方论坛</a></li>
+        </ul>
+    </div>

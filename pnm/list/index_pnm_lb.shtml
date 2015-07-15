@@ -1,0 +1,9 @@
+<div class="focus  fltt">       
+ <div id="full-screen-slider">
+          <ul id="slides">
+            <li><a target="_blank"><img src="http://js.feiliu.com/static/pnm/web/images/pic01.png" /></a></li>
+            <li><a target="_blank"><img src="http://js.feiliu.com/gameimg/pnm/20140827145947.png" /></a></li>
+            <li><a target="_blank"><img src="http://js.feiliu.com/gameimg/pnm/20140827155912.png"/></a></li>
+          </ul>
+        </div>
+</div>

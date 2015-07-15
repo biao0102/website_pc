@@ -1,0 +1,90 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			游戏资料
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			游戏资料
+	        				        		</div>
+	    			<div class="infotitle">《就是要三国》御龙旗系统</div>
+		        	<div class="textTime">2015-01-13</div>
+		    		<div class="article">
+						<blockquote style="margin:0 0 0 40px;border:none;padding:0px;">
+	<p class="MsoNormal">
+		<b><span><img src="http://i0.feiliu.com/image/20150113/20150113113419_20162.jpg" alt="" /><br />
+开启条件：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>60级</span> 
+	</p>
+	<p class="MsoNormal">
+		<span>&nbsp;</span> 
+	</p>
+	<p class="MsoNormal" align="left">
+		<b><span>可获得奖励：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>功勋、游戏币</span> 
+	</p>
+	<p class="MsoNormal">
+		<span>&nbsp;</span> 
+	</p>
+	<p class="MsoNormal">
+		<b><span>玩法介绍：</span></b> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>三军团PvP玩法，双方各有三个军团出战顺序分别是：</span><span>先锋、中坚、大将。</span> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>每一战获胜的队伍保留当时的战力到下一战中，双方各三个队伍均败那么算输，另一方算胜利。</span> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>通过挑战可获得相应的排位，对手有可能是</span><span>NPC</span><span>或者其他玩家。</span> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>不同的排名，每天可定时自动获得不同的功勋值或者游戏币奖励。</span> 
+	</p>
+	<p class="MsoNormal" style="text-indent:21.0pt;">
+		<span>每天可挑战</span><span>5</span><span>次，可使用元宝重置挑战次数。</span> 
+	</p>
+</blockquote>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:21.0pt;">
+	<span></span> 
+</p>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

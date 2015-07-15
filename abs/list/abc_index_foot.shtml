@@ -1,0 +1,16 @@
+<div class="footer">
+	<div class="footercon">
+		<span>
+			<img src="http://js.feiliu.com/static/abc/web/images/fl-logo.png" alt="">
+		</span>
+		<span class="footxt">
+			<P>版权所有©北京飞流九天科技有限公司 2015</P>
+			<P>京ICP证101164号 京ICP备09095411号</P>
+			<P>京网文[2012]0293-085号</P>
+			<P>增值电信业务经营许可证：京B2-20100093</P>
+		</span>
+	</div>
+</div>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254497935'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D1254497935' type='text/javascript'%3E%3C/script%3E"));</script>
+</div> 

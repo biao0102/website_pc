@@ -1,0 +1,87 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content"><p style="text-indent:2em;">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>《天天逗群英》是新型的群战策略卡牌游戏，以武将带领百人军队进行群斗的群战模式为核心；战斗过程斗智斗勇，指挥士兵和武将前进、冲锋，用军令和武将技相互配合，在</span><span>100VS100</span><span>的大场面战斗中尽显名将风采。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span></span>&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>面对敌人的千军万马，用群杀技能全屏杀敌；如暴雨般的“青涛箭雨”、赤焰冲天的“集火柱”、地崩山摧的“天崩”，绚丽特效全屏集火！</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span></span>&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>兵者诡道也，如关二哥般瞬息千里冲刺万军中取上将首级、如司马懿般后排召唤伏兵偷袭敌将、如贾诩般以八门金锁定身敌方士兵、如周瑜般封禁敌将技能……多种多样的策略使给你三国战场的不二乐趣。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>穿越回三国，主公你得各位三国猛将来投，将武将升级、升星使其更强大；搭配天命坐骑天命武器；搭配合适的兵书；配上天命副将，在一场场的战斗中让猛将良臣飞速成长。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span></span>&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>三军奋勇杀敌，主公则要做好排兵布阵、用好来助战的援军，在掌上调兵遣将，运筹帷幄之中，一声令下，万军齐发，给自己一场酣畅淋漓的战斗，为自己来一次精彩激烈的头脑风暴，体验万夫莫当策马中原君临天下的感觉。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span></span>&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>除此之外，在藏书阁与其他人争夺兵书；在演武场与天下英雄一较短长；经营自己的封地、抢夺他人封地；挑战三国名将；劝降收服敌方</span><span>BOSS</span><span>武将……马上有三国除了席卷千军的无双爆发，还有胸有韬略便可决胜千里的豪情，更有一个激情澎湃的三国世界等你征服。</span><span></span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>这，是你的三国。</span><img style="height:584px;width:830px;" alt="" src="http://i0.feiliu.com/image/20141028/20141028151723_42278.jpg" width="1281" height="801" /><br />
+&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>更多精彩内容，敬请关注官方信息：</span><span>&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>官方</span><span>QQ</span><span>：</span><span>3131494764&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>官方</span><span>QQ</span><span>群：</span><span>210206480&nbsp; </span>
+</p>
+<p class="MsoNormal" style="text-indent:2em;">
+	<span>官网：</span><span><a href="http://ttdqy.feiliu.com/"><span style="text-decoration:none;">http://ttdqy.feiliu.com/</span></a> </span>
+</p>
+<p class="MsoNormal" style="text-align:left;text-indent:2em;" align="left">
+	<span>实时资讯，互动交流，精彩随时掌握。</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;text-indent:2em;" align="left">
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>《天天逗群英》运营团队</span> <span></span>
+</p></div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

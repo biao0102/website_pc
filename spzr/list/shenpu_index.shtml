@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">
+        <title>神谱之刃_飞流神谱之刃_首页_神谱之刃官网_飞流九天_2015年第一魔幻连击手游</title> 
+<meta name="keywords" content="神谱之刃官网,神谱之刃攻略,神谱之刃下载,2015年第一魔幻连击手游,史上最强魔幻连击手游,神谱之刃,神谱,飞流,飞流九天,游戏,手机游戏,网络游戏,动作游戏,游龙英雄,王者之剑,英雄之剑" />
+<meta name="description" content="2015年第一魔幻连击手游《神谱之刃》，是一款具备独特北欧魔幻风格的传统ARPG手游，有着超强的打击感、无限连击的超爽体验、独一无二的血脉系统、一环扣一环的冒险闯关及多元化的刻印系统、宝石系统、战魂系统、竞技系统、多人副本系统等等。更多有关神谱之刃官网,神谱之刃攻略,神谱之刃下载等资讯尽在神谱之刃官网。" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="format-detection" content="telephone=no"/>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="http://js.feiliu.com/static/shenpu/webnew/js/js.js?v=20150104"></script>
+        <link rel="stylesheet" href="http://js.feiliu.com/static/shenpu/webnew/css/style.css?v=463">
+
+    </head>
+    <body>
+        <!-- 首页导航模板start-->
+        <!--#include virtual="/list/shenpu_index_nav.shtml"-->
+        <!-- 首页导航模板end-->    
+        <section class="section1">            
+            <!-- 首页左侧模板start-->
+            <!--#include virtual="/list/shenpu_index_left.shtml"-->
+            <!-- 首页左侧模板end-->              
+        </section>
+        <section class="section2">
+            <div class="info">
+                <!-- 首页轮播图模板start-->
+                <!--#include virtual="/list/shenpu_index_lb.shtml"-->
+                <!-- 首页轮播图模板end-->  
+
+                <div class="news">
+                    <ul class="newswrap">
+                        <li class="news-tab nt1"></li>
+                        <li class="news-tab nt2"></li>
+                        <li class="news-tab nt3"></li>
+                        <li class="more"><a  href="/list/shenpu_list_zx.shtml">MORE</a></li>
+                        <li class="more disN"><a  href="/list/shenpu_list_news.shtml">MORE</a></li>
+                        <li class="more disN"><a  href="/list/shenpu_list_hd.shtml">MORE</a></li>
+                    </ul>
+                    <!-- 首页最新模板start-->
+                    <!--#include virtual="/list/shenpu_index_all.shtml"-->
+                    <!-- 首页最新模板end-->   
+
+                    <!-- 首页新闻模板start-->
+                    <!--#include virtual="/list/shenpu_index_news.shtml"-->
+                    <!-- 首页新闻模板end-->                    
+
+                    <!-- 首页活动模板start-->
+                    <!--#include virtual="/list/shenpu_index_hd.shtml"-->
+                    <!-- 首页活动模板end-->
+                </div>
+                <!--公共媒体模板start-->
+                <!--#include virtual="/list/shenpu_index_mthz.shtml"-->
+                <!--公共媒体模板end-->
+            </div>
+        </section>
+        <!--公共底部模板start-->
+        <!--#include virtual="/list/shenpu_index_foot.shtml"-->
+        <!--公共底部模板end-->
+        <div class="video-sourse disN">
+            <div class="video-sourse-wrap">
+               <!-- <iframe id="myvideo" frameborder="0" allowfullscreen="" src="http://v.qq.com/iframe/player.html?vid=h0143kgrpyd&tiny=0"></iframe>-->
+                <div class="videoback">X</div>
+            </div>
+
+        </div>
+    </body>
+</html>	

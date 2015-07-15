@@ -1,0 +1,82 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Design:.; Web Layout:Minghua.Shi" />
+<title>龙骑战歌官方网站</title> 
+<meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+<meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="http://js.feiliu.com/static/lqzg/wap0525/css/news.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/wap0525/js/jquery-1.11.2.min.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="content">
+            <div class="nav">
+                <h3>内容</h3>
+                <a href="javascript:history.go(-1);">返回&gt;&gt;</a>
+            </div>
+            <div class="news">
+                    <h1 class="title">是男人就战100回 《龙骑战歌》坐骑系统曝光</h1>
+                    <div class="news_con">
+                    <p>一骑绝尘，冲袭千里！作为由国内顶级研发商墨麟倾力一年时间开发，飞流（FL Mobile)代理发行的次时代动作手游，《龙骑战歌》一经曝光便受到万千瞩目。这款被誉为中国手游最高水平代表作的《龙骑战歌》呈现出了无可比拟的高清电影级全3D画面、激爽真实的战斗打击感，而以骑战系统为代表的核心战斗系统更是让《龙骑战歌》开创了ARPG骑战新纪元。现在，让我们揭开坐骑系统的神秘面纱，抢先领略史无前例的骑战激情。</p><p><br/></p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416191055.jpg" title="20150416191055.jpg" alt="图1：骑战新纪元 《龙骑战歌》即将来袭.jpg"/></p><p><br/></p><p>【坐骑生死相依 酷炫造型张扬无比】</p><p><br/></p><p>&nbsp; 希腊神话中，海神尼普顿骑乘Hippocampus征战四方，无可匹敌，Hippocampus也成为西欧坐骑的始祖，受到中世纪贵族的尊崇。犹如海神尼普顿，《龙骑战歌》中玩家可以拥有强悍的坐骑，并且通过喂食让坐骑进阶，从战马到冰龙，从威武的普通生灵到传说中的神兽，虽然分为多个等阶，但坐骑无论在何种阶级都拥有无比酷炫张扬的造型。骑乘狰狞酷炫的冰龙，俯首藐视凶悍的敌人，挥手便可将其斩杀，难道不是每一个战士的终极梦想吗？</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416191101.jpg" title="20150416191101.jpg" alt="图2：坐骑-威猛张扬的猛犸.jpg"/></p><p><br/></p><p>【尊享属性加成 坐骑特技震慑群敌】</p><p><br/></p><p>&nbsp; 坐骑可不仅仅拥有酷炫的造型，《龙骑战歌》中玩家骑乘坐骑战斗不止会大幅增加攻击范围，让敌人无法近身便被击杀，坐骑对玩家附加的超高攻防、移动速度更让玩家可以肆无忌惮地杀戮。最令人震撼的坐骑特技也将在坐骑进化到一定阶段后自动开启，例如科多兽的践踏、龙类的喷火与扫尾等炫目强悍并存的全屏技能，俨然让坐骑成为了游戏中堪比大BOSS般最凶残的战争机器。</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416191118.jpg" title="20150416191118.jpg" alt="图3：战斗中威风凛凛的强悍坐骑.jpg"/></p><p><br/></p><p>&nbsp; 史上最畅爽的骑战即将开启，《龙骑战歌》让你化身巨龙骑士，在魔法与刀剑的世界中尽情战斗，创造属于龙骑传说！《龙骑战歌》移动官网已震撼上线，提前关注即可享受注册大礼包：http://lqzg.feiliu.com/wap/index.php</p><p><br/></p><p><img src="http://js.feiliu.com/gameimg/lqzg/20150416191126.jpg" title="20150416191126.jpg" alt="图4：进入《龙骑战歌》移动官网 尊享关注大礼包.jpg"/></p><p><br/></p>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+<script>
+    function getArgs()
+    {
+        var argsArr = new Object();
+        var query = window.location.search;  
+        query = query.substring(1);
+        var pairs = query.split("&");
+        for(var i=0;i<pairs.length;i++)
+        {
+            var sign = pairs[i].indexOf("="); 
+            if(sign == -1)
+            {
+                continue; 
+            }
+            var aKey = pairs[i].substring(0,sign);
+            var aValue = pairs[i].substring(sign+1);         
+            argsArr[aKey] = unescape(aValue);
+
+        }
+        return argsArr;
+    }
+
+    var param = new Object();
+    param = getArgs();
+    var source = param.s;
+
+    if(!source)
+    {
+        source = '300021';
+    }
+    $('a').click(function(e){
+        var url = $(this).attr('href');
+        if(url != 'javascript:void(0);' && url != "javascript:alert('敬请期待！');" && url != 'javascript:history.go(-1);');
+        {
+            e.preventDefault();
+            var url = $(this).attr('href');
+            if(url.indexOf('?') > -1)
+            {
+                var tourl = url + '&s='+source;
+            } else {
+                var tourl = url + '?s='+source;
+            }
+            window.location.href = tourl;   
+        }
+    });   
+
+</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>
+
+

@@ -1,0 +1,168 @@
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>龙骑战歌官方网站</title> 
+    <meta content="龙骑战歌，龙骑战歌官网，3D魔幻骑战网游，骑战，空战，欧美魔幻，立体，打击，手势，划屏" name="keywords">
+    <meta content="《龙骑战歌》是深圳墨麟开发、北京飞流代理的3D魔幻骑战手游，作为飞流2015年战略级产品，拥有仿真三维立体空间、蓝光级别画面、全屏触控打击、两条命随意切换、千种伙伴帮战以及独创的骑战空战玩法，打造未来动作手游旗舰之作。" name="description">
+<link href="http://js.feiliu.com/static/lqzg/web0525/css/index.css?v=4" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/slides.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/lqzg/web0525/js/index.js?v=1"></script>
+<script>
+        function getArgs()
+        {
+            var argsArr = new Object();
+            var query = window.location.search;  
+            query = query.substring(1);
+            var pairs = query.split("&");
+            for(var i=0;i<pairs.length;i++)
+            {
+                var sign = pairs[i].indexOf("="); 
+                if(sign == -1)
+                {
+                    continue; 
+                }
+                var aKey = pairs[i].substring(0,sign);
+                var aValue = pairs[i].substring(sign+1);         
+                argsArr[aKey] = unescape(aValue);
+
+            }
+            return argsArr;
+        }
+
+        var param = new Object();
+        param = getArgs();
+        var source = param.s;
+
+        if(!source)
+        {
+            source = '300021';
+        }
+
+
+		function isMobile(args) {
+			var sUserAgent= navigator.userAgent.toLowerCase();
+			var bIsIpad= sUserAgent.match(/ipad/i) == "ipad";
+			var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsMidp= sUserAgent.match(/midp/i) == "midp";
+			var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+			var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb";
+			var bIsAndroid= sUserAgent.match(/android/i) == "android";
+			var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce";
+			var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile";
+			if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) 
+			{
+				window.location.href= 'http://lqzg.feiliu.com/wap/list/index.shtml?s='+source;
+			}
+		}
+		isMobile();
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
+<body>
+<div class="page">
+    <div class="nav">
+    <div class="nav-con">
+        <a href="http://lqzg.feiliu.com/index.shtml"><img src="http://js.feiliu.com/static/lqzg/web0525/images/logo.png" alt="logo" class="logo" /></a>
+        <ul>
+            <li><a href="http://lqzg.feiliu.com/web/list/home.shtml">首页</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/newslist.shtml">新闻公告</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/index.shtml">玩法特色</a></li>
+            <li><a href="http://lqzg.feiliu.com/web/list/notice.shtml">职业介绍</a></li>
+            <li><a href="javascript:alert('敬请期待');">游戏活动</a></li>
+            <li><a href="http://bbs.8783.com/forum-178-1.html">论坛</a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="public-top"></div>
+    <div class="public-con">
+        <div class="public-box">
+            <div class="public-left">
+    <div class="public-code">
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="ios-link"></a>
+        <a href="http://lqzg.feiliu.com/download?cid=300021&type=5" class="android-link"></a>
+        <a href="javascript:;"  onclick="alert('敬请期待！');" class="raiders-link"></a>
+        <div>
+            <p>扫一扫关注龙骑战歌</p>
+            <img src="http://js.feiliu.com/static/lqzg/web0525/images/public-code.jpg" />
+        </div>
+    </div>
+    <ul class="public-adv">
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114758.jpg" alt="" /></a></li>
+        <li><a href="javascript:;"  onclick="alert('敬请期待！');"><img src="http://js.feiliu.com/gameimg/lqzg/20150526114939.jpg" alt="" /></a></li>
+        <li><a href="http://lqzg.feiliu.com/web/news/20150526003912.shtml"><img src="http://js.feiliu.com/gameimg/lqzg/20150526115157.jpg" alt="" /></a></li>
+    </ul>
+</div>
+            <div class="public-right">
+                <div class="public-title">
+                    <h5>新闻公告</h5>
+                    <a href="http://lqzg.feiliu.com/web/list/newslist.shtml"><<返回</a>
+                </div>
+                <div class="newsDetail">
+                    <h5>《龙骑战歌》BOSS原画曝光 堕落王子霸气侧漏</h5>
+                    <dl>
+                        <dt>发布于<span>2014-09-23 15:41:49</span></dt>
+                        <dd><span>分享到</span><div><a href="javascript:void(0);" class="weixin"></a><a href="javascript:void(0);" class="qzone"></a><a href="javascript:void(0);" class="tsina"></a><a href="javascript:void(0);" class="tqq"></a><a href="javascript:void(0);" class="renren"></a></div></dd>
+                    </dl>
+                    <div class="newsDetail-con">
+                        <p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">《龙骑战歌》，骑战新纪元！《龙骑战歌》是由国内著名游戏研发商墨麟倾力打造，飞流（FL Mobile）代理发行的ARPG骑乘新纪元手游。在《龙骑战歌》中玩家将化身狂战士、圣武士、刺客、法师四大勇士展开冒险，并能骑乘于充满魔幻色彩的飞龙之上翱翔于天际之间！今日《龙骑战歌》BOSS原画首次曝光，他们是拉风帅气的精灵亲王、霸气侧漏的塔洛斯城主以及黑暗堕落的圣雷因斯王子。</span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><img src="http://js.feiliu.com/gameimg/lqzg/20150416154111.jpg" title="20150416154111.jpg" alt="图1：《龙骑战歌》BOSS原画曝光 黑暗王子霸气侧漏.jpg"/></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">【堕落英雄 疯狂的圣雷因斯王子】</span><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;圣雷因斯教国的王子，曾经是雷因斯的英雄，立下许多战功。但后来被灰烬神教的邪恶魔法所控制，开始杀戮自己的人民。主角受王子的妹妹所托，不得已只好杀死王子，阻止他继续杀戮。</span></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><img src="http://js.feiliu.com/gameimg/lqzg/20150416154118.jpg" title="20150416154118.jpg" alt="图2：堕落英雄 疯狂的圣雷因斯王子.jpg"/></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">【因爱生恨 悲情的精灵亲王】</span><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;男精灵，仰慕精灵王国的女国王，后来因爱生恨，成为了迪兰妮亚的野心家，与灰烬神教勾结，阴谋颠覆现在的女王统治，煽动了兽人奴隶的叛乱。阴谋暴露后使用了从灰烬神教得到的邪恶魔法器具，变身成魔龙与主角战斗。</span></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><img src="http://js.feiliu.com/gameimg/lqzg/20150416154126.jpg" title="20150416154126.jpg" alt="图3：因爱生恨 悲情的精灵亲王.jpg"/></span></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">【黑色杀手 无情的塔洛斯城主】</span><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><br style="word-wrap: break-word; color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; white-space: normal; background-color: rgb(255, 255, 255);"/><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">&nbsp;&nbsp;塔洛斯的城主，想要跟灰烬神教合作，将主角灭口。身穿防护严密的黑色战铠，武器为双手长剑，并且能使用黑暗魔法。</span></span></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><img src="http://js.feiliu.com/gameimg/lqzg/20150416154137.jpg" title="20150416154137.jpg" alt="图4：黑色杀手 无情的塔洛斯城主.jpg"/></span></span></p><p><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);"><span style="color: rgb(68, 68, 68); font-family: Tahoma, &#39;Microsoft Yahei&#39;, Simsun; font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);">&nbsp;《龙骑战歌》三大BOSS首次曝光，你是不是已经按耐不住自己手中的利剑，想要推倒他们了！先别着急，我们将会在下周继续爆出其他BOSS的原画，敬请期待！</span></span></span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="footer-con">
+            <p>About.us | Copy right@北京飞流九天科技有限公司</p>
+            <p>爱游戏，爱生活，也爱美女。</p>
+            <p>飞流iPhone专区，致力于为同志们推荐最好的iPhone游戏！</p>
+            <p>我们提供最新的游戏评测、游戏攻略、新游预告，还为你解决各种用机难题！</p>
+            <p>Love is love!</p>
+        </div>
+    </div>
+</div>
+    <script>
+        var link = $('.android-link').attr('href');
+        if(!link)
+        {
+        	$('.android-link a').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }else{
+        	$('.android-link').attr('href','http://lqzg.feiliu.com/download?cid='+source+'&type=5');
+        }
+        
+        $('a').click(function(e){
+            var url = $(this).attr('href');
+            if(url != 'javascript:void(0);' && url != "javascript:;");
+            {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                if(url.indexOf('?') > -1)
+                {
+                    var tourl = url + '&s='+source;
+                } else {
+                    var tourl = url + '?s='+source;
+                }
+                window.location.href = tourl;   
+            }
+        });
+
+
+    </script>
+    <script>$.ajax({ url:"http://gameapi.feiliu.com/game/netlog",type:'GET',dataType:'jsonp',success: function(data){}});</script>
+    <div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252983516'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1252983516' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

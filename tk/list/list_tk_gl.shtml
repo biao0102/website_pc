@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>战地坦克官网</title>
+<meta name="keywords" content="战地坦克,战地坦克官网,战地坦克越狱版下载，战地坦克IOS版下载，战地坦克安卓版下载，战地坦克游戏" />
+<meta name="description" content="战地坦克首款坦克题材SLG手游，这里有辽阔的战场，能够容纳成千上万只装甲集团军在这里纵横拼杀，这里汇聚了古今中外战场上各式威名赫赫的主战坦克，能够让您组建一支前所未有的强大陆战之师，这里集中了最具现代化科学技术与高效装甲部队相结合，能够让您体验到现代化科技战争的无穷魅力，而这一切，只要您动动手指，即可体验弹指间，樯橹灰飞烟灭的快感。" />
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>游戏攻略</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_yxgl.shtml">攻略</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt02 start -->
+            <div class="infotxt02">
+              <div class="top001" id="_show1">
+                <ul class="buttonbgsub">
+                  <li class="subli02"><a href="http://tk.feiliu.com/list/list_tk_xszn.shtml">新手指南</a></li>
+                  <li class="subli01"><a href="http://tk.feiliu.com/list/list_tk_gl.shtml">游戏攻略</a></li>
+                </ul>
+                <div class="subnews01">
+                  <ul>
+                    
+                      
+                      <li><a href="http://tk.feiliu.com/20141211/22697.shtml" target="_blank" title="《战地坦克》攻略">《战地坦克》攻略</a><span class="subdate">[2014-12-11]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20141210/22675.shtml" target="_blank" title="《战地坦克》坦克属性克制表">《战地坦克》坦克属性克制表</a><span class="subdate">[2014-12-10]</span></li>
+                      
+                      <li><a href="http://tk.feiliu.com/20140724/21431.shtml" target="_blank" title="《战地坦克》配件系统介绍">《战地坦克》配件系统介绍</a><span class="subdate">[2014-07-24]</span></li>
+                                      </ul>
+                </div>
+                <div class="subpages"><a href="">首页</a> [<a href="">1</a>] [<a href="">2</a>] [<a href="">3</a>] [<a href="">4</a>] [<a href="">5</a>] [<a href="">6</a>] <a href="">末页</a></div>
+              </div>
+            </div>
+            <!--infotxt02 end -->
+          </div>
+          <!--gmcon end -->
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+      <!-- boxx end -->
+    </div>
+  </div>
+</div>
+</body>
+</html>

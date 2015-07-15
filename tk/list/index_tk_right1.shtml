@@ -1,0 +1,27 @@
+<div class="newsbox">
+                    <div class="news_nav" id="news_nav">
+                        <a href="javascript:;" class="current">新闻</a>
+                        <a href="javascript:;">活动</a>
+                        <a href="javascript:;">公告</a>
+                        <a href="javascript:;">媒体</a>
+                    </div>
+                    <div class="news_panes" id="news_panes">
+                        
+                        <!--坦克风云首页新闻栏目模板start-->
+							<!--#include virtual="/list/index_tk_news1.shtml"-->
+						<!--坦克风云首页新闻栏目模板end-->
+
+						<!--坦克风云首页活动栏目模板start-->
+							<!--#include virtual="/list/index_tk_hd1.shtml"-->
+						<!--坦克风云首页活动栏目模板end-->
+
+						<!--坦克风云首页公告栏目模板start-->
+							<!--#include virtual="/list/index_tk_gg1.shtml"-->
+						<!--坦克风云首页公告栏目模板end-->
+
+						<!--坦克风云首页媒体栏目模板start-->
+							<!--#include virtual="/list/index_tk_mt1.shtml"-->
+						<!--坦克风云首页媒体栏目模板end-->
+  
+                    </div>
+                </div>

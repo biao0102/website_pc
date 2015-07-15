@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">T-90领衔！《战地坦克》玩家盘点最牛X主战坦克</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-08-22</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团策略手游《战地坦克》火爆测试中！今日有超级军事迷玩家盘点了目前世界最先进的主战坦克，其中俄罗斯的T-90、中国第三代坦克96A都名列前茅，相信随着《战地坦克》的不断更新，这些最先进战车我们见面！<br />
+《战地坦克》游戏官网：tk.feiliu.com<br />
+《战地坦克》ios版下载：https://itunes.apple.com/cn/app/zhan-de-tan-ke/id875915071?mt=8<br />
+<br /><img src="http://i0.feiliu.com/image/20140822/20140822102644_80081.jpg" alt="" /><br />
+T-90主战坦克】<br />
+T-90主战坦克是俄罗斯研制的主战坦克。车体改良自T-72，采用重新设计的焊接炮塔，火控则采用T-80U的火控系统，拥有极强的杀伤力。此外T-90坦克的炮塔是苏联坦克炮塔中防护性能最好的一种，其基体是类似于英国“乔巴姆”装甲的复合装甲——由一个交替地镶有多层铝板和塑料板的主装甲壳体和一个可控制变形的部分组成，在主装甲外面，还加装了“接触”-5爆炸反应装甲，有效地对付 “陶”式、“龙”式、“小牛”等导弹和激光制导炮弹。<br />
+<br /><img src="http://i0.feiliu.com/image/20140822/20140822102714_63497.jpg" alt="" /><br />
+【ZTZ-96A】<br />
+ZTZ-96A型主战坦克（简称：96A），是96式坦克的最新改进型，是在三代大改坦克服役之前，该型坦克通过安装附加装甲和上反稳像式观瞄系统，实现了防护力和火控能力双线提升。该坦克是中国第二代主战坦克系列的最新型号，继承了东方坦克重量轻，结构紧凑，外形低矮的特点，安装了先进的火控系统和多种光电技术的应用，加上先进的计算机，红外等高新技术的车裁设备，使火力反应时间更短，打击精度更高，生存能力更强。<br />
+<br /><img src="http://i0.feiliu.com/image/20140822/20140822102741_12345.jpg" alt="" /><br />
+<br />
+<br />
+【阿玛塔主战坦克】<br />
+Армата148工程是俄国研发中的第一种通用坦克平台，通过搭载不同的系统，可以衍生为坦克、自行火炮、工程车辆、防空平台、重型步兵装甲战车等。基于阿玛塔坦克平台的阿塔玛主战坦克，作为新一代主战坦克，“阿玛塔”抛弃了沿用了半个世纪的125毫米2A46系列滑膛炮，改为搭载一门全新设计的125毫米2A82型滑膛炮，该炮采用自紧和部分镀铬炮管的火炮系统既可以发射所有现有炮弹和在研的新型弹种，能够自由应对任何战场环境。<br />
+<br /><img src="http://i0.feiliu.com/image/20140822/20140822102904_72297.jpg" alt="" /><br />
+【PT-91M】<br />
+PT-91M的车体和炮塔(包括前部和侧面)挂装了波兰新式的增强型模块化爆炸反应装甲。为增强对地雷的防护，在战车的底部安装了防护附件，原先的履带也更换为德国迪尔公司生产的与“豹”2坦克一样的履带。PT-91M的主炮是一门D-81TM型125毫米滑膛炮，安装了法国SAGEM公司的SAVAN 15火控系统。此外，炮塔还安装了超快方位、俯仰角调节电机，大大缩短了战场中目标瞄准射击所需的时间。为防止坦克在中弹后引起大火或弹药殉爆，战车还安装了华沙PCO公司研制的第二代自我保护/激光报警系统。德国韦格曼公司的76毫米烟雾弹/高爆榴弹发射器(位于炮塔两边各排列12个)也为PT-91M战场生存能力的提高增加了一份筹码。<br /><img src="http://i0.feiliu.com/image/20140822/20140822102917_55027.jpg" alt="" /><br /><img src="http://i0.feiliu.com/image/20140822/20140822102933_53669.jpg" alt="" /><br />
+<br />
+<br />
+指挥各国主战坦克集团撕裂对手防线，体验爽快硬派的机械化战争。《战地坦克》还原二战激烈装甲军团对决！坦克大战 一触即发，施展谋略的舞台已经准备就绪，建造基地发展军备、火爆对战抢夺资源，在战火纷飞的世界中寻找激情与荣耀。<br />
+<br />
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

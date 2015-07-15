@@ -1,0 +1,136 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a>
+		</div>
+		<ul class="newslist" id="news">
+										<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150605144627.shtml">
+					【活动】老用户召回活动</a><span class="pubdate">06/05</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150601114056.shtml">
+					【活动】开服系列活动</a><span class="pubdate">06/01</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150601103658.shtml">
+					【新闻】找回童“贞”《众妖之怒》性感“腰”精陪你过61</a><span class="pubdate">06/01</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150527142934.shtml">
+					【新闻】猛男也“腰”娆！《众妖之怒》参赛男选手亮相</a><span class="pubdate">05/27</span></li>
+							<li class="newslist-item"><a href="http://ka.18183.com/card_30986.shtml">
+					【活动】点击领壕礼，18183特权礼包！</a><span class="pubdate">05/25</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150521112841.shtml">
+					【新闻】#版本前瞻#帮会挑战赛系统</a><span class="pubdate">05/21</span></li>
+							<li class="newslist-item"><a href="http://ka.5253.com/card_1924.html">
+					【活动】点击领壕礼，多玩独家礼包</a><span class="pubdate">05/19</span></li>
+							<li class="newslist-item"><a href="http://ka.sina.com.cn/16354?retcode=0">
+					【活动】点击领壕礼，新浪独家礼包</a><span class="pubdate">05/19</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150511105341.shtml">
+					【新闻】小妖如何长成大妖 《众妖之怒》新手升级攻略</a><span class="pubdate">05/11</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150429025115.shtml">
+					【公告】热依扎最爱手游《众妖之怒》今日越狱不删档   </a><span class="pubdate">04/29</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150428110811.shtml">
+					【新闻】首充送大礼！《众妖之怒》明日越狱不删档内测</a><span class="pubdate">04/28</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150424022939.shtml">
+					【新闻】《众妖》直追PC端大型Q萌西游</a><span class="pubdate">04/24</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150421014310.shtml">
+					【新闻】热依扎化身《众妖之怒》小伙伴 萌萌妖精撸大炮</a><span class="pubdate">04/21</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150420042032.shtml">
+					【新闻】《众妖之怒》的自白书</a><span class="pubdate">04/20</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150416103804.shtml">
+					【新闻】热依扎献声《众妖之怒》 超嗲叫声宛如妖精</a><span class="pubdate">04/16</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150413032026.shtml">
+					【新闻】《众妖之怒》四大职业模特走秀</a><span class="pubdate">04/13</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150408113251.shtml">
+					【新闻】众妖宝石攻略</a><span class="pubdate">04/08</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150403034936.shtml">
+					【新闻】 [攻略心得] 众妖之怒升级攻略</a><span class="pubdate">04/03</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150402120833.shtml">
+					【新闻】屌丝逆袭白富美！《众妖之怒》玩家樱花树下激吻</a><span class="pubdate">04/02</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150327111152.shtml">
+					【新闻】高手在民间！《众妖之怒》玩家火车上偷拍睡姿</a><span class="pubdate">03/27</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150326105905.shtml">
+					【新闻】众妖之怒黑龙图鉴 黑龙属性技能介绍</a><span class="pubdate">03/26</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150325023954.shtml">
+					【新闻】众妖之怒壶妖图鉴 壶妖属性技能介绍</a><span class="pubdate">03/25</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150324113121.shtml">
+					【新闻】众妖之怒攻略之角色选择篇（上）</a><span class="pubdate">03/24</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150320121941.shtml">
+					【新闻】 众妖熊锤萌萌哒</a><span class="pubdate">03/20</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150319121018.shtml">
+					【新闻】众妖蛮牛时装大会   </a><span class="pubdate">03/19</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150318114421.shtml">
+					【新闻】众妖之怒装备怎么得 装备系统详解</a><span class="pubdate">03/18</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150317112855.shtml">
+					【新闻】#称号获得攻略#众妖之怒称号怎么得 </a><span class="pubdate">03/17</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150316120442.shtml">
+					【新闻】众妖天梯赛攻略</a><span class="pubdate">03/16</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150313113048.shtml">
+					【新闻】众妖装备强化攻略</a><span class="pubdate">03/13</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150312031242.shtml">
+					【新闻】宠物选择及培养攻略</a><span class="pubdate">03/12</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150311031112.shtml">
+					【新闻】众妖之怒怎么升级快 快速升级攻略</a><span class="pubdate">03/11</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150310105647.shtml">
+					【新闻】《众妖之怒》时装系统指导</a><span class="pubdate">03/10</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150309111706.shtml">
+					【新闻】众妖之怒每日必做任务 大量金币经验等你拿</a><span class="pubdate">03/09</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150306120620.shtml">
+					【新闻】众妖新手入门 玩法介绍</a><span class="pubdate">03/06</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150305021852.shtml">
+					【新闻】众妖新手入门  职业选择推荐</a><span class="pubdate">03/05</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150303115415.shtml">
+					【新闻】猴子绿装之《项链》</a><span class="pubdate">03/03</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150302121039.shtml">
+					【新闻】*众妖装备总览之灵猴绿装衣服装备介绍*</a><span class="pubdate">03/02</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150227123551.shtml">
+					【新闻】*众妖灵猴绿色头盔装备一览*</a><span class="pubdate">02/27</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150226105235.shtml">
+					【新闻】*众妖灵猴绿色护手装备一览*</a><span class="pubdate">02/26</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150213113717.shtml">
+					【新闻】轻快玉兔，无懈可击#众妖玉兔操作实战攻略#</a><span class="pubdate">02/13</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150213101238.shtml">
+					【新闻】情人节献礼！《众妖之怒》全新官网今日上线</a><span class="pubdate">02/13</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150210115021.shtml">
+					【新闻】众妖蛮牛操作实战攻略</a><span class="pubdate">02/10</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150209111524.shtml">
+					【新闻】>>>>>>>蛮牛 技能解析</a><span class="pubdate">02/09</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150206104206.shtml">
+					【新闻】沙僧变铁匠？《众妖之怒》沙悟净形象首次曝光</a><span class="pubdate">02/06</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150205105624.shtml">
+					【新闻】众妖世界观小说连载之#妖族再起4#</a><span class="pubdate">02/05</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150204111911.shtml">
+					【新闻】众妖世界观小说连载之#妖族再起3#</a><span class="pubdate">02/04</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150203030902.shtml">
+					【新闻】众妖世界观小说连载之#妖族再起2#</a><span class="pubdate">02/03</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150202120635.shtml">
+					【新闻】众妖世界观小说连载之#妖族再起1#</a><span class="pubdate">02/02</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150130112528.shtml">
+					【新闻】众妖之怒世界观之# 魔物当道#</a><span class="pubdate">01/30</span></li>
+							<li class="newslist-item"><a href="http://zyzn.feiliu.com/wap/news/20150129102500.shtml">
+					【新闻】众妖之怒世界观之#天庭昏聩#</a><span class="pubdate">01/29</span></li>
+								</ul>
+		<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

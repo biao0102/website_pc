@@ -1,0 +1,52 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">《众妖之怒》时装系统指导</div>
+			<div class="news-con">
+				《众妖之怒》作为一款美术品质极高的游戏，外显类的时装系统是比较令人期待，且这种Q版萌系的人设风格，也给游戏内的时装增添了一些不一样的特色。除去原有的Q版风格外，豹纹、墨镜等时尚元素也混入进众妖之怒的时装中，为这款3D萌系ARPG增添了更多的谈资。<br />
+<br />
+<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150310/20150310105628_17446.jpg" alt="" /><br />
+<br />
+<br />
+&nbsp; &nbsp; &nbsp; 进入新手期后会很快看到游戏解锁时装系统（角色等级8级解锁），并且有试穿的引导，让你第一时间可以看到自己在穿上这些逗趣时装后的角色形象，算是比较贴心的设计。<br />
+&nbsp; &nbsp; &nbsp; &nbsp;从玩法设计上来看，与有些游戏不尽相同，众妖之怒中的一套时装分为两件，一件衣服一件武器。这也在时装的选择和搭配上预留了更多的空间，让大家可以有更多的选择去搭配自己喜欢的风格。<br />
+&nbsp; &nbsp; &nbsp; &nbsp;时装的购买价格上每件时装保证了相同的售价，只是在有效期的差别上有少许价格的差异，所以也不用太过纠结价格的问题而让自己的选择带有局限。包括大家在游戏中最关心的时装属性问题，每件时装（衣服、武器）带来的属性加成完全相同，所以只需要选择你喜欢的款式就好。对于新手期的各位，时装加成属性在前期可以说有着不小的增益，在新手期过关斩将、杀人越货，可以说是必备良品。<br />
+&nbsp; &nbsp; &nbsp; 从各种设计思路上来看，时装系统突出的更多是外形上的炫耀和吸引。策划大大也很卖力的准备足够库存供大家选择。时装系统开放后，每个职业都拥有六套不同类型的时装可供购买，足以满足好奇与爱美的各位在新手期的追逐与炫耀。时装获得上也做的颇为丰富和人性，除去充值类活动、VIP等级等条件可获取外，活跃性登陆，角色的良性成长下，时装也成为了对那些支持游戏，用心去融入游戏的各位最好的奖励。<br />
+&nbsp; &nbsp; &nbsp; 大战在即，戾气蠢蠢欲动，别忘记在提升战力的同时拥有一颗恬静且懂得欣赏美丽事物的纯心。<br />
+<div >
+	<br />
+</div>
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

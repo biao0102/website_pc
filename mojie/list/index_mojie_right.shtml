@@ -1,0 +1,15 @@
+<!--魔戒右侧新闻栏目模板start-->
+	<!--#include virtual="/list/index_mojie_news.shtml"-->
+<!--魔戒右侧新闻栏目模板end-->
+
+<!--魔戒右侧活动栏目模板start-->
+	<!--#include virtual="/list/index_mojie_hd.shtml"-->
+<!--魔戒右侧活动栏目模板end-->
+
+<!--魔戒右侧公告栏目模板start-->
+	<!--#include virtual="/list/index_mojie_gg.shtml"-->
+<!--魔戒右侧公告栏目模板end-->
+
+<!--魔戒右侧媒体栏目模板start-->
+	<!--#include virtual="/list/index_mojie_mt.shtml"-->
+<!--魔戒右侧媒体栏目模板end-->

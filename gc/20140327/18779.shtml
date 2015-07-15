@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="攻城掠地," />
+    <meta name="description" content="【最新】内测首次版本更新内容曝光_【最新】内测首次版本更新内容曝光" />
+	<link href="http://js.feiliu.com/static/flg/images/136136.png" rel="shortcut icon" />
+    <link href="http://js.feiliu.com/static/flg/images/136136.png" rel="Bookmark" />
+    <title>【最新】内测首次版本更新内容曝光 攻城掠地_新闻</title>
+    <link href="http://js.feiliu.com/static/flg/style/news.css?x=6" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/ui_overlay.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.accordionza.min.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/flg/js/jquery.smallslider.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/flg/js/gc.js?v=21"></script>
+</head>
+<style>
+	.news_head_gl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_gl.jpg) no-repeat left top;}
+	.news_head_zl { width: 747px; height: 39px; background: url(http://js.feiliu.com/static/flg/images/news/news_head_zl.jpg) no-repeat left top;}
+</style>
+<body  onload="window.scrollTo(0,50)">
+    <div class="top">
+        <div class="top_main">
+            <img src="http://js.feiliu.com/static/flg/images/index/top.jpg" alt="" />
+        </div>
+    </div>
+    <div class="bg01">
+        <div class="bg02">
+            <div id="wrap" class="wrap">
+                <div class="content">
+                    <!--攻城掠地头部公共导航模板start-->
+						<!--#include virtual="/list/index_gcld_nav.shtml"-->
+					<!--攻城掠地头部公共导航模板end-->
+
+                    <div class="main main_bg clearfix">
+                        <div class="main_l">
+                            <!--攻城掠地左侧下载公共模板start-->	
+								<!--#include virtual="/list/index_gcld_download.shtml"-->
+							<!--攻城掠地左侧下载公共模板end-->
+                            
+							<!--攻城掠地左侧礼包客服微博公共模板start-->
+								<!--#include virtual="/list/index_gcld_lbkfwb.shtml"-->
+							<!--攻城掠地礼包客服微博公共模板end-->
+                        </div>
+                        <div class="main_r">
+                            <div class="news">
+															<div class="news_head">
+										
+										<ul class="news_tab">
+											<li><a href="http://gc.feiliu.com/list/list_gcld_gg.shtml">公告</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_news.shtml"  class="current">新闻</a></li>
+											<li><a href="http://gc.feiliu.com/list/list_gcld_rd.shtml">热点</a></li>
+											<li class="noborder"><a href="http://gc.feiliu.com/list/list_gcld_hd.shtml">活动</a></li>
+										</ul>
+										<p>所在位置： <a href="http://gc.feiliu.com">首页</a> &gt;&gt; 新闻 </p>
+									                                </div>
+							                                <div class="news_content">
+                                    <div class="news_redian"><a href="#" target="_blank">【最新】内测首次版本更新内容曝光</a></div>
+                                    <div class="news_date">发布时间：2014-03-27 18:37:56</div>
+                                    <div class="news_main">
+										<img src="http://i0.feiliu.com/image/20140327/20140327183355_12188.jpg" alt="" /><br />
+<br />
+让大家期待已久的游戏新版本终于出炉了，小倩第一时间给大家发布最新消息！话不多说，大家注意看更新内容哦！<br />
+<br />
+★	新增玩法：<br />
+跨服擂台先锋赛<br />
+<br />
+<span>★</span> 新增单人剧本：<br />
+86级-白门楼之战<br />
+88级-过五关斩六将<br />
+<br />
+<span>★</span> 新增国家任务：<br />
+建造奇迹<br />
+镇压黄巾&nbsp;<br />
+<br />
+<span>★</span> 游戏优化：<br />
+VIP奖励领取提示<br />
+VIP对应充值元宝数量提示<br />
+新增武将位时，世界左侧武将栏显示空位<br />
+世界缩略图按钮上显示当前可处理事件数量<br />
+调整游戏图片质量<br />
+增加多个模块可领取的提醒<br />
+<br />
+关于更新时间和其他最新消息，请关注：<br />
+《攻城掠地》官方网站：http://gc.feiliu.com<br />
+《攻城掠地》官方微信：gongcld<br />
+《攻城掠地》官方微博：@攻城掠地手机版<br />
+《攻城掠地》官方客服QQ：800032234
+<p>
+	<br />
+</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--攻城掠地底部版权公共模板end-->
+						<!--#include virtual="/list/index_gcld_foot.shtml"-->
+					<!--攻城掠地底部版权公共模板end-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--攻城掠地浮动窗口公共模板start-->
+    <!--#include virtual="/list/index_gcld_rightfloat.shtml"-->
+	<!--攻城掠地浮动窗口公共模板end-->
+	
+<!--list分页-底部start--> 
+<script language="javascript"> 
+var f_pagecount =  
+<!--#include virtual="/pub/page_ctrl.shtml"--> 
+</script> 
+<!--list分页-底部end--> 
+</body>
+</html>

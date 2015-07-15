@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>战魂西游</title>
+ <meta name="keywords" content="战魂西游,战魂西游官网, 战魂西游下载,战魂西游攻略,战魂西游礼包,战魂西游安卓版, 战魂西游ios版" />
+<meta name="description" content="战魂西游官网提供战魂西游下载,战魂西游攻略,ios安卓礼包发放。战魂西游是以西游记为题材的ARPG游戏,街机手动操作战斗,超爽快的动作打击效果,无限的动作连击以及角色多样化养成,在工作、学习的短暂闲暇中即可畅快游戏。" />
+<link type="text/css" rel="stylesheet" href="http://js.feiliu.com/static/zhxy/web/css/main.css?v=18" />
+<script type="text/javascript" src="http://js.feiliu.com/static/zhxy/web/js/jquery-1.9.0.js"></script>
+</head>
+<body class="inner">
+<div class="sec1">
+	<div class="wrap">
+        <!--首页头部导航模板start-->
+            <!--#include virtual="/list/index_zhxy_nav.shtml"-->
+        <!--首页头部导航模板end-->
+
+        <!--首页下载模板start-->
+            <!--#include virtual="/list/index_zhxy_down.shtml"-->
+        <!--首页下载模板end-->
+    </div>
+</div>
+<div class="sec2">
+	<div class="sec2-inner">
+    	<div class="wrap">
+        	<div class="main-wrap">
+            	<div class="side">
+                <!--列表页左侧链接模板start-->
+                    <!--#include virtual="/list/list_zhxy_leftbar.shtml"-->
+                <!--列表页左侧链接模板end-->
+
+                <!--首页左侧微信微博模板start-->
+                    <!--#include virtual="/list/index_zhxy_msg.shtml"-->
+                <!--首页左侧微信微博模板end-->
+                </div>
+                <div class="content">
+                	<div class="list-header">
+                    	<ul>
+                        	<li><a href="http://zhxy.feiliu.com/list/list_zhxy_zx.shtml">最新</a></li>
+                            <li><a class="active" href="http://zhxy.feiliu.com/list/list_zhxy_news.shtml">新闻</a></li>
+                            <li><a href="http://zhxy.feiliu.com/list/list_zhxy_gg.shtml">公告</a></li>
+                            <li><a href="http://zhxy.feiliu.com/list/list_zhxy_hd.shtml">活动</a></li>
+                        </ul>
+                    </div>
+                    <ul class="article-list">
+                            
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140812/21623.shtml" target="_blank">【新闻】加加新版火爆上线 解放双手送豪礼</a><span>2014-08-12</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140717/21363.shtml" target="_blank">【新闻】《战魂西游》多家媒体礼包优惠享不停</a><span>2014-07-17</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140714/21334.shtml" target="_blank">【新闻】《战魂西游》7月15日11点内测火爆开启</a><span>2014-07-14</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140709/21287.shtml" target="_blank">【新闻】刀刀入肉！街机手游《战魂西游》超炫技能</a><span>2014-07-09</span></li>
+                          
+                            <li><a href="http://zhxy.feiliu.com/20140422/20439.shtml" target="_blank">【新闻】《战魂西游》2014最强动作手游来袭</a><span>2014-04-22</span></li>
+                                            </ul>
+                    <div class="pager" id="pager"></div>
+                </div>
+            </div>
+
+            <!--列表页底部模板start-->
+                <!--#include virtual="/list/list_zhxy_footer.shtml"-->
+            <!--列表页底部模板end-->
+        </div>
+    </div>
+</div>
+</body>
+<!--list分页-底部start--> 
+    <script language="javascript"> 
+    var f_pagecount = 1 
+    <!--#include virtual="/pub/page_ctrl.shtml"--> 
+    </script> 
+<!--list分页-底部end--> 
+</html>

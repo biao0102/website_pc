@@ -1,0 +1,23 @@
+        <!-- 飞流下载 -->
+        <div class="fl-down asb">
+          <a href="http://game.feiliu.com/youxishequ/index.html?s=C08010000_App_shequ_908010000" class="downfl">下载游戏社区</a>
+          <span><img src="http://js.feiliu.com/static/activity/sq/qrcode/gw_bgzg.png" /></span>
+        </div>
+        <!-- 飞流下载 -->
+
+<div class="downloadcon asb">
+	<div class="flu">
+		<a href="javascript:alert('敬请期待！');" class="dbtn01"></a>
+		<div class="qrc asb" id="qrc-iosapp">
+			<img src="http://js.feiliu.com/gameimg/ysg/20150314163002.png"  alt="AppStore下载" />
+		</div>
+		<a href="http://ysg.feiliu.com/download?cid=300021&type=5" class="dbtn02"></a>
+		<div class="qrc asb" id="qrc-android">
+			<img src="http://js.feiliu.com/gameimg/ysg/20150316160719.png"  alt="安卓版下载" />
+		</div>
+		<a href="http://ysg.feiliu.com/download?cid=300021&type=2" class="dbtn03"></a>
+		<div class="qrc asb" id="qrc-iosipa">
+			<img src="http://js.feiliu.com/gameimg/ysg/20150314162735.png"  alt="越狱版下载" />
+		</div>
+	</div>
+</div>

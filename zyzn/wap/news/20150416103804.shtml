@@ -1,0 +1,67 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>众妖之怒</title>
+	<link rel="stylesheet" href="http://js.feiliu.com/static/zyzn/wap0512/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head>
+
+<body class="bgwhite">
+	<div class="newswrap" id="newswrap">
+		<div class="topbar">
+			<img class="w100" src="http://js.feiliu.com/static/zyzn/wap0512/images/topbar.jpg" alt="">
+			<a class="backbtn" href="javascript:window.history.back();"></a></div>
+		<div class="detail" id="news">
+			<div class="news-tit">热依扎献声《众妖之怒》 超嗲叫声宛如妖精</div>
+			<div class="news-con">
+				首款东方奇幻3D动作手游《众妖之怒》即将正式开启内测，除了在游戏内容上会与封测版本有诸多不同之外，在内测中游戏代言人热依扎还会献声，亲自为游戏进行配音。热依扎本身柔美、清婉的音线与为《众妖之怒》新手村量身打造的声音效果，最终的声音简直嗲到如妖精般诱人。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150416/20150416103708_43696.jpg" alt="" /><br />
+<br />
+<br />
+【首次游戏配音 代入Q萌的欢乐】<br />
+<br />
+<br />
+&nbsp; 热依扎代言《众妖之怒》不止是其职业生涯的首次，连为游戏配音也是初次。相较之此前为电影、电视剧进行后期录音，为游戏进行配音对热依扎来说充满了新奇，真的喜爱游戏，喜欢自己COS的角色，将自己幻想为游戏中的人物，让她在配音的过程中充满了欢乐。<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150416/20150416103740_84945.jpg" alt="" /><br />
+<br />
+<br />
+【新手指导 享受亲切的照顾】<br />
+<br />
+<br />
+&nbsp; 新手玩家的引导是热依扎此次配音的核心内容，温柔的“亲，记得每天这个时候来领取体力哦。”，调皮的“点击攻击按钮，就可以攻击敌人啦”……热依扎用不同的语音亲切地为玩家进行全面的引导，让所有新手玩家都可以在她的指引下，尽快享受游戏的欢乐，但同时，聆听热依扎的声音，也是一种享受吧！<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150416/20150416103751_52087.png" alt="" /><br />
+<br />
+<br />
+【游戏内现身 陪伴玩家游戏】<br />
+<br />
+<br />
+&nbsp; 在对游戏进行配音的同时，为热依扎量身打造的游戏人物也将在内测开启后的版本更新中出现。届时，热依扎将会每天都陪伴玩家游戏，或许作为任务NPC，或许她会在游戏中为玩家派送奖励，或许也仅仅是一个聊天NPC，当玩家休息时可以聊聊天，享受轻松的乐趣……<br />
+<br />
+<br /><img src="http://i0.feiliu.com/image/20150416/20150416103801_25664.png" alt="" /><br />
+<br />
+&nbsp; 热依扎的配音可是非常专业、非常诱惑人哦！如果你想近距离接触扎扎，那就准备进入《众妖之怒》的世界，享受多重欢乐吧！<br />
+&nbsp;&nbsp;<br />
+			</div>
+		</div>
+<nav id="nav">
+	<a id="nav-dowload" href="javascript:void(0);">游戏下载</a><a href="http://zyzn.feiliu.com/wap/list/lists.shtml">游戏资讯</a><a href="http://zyzn.feiliu.com/web/list/zt_20150518.shtml">热门活动</a>
+	<div class="downbtn" id="downbtn" style='display:none;'>
+		<a href="javascript:alert('敬请期待')">AppStore官网下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=2">越狱版下载</a><a href="http://zyzn.feiliu.com/download?cid=300021&type=5">安卓版下载</a>
+	</div>
+</nav>
+
+	</div>
+	<script src="http://js.feiliu.com/static/zyzn/wap0512/js/zymob.js?v=1"></script>
+	<script>
+		//window.onresize = resizeNewsWin;
+		resizeNewsWin();
+	</script>
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5929835'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/stat.php%3Fid%3D5929835' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

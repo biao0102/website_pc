@@ -1,0 +1,52 @@
+<!--首页头部模板开始--> 
+	<!--#include virtual="/list/bgzg_index_top.shtml"-->
+<!--首页头部模板结束-->
+<body>
+	<div class="subwrap rel minwidth02">
+		<div class="toptiao"></div>
+		<div class="submain  rel">
+			<div class="logo asb"></div>
+			<div class="sub_title">
+    			    			游戏攻略
+    						</div>
+			<div class="newsliecon">
+				<div class="newstxt">
+	        		<div class="add">您当前的位置：
+	        			<a href="http://bgzg.feiliu.com">首页 >> </a>
+	        				        			游戏攻略
+	        				        		</div>
+	    			<div class="infotitle">《就是要三国》1月13日删档封测FAQ</div>
+		        	<div class="textTime">2015-01-09</div>
+		    		<div class="article">
+						Q：	本次测试（以下均指1月13日删档付费封测）是否删档？<br />
+A：	删档。<br />
+<br />
+Q：	本次测试是否可充值？删档后已充值的钱是否会返还？<br />
+A：	可以充值。在本次测试期间充值的游戏币均可在不删档开放测试时进行返还，返还额度为实际充值额度的200%。详情请查看相关活动说明。<br />
+<br />
+Q：	我怎么充值？<br />
+A：	充值请点游戏界面上的“充值”按钮或“元宝”图标，点击选择适合的额度，（充值方式有支付宝，财付通，mo9，移动、联通、电信充值卡）<br />
+<br />
+Q：	VIP有什么用？<br />
+A：	成为VIP可以让角色获得更多的特权和奖励，等级越高奖励越多。<br />
+<br />
+Q：我手机里有《<span >就是要三国</span>》首测时的客户端，如何安装此次测试的游戏包?<br />
+A：建议将老的客户端卸载后重新安装。<br />
+<br />
+Q：《<span >就是要三国</span>》推荐的配置是什么?<br />
+A：iOS版本需要iPhone4S及以上设备，固件要求5.0版本以上，目前只支持越狱版本，若未越狱可以选择快用渠道进行下载安装。安卓版本暂未开放。<br />
+<br />
+<span>Q：我参与的《<span >就是要三国</span>》线上活动怎么领奖?</span><br />
+<span>A：本次测试的线上活动中，有部分是需要您提供信息才可以核对发奖的，请登录这个地址查看并提交信息http://bbs.8783.com/thread-83442-1-1.html。</span><br />
+<span></span><br />
+<span></span>
+		    		</div>
+	   			</div>   
+			</div>
+    	</div>
+	<!--首页公共底部模板开始--> 
+		<!--#include virtual="/list/bgzg_index_foot.shtml"-->
+	<!--首页公共底部模板结束-->
+	</div>
+</body>
+</html>

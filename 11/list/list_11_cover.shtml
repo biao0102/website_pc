@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="《冠军11人》巴西世界杯第一正版授权足球卡牌手游__冠军11人官网" />
+    <meta name="description" content="冠军11人，冠军11人官网， 冠军11人下载，冠军11人礼包，冠军11人攻略，冠军11人安卓版， 冠军11人ios版，巴西世界杯第一足球卡牌手游" />
+    <title>《冠军11人》官方网站</title>
+    <link href="http://js.feiliu.com/static/11/style/master.css?v=3450" rel="stylesheet" type="text/css" />
+<!--<script type="text/javascript" src="http://js.feiliu.com/static/11/js/is_mobile.js"></script>-->
+    <script type="text/javascript" src="http://js.feiliu.com/static/11/js/jquery1.6.4.js"></script>
+    <script type="text/javascript" src="http://js.feiliu.com/static/11/js/video.js"></script>
+	<script type="text/javascript" src="http://js.feiliu.com/static/11/js/11.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            addSWF('http://js.feiliu.com/static/11/swf/cover.swf', 'flash_cover', '1920', '100%');
+            addPreviewVideo('video_box', 300, 180, { source: 'http://media101.wanmei.com/media/zhuxian2/201401/cover140118ws.flv', wmode: 'opaque' }, { source: 'http://media101.wanmei.com/media/zhuxian2/201309/zx3_cg.flv', wmode: 'opaque' });
+            $("#video_box_btn").click(function () {
+                $(this).hide();
+                addPreviewVideo('video_box', 163, 113, { source: 'http://media101.wanmei.com/media/zhuxian2/201309/zx3_cg.flv', wmode: 'opaque' });
+            });
+			initFlashPosition();
+        });
+        function initFlashPosition() {
+            var oBox = $("#flash_cover_box");
+            var fWinWidth = 1000;
+            function setFlashPosition() {
+                fWinWidth = $(window).width();
+                if (fWinWidth < 1000) { fWinWidth = 1000; }
+                oBox.css("left", (fWinWidth - 1920) / 2 + "px");
+            }
+            $(window).resize(function () {
+                setFlashPosition();
+            });
+            setFlashPosition();
+        }
+    </script>
+</head>
+<body>
+	<!--公共头部导航开始-->
+		<!--#include virtual="/list/index_11_nav.shtml"-->
+	<!--公共头部导航结束-->
+    <div class="wrap cover_wrap">
+		<div class="flash_cover">
+            <div id="flash_cover_box" class="flash_cover_box"><div id="flash_cover"></div></div>
+        </div>
+        <div class="content">
+            <div class="cover_content_kong">
+                <div class="cover_index">
+                    <a href="http://11.feiliu.com/main.shtml">进入官网</a>
+                    <span> </span>
+                </div>
+			<div class="video_box">
+                    <div id="video_box"></div>
+                    <a href="javascript:void(0);" id="video_box_btn"></a>
+                </div>
+            </div>
+            <div class="cover_main clearfix">
+                <ul class="cover_main_l">
+                    <li><a href="http://11.feiliu.com/20140513/20660.shtml" target="_blank">
+                        <img src="http://i0.feiliu.com/201405/14/14d824a3887e63e188904b4f3c5cb40c.jpg" alt="" /></a></li>
+                    <li><a href="#" target="_blank">
+                        <img src="http://js.feiliu.com/static/11/images/280144.jpg" alt="" /></a></li>
+                </ul>
+                <div class="cover_main_r">
+					<div>
+						 <ul class="cover_down clearfix">
+							<li class="btn01">
+								<a href="#">App下载</a>
+							 </li>
+							<li class="btn02">
+						  <a href="#">越狱版下载</a></li>
+							<li class="btn03">
+							<a href="#">安卓版下载</a></li>
+						</ul>
+					</div>
+					<div><img src="http://js.feiliu.com/static/11/images/th.jpg?v=1" width="688" height="230"></div>  
+
+<!--
+                    <ul class="cover_down clearfix">
+                        <li class="btn01">
+                            <a href="#">App下载</a>
+                            <em><img src="http://js.feiliu.com/static/11/images/erweima.jpg?v=1" alt="" /></em>
+                            <span>扫描二维码下载IOS正版</span>
+                        </li>
+                        <li class="btn02">
+                            <a href="#">越狱版下载</a>
+                            <em><img src="http://js.feiliu.com/static/11/images/erweima.jpg?v=1" alt="" /></em>
+                            <span>扫描二维码下载越狱版</span>
+                        </li>
+                        <li class="btn03">
+                            <a href="#">安卓版下载</a>
+                            <em><img src="http://js.feiliu.com/static/11/images/erweima.jpg?v=1" alt="" /></em>
+                            <span>扫描二维码下载安卓版</span>
+                        </li>
+                    </ul>
+-->
+                </div>
+            </div>
+        </div>
+    </div>
+	<!--公共底部开始-->
+        <!--#include virtual="/list/index_11_footer.shtml"-->
+	<!--公共底部结束-->
+<div style="display:none;">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5902670'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/stat.php%3Fid%3D5902670' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!--头部公共引用文件模板start-->
+	<!--#include virtual="/list/index_ttdqy_comfile.shtml"-->
+<!--头部公共引用文件模板end-->
+<body>
+<div id="wrap">
+	<div id="main">
+	<div class="main-wrap">
+		<!--导航模板start-->
+			<!--#include virtual="/list/list_ttdqy_colnav.shtml"-->
+		<!--导航模板end-->
+		<!--下载模板start-->
+			<!--#include virtual="/list/list_ttdqy_down.shtml"-->
+		<!--下载模板end-->
+		<div id="data-center">
+			<div class="news-title">
+				<div class="news-title-left">新闻列表页</div>
+			</div>
+			<div class="centerwrap1">
+				<div class="position">
+										<span>您的位置：</span><a href="http://ttdqy.feiliu.com">首页</a>—<a href="http://ttdqy.feiliu.com/list/list_ttdqy_news.shtml">新闻</a>
+									</div>
+				<div class="content">功课压力大？工作太无聊？<br />
+给自己一个放松的间隙，穿越回金戈铁马的三国时代，来一场担纲主角的英雄梦！飞流旗下首款群战策略卡牌手游《天天逗群英》颠覆传统玩法，可单挑可群P，经典战役尽收掌上，满足你的全部想象！<br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117183543_25927.jpg" /><br />
+【武将养成，狭路相逢勇者胜】<br />
+拒绝性格缺陷，亲手掌控命运，武将养成系统让你逐步培养出想象中的三国英雄！再现单机版三国群英传的经典战斗方式，是勇往直前一骑当千，还是发动独家群杀技能将敌军席卷碾压？战场波诡云谲，选择克敌的武将可以将战事完成逆转，士兵们已经就位，身为指挥官的你可有运筹帷幄的出色能力？<br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117183559_58978.jpg" /><br />
+【全屏群战，阵法相克乐趣多】<br />
+真正的战争不是发生在两员猛将之间的，战场上遮天蔽日的大军才是胜负的关键，那种1V1的战斗已经过时，全屏100V100才是王道！《天天逗群英》独创多种兵种阵法，兵种有相克，阵法有加成，堆尸惨胜不算英雄，谈笑间樯橹灰飞烟灭才是三国王者！不过，可要小心乐极生悲，敌方将领的清兵技能也不是吃素的哦！<br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117183615_39917.jpg" /><br />
+【经典战役，活动奖品爽翻天】<br />
+既然穿越回三国，怎能不在那些历史书上的战役里掺一脚？帮诸葛亮七擒孟获，陪赵云决战长坂坡，遇到董卓千万别客气，大量元宝、水晶、游戏币等你来领取！更有“桃园结义”亲友系统，推荐小伙伴一起游戏，朋友获得的战利品也有你一份！同富贵共战斗，三国精彩尽在指尖！<br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117183635_96779.jpg" /><br />
+【多重精彩，好友交互闯三国】<br />
+三国的精彩不仅在战场上，开疆拓土、群雄争霸，样样都要争个高下！打出自己的封地，定期“收租”；天梯竞技场挑战，看谁是三国第一猛将；好友系统和复仇系统让你认识更多近在身边的小伙伴！<br /><img alt="" src="http://i0.feiliu.com/image/20141117/20141117183651_33274.jpg" /><br />
+英雄就来战场，穿越就回三国！从策略的头脑风暴到战斗的之间拼杀，《天天逗群英》满足你关于热血的全部想象！</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+<!--底部模板start-->
+	<!--#include virtual="/list/index_ttdqy_footer.shtml"-->
+<!--底部模板end-->
+</body>
+</html>

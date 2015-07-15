@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<title>三国战神官网_新手攻略</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="baidu-site-verification" content="1e97681f3a9ee5687c5eb88d7b879dd8"/>
+<link rel="stylesheet" type="text/css" href="http://js.feiliu.com/static/zs/css/page_detail.css?v=245f5">
+<script type="text/javascript">
+	var tagArray = ["header","nav","article","footer","sidebar","time"];for(var i = 0; i < tagArray.length; i++){document.createElement(tagArray[i]);}
+</script>
+</head>
+<body>
+<div class="bg01">
+    <div class="bg02"> 
+	<div class="warp">
+	<!--首页头部导航模板开始-->
+		<!--#include virtual="/list/index_zs_topnav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+	<!--列表页头部背景图模板开始-->
+		<!--#include virtual="/list/list_zs_showbg.shtml"-->
+	<!--列表页头部背景图模板结束-->
+        	<div id="content">
+                <div class="cnt-box">
+                    <div class="cnt-inner">
+													<h1 class="ctn-title">新闻资讯</h1>
+							<div class="curLocation">
+								你的位置：<a href="#" target="_blank" class="tohome">首页</a>&gt;<span>资讯</span>
+							</div>
+							<div class="nrarea">
+								<article id="article">
+									<h1 class="w-t">善用双倍符升级快 《三国战神》实用技巧分享</h1>
+									<div class="aside">
+										时间：<span class="time" id="time">2014-07-03 11:44:35</span>
+																			</div>
+									<div class="w-d">
+										【快速升级 双倍速度】<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140703/20140703113939_40861.jpg" /><br />
+<br />
+　　由于体力的限制，所以如果不买战令的话，经验上很难拉开很大的差距，除了参与完所有能参与的活动外，关键就看双倍经验符如何使用了。双倍经验符只有30分钟的生效时间，并且只有打怪的经验双倍，任务奖励的经验是没有双倍的。游戏里刷怪效率最高的副本就是【千里走单骑】，怪物又多又弱，虽然单个怪的经验不高，但是效率很高！所以每天刷【千里走单骑】的时候必吃双倍，刷的越快越好。这样升级最快！<br />
+<br />
+【快速刷铜钱 双倍收获】<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140703/20140703114144_37500.jpg" /><br />
+<br />
+　　《三国战神》根据典故推出了新颖独特的玩法，众所周知，游戏的本体为ARPG国战手游，但本体却与ARPG完全不同，转换成了休闲类游戏的玩法，并且可以获得大量的铜钱，如何搭配双倍经验符实用，可以获得双倍的铜钱。<br />
+<br />
+　　草船借箭全天开放，玩家达到26级即可参加，每天可开启的次数为5次，每次活动时间为1分钟。游戏中玩家操纵草船，从漫天的箭雨中接收敌人的箭，值得注意的是，敌人射来的不光有箭矢，还有火球。当然，火球会给草船带来一定的伤害，所以看到火球一定要规避。玩家截获的箭矢越多，可以兑换的铜钱越多。<br />
+<br />
+【双倍不易 且用且珍惜】<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140703/20140703114252_34085.jpg" /><br />
+<br />
+　　双倍只有任务和活动才能获得，所以数量很有限，大家珍惜点用吧，最好30分钟都在打怪，升级就会更快。而其他经验值高活动时间又接近30分钟的就特别适合双倍经验。所以双倍经验符的使用需要灵活，尽量选择能保证安全最大化输出同时又是获取最多经验的活动。<br />
+<br />
+　　俗话说，好钢要用到刃上，双倍经验符获取不易，一定要收益最大化，让你快速获取经验和铜钱，快速跃进高等级！<br />
+<br />
+<br />
+<br />
+<br />
+<br /><img alt="" src="http://i0.feiliu.com/image/20140703/20140703114513_75850.jpg" /><span style="display:none;" id="__kindeditor_bookmark_start_14__"></span>
+									</div>
+								</article>
+							</div>
+						                    </div>
+                </div>
+                <!--<div class="cnt-zsr"></div>-->
+            </div>
+        <!--列表页侧边栏模板开始-->
+			<!--#include virtual="/list/list_zs_leftbar.shtml"-->
+		<!--列表页侧边栏模板结束-->
+		<!--公共底部开始--> 	
+			<!--#include virtual="/list/index_zs_footer.shtml"-->
+		<!--公共底部结束-->
+    </div>
+  </div>
+</div>
+	
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/zs/js/global-min.js"></script>
+</body>
+
+</html>

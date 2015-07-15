@@ -1,0 +1,15 @@
+<div class="newscon fltt th rel">
+	<a href="http://ysg.feiliu.com/list/bgzg_list_allcol.shtml" class="more">more</a>
+	<!--首页全部栏目模板开始--> 
+		<!--#include virtual="/list/bgzg_index_allcol.shtml"-->
+	<!--首页全部栏目模板结束-->
+	<!--首页公告栏目模板开始--> 
+		<!--#include virtual="/list/bgzg_index_ggcol.shtml"-->
+	<!--首页公告栏目模板结束-->
+	<!--首页活动栏目模板开始--> 
+		<!--#include virtual="/list/bgzg_index_hdcol.shtml"-->
+	<!--首页活动栏目模板结束-->
+	<!--首页媒体栏目模板开始--> 
+		<!--#include virtual="/list/bgzg_index_mtcol.shtml"-->
+	<!--首页媒体栏目模板结束-->
+</div>

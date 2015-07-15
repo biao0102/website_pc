@@ -1,0 +1,26 @@
+	<div class="focus minwidth">
+		<div id="header" class="minwidth">
+			<div id="slideshow"> 
+				<img class="prev" src="http://js.feiliu.com/static/zyzn/web/images/bt-prev.png" alt="Previous" /> 
+				<img class="next" src="http://js.feiliu.com/static/zyzn/web/images/bt-next.png" alt="Next" />
+				<ul>
+					<li> 
+						<img class="balloon animate-in" src="http://js.feiliu.com/static/zyzn/web/images/renwu03.png" alt="renwu01" />
+						<div class="info animate-in"> <img src="http://js.feiliu.com/static/zyzn/web/images/bigbg03.png?v=3"> </div>
+					</li>
+					<li> 
+						<img class="balloon" src="http://js.feiliu.com/static/zyzn/web/images/renwu02.png" alt="renwu02" />
+						<div class="info"> <img src="http://js.feiliu.com/static/zyzn/web/images/bigbg02.png"> </div>
+					</li>
+					<li> 
+						<img class="balloon01" src="http://js.feiliu.com/static/zyzn/web/images/renwu01.png" alt="renwu03" />
+						<div class="info"> <img src="http://js.feiliu.com/static/zyzn/web/images/bigbg01.png"> </div>
+					</li>
+					<li> 
+						<img class="balloon" src="http://js.feiliu.com/static/zyzn/web/images/renwu04.png" alt="renwu04" />
+						<div class="info"> <img src="http://js.feiliu.com/static/zyzn/web/images/bigbg01.png"> </div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>

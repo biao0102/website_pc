@@ -1,0 +1,7 @@
+    <div class="navcon"> 
+      <a href="http://zyzn.feiliu.com" class="navrg wihte f16 tm"><img src="http://js.feiliu.com/static/zyzn/web/images/sp01.png"><span></span>官网首页</a><!--
+      --><a href="http://zyzn.feiliu.com/list/zyzn_list_feature.shtml" class="navrg wihte f16 tm"><img src="http://js.feiliu.com/static/zyzn/web/images/sp02.png"><span></span>游戏特色</a><!--
+      --><a href="http://zyzn.feiliu.com/list/zyzn_profession_manniu.shtml" class="navrg wihte f16 tm"><img src="http://js.feiliu.com/static/zyzn/web/images/sp03.png"><span></span>职业介绍</a><!--
+      --><a href="http://zyzn.feiliu.com/list/zyzn_activity.shtml" class="navrg wihte f16 tm"><img src="http://js.feiliu.com/static/zyzn/web/images/sp04.png"><span></span>内测活动</a><!--
+      --><a href="http://bbs.8783.com/forum-159-1.html" target="_blank" class="navlast wihte f16 tm"><img src="http://js.feiliu.com/static/zyzn/web/images/sp05.png"><span></span>内测论坛</a>
+    </div>

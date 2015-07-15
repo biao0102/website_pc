@@ -1,0 +1,15 @@
+<div class="dialog_right" id="dialog_right">
+        <a href="javascript:;" class="close" id="dialog_close">close</a>
+        <div class="dialog_btn" id="dialog_btn"></div>
+        <div class="dialog_box" id="dialog_box">
+            <ul class="dialog_erweima">
+                <li class="btn01">
+                    <img src="http://js.feiliu.com/static/flg/images/qr_ios.jpg" alt="" /></li>
+                <li class="btn02">
+                    <img src="http://js.feiliu.com/static/flg/images/qr_android.jpg" alt="" /></li>
+                <li class="btn03">
+                    <img src="http://js.feiliu.com/static/flg/images/qr_yy.jpg" alt="" /></li>
+                <li class="btn04"><a href="#"> </a></li>
+            </ul>
+        </div>
+    </div>

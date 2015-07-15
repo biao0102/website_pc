@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>玩法介绍-冒险玩法 完美武侠_新闻</title>
+<link href="http://js.feiliu.com/static/wmwx/css/main.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="http://js.feiliu.com/static/wmwx/js/jquery1.6.4.js"></script>
+</head>
+<body class="inner">
+<div class="header">
+	<div class="wrap">
+		<a class="logo" href="http://www.feiliu.com" title="飞流官网"><img src="http://js.feiliu.com/static/wmwx/images/logo.png" alt="飞流官网" /></a>
+        <span class="game-select"></span>
+    </div>
+</div>
+<div class="sec1">
+
+	<!--首页头部导航模板开始-->	
+		<!--#include virtual="/list/index_wmwx_nav.shtml"-->
+	<!--首页头部导航模板结束-->
+	
+</div>
+<div class="sec2">
+	<div class="wrap-main main">
+	
+		<!--首页左侧边栏模板开始-->	
+			<!--#include virtual="/list/index_wmwx_leftbar.shtml"-->
+		<!--首页左侧边栏模板结束-->
+		
+        <div class="content">
+        	<div class="article-header">
+            	<h1>玩法介绍-冒险玩法</h1>
+                <time>2014-06-11</time>
+            </div>
+            <div class="article-content">
+            	冒险（PVE）是少侠提升卡牌等级的唯一途径，通过一章章精彩的冒险进行江湖历练，从而达到天下豪杰共瞻的绝世地位，现在小虾米就是少侠说说关于冒险的一些江湖传闻吧！<br />
+<br />
+冒险界面介绍：<br />
+<br />
+点击主页“冒险”键，进入冒险模式。在冒险过程中玩家会遭遇NPC、其它玩家、活动NPC等战役。<br />
+温馨提示：<br />
+1、冒险会消耗体力，每行动一格消耗一点体力<br />
+2、当体力消耗至0时，将不能进行冒险（PVE）<br />
+3、体力每5分钟恢复一点<br />
+<br />
+冒险准备介绍：<br />
+<br />
+进入冒险页面后，玩家需要先进行关卡选择，再进入队伍配置，最后点击开始冒险即可<br />
+温馨提示：<br />
+1、冒险过程中在章节没有结束前不可变更队伍阵型。<br />
+2、冒险过程中可以替换替补卡牌进行战斗<br />
+3、冒险过程中死亡的对象需要使用复活药进行复活，才可继续战斗，如不复活将由替补卡牌替换。<br />
+<div >
+	<br />
+</div>
+			</div>
+        </div>
+	</div>
+</div>
+<div class="sec3">
+
+	<!--首页底部版权模板开始-->	
+        <!--#include virtual="/list/index_wmwx_footer.shtml"-->
+	<!--首页底部版权模板结束-->
+	
+</div>
+
+	<!--首页右侧浮动下载框模板开始-->	
+        <!--#include virtual="/list/index_wmwx_down.shtml"-->
+	<!--首页右侧浮动下载框模板结束-->
+	
+<script type="text/javascript">
+$(function(){
+	$.support.fixed = !document.all || document.all && document.compatMode == "CSS1Compat" && window.XMLHttpRequest;
+	if(!$.support.fixed){
+		$wnd = $(window);
+		$floatBar = $('.float-bar');
+		$floatBar.css({
+			position: "absolute"
+		});
+		$(window).scroll(function(){
+			var scrolls = $wnd.scrollTop();
+            $floatBar.css({
+                top: scrolls + $(window).height() - 540
+            });
+		});
+	}
+});
+</script>
+</body>
+</html>

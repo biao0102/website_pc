@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+<link href="http://js.feiliu.com/static/tk/web/css/tkfyindex.css?v=11" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://cdnpush.feiliu.com/uploadimage/flgame/flgame.css" />
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/indexjs.js"></script>
+<script type="text/javascript" src="http://js.feiliu.com/static/tk/web/scripts/public.js"></script>
+</head>
+<body>
+<!--战地坦克首页下载悬浮窗模板start-->
+  <!--#include virtual="/list/index_tk_xfdown.shtml"-->
+<!--战地坦克首页下载悬浮窗模板end-->
+
+<!--战地坦克首页头部导航模板start-->
+  <!--#include virtual="/list/index_tk_nav.shtml"-->
+<!--战地坦克首页头部导航模板end-->
+<div class="containsub">
+  <div class="containbgsub">
+    <div class="con1000">
+      <div class="boxx">
+        <div class="sunconLeft">
+            <!--战地坦克首页左侧下载模板start-->
+              <!--#include virtual="/list/index_tk_down.shtml"-->
+            <!--战地坦克首页左侧下载模板end-->
+
+            <!--战地坦克首页左侧微信模板start-->
+              <!--#include virtual="/list/index_tk_weixin.shtml"-->
+            <!--战地坦克首页左侧微信模板end--> 
+        </div>
+        <div class="sunconright">
+          <div class="topbg">
+            <h2>新闻资讯</h2>
+            <span class="toptxt02">当前位置：<a href="http://tk.feiliu.com/">首页</a> > <a href="http://tk.feiliu.com/list/list_tk_allcol.shtml">新闻</a></span> </div>
+          <!--gmcon start -->
+          <div class="gmcon">
+            <!--infotxt start -->
+            <div class="infotxt">
+              <div class="infotitle">《坦克风云》经典豹式坦克重现库尔斯克战役</div>
+              <div class="textTime">
+                <span style="float:left; width:80px; padding-left:120px;">2014-04-04</span>
+                <span style="width:400px; float:right;">
+                  <div class="bshare-custom">
+                    <a title="分享到QQ空间" class="bshare-qzone"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+                    <a title="分享到人人网" class="bshare-renren"></a>
+                    <a title="分享到腾讯微博" class="bshare-qqmb"></a>
+                    <a title="分享到网易微博" class="bshare-neteasemb"></a>
+                    <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+                    <span class="BSHARE_COUNT bshare-share-count">0</span>
+                  </div>
+                  <script src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript" charset="utf-8"></script>
+                  <script src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript" charset="utf-8"></script>
+                </span>
+              </div>
+
+              许多军事迷对二战中苏德最惨烈的库尔斯克战役一定不会陌生，德国的豹式坦克更是从此一战成名。由雷尚科技研发、FL Mobile（飞流）代理发行的首款坦克军团对战手游《坦克风云》不仅收录了豹式坦克，还能让玩家完美再现库尔斯克战役的战术战略。《坦克风云》即将迎来铁血内测，让我们一起重新回到战火纷飞的二战战场，用自己的坦克军团改写历史吧！<br />
+<br />
+<br />
+欢迎访问游戏官网：http://tk.feiliu.com/<br />
+点击下载ios版：http://tk.feiliu.com/count/download.php?type=8&amp;ismobile=1&amp;source=news<br />
+点击下载ios越狱版：http://tk.feiliu.com/count/download.php?type=2&amp;ismobile=1&amp;source=news<br />
+<div >
+	<br /><img src="http://i0.feiliu.com/image/20140404/20140404100441_71393.jpg" alt="" /><br />
+【收录百款二战经典主战坦克】<br />
+《坦克风云》无论在登场坦克种类还是战术战略玩法上，都完美再现了二战时期最经典的苏德坦克大战——德军鼠式重型坦克、豹式坦克、虎王坦克、等等百款军事迷耳熟能详的经典战车，均收录于游戏中。库尔斯克战役中，德军的豹式坦克以超远的攻击距离，轻松击败了大量苏联红军的T-34坦克和T-70坦克，从此一战成名，成为了二战中最经典的坦克之一。<br />
+	<div >
+		<br /><img src="http://i0.feiliu.com/image/20140404/20140404100530_88411.jpg" alt="" /><br /><img src="http://i0.feiliu.com/image/20140404/20140404100545_45376.jpg" alt="" /><br />
+【改写库尔斯克战役】<br />
+二战时期面对苏联红军坚不可摧的防御工事，德军发动了最著名的“库尔斯克战役”，以中央集团军群和南方集团军群联合发动钳形攻势摧毁在库尔斯克突出部的苏联军队。《坦克风云》中玩家同样可以分批派遣自己的精英师团，多面协同作战共同进攻世界地图上任何一名玩家。而遭受攻击的玩家同样可以像朱可夫、曼施坦因等苏德指挥官一样，选择在对方立足时发动突然进攻，还是防御敌人先行进攻，待其疲惫后，再大军反攻。丰富多彩的战术战略，让你改写库尔斯克战役的结局。<br />
+		<div >
+			<br />
+		</div><img src="http://i0.feiliu.com/image/20140404/20140404100614_34775.jpg" alt="" /><br />
+【多兵种协同作战】<br />
+库尔斯克战役可以被称作是最著名的机械化师团协同作战，双方无论进攻还是防守，都由坦克、火炮、歼击车、火箭车等多种装甲战车配合进行。在《坦克风云》中你同样需要协同指挥旗下种类功能各异的战车部队，相互配合发挥出军团真正的作战能力。游戏中只有近战、远程、单体、群体多样搭配，才能真正在战场上叱咤风云。<br />
+。<br /><img src="http://i0.feiliu.com/image/20140404/20140404100644_39280.jpg" alt="" /><br />
+<br />
+指挥各国主战坦克集团撕裂对手防线，体验爽快硬派的机械化战争。更多详细情报欢迎访问游戏官网：http://tk.feiliu.com/，《坦克风云》即将开启铁血内测，坦克大战 一触即发。<br />
+		<div ><img src="http://i0.feiliu.com/image/20140404/20140404100701_15261.jpg" alt="" /><br />
+		</div>
+<br />
+	</div>
+<br />
+</div>
+
+            </div>
+          </div>
+          <div><img src="http://js.feiliu.com/static/tk/web/images/subbt.png" /></div>
+        </div>
+        <div class="clear"></div>
+        <!--战地坦克列表页底部模板start-->
+          <!--#include virtual="/list/list_tk_footer.shtml"-->
+        <!--战地坦克列表页底部模板end-->
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
